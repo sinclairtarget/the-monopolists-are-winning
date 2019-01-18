@@ -1,0 +1,522 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,56,Administrative and support and waste management and remediation services,001,All firms,2012,386387,673036536,100.0,329013077,78774951,9774262
+0100000US,,United States,56,Administrative and support and waste management and remediation services,804,4 largest firms,2012,1697,53348499,7.9,36766461,9106769,520557
+0100000US,,United States,56,Administrative and support and waste management and remediation services,808,8 largest firms,2012,6327,78708434,11.7,50923846,12561345,869680
+0100000US,,United States,56,Administrative and support and waste management and remediation services,820,20 largest firms,2012,13316,112229617,16.7,73570323,18171550,1576520
+0100000US,,United States,56,Administrative and support and waste management and remediation services,850,50 largest firms,2012,21506,159203518,23.7,97650619,24015343,2298159
+0100000US,,United States,561,Administrative and support services,001,All firms,2012,363188,593837306,100.0,311056595,74266781,9405895
+0100000US,,United States,561,Administrative and support services,804,4 largest firms,2012,1135,50388586,8.5,40877503,9998057,616437
+0100000US,,United States,561,Administrative and support services,808,8 largest firms,2012,6016,65580807,11.0,51895075,12700979,972238
+0100000US,,United States,561,Administrative and support services,820,20 largest firms,2012,11663,96802415,16.3,72113160,17689848,1589546
+0100000US,,United States,561,Administrative and support services,850,50 largest firms,2012,18737,140566970,23.7,96185603,23573975,2275675
+0100000US,,United States,5611,Office administrative services,001,All firms,2012,31396,43421286,100.0,20454669,4985849,383712
+0100000US,,United States,5611,Office administrative services,804,4 largest firms,2012,210,921791,2.1,340744,127464,3008
+0100000US,,United States,5611,Office administrative services,808,8 largest firms,2012,348,1658736,3.8,591290,197707,5944
+0100000US,,United States,5611,Office administrative services,820,20 largest firms,2012,523,3135669,7.2,1191176,351617,21228
+0100000US,,United States,5611,Office administrative services,850,50 largest firms,2012,753,5287043,12.2,2305338,611961,33399
+0100000US,,United States,56111,Office administrative services,001,All firms,2012,31396,43421286,100.0,20454669,4985849,383712
+0100000US,,United States,56111,Office administrative services,804,4 largest firms,2012,210,921791,2.1,340744,127464,3008
+0100000US,,United States,56111,Office administrative services,808,8 largest firms,2012,348,1658736,3.8,591290,197707,5944
+0100000US,,United States,56111,Office administrative services,820,20 largest firms,2012,523,3135669,7.2,1191176,351617,21228
+0100000US,,United States,56111,Office administrative services,850,50 largest firms,2012,753,5287043,12.2,2305338,611961,33399
+0100000US,,United States,561110,Office administrative services,001,All firms,2012,31396,43421286,100.0,20454669,4985849,383712
+0100000US,,United States,561110,Office administrative services,804,4 largest firms,2012,210,921791,2.1,340744,127464,3008
+0100000US,,United States,561110,Office administrative services,808,8 largest firms,2012,348,1658736,3.8,591290,197707,5944
+0100000US,,United States,561110,Office administrative services,820,20 largest firms,2012,523,3135669,7.2,1191176,351617,21228
+0100000US,,United States,561110,Office administrative services,850,50 largest firms,2012,753,5287043,12.2,2305338,611961,33399
+0100000US,,United States,5612,Facilities support services,001,All firms,2012,5880,25442305,100.0,10696813,2703221,257123
+0100000US,,United States,5612,Facilities support services,804,4 largest firms,2012,102,6524345,25.6,2509714,674338,67091
+0100000US,,United States,5612,Facilities support services,808,8 largest firms,2012,2111,9713935,38.2,4015126,1046484,106193
+0100000US,,United States,5612,Facilities support services,820,20 largest firms,2012,2737,14786199,58.1,5985578,1536716,146030
+0100000US,,United States,5612,Facilities support services,850,50 largest firms,2012,3272,17986583,70.7,7317802,1872530,175255
+0100000US,,United States,56121,Facilities support services,001,All firms,2012,5880,25442305,100.0,10696813,2703221,257123
+0100000US,,United States,56121,Facilities support services,804,4 largest firms,2012,102,6524345,25.6,2509714,674338,67091
+0100000US,,United States,56121,Facilities support services,808,8 largest firms,2012,2111,9713935,38.2,4015126,1046484,106193
+0100000US,,United States,56121,Facilities support services,820,20 largest firms,2012,2737,14786199,58.1,5985578,1536716,146030
+0100000US,,United States,56121,Facilities support services,850,50 largest firms,2012,3272,17986583,70.7,7317802,1872530,175255
+0100000US,,United States,561210,Facilities support services,001,All firms,2012,5880,25442305,100.0,10696813,2703221,257123
+0100000US,,United States,561210,Facilities support services,804,4 largest firms,2012,102,6524345,25.6,2509714,674338,67091
+0100000US,,United States,561210,Facilities support services,808,8 largest firms,2012,2111,9713935,38.2,4015126,1046484,106193
+0100000US,,United States,561210,Facilities support services,820,20 largest firms,2012,2737,14786199,58.1,5985578,1536716,146030
+0100000US,,United States,561210,Facilities support services,850,50 largest firms,2012,3272,17986583,70.7,7317802,1872530,175255
+0100000US,,United States,5613,Employment services,001,All firms,2012,47719,238937256,100.0,172045324,40866550,4927823
+0100000US,,United States,5613,Employment services,804,4 largest firms,2012,1126,50321054,21.1,40870032,9996313,616278
+0100000US,,United States,5613,Employment services,808,8 largest firms,2012,5428,65092000,27.2,53323763,13168641,907227
+0100000US,,United States,5613,Employment services,820,20 largest firms,2012,9535,90593936,37.9,72482859,17705243,1566774
+0100000US,,United States,5613,Employment services,850,50 largest firms,2012,11884,114198374,47.8,87427500,21260754,2003745
+0100000US,,United States,56131,Employment placement agencies and executive search services,001,All firms,2012,12209,16231988,100.0,8224456,1933686,199886
+0100000US,,United States,56131,Employment placement agencies and executive search services,804,4 largest firms,2012,307,2573198,15.9,1212020,280609,21551
+0100000US,,United States,56131,Employment placement agencies and executive search services,808,8 largest firms,2012,356,3559495,21.9,1868297,444205,27347
+0100000US,,United States,56131,Employment placement agencies and executive search services,820,20 largest firms,2012,523,5169997,31.9,2631695,647870,56290
+0100000US,,United States,56131,Employment placement agencies and executive search services,850,50 largest firms,2012,638,6561494,40.4,3336255,829659,73493
+0100000US,,United States,561311,Employment placement agencies,001,All firms,2012,6058,10525968,100.0,5473256,1304027,166660
+0100000US,,United States,561311,Employment placement agencies,804,4 largest firms,2012,298,2492054,23.7,1184317,281285,24001
+0100000US,,United States,561311,Employment placement agencies,808,8 largest firms,2012,385,3254114,30.9,1627462,400087,46367
+0100000US,,United States,561311,Employment placement agencies,820,20 largest firms,2012,455,4170424,39.6,2115367,519514,59839
+0100000US,,United States,561311,Employment placement agencies,850,50 largest firms,2012,575,5160940,49.0,2606964,640659,74047
+0100000US,,United States,561312,Executive search services,001,All firms,2012,6151,5706020,100.0,2751200,629659,33226
+0100000US,,United States,561312,Executive search services,804,4 largest firms,2012,56,1023820,17.9,581266,150889,2133
+0100000US,,United States,561312,Executive search services,808,8 largest firms,2012,96,1450254,25.4,789502,202609,4853
+0100000US,,United States,561312,Executive search services,820,20 largest firms,2012,161,1860877,32.6,1002712,252592,6408
+0100000US,,United States,561312,Executive search services,850,50 largest firms,2012,210,2244195,39.3,1208909,295903,9179
+0100000US,,United States,56132,Temporary help services,001,All firms,2012,31385,120088765,100.0,80913654,19143819,2892642
+0100000US,,United States,56132,Temporary help services,804,4 largest firms,2012,5712,16846831,14.0,12099121,3033638,459091
+0100000US,,United States,56132,Temporary help services,808,8 largest firms,2012,8536,26008960,21.7,18853868,4669475,670504
+0100000US,,United States,56132,Temporary help services,820,20 largest firms,2012,10653,41098985,34.2,29539168,7219870,944877
+0100000US,,United States,56132,Temporary help services,850,50 largest firms,2012,12318,52522607,43.7,36942182,8941529,1143272
+0100000US,,United States,561320,Temporary help services,001,All firms,2012,31385,120088765,100.0,80913654,19143819,2892642
+0100000US,,United States,561320,Temporary help services,804,4 largest firms,2012,5712,16846831,14.0,12099121,3033638,459091
+0100000US,,United States,561320,Temporary help services,808,8 largest firms,2012,8536,26008960,21.7,18853868,4669475,670504
+0100000US,,United States,561320,Temporary help services,820,20 largest firms,2012,10653,41098985,34.2,29539168,7219870,944877
+0100000US,,United States,561320,Temporary help services,850,50 largest firms,2012,12318,52522607,43.7,36942182,8941529,1143272
+0100000US,,United States,56133,Professional employer organizations,001,All firms,2012,4125,102616503,100.0,82907214,19789045,1835295
+0100000US,,United States,56133,Professional employer organizations,804,4 largest firms,2012,132,44729130,43.6,37986966,9329234,575916
+0100000US,,United States,56133,Professional employer organizations,808,8 largest firms,2012,184,54691228,53.3,46347478,11348572,705653
+0100000US,,United States,56133,Professional employer organizations,820,20 largest firms,2012,245,64343368,62.7,52754615,12842305,919474
+0100000US,,United States,56133,Professional employer organizations,850,50 largest firms,2012,371,74725711,72.8,60874432,14719233,1163173
+0100000US,,United States,561330,Professional employer organizations,001,All firms,2012,4125,102616503,100.0,82907214,19789045,1835295
+0100000US,,United States,561330,Professional employer organizations,804,4 largest firms,2012,132,44729130,43.6,37986966,9329234,575916
+0100000US,,United States,561330,Professional employer organizations,808,8 largest firms,2012,184,54691228,53.3,46347478,11348572,705653
+0100000US,,United States,561330,Professional employer organizations,820,20 largest firms,2012,245,64343368,62.7,52754615,12842305,919474
+0100000US,,United States,561330,Professional employer organizations,850,50 largest firms,2012,371,74725711,72.8,60874432,14719233,1163173
+0100000US,,United States,5614,Business support services,001,All firms,2012,33324,59694154,100.0,23315339,5912974,736892
+0100000US,,United States,5614,Business support services,804,4 largest firms,2012,2299,6526140,10.9,1952252,497101,79185
+0100000US,,United States,5614,Business support services,808,8 largest firms,2012,2515,10151877,17.0,3282667,898973,99693
+0100000US,,United States,5614,Business support services,820,20 largest firms,2012,2855,16019019,26.8,5384753,1419200,159048
+0100000US,,United States,5614,Business support services,850,50 largest firms,2012,3569,23074242,38.7,8011156,2081127,253875
+0100000US,,United States,56141,Document preparation services,001,All firms,2012,4600,3398501,100.0,1349321,323987,44018
+0100000US,,United States,56141,Document preparation services,804,4 largest firms,2012,108,904287,26.6,412059,97874,13982
+0100000US,,United States,56141,Document preparation services,808,8 largest firms,2012,120,1102220,32.4,487886,116003,16747
+0100000US,,United States,56141,Document preparation services,820,20 largest firms,2012,134,1359961,40.0,591241,141879,20432
+0100000US,,United States,56141,Document preparation services,850,50 largest firms,2012,206,1693040,49.8,696510,166914,23842
+0100000US,,United States,561410,Document preparation services,001,All firms,2012,4600,3398501,100.0,1349321,323987,44018
+0100000US,,United States,561410,Document preparation services,804,4 largest firms,2012,108,904287,26.6,412059,97874,13982
+0100000US,,United States,561410,Document preparation services,808,8 largest firms,2012,120,1102220,32.4,487886,116003,16747
+0100000US,,United States,561410,Document preparation services,820,20 largest firms,2012,134,1359961,40.0,591241,141879,20432
+0100000US,,United States,561410,Document preparation services,850,50 largest firms,2012,206,1693040,49.8,696510,166914,23842
+0100000US,,United States,56142,Telephone call centers,001,All firms,2012,5253,18865517,100.0,10354593,2629427,399545
+0100000US,,United States,56142,Telephone call centers,804,4 largest firms,2012,173,3761972,19.9,1471306,369957,73856
+0100000US,,United States,56142,Telephone call centers,808,8 largest firms,2012,292,5001609,26.5,2183516,542937,107347
+0100000US,,United States,56142,Telephone call centers,820,20 largest firms,2012,373,7223774,38.3,3142777,779102,145580
+0100000US,,United States,56142,Telephone call centers,850,50 largest firms,2012,615,10006102,53.0,4600534,1146034,204307
+0100000US,,United States,561421,Telephone answering services,001,All firms,2012,1466,1946345,100.0,902735,220063,36578
+0100000US,,United States,561421,Telephone answering services,804,4 largest firms,2012,22,467524,24.0,218070,51304,9851
+0100000US,,United States,561421,Telephone answering services,808,8 largest firms,2012,79,600300,30.8,266880,62783,11750
+0100000US,,United States,561421,Telephone answering services,820,20 largest firms,2012,93,860047,44.2,377421,92173,15259
+0100000US,,United States,561421,Telephone answering services,850,50 largest firms,2012,180,1156738,59.4,491485,120851,19324
+0100000US,,United States,561422,Telemarketing bureaus and other contact centers,001,All firms,2012,3787,16919172,100.0,9451858,2409364,362967
+0100000US,,United States,561422,Telemarketing bureaus and other contact centers,804,4 largest firms,2012,195,3594678,21.2,1417268,363276,71347
+0100000US,,United States,561422,Telemarketing bureaus and other contact centers,808,8 largest firms,2012,272,4705159,27.8,1985846,494433,96707
+0100000US,,United States,561422,Telemarketing bureaus and other contact centers,820,20 largest firms,2012,358,6924642,40.9,3003745,746050,140113
+0100000US,,United States,561422,Telemarketing bureaus and other contact centers,850,50 largest firms,2012,589,9618504,56.8,4381505,1095166,194287
+0100000US,,United States,56143,Business service centers,001,All firms,2012,10051,8102789,100.0,2157514,550492,71646
+0100000US,,United States,56143,Business service centers,804,4 largest firms,2012,2061,2607870,32.2,633375,163725,19275
+0100000US,,United States,56143,Business service centers,808,8 largest firms,2012,2273,3445387,42.5,947929,256194,26955
+0100000US,,United States,56143,Business service centers,820,20 largest firms,2012,2351,3909173,48.2,1063345,284111,29966
+0100000US,,United States,56143,Business service centers,850,50 largest firms,2012,2472,4351984,53.7,1186397,312916,33228
+0100000US,,United States,561431,Private mail centers,001,All firms,2012,4991,2328585,100.0,421935,104033,21762
+0100000US,,United States,561431,Private mail centers,804,4 largest firms,2012,226,314242,13.5,71180,18106,1836
+0100000US,,United States,561431,Private mail centers,808,8 largest firms,2012,230,396434,17.0,83513,21046,2347
+0100000US,,United States,561431,Private mail centers,820,20 largest firms,2012,261,506870,21.8,104060,25954,3145
+0100000US,,United States,561431,Private mail centers,850,50 largest firms,2012,316,629718,27.0,133455,33716,4252
+0100000US,,United States,561439,Other business service centers (including copy shops),001,All firms,2012,5060,5774204,100.0,1735579,446459,49884
+0100000US,,United States,561439,Other business service centers (including copy shops),804,4 largest firms,2012,1865,2481611,43.0,596646,154674,18021
+0100000US,,United States,561439,Other business service centers (including copy shops),808,8 largest firms,2012,2050,3277685,56.8,894665,242349,25415
+0100000US,,United States,561439,Other business service centers (including copy shops),820,20 largest firms,2012,2129,3656538,63.3,1013102,268817,28454
+0100000US,,United States,561439,Other business service centers (including copy shops),850,50 largest firms,2012,2198,3991796,69.1,1123461,296365,31371
+0100000US,,United States,56144,Collection agencies,001,All firms,2012,4654,12379387,100.0,4615566,1159901,129920
+0100000US,,United States,56144,Collection agencies,804,4 largest firms,2012,140,1879854,15.2,517165,138745,17045
+0100000US,,United States,56144,Collection agencies,808,8 largest firms,2012,179,2783840,22.5,747965,197639,23051
+0100000US,,United States,56144,Collection agencies,820,20 largest firms,2012,290,4034823,32.6,1272067,327578,37810
+0100000US,,United States,56144,Collection agencies,850,50 largest firms,2012,394,5490846,44.4,1771848,460327,51517
+0100000US,,United States,561440,Collection agencies,001,All firms,2012,4654,12379387,100.0,4615566,1159901,129920
+0100000US,,United States,561440,Collection agencies,804,4 largest firms,2012,140,1879854,15.2,517165,138745,17045
+0100000US,,United States,561440,Collection agencies,808,8 largest firms,2012,179,2783840,22.5,747965,197639,23051
+0100000US,,United States,561440,Collection agencies,820,20 largest firms,2012,290,4034823,32.6,1272067,327578,37810
+0100000US,,United States,561440,Collection agencies,850,50 largest firms,2012,394,5490846,44.4,1771848,460327,51517
+0100000US,,United States,56145,Credit bureaus,001,All firms,2012,570,7061753,100.0,1909880,543584,17535
+0100000US,,United States,56145,Credit bureaus,804,4 largest firms,2012,125,4228225,59.9,1161438,377866,8345
+0100000US,,United States,56145,Credit bureaus,808,8 largest firms,2012,155,5932116,84.0,1634270,477252,12171
+0100000US,,United States,56145,Credit bureaus,820,20 largest firms,2012,185,6574425,93.1,1761845,508947,14351
+0100000US,,United States,56145,Credit bureaus,850,50 largest firms,2012,244,6818764,96.6,1830414,524885,15631
+0100000US,,United States,561450,Credit bureaus,001,All firms,2012,570,7061753,100.0,1909880,543584,17535
+0100000US,,United States,561450,Credit bureaus,804,4 largest firms,2012,125,4228225,59.9,1161438,377866,8345
+0100000US,,United States,561450,Credit bureaus,808,8 largest firms,2012,155,5932116,84.0,1634270,477252,12171
+0100000US,,United States,561450,Credit bureaus,820,20 largest firms,2012,185,6574425,93.1,1761845,508947,14351
+0100000US,,United States,561450,Credit bureaus,850,50 largest firms,2012,244,6818764,96.6,1830414,524885,15631
+0100000US,,United States,5614501,Consumer credit reporting agencies,001,All firms,2012,386,4121245,100.0,1016401,244496,11003
+0100000US,,United States,5614501,Consumer credit reporting agencies,804,4 largest firms,2012,73,3251919,78.9,824120,201708,7054
+0100000US,,United States,5614501,Consumer credit reporting agencies,808,8 largest firms,2012,90,3611884,87.6,880048,214548,7960
+0100000US,,United States,5614501,Consumer credit reporting agencies,820,20 largest firms,2012,105,3819229,92.7,936993,225750,9138
+0100000US,,United States,5614501,Consumer credit reporting agencies,850,50 largest firms,2012,164,3991641,96.9,978061,235718,9943
+0100000US,,United States,5614502,Mercantile reporting agencies,001,All firms,2012,184,2940508,100.0,893479,299088,6532
+0100000US,,United States,5614502,Mercantile reporting agencies,804,4 largest firms,2012,76,2663122,90.6,805959,274551,5083
+0100000US,,United States,5614502,Mercantile reporting agencies,808,8 largest firms,2012,82,2823342,96.0,845312,287353,5591
+0100000US,,United States,5614502,Mercantile reporting agencies,820,20 largest firms,2012,97,2878034,97.9,866966,292615,5940
+0100000US,,United States,5614502,Mercantile reporting agencies,850,50 largest firms,2012,132,2926764,99.5,888702,297927,6379
+0100000US,,United States,56149,Other business support services,001,All firms,2012,8196,9886207,100.0,2928465,705583,74228
+0100000US,,United States,56149,Other business support services,804,4 largest firms,2012,288,1692373,17.1,468094,114933,10426
+0100000US,,United States,56149,Other business support services,808,8 largest firms,2012,318,2248176,22.7,607498,147943,14780
+0100000US,,United States,56149,Other business support services,820,20 largest firms,2012,360,3042314,30.8,821079,201218,18924
+0100000US,,United States,56149,Other business support services,850,50 largest firms,2012,417,4204912,42.5,1043316,252991,24298
+0100000US,,United States,561491,Repossession services,001,All firms,2012,939,633146,100.0,168246,43088,5944
+0100000US,,United States,561491,Repossession services,804,4 largest firms,2012,18,108574,17.1,19937,5060,615
+0100000US,,United States,561491,Repossession services,808,8 largest firms,2012,51,157156,24.8,30373,7590,910
+0100000US,,United States,561491,Repossession services,820,20 largest firms,2012,83,224896,35.5,51906,13660,1609
+0100000US,,United States,561491,Repossession services,850,50 largest firms,2012,163,317362,50.1,79632,20409,2544
+0100000US,,United States,561492,Court reporting and stenotype services,001,All firms,2012,3444,2116421,100.0,518938,128998,12921
+0100000US,,United States,561492,Court reporting and stenotype services,804,4 largest firms,2012,39,476785,22.5,105717,29249,2036
+0100000US,,United States,561492,Court reporting and stenotype services,808,8 largest firms,2012,48,572473,27.0,128257,35000,2624
+0100000US,,United States,561492,Court reporting and stenotype services,820,20 largest firms,2012,65,736395,34.8,159505,42801,3351
+0100000US,,United States,561492,Court reporting and stenotype services,850,50 largest firms,2012,118,937793,44.3,210616,55099,4469
+0100000US,,United States,561499,All other business support services,001,All firms,2012,3813,7136640,100.0,2241281,533497,55363
+0100000US,,United States,561499,All other business support services,804,4 largest firms,2012,282,1688743,23.7,498627,118557,12825
+0100000US,,United States,561499,All other business support services,808,8 largest firms,2012,291,2077733,29.1,570085,135819,13781
+0100000US,,United States,561499,All other business support services,820,20 largest firms,2012,330,2759051,38.7,754033,180999,18962
+0100000US,,United States,561499,All other business support services,850,50 largest firms,2012,434,3816896,53.5,959240,228735,22527
+0100000US,,United States,5615,Travel arrangement and reservation services,001,All firms,2012,20078,34346376,100.0,10472905,2767626,229383
+0100000US,,United States,5615,Travel arrangement and reservation services,804,4 largest firms,2012,1883,5429057,15.8,2420712,640431,45045
+0100000US,,United States,5615,Travel arrangement and reservation services,808,8 largest firms,2012,2158,8526767,24.8,3341654,1005784,57264
+0100000US,,United States,5615,Travel arrangement and reservation services,820,20 largest firms,2012,3102,12461885,36.3,5052286,1465152,88871
+0100000US,,United States,5615,Travel arrangement and reservation services,850,50 largest firms,2012,4014,15716897,45.8,5979651,1690577,110895
+0100000US,,United States,56151,Travel agencies,001,All firms,2012,13458,13731899,100.0,3933287,1010802,94611
+0100000US,,United States,56151,Travel agencies,804,4 largest firms,2012,2308,3543128,25.8,1325663,382538,28768
+0100000US,,United States,56151,Travel agencies,808,8 largest firms,2012,2550,4564729,33.2,1673509,470452,36606
+0100000US,,United States,56151,Travel agencies,820,20 largest firms,2012,2991,5575463,40.6,2048892,559264,43974
+0100000US,,United States,56151,Travel agencies,850,50 largest firms,2012,3185,6691953,48.7,2300793,620724,48923
+0100000US,,United States,561510,Travel agencies,001,All firms,2012,13458,13731899,100.0,3933287,1010802,94611
+0100000US,,United States,561510,Travel agencies,804,4 largest firms,2012,2308,3543128,25.8,1325663,382538,28768
+0100000US,,United States,561510,Travel agencies,808,8 largest firms,2012,2550,4564729,33.2,1673509,470452,36606
+0100000US,,United States,561510,Travel agencies,820,20 largest firms,2012,2991,5575463,40.6,2048892,559264,43974
+0100000US,,United States,561510,Travel agencies,850,50 largest firms,2012,3185,6691953,48.7,2300793,620724,48923
+0100000US,,United States,56152,Tour operators,001,All firms,2012,2786,5372644,100.0,1022782,230691,25721
+0100000US,,United States,56152,Tour operators,804,4 largest firms,2012,4,826366,15.4,105188,24090,2220
+0100000US,,United States,56152,Tour operators,808,8 largest firms,2012,15,1062962,19.8,168255,38872,3422
+0100000US,,United States,56152,Tour operators,820,20 largest firms,2012,36,1489422,27.7,272338,63846,5787
+0100000US,,United States,56152,Tour operators,850,50 largest firms,2012,125,2150189,40.0,394638,91520,8013
+0100000US,,United States,561520,Tour operators,001,All firms,2012,2786,5372644,100.0,1022782,230691,25721
+0100000US,,United States,561520,Tour operators,804,4 largest firms,2012,4,826366,15.4,105188,24090,2220
+0100000US,,United States,561520,Tour operators,808,8 largest firms,2012,15,1062962,19.8,168255,38872,3422
+0100000US,,United States,561520,Tour operators,820,20 largest firms,2012,36,1489422,27.7,272338,63846,5787
+0100000US,,United States,561520,Tour operators,850,50 largest firms,2012,125,2150189,40.0,394638,91520,8013
+0100000US,,United States,56159,Other travel arrangement and reservation services,001,All firms,2012,3834,15241833,100.0,5516836,1526133,109051
+0100000US,,United States,56159,Other travel arrangement and reservation services,804,4 largest firms,2012,237,4349873,28.5,1778317,456970,28621
+0100000US,,United States,56159,Other travel arrangement and reservation services,808,8 largest firms,2012,456,6108654,40.1,2566180,762292,38830
+0100000US,,United States,56159,Other travel arrangement and reservation services,820,20 largest firms,2012,761,8215481,53.9,3482449,1015512,55953
+0100000US,,United States,56159,Other travel arrangement and reservation services,850,50 largest firms,2012,1083,10237204,67.2,4065894,1165033,71349
+0100000US,,United States,561591,Convention and visitors bureaus,001,All firms,2012,990,1589441,100.0,422338,103102,9661
+0100000US,,United States,561591,Convention and visitors bureaus,804,4 largest firms,2012,11,307081,19.3,33416,8144,597
+0100000US,,United States,561591,Convention and visitors bureaus,808,8 largest firms,2012,29,419537,26.4,58632,14344,969
+0100000US,,United States,561591,Convention and visitors bureaus,820,20 largest firms,2012,52,632185,39.8,130754,32248,2347
+0100000US,,United States,561591,Convention and visitors bureaus,850,50 largest firms,2012,97,934622,58.8,222271,54836,4153
+0100000US,,United States,561599,All other travel arrangement and reservation services,001,All firms,2012,2844,13652392,100.0,5094498,1423031,99390
+0100000US,,United States,561599,All other travel arrangement and reservation services,804,4 largest firms,2012,237,4349873,31.9,1778317,456970,28621
+0100000US,,United States,561599,All other travel arrangement and reservation services,808,8 largest firms,2012,456,6108654,44.7,2566180,762292,38830
+0100000US,,United States,561599,All other travel arrangement and reservation services,820,20 largest firms,2012,756,8166299,59.8,3482437,1015621,55948
+0100000US,,United States,561599,All other travel arrangement and reservation services,850,50 largest firms,2012,1082,10096531,74.0,4095930,1174751,72026
+0100000US,,United States,5615992,Automobile clubs,001,All firms,2012,853,3078291,100.0,1137733,307017,24782
+0100000US,,United States,5615992,Automobile clubs,804,4 largest firms,2012,284,1513311,49.2,522884,155540,9903
+0100000US,,United States,5615992,Automobile clubs,808,8 largest firms,2012,469,1952110,63.4,805620,224355,16290
+0100000US,,United States,5615992,Automobile clubs,820,20 largest firms,2012,644,2666095,86.6,991579,270328,20582
+0100000US,,United States,5615992,Automobile clubs,850,50 largest firms,2012,756,3000372,97.5,1110371,300373,23920
+0100000US,,United States,5615997,Ticket and reservation services,001,All firms,2012,1644,9590681,100.0,3526587,1011305,65165
+0100000US,,United States,5615997,Ticket and reservation services,804,4 largest firms,2012,101,4166591,43.4,1695226,517198,24572
+0100000US,,United States,5615997,Ticket and reservation services,808,8 largest firms,2012,134,5280860,55.1,2277995,697539,32703
+0100000US,,United States,5615997,Ticket and reservation services,820,20 largest firms,2012,163,6342785,66.1,2572816,772284,41403
+0100000US,,United States,5615997,Ticket and reservation services,850,50 largest firms,2012,225,7272684,75.8,2804649,832138,46418
+0100000US,,United States,5615998,All other miscellaneous travel arrangement and reservation services,001,All firms,2012,347,983420,100.0,430178,104709,9443
+0100000US,,United States,5615998,All other miscellaneous travel arrangement and reservation services,804,4 largest firms,2012,241,766837,78.0,384660,93262,6999
+0100000US,,United States,5615998,All other miscellaneous travel arrangement and reservation services,808,8 largest firms,2012,245,875796,89.1,404821,98235,8578
+0100000US,,United States,5615998,All other miscellaneous travel arrangement and reservation services,820,20 largest firms,2012,257,934874,95.1,418624,101868,9058
+0100000US,,United States,5615998,All other miscellaneous travel arrangement and reservation services,850,50 largest firms,2012,300,974733,99.1,427899,104126,9335
+0100000US,,United States,5616,Investigation and security services,001,All firms,2012,25892,46945077,100.0,23088085,5754115,853573
+0100000US,,United States,5616,Investigation and security services,804,4 largest firms,2012,2062,9673022,20.6,5772263,1463396,207736
+0100000US,,United States,5616,Investigation and security services,808,8 largest firms,2012,2693,13147845,28.0,7287847,1911735,262999
+0100000US,,United States,5616,Investigation and security services,820,20 largest firms,2012,3361,17977800,38.3,9533482,2468903,332171
+0100000US,,United States,5616,Investigation and security services,850,50 largest firms,2012,4601,23183964,49.4,11902006,3062214,403147
+0100000US,,United States,56161,"Investigation, guard, and armored car services",001,All firms,2012,15591,30277923,100.0,18113265,4520638,734250
+0100000US,,United States,56161,"Investigation, guard, and armored car services",804,4 largest firms,2012,1877,8386378,27.7,5368599,1324896,195299
+0100000US,,United States,56161,"Investigation, guard, and armored car services",808,8 largest firms,2012,2534,11202166,37.0,6947293,1793067,260204
+0100000US,,United States,56161,"Investigation, guard, and armored car services",820,20 largest firms,2012,3518,15107798,49.9,9345393,2398030,335354
+0100000US,,United States,56161,"Investigation, guard, and armored car services",850,50 largest firms,2012,4099,18238322,60.2,11105290,2827767,392510
+0100000US,,United States,561611,Investigation services,001,All firms,2012,4637,4903574,100.0,1557236,371718,41997
+0100000US,,United States,561611,Investigation services,804,4 largest firms,2012,94,1776856,36.2,417688,99340,7294
+0100000US,,United States,561611,Investigation services,808,8 largest firms,2012,168,2099780,42.8,501304,122499,9153
+0100000US,,United States,561611,Investigation services,820,20 largest firms,2012,208,2565654,52.3,674390,161786,13117
+0100000US,,United States,561611,Investigation services,850,50 largest firms,2012,298,2996135,61.1,835954,201097,16998
+0100000US,,United States,561612,Security guards and patrol services,001,All firms,2012,10171,23040418,100.0,15520045,3894537,662544
+0100000US,,United States,561612,Security guards and patrol services,804,4 largest firms,2012,2001,8090985,35.1,5812492,1506751,225289
+0100000US,,United States,561612,Security guards and patrol services,808,8 largest firms,2012,2195,9940321,43.1,7050589,1822320,265924
+0100000US,,United States,561612,Security guards and patrol services,820,20 largest firms,2012,3176,12298176,53.4,8607487,2219922,322315
+0100000US,,United States,561612,Security guards and patrol services,850,50 largest firms,2012,3423,14600138,63.4,10055612,2568330,378158
+0100000US,,United States,561613,Armored car services,001,All firms,2012,783,2333931,100.0,1035984,254383,29709
+0100000US,,United States,561613,Armored car services,804,4 largest firms,2012,642,2091109,89.6,921306,226721,26357
+0100000US,,United States,561613,Armored car services,808,8 largest firms,2012,679,2174993,93.2,955673,235211,27321
+0100000US,,United States,561613,Armored car services,820,20 largest firms,2012,692,2266682,97.1,995316,244135,28346
+0100000US,,United States,561613,Armored car services,850,50 largest firms,2012,729,2322731,99.5,1024688,251340,29415
+0100000US,,United States,56162,Security systems services,001,All firms,2012,10301,16667154,100.0,4974820,1233477,119323
+0100000US,,United States,56162,Security systems services,804,4 largest firms,2012,287,3591897,21.6,886356,247568,22348
+0100000US,,United States,56162,Security systems services,808,8 largest firms,2012,483,4750126,28.5,1147297,316501,26959
+0100000US,,United States,56162,Security systems services,820,20 largest firms,2012,640,6546167,39.3,1664179,442059,36909
+0100000US,,United States,56162,Security systems services,850,50 largest firms,2012,859,8037988,48.2,2151771,558761,48268
+0100000US,,United States,561621,Security systems services (except locksmiths),001,All firms,2012,6639,15030320,100.0,4476619,1113527,104517
+0100000US,,United States,561621,Security systems services (except locksmiths),804,4 largest firms,2012,287,3591897,23.9,886356,247568,22348
+0100000US,,United States,561621,Security systems services (except locksmiths),808,8 largest firms,2012,440,4726689,31.4,1136122,310628,26568
+0100000US,,United States,561621,Security systems services (except locksmiths),820,20 largest firms,2012,633,6497930,43.2,1653581,439523,36744
+0100000US,,United States,561621,Security systems services (except locksmiths),850,50 largest firms,2012,852,7981096,53.1,2147948,557488,48383
+0100000US,,United States,561622,Locksmiths,001,All firms,2012,3662,1636834,100.0,498201,119950,14806
+0100000US,,United States,561622,Locksmiths,804,4 largest firms,2012,11,135346,8.3,26501,6382,456
+0100000US,,United States,561622,Locksmiths,808,8 largest firms,2012,16,199966,12.2,37515,8807,708
+0100000US,,United States,561622,Locksmiths,820,20 largest firms,2012,54,277395,16.9,66457,15660,1492
+0100000US,,United States,561622,Locksmiths,850,50 largest firms,2012,90,383497,23.4,99672,23533,2239
+0100000US,,United States,5617,Services to buildings and dwellings,001,All firms,2012,179496,107457544,100.0,41342616,8929922,1747995
+0100000US,,United States,5617,Services to buildings and dwellings,804,4 largest firms,2012,1336,8169233,7.6,3625674,802221,115739
+0100000US,,United States,5617,Services to buildings and dwellings,808,8 largest firms,2012,1872,11329686,10.5,4908572,1096747,152635
+0100000US,,United States,5617,Services to buildings and dwellings,820,20 largest firms,2012,2229,15131267,14.1,6815914,1561396,239657
+0100000US,,United States,5617,Services to buildings and dwellings,850,50 largest firms,2012,3369,19537305,18.2,8839751,2048430,322413
+0100000US,,United States,56171,Exterminating and pest control services,001,All firms,2012,12929,10307386,100.0,3938931,849700,102136
+0100000US,,United States,56171,Exterminating and pest control services,804,4 largest firms,2012,844,2896710,28.1,1088752,213308,23435
+0100000US,,United States,56171,Exterminating and pest control services,808,8 largest firms,2012,1012,3361318,32.6,1254361,253235,27463
+0100000US,,United States,56171,Exterminating and pest control services,820,20 largest firms,2012,1367,4182702,40.6,1570569,322447,34589
+0100000US,,United States,56171,Exterminating and pest control services,850,50 largest firms,2012,1535,4727504,45.9,1778695,369929,39343
+0100000US,,United States,561710,Exterminating and pest control services,001,All firms,2012,12929,10307386,100.0,3938931,849700,102136
+0100000US,,United States,561710,Exterminating and pest control services,804,4 largest firms,2012,844,2896710,28.1,1088752,213308,23435
+0100000US,,United States,561710,Exterminating and pest control services,808,8 largest firms,2012,1012,3361318,32.6,1254361,253235,27463
+0100000US,,United States,561710,Exterminating and pest control services,820,20 largest firms,2012,1367,4182702,40.6,1570569,322447,34589
+0100000US,,United States,561710,Exterminating and pest control services,850,50 largest firms,2012,1535,4727504,45.9,1778695,369929,39343
+0100000US,,United States,56172,Janitorial services,001,All firms,2012,53954,36681028,100.0,17393357,4207196,969377
+0100000US,,United States,56172,Janitorial services,804,4 largest firms,2012,246,4096120,11.2,2440425,591593,107811
+0100000US,,United States,56172,Janitorial services,808,8 largest firms,2012,377,5292494,14.4,3084773,752247,142440
+0100000US,,United States,56172,Janitorial services,820,20 largest firms,2012,906,7540329,20.6,4143131,1013597,196555
+0100000US,,United States,56172,Janitorial services,850,50 largest firms,2012,1566,10123483,27.6,5479893,1339752,259639
+0100000US,,United States,561720,Janitorial services,001,All firms,2012,53954,36681028,100.0,17393357,4207196,969377
+0100000US,,United States,561720,Janitorial services,804,4 largest firms,2012,246,4096120,11.2,2440425,591593,107811
+0100000US,,United States,561720,Janitorial services,808,8 largest firms,2012,377,5292494,14.4,3084773,752247,142440
+0100000US,,United States,561720,Janitorial services,820,20 largest firms,2012,906,7540329,20.6,4143131,1013597,196555
+0100000US,,United States,561720,Janitorial services,850,50 largest firms,2012,1566,10123483,27.6,5479893,1339752,259639
+0100000US,,United States,56173,Landscaping services,001,All firms,2012,93058,51908304,100.0,17254573,3267160,578623
+0100000US,,United States,56173,Landscaping services,804,4 largest firms,2012,572,5007138,9.6,1935310,423767,54013
+0100000US,,United States,56173,Landscaping services,808,8 largest firms,2012,976,6449843,12.4,2513884,566361,69672
+0100000US,,United States,56173,Landscaping services,820,20 largest firms,2012,1139,7638311,14.7,2953718,655196,80467
+0100000US,,United States,56173,Landscaping services,850,50 largest firms,2012,1284,8845347,17.0,3316797,732510,91003
+0100000US,,United States,561730,Landscaping services,001,All firms,2012,93058,51908304,100.0,17254573,3267160,578623
+0100000US,,United States,561730,Landscaping services,804,4 largest firms,2012,572,5007138,9.6,1935310,423767,54013
+0100000US,,United States,561730,Landscaping services,808,8 largest firms,2012,976,6449843,12.4,2513884,566361,69672
+0100000US,,United States,561730,Landscaping services,820,20 largest firms,2012,1139,7638311,14.7,2953718,655196,80467
+0100000US,,United States,561730,Landscaping services,850,50 largest firms,2012,1284,8845347,17.0,3316797,732510,91003
+0100000US,,United States,56174,Carpet and upholstery cleaning services,001,All firms,2012,7807,3083433,100.0,1041640,228991,39593
+0100000US,,United States,56174,Carpet and upholstery cleaning services,804,4 largest firms,2012,82,290040,9.4,86995,17027,2226
+0100000US,,United States,56174,Carpet and upholstery cleaning services,808,8 largest firms,2012,104,371856,12.1,124436,26859,3395
+0100000US,,United States,56174,Carpet and upholstery cleaning services,820,20 largest firms,2012,123,533769,17.3,178922,38498,5247
+0100000US,,United States,56174,Carpet and upholstery cleaning services,850,50 largest firms,2012,175,769179,24.9,262061,57534,7550
+0100000US,,United States,561740,Carpet and upholstery cleaning services,001,All firms,2012,7807,3083433,100.0,1041640,228991,39593
+0100000US,,United States,561740,Carpet and upholstery cleaning services,804,4 largest firms,2012,82,290040,9.4,86995,17027,2226
+0100000US,,United States,561740,Carpet and upholstery cleaning services,808,8 largest firms,2012,104,371856,12.1,124436,26859,3395
+0100000US,,United States,561740,Carpet and upholstery cleaning services,820,20 largest firms,2012,123,533769,17.3,178922,38498,5247
+0100000US,,United States,561740,Carpet and upholstery cleaning services,850,50 largest firms,2012,175,769179,24.9,262061,57534,7550
+0100000US,,United States,56179,Other services to buildings and dwellings,001,All firms,2012,11748,5477393,100.0,1714115,376875,58266
+0100000US,,United States,56179,Other services to buildings and dwellings,804,4 largest firms,2012,76,391051,7.1,124842,31509,2561
+0100000US,,United States,56179,Other services to buildings and dwellings,808,8 largest firms,2012,80,477251,8.7,142928,37450,4166
+0100000US,,United States,56179,Other services to buildings and dwellings,820,20 largest firms,2012,96,628695,11.5,174687,45458,5207
+0100000US,,United States,56179,Other services to buildings and dwellings,850,50 largest firms,2012,137,855412,15.6,246377,61168,7248
+0100000US,,United States,561790,Other services to buildings and dwellings,001,All firms,2012,11748,5477393,100.0,1714115,376875,58266
+0100000US,,United States,561790,Other services to buildings and dwellings,804,4 largest firms,2012,76,391051,7.1,124842,31509,2561
+0100000US,,United States,561790,Other services to buildings and dwellings,808,8 largest firms,2012,80,477251,8.7,142928,37450,4166
+0100000US,,United States,561790,Other services to buildings and dwellings,820,20 largest firms,2012,96,628695,11.5,174687,45458,5207
+0100000US,,United States,561790,Other services to buildings and dwellings,850,50 largest firms,2012,137,855412,15.6,246377,61168,7248
+0100000US,,United States,5617901,"Ventilation duct, chimney, and gutter cleaning",001,All firms,2012,1974,792706,100.0,273373,61668,9736
+0100000US,,United States,5617901,"Ventilation duct, chimney, and gutter cleaning",804,4 largest firms,2012,12,42232,5.3,14093,3143,325
+0100000US,,United States,5617901,"Ventilation duct, chimney, and gutter cleaning",808,8 largest firms,2012,17,64568,8.1,20812,4854,493
+0100000US,,United States,5617901,"Ventilation duct, chimney, and gutter cleaning",820,20 largest firms,2012,30,117799,14.9,41947,9466,1168
+0100000US,,United States,5617901,"Ventilation duct, chimney, and gutter cleaning",850,50 largest firms,2012,60,207986,26.2,79567,17706,2120
+0100000US,,United States,5617902,Swimming pool cleaning and maintenance,001,All firms,2012,5542,2249526,100.0,655074,127964,20256
+0100000US,,United States,5617902,Swimming pool cleaning and maintenance,804,4 largest firms,2012,7,57020,2.5,18275,3630,368
+0100000US,,United States,5617902,Swimming pool cleaning and maintenance,808,8 largest firms,2012,11,83522,3.7,25910,4975,496
+0100000US,,United States,5617902,Swimming pool cleaning and maintenance,820,20 largest firms,2012,26,146759,6.5,48169,9029,1024
+0100000US,,United States,5617902,Swimming pool cleaning and maintenance,850,50 largest firms,2012,58,259828,11.6,84132,15161,1779
+0100000US,,United States,5617905,Cleaning building exteriors (except sandblasting),001,All firms,2012,1548,428445,100.0,128159,26716,5146
+0100000US,,United States,5617905,Cleaning building exteriors (except sandblasting),804,4 largest firms,2012,5,45396,10.6,11030,2225,510
+0100000US,,United States,5617905,Cleaning building exteriors (except sandblasting),808,8 largest firms,2012,10,63353,14.8,18024,3866,648
+0100000US,,United States,5617905,Cleaning building exteriors (except sandblasting),820,20 largest firms,2012,25,96187,22.5,31300,6505,973
+0100000US,,United States,5617905,Cleaning building exteriors (except sandblasting),850,50 largest firms,2012,55,146044,34.1,48373,10349,1472
+0100000US,,United States,5617909,All other services to buildings and dwellings,001,All firms,2012,2684,2006716,100.0,657509,160527,23128
+0100000US,,United States,5617909,All other services to buildings and dwellings,804,4 largest firms,2012,74,385921,19.2,122792,33277,3468
+0100000US,,United States,5617909,All other services to buildings and dwellings,808,8 largest firms,2012,78,454906,22.7,137583,36639,4066
+0100000US,,United States,5617909,All other services to buildings and dwellings,820,20 largest firms,2012,93,585152,29.2,166939,43536,4800
+0100000US,,United States,5617909,All other services to buildings and dwellings,850,50 largest firms,2012,134,760420,37.9,224969,57566,6890
+0100000US,,United States,5619,Other support services,001,All firms,2012,19403,37593308,100.0,9640844,2346524,269394
+0100000US,,United States,5619,Other support services,804,4 largest firms,2012,85,3881123,10.3,803028,214727,26096
+0100000US,,United States,5619,Other support services,808,8 largest firms,2012,220,5148832,13.7,1116141,291988,32883
+0100000US,,United States,5619,Other support services,820,20 largest firms,2012,582,7662826,20.4,1666268,439911,52269
+0100000US,,United States,5619,Other support services,850,50 largest firms,2012,789,11228397,29.9,2737018,700688,72449
+0100000US,,United States,56191,Packaging and labeling services,001,All firms,2012,1633,5938964,100.0,1316706,308854,40123
+0100000US,,United States,56191,Packaging and labeling services,804,4 largest firms,2012,6,831815,14.0,137274,33235,2388
+0100000US,,United States,56191,Packaging and labeling services,808,8 largest firms,2012,14,1164173,19.6,200727,46591,3510
+0100000US,,United States,56191,Packaging and labeling services,820,20 largest firms,2012,43,1875553,31.6,333501,77846,7514
+0100000US,,United States,56191,Packaging and labeling services,850,50 largest firms,2012,152,2984986,50.3,525833,125540,13177
+0100000US,,United States,561910,Packaging and labeling services,001,All firms,2012,1633,5938964,100.0,1316706,308854,40123
+0100000US,,United States,561910,Packaging and labeling services,804,4 largest firms,2012,6,831815,14.0,137274,33235,2388
+0100000US,,United States,561910,Packaging and labeling services,808,8 largest firms,2012,14,1164173,19.6,200727,46591,3510
+0100000US,,United States,561910,Packaging and labeling services,820,20 largest firms,2012,43,1875553,31.6,333501,77846,7514
+0100000US,,United States,561910,Packaging and labeling services,850,50 largest firms,2012,152,2984986,50.3,525833,125540,13177
+0100000US,,United States,56192,Convention and trade show organizers,001,All firms,2012,4830,12023413,100.0,2834075,717730,81252
+0100000US,,United States,56192,Convention and trade show organizers,804,4 largest firms,2012,66,2879776,24.0,736115,203755,24008
+0100000US,,United States,56192,Convention and trade show organizers,808,8 largest firms,2012,94,3567320,29.7,882256,242925,30160
+0100000US,,United States,56192,Convention and trade show organizers,820,20 largest firms,2012,145,4588291,38.2,1122189,306559,35946
+0100000US,,United States,56192,Convention and trade show organizers,850,50 largest firms,2012,212,5726033,47.6,1321121,356653,40123
+0100000US,,United States,561920,Convention and trade show organizers,001,All firms,2012,4830,12023413,100.0,2834075,717730,81252
+0100000US,,United States,561920,Convention and trade show organizers,804,4 largest firms,2012,66,2879776,24.0,736115,203755,24008
+0100000US,,United States,561920,Convention and trade show organizers,808,8 largest firms,2012,94,3567320,29.7,882256,242925,30160
+0100000US,,United States,561920,Convention and trade show organizers,820,20 largest firms,2012,145,4588291,38.2,1122189,306559,35946
+0100000US,,United States,561920,Convention and trade show organizers,850,50 largest firms,2012,212,5726033,47.6,1321121,356653,40123
+0100000US,,United States,56199,All other support services,001,All firms,2012,12940,19630931,100.0,5490063,1319940,148019
+0100000US,,United States,56199,All other support services,804,4 largest firms,2012,156,2136883,10.9,395874,93556,8785
+0100000US,,United States,56199,All other support services,808,8 largest firms,2012,163,3052729,15.6,548081,139511,10962
+0100000US,,United States,56199,All other support services,820,20 largest firms,2012,563,4901516,25.0,1142850,284006,26011
+0100000US,,United States,56199,All other support services,850,50 largest firms,2012,794,7177154,36.6,1782875,436064,44076
+0100000US,,United States,561990,All other support services,001,All firms,2012,12940,19630931,100.0,5490063,1319940,148019
+0100000US,,United States,561990,All other support services,804,4 largest firms,2012,156,2136883,10.9,395874,93556,8785
+0100000US,,United States,561990,All other support services,808,8 largest firms,2012,163,3052729,15.6,548081,139511,10962
+0100000US,,United States,561990,All other support services,820,20 largest firms,2012,563,4901516,25.0,1142850,284006,26011
+0100000US,,United States,561990,All other support services,850,50 largest firms,2012,794,7177154,36.6,1782875,436064,44076
+0100000US,,United States,5619901,Trading stamp services,001,All firms,2012,46,87683,100.0,14439,3653,329
+0100000US,,United States,5619901,Trading stamp services,804,4 largest firms,2012,4,71978,82.1,9186,2317,147
+0100000US,,United States,5619901,Trading stamp services,808,8 largest firms,2012,8,78098,89.1,11814,3084,187
+0100000US,,United States,5619901,Trading stamp services,820,20 largest firms,2012,20,85234,97.2,13856,3560,290
+0100000US,,United States,5619901,Trading stamp services,850,50 largest firms,2012,46,87683,100.0,14439,3653,329
+0100000US,,United States,5619902,Water softening and conditioning services,001,All firms,2012,1079,1218899,100.0,356045,90324,9416
+0100000US,,United States,5619902,Water softening and conditioning services,804,4 largest firms,2012,18,164520,13.5,41206,14785,687
+0100000US,,United States,5619902,Water softening and conditioning services,808,8 largest firms,2012,74,263943,21.7,73264,23392,1401
+0100000US,,United States,5619902,Water softening and conditioning services,820,20 largest firms,2012,109,411408,33.8,112838,32651,2245
+0100000US,,United States,5619902,Water softening and conditioning services,850,50 largest firms,2012,163,569502,46.7,163075,44341,3469
+0100000US,,United States,5619903,Economic or industrial planning or development organization,001,All firms,2012,2609,2922334,100.0,885880,219152,17133
+0100000US,,United States,5619903,Economic or industrial planning or development organization,804,4 largest firms,2012,9,353552,12.1,75066,16966,1237
+0100000US,,United States,5619903,Economic or industrial planning or development organization,808,8 largest firms,2012,13,525911,18.0,101557,23464,1605
+0100000US,,United States,5619903,Economic or industrial planning or development organization,820,20 largest firms,2012,27,820878,28.1,182865,46610,2861
+0100000US,,United States,5619903,Economic or industrial planning or development organization,850,50 largest firms,2012,67,1173657,40.2,281954,71103,4238
+0100000US,,United States,5619909,All other miscellaneous support services,001,All firms,2012,9206,15402015,100.0,4233699,1006811,121141
+0100000US,,United States,5619909,All other miscellaneous support services,804,4 largest firms,2012,156,2136883,13.9,395874,93556,8785
+0100000US,,United States,5619909,All other miscellaneous support services,808,8 largest firms,2012,163,3052729,19.8,548081,139511,10962
+0100000US,,United States,5619909,All other miscellaneous support services,820,20 largest firms,2012,588,4872093,31.6,1186190,294607,27687
+0100000US,,United States,5619909,All other miscellaneous support services,850,50 largest firms,2012,848,6969433,45.3,1760393,427433,45893
+0100000US,,United States,562,Waste management and remediation services,001,All firms,2012,23199,79199230,100.0,17956482,4508170,368367
+0100000US,,United States,562,Waste management and remediation services,804,4 largest firms,2012,2461,22618710,28.6,3755066,1053226,69947
+0100000US,,United States,562,Waste management and remediation services,808,8 largest firms,2012,3058,27401959,34.6,4997290,1368568,90105
+0100000US,,United States,562,Waste management and remediation services,820,20 largest firms,2012,3610,33900446,42.8,6722204,1798001,113922
+0100000US,,United States,562,Waste management and remediation services,850,50 largest firms,2012,4229,40455075,51.1,8260967,2228354,143794
+0100000US,,United States,5621,Waste collection,001,All firms,2012,10795,40297648,100.0,8637924,2194933,186676
+0100000US,,United States,5621,Waste collection,804,4 largest firms,2012,1881,17148980,42.6,3256713,898356,61354
+0100000US,,United States,5621,Waste collection,808,8 largest firms,2012,2121,19235591,47.7,3858904,1050884,73240
+0100000US,,United States,5621,Waste collection,820,20 largest firms,2012,2417,22381029,55.5,4479734,1203680,84535
+0100000US,,United States,5621,Waste collection,850,50 largest firms,2012,2639,24978206,62.0,5045534,1334971,95339
+0100000US,,United States,56211,Waste collection,001,All firms,2012,10795,40297648,100.0,8637924,2194933,186676
+0100000US,,United States,56211,Waste collection,804,4 largest firms,2012,1881,17148980,42.6,3256713,898356,61354
+0100000US,,United States,56211,Waste collection,808,8 largest firms,2012,2121,19235591,47.7,3858904,1050884,73240
+0100000US,,United States,56211,Waste collection,820,20 largest firms,2012,2417,22381029,55.5,4479734,1203680,84535
+0100000US,,United States,56211,Waste collection,850,50 largest firms,2012,2639,24978206,62.0,5045534,1334971,95339
+0100000US,,United States,562111,Solid waste collection,001,All firms,2012,9418,36560422,100.0,7831504,2000557,169275
+0100000US,,United States,562111,Solid waste collection,804,4 largest firms,2012,1878,17050000,46.6,3240002,894337,61081
+0100000US,,United States,562111,Solid waste collection,808,8 largest firms,2012,2117,19133255,52.3,3841578,1046689,72951
+0100000US,,United States,562111,Solid waste collection,820,20 largest firms,2012,2255,21569968,59.0,4344280,1169615,82709
+0100000US,,United States,562111,Solid waste collection,850,50 largest firms,2012,2376,23566312,64.5,4793631,1270929,91099
+0100000US,,United States,562112,Hazardous waste collection,001,All firms,2012,610,2249228,100.0,501308,121824,9751
+0100000US,,United States,562112,Hazardous waste collection,804,4 largest firms,2012,227,977483,43.5,191759,47214,3327
+0100000US,,United States,562112,Hazardous waste collection,808,8 largest firms,2012,246,1228811,54.6,246450,60434,4264
+0100000US,,United States,562112,Hazardous waste collection,820,20 largest firms,2012,283,1567335,69.7,322720,79101,5800
+0100000US,,United States,562112,Hazardous waste collection,850,50 largest firms,2012,321,1859281,82.7,393705,96633,7294
+0100000US,,United States,562119,Other waste collection,001,All firms,2012,767,1487998,100.0,305112,72552,7650
+0100000US,,United States,562119,Other waste collection,804,4 largest firms,2012,36,616279,41.4,92375,23573,1583
+0100000US,,United States,562119,Other waste collection,808,8 largest firms,2012,40,736275,49.5,120979,29738,1971
+0100000US,,United States,562119,Other waste collection,820,20 largest firms,2012,63,886672,59.6,159937,38634,2702
+0100000US,,United States,562119,Other waste collection,850,50 largest firms,2012,95,1065859,71.6,206975,50591,4546
+0100000US,,United States,5622,Waste treatment and disposal,001,All firms,2012,2445,14829311,100.0,3005286,776552,50736
+0100000US,,United States,5622,Waste treatment and disposal,804,4 largest firms,2012,509,6424050,43.3,1037820,281531,15049
+0100000US,,United States,5622,Waste treatment and disposal,808,8 largest firms,2012,821,9068411,61.2,1750193,460871,25715
+0100000US,,United States,5622,Waste treatment and disposal,820,20 largest firms,2012,1012,10671692,72.0,2098093,555645,32013
+0100000US,,United States,5622,Waste treatment and disposal,850,50 largest firms,2012,1101,12117402,81.7,2380120,626261,36869
+0100000US,,United States,56221,Waste treatment and disposal,001,All firms,2012,2445,14829311,100.0,3005286,776552,50736
+0100000US,,United States,56221,Waste treatment and disposal,804,4 largest firms,2012,509,6424050,43.3,1037820,281531,15049
+0100000US,,United States,56221,Waste treatment and disposal,808,8 largest firms,2012,821,9068411,61.2,1750193,460871,25715
+0100000US,,United States,56221,Waste treatment and disposal,820,20 largest firms,2012,1012,10671692,72.0,2098093,555645,32013
+0100000US,,United States,56221,Waste treatment and disposal,850,50 largest firms,2012,1101,12117402,81.7,2380120,626261,36869
+0100000US,,United States,562211,Hazardous waste treatment and disposal,001,All firms,2012,849,6698129,100.0,1776531,449097,27782
+0100000US,,United States,562211,Hazardous waste treatment and disposal,804,4 largest firms,2012,224,3341517,49.9,1012830,255704,13587
+0100000US,,United States,562211,Hazardous waste treatment and disposal,808,8 largest firms,2012,277,4005277,59.8,1160165,292147,16284
+0100000US,,United States,562211,Hazardous waste treatment and disposal,820,20 largest firms,2012,376,5052228,75.4,1389991,354613,20441
+0100000US,,United States,562211,Hazardous waste treatment and disposal,850,50 largest firms,2012,431,5878914,87.8,1578077,399909,23446
+0100000US,,United States,562212,Solid waste landfill,001,All firms,2012,1275,5136031,100.0,770448,204421,16209
+0100000US,,United States,562212,Solid waste landfill,804,4 largest firms,2012,464,3318831,64.6,414654,113563,7771
+0100000US,,United States,562212,Solid waste landfill,808,8 largest firms,2012,540,3661010,71.3,461464,128028,8975
+0100000US,,United States,562212,Solid waste landfill,820,20 largest firms,2012,575,4084240,79.5,544977,150376,10338
+0100000US,,United States,562212,Solid waste landfill,850,50 largest firms,2012,617,4473141,87.1,622548,168001,11747
+0100000US,,United States,562213,Solid waste combustors and incinerators,001,All firms,2012,109,2489012,100.0,358252,99552,4784
+0100000US,,United States,562213,Solid waste combustors and incinerators,804,4 largest firms,2012,68,2301488,92.5,294527,84239,3898
+0100000US,,United States,562213,Solid waste combustors and incinerators,808,8 largest firms,2012,73,2406244,96.7,335019,94178,4403
+0100000US,,United States,562213,Solid waste combustors and incinerators,820,20 largest firms,2012,85,2474099,99.4,353821,98565,4686
+0100000US,,United States,562213,Solid waste combustors and incinerators,850,50 largest firms,2012,109,2489012,100.0,358252,99552,4784
+0100000US,,United States,562219,Other nonhazardous waste treatment and disposal,001,All firms,2012,212,506139,100.0,100055,23482,1961
+0100000US,,United States,562219,Other nonhazardous waste treatment and disposal,804,4 largest firms,2012,31,203565,40.2,33040,8072,564
+0100000US,,United States,562219,Other nonhazardous waste treatment and disposal,808,8 largest firms,2012,54,267248,52.8,44814,11183,783
+0100000US,,United States,562219,Other nonhazardous waste treatment and disposal,820,20 largest firms,2012,75,346702,68.5,61141,14789,1094
+0100000US,,United States,562219,Other nonhazardous waste treatment and disposal,850,50 largest firms,2012,109,441006,87.1,81943,19373,1490
+0100000US,,United States,5629,Remediation and other waste management services,001,All firms,2012,9959,24072271,100.0,6313272,1536685,130955
+0100000US,,United States,5629,Remediation and other waste management services,804,4 largest firms,2012,147,2733023,11.4,574515,147931,5486
+0100000US,,United States,5629,Remediation and other waste management services,808,8 largest firms,2012,182,3942822,16.4,819050,215157,9872
+0100000US,,United States,5629,Remediation and other waste management services,820,20 largest firms,2012,587,6162252,25.6,1441100,413173,21696
+0100000US,,United States,5629,Remediation and other waste management services,850,50 largest firms,2012,841,8451685,35.1,2007554,547977,30718
+0100000US,,United States,56291,Remediation services,001,All firms,2012,4070,14193037,100.0,4283808,1058572,78027
+0100000US,,United States,56291,Remediation services,804,4 largest firms,2012,4,1883890,13.3,552721,137230,4119
+0100000US,,United States,56291,Remediation services,808,8 largest firms,2012,129,3017646,21.3,807069,202538,8882
+0100000US,,United States,56291,Remediation services,820,20 largest firms,2012,336,4741991,33.4,1355969,380140,18568
+0100000US,,United States,56291,Remediation services,850,50 largest firms,2012,526,6434011,45.3,1827595,493389,25759
+0100000US,,United States,562910,Remediation services,001,All firms,2012,4070,14193037,100.0,4283808,1058572,78027
+0100000US,,United States,562910,Remediation services,804,4 largest firms,2012,4,1883890,13.3,552721,137230,4119
+0100000US,,United States,562910,Remediation services,808,8 largest firms,2012,129,3017646,21.3,807069,202538,8882
+0100000US,,United States,562910,Remediation services,820,20 largest firms,2012,336,4741991,33.4,1355969,380140,18568
+0100000US,,United States,562910,Remediation services,850,50 largest firms,2012,526,6434011,45.3,1827595,493389,25759
+0100000US,,United States,5629101,Remediation services ,001,All firms,2012,2714,10423234,100.0,2928905,766944,47808
+0100000US,,United States,5629101,Remediation services ,804,4 largest firms,2012,4,1883890,18.1,552721,137230,4119
+0100000US,,United States,5629101,Remediation services ,808,8 largest firms,2012,104,2973218,28.5,770495,190430,7305
+0100000US,,United States,5629101,Remediation services ,820,20 largest firms,2012,320,4389356,42.1,1178773,343196,15427
+0100000US,,United States,5629101,Remediation services ,850,50 largest firms,2012,501,5902909,56.6,1627017,452071,21935
+0100000US,,United States,5629102,Asbestos abatement and lead paint removal,001,All firms,2012,1356,3769803,100.0,1354903,291628,30219
+0100000US,,United States,5629102,Asbestos abatement and lead paint removal,804,4 largest firms,2012,41,597720,15.9,214333,46393,3964
+0100000US,,United States,5629102,Asbestos abatement and lead paint removal,808,8 largest firms,2012,51,781893,20.7,277548,59956,4985
+0100000US,,United States,5629102,Asbestos abatement and lead paint removal,820,20 largest firms,2012,74,1113157,29.5,400157,84817,7109
+0100000US,,United States,5629102,Asbestos abatement and lead paint removal,850,50 largest firms,2012,139,1627516,43.2,585674,125728,11132
+0100000US,,United States,56292,Materials recovery facilities,001,All firms,2012,1442,5639304,100.0,769513,192311,21630
+0100000US,,United States,56292,Materials recovery facilities,804,4 largest firms,2012,154,1625944,28.8,115045,37230,2679
+0100000US,,United States,56292,Materials recovery facilities,808,8 largest firms,2012,222,1953619,34.6,161991,48654,4120
+0100000US,,United States,56292,Materials recovery facilities,820,20 largest firms,2012,256,2499522,44.3,222461,63468,5534
+0100000US,,United States,56292,Materials recovery facilities,850,50 largest firms,2012,309,3198627,56.7,313848,85504,7848
+0100000US,,United States,562920,Materials recovery facilities,001,All firms,2012,1442,5639304,100.0,769513,192311,21630
+0100000US,,United States,562920,Materials recovery facilities,804,4 largest firms,2012,154,1625944,28.8,115045,37230,2679
+0100000US,,United States,562920,Materials recovery facilities,808,8 largest firms,2012,222,1953619,34.6,161991,48654,4120
+0100000US,,United States,562920,Materials recovery facilities,820,20 largest firms,2012,256,2499522,44.3,222461,63468,5534
+0100000US,,United States,562920,Materials recovery facilities,850,50 largest firms,2012,309,3198627,56.7,313848,85504,7848
+0100000US,,United States,56299,All other waste management services,001,All firms,2012,4447,4239930,100.0,1259951,285802,31298
+0100000US,,United States,56299,All other waste management services,804,4 largest firms,2012,126,562069,13.3,164013,37679,2945
+0100000US,,United States,56299,All other waste management services,808,8 largest firms,2012,162,720450,17.0,204983,46439,3635
+0100000US,,United States,56299,All other waste management services,820,20 largest firms,2012,179,951082,22.4,265874,59885,4692
+0100000US,,United States,56299,All other waste management services,850,50 largest firms,2012,231,1275908,30.1,374094,83747,6954
+0100000US,,United States,562991,Septic tank and related services,001,All firms,2012,3344,2626576,100.0,765714,170751,20305
+0100000US,,United States,562991,Septic tank and related services,804,4 largest firms,2012,69,298272,11.4,93832,21059,1737
+0100000US,,United States,562991,Septic tank and related services,808,8 largest firms,2012,76,382875,14.6,120634,26403,2209
+0100000US,,United States,562991,Septic tank and related services,820,20 largest firms,2012,94,523852,19.9,169039,37101,3180
+0100000US,,United States,562991,Septic tank and related services,850,50 largest firms,2012,134,742083,28.3,231115,50749,4444
+0100000US,,United States,5629911,Cesspool and septic tank cleaning services,001,All firms,2012,2284,1467443,100.0,414103,92752,11349
+0100000US,,United States,5629911,Cesspool and septic tank cleaning services,804,4 largest firms,2012,15,121033,8.2,39994,8258,614
+0100000US,,United States,5629911,Cesspool and septic tank cleaning services,808,8 largest firms,2012,20,171412,11.7,57998,12026,963
+0100000US,,United States,5629911,Cesspool and septic tank cleaning services,820,20 largest firms,2012,32,265936,18.1,82319,17506,1433
+0100000US,,United States,5629911,Cesspool and septic tank cleaning services,850,50 largest firms,2012,68,409306,27.9,120265,25777,2237
+0100000US,,United States,5629912,Portable toilet rental,001,All firms,2012,1060,1159133,100.0,351611,77999,8956
+0100000US,,United States,5629912,Portable toilet rental,804,4 largest firms,2012,61,261842,22.6,80640,18145,1595
+0100000US,,United States,5629912,Portable toilet rental,808,8 largest firms,2012,70,309552,26.7,98025,21902,1964
+0100000US,,United States,5629912,Portable toilet rental,820,20 largest firms,2012,92,415668,35.9,131845,29322,2694
+0100000US,,United States,5629912,Portable toilet rental,850,50 largest firms,2012,130,557113,48.1,174631,39102,3697
+0100000US,,United States,562998,All other miscellaneous waste management services,001,All firms,2012,1103,1613354,100.0,494237,115051,10993
+0100000US,,United States,562998,All other miscellaneous waste management services,804,4 largest firms,2012,93,422178,26.2,111151,25380,1898
+0100000US,,United States,562998,All other miscellaneous waste management services,808,8 largest firms,2012,97,512349,31.8,131424,30140,2265
+0100000US,,United States,562998,All other miscellaneous waste management services,820,20 largest firms,2012,123,658735,40.8,174824,40144,3146
+0100000US,,United States,562998,All other miscellaneous waste management services,850,50 largest firms,2012,160,865101,53.6,240717,56549,4499

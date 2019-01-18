@@ -1,0 +1,417 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Revenue ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,52,Finance and insurance,001,All firms,2012,468183,3636114357,100.0,523553280,163717728,6040880
+0100000US,,United States,52,Finance and insurance,804,4 largest firms,2012,14388,381945617,10.5,32107695,10515708,396841
+0100000US,,United States,52,Finance and insurance,808,8 largest firms,2012,37341,653313904,18.0,77007313,28383277,897646
+0100000US,,United States,52,Finance and insurance,820,20 largest firms,2012,51479,1147874969,31.6,113454839,40534236,1312935
+0100000US,,United States,52,Finance and insurance,850,50 largest firms,2012,69324,1762661146,48.5,183194102,66753625,1967021
+0100000US,,United States,521,Monetary authorities - central bank,001,All firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,521,Monetary authorities - central bank,804,4 largest firms,2012,34,78834001,78.7,1003969,230413,8630
+0100000US,,United States,521,Monetary authorities - central bank,808,8 largest firms,2012,44,92943012,92.8,1393373,322737,13119
+0100000US,,United States,521,Monetary authorities - central bank,820,20 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,521,Monetary authorities - central bank,850,50 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,5211,Monetary authorities - central bank,001,All firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,5211,Monetary authorities - central bank,804,4 largest firms,2012,34,78834001,78.7,1003969,230413,8630
+0100000US,,United States,5211,Monetary authorities - central bank,808,8 largest firms,2012,44,92943012,92.8,1393373,322737,13119
+0100000US,,United States,5211,Monetary authorities - central bank,820,20 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,5211,Monetary authorities - central bank,850,50 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,52111,Monetary authorities - central bank,001,All firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,52111,Monetary authorities - central bank,804,4 largest firms,2012,34,78834001,78.7,1003969,230413,8630
+0100000US,,United States,52111,Monetary authorities - central bank,808,8 largest firms,2012,44,92943012,92.8,1393373,322737,13119
+0100000US,,United States,52111,Monetary authorities - central bank,820,20 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,52111,Monetary authorities - central bank,850,50 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,521110,Monetary authorities - central bank,001,All firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,521110,Monetary authorities - central bank,804,4 largest firms,2012,34,78834001,78.7,1003969,230413,8630
+0100000US,,United States,521110,Monetary authorities - central bank,808,8 largest firms,2012,44,92943012,92.8,1393373,322737,13119
+0100000US,,United States,521110,Monetary authorities - central bank,820,20 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,521110,Monetary authorities - central bank,850,50 largest firms,2012,56,100171340,100.0,1745082,406834,17457
+0100000US,,United States,522,Credit intermediation and related activities,001,All firms,2012,196147,1095191602,100.0,184194668,55156137,2815436
+0100000US,,United States,522,Credit intermediation and related activities,804,4 largest firms,2012,15767,327527115,29.9,31785961,11122562,442011
+0100000US,,United States,522,Credit intermediation and related activities,808,8 largest firms,2012,31999,453456217,41.4,56327537,19894338,800502
+0100000US,,United States,522,Credit intermediation and related activities,820,20 largest firms,2012,43014,565878255,51.7,74155221,25869757,1035445
+0100000US,,United States,522,Credit intermediation and related activities,850,50 largest firms,2012,57553,683681492,62.4,95501660,32130633,1299369
+0100000US,,United States,5221,Depository credit intermediation,001,All firms,2012,125488,480627316,100.0,126921385,38936351,2038914
+0100000US,,United States,5221,Depository credit intermediation,804,4 largest firms,2012,25328,99859602,20.8,40634174,14327314,603463
+0100000US,,United States,5221,Depository credit intermediation,808,8 largest firms,2012,32946,139967908,29.1,50324008,17597662,734454
+0100000US,,United States,5221,Depository credit intermediation,820,20 largest firms,2012,43115,204651056,42.6,62831335,21508156,905781
+0100000US,,United States,5221,Depository credit intermediation,850,50 largest firms,2012,53734,269007834,56.0,76557563,25628544,1081524
+0100000US,,United States,52211,Commercial banking,001,All firms,2012,97222,390155000,100.0,107493255,33834310,1646395
+0100000US,,United States,52211,Commercial banking,804,4 largest firms,2012,25328,99859602,25.6,40634174,14327314,603463
+0100000US,,United States,52211,Commercial banking,808,8 largest firms,2012,32937,139678521,35.8,50156910,17525060,732811
+0100000US,,United States,52211,Commercial banking,820,20 largest firms,2012,43258,202982274,52.0,62924773,21503176,907653
+0100000US,,United States,52211,Commercial banking,850,50 largest firms,2012,53254,259344719,66.5,75883596,25458037,1070360
+0100000US,,United States,522110,Commercial banking,001,All firms,2012,97222,390155000,100.0,107493255,33834310,1646395
+0100000US,,United States,522110,Commercial banking,804,4 largest firms,2012,25328,99859602,25.6,40634174,14327314,603463
+0100000US,,United States,522110,Commercial banking,808,8 largest firms,2012,32937,139678521,35.8,50156910,17525060,732811
+0100000US,,United States,522110,Commercial banking,820,20 largest firms,2012,43258,202982274,52.0,62924773,21503176,907653
+0100000US,,United States,522110,Commercial banking,850,50 largest firms,2012,53254,259344719,66.5,75883596,25458037,1070360
+0100000US,,United States,5221101,National commercial banks (banking),001,All firms,2012,53558,218805291,100.0,69597886,23028960,1047644
+0100000US,,United States,5221101,National commercial banks (banking),804,4 largest firms,2012,25241,99727572,45.6,40606998,14319378,602945
+0100000US,,United States,5221101,National commercial banks (banking),808,8 largest firms,2012,30579,137583413,62.9,49445156,17344814,714339
+0100000US,,United States,5221101,National commercial banks (banking),820,20 largest firms,2012,37719,172508211,78.8,57563238,19687854,829953
+0100000US,,United States,5221101,National commercial banks (banking),850,50 largest firms,2012,43457,192374569,87.9,62788288,21277215,913686
+0100000US,,United States,5221102,State commercial banks (banking),001,All firms,2012,43386,146356030,100.0,34638794,9766788,580923
+0100000US,,United States,5221102,State commercial banks (banking),804,4 largest firms,2012,3678,22560471,15.4,4767455,1657634,59962
+0100000US,,United States,5221102,State commercial banks (banking),808,8 largest firms,2012,7105,37910591,25.9,7620437,2427688,107948
+0100000US,,United States,5221102,State commercial banks (banking),820,20 largest firms,2012,12090,61351495,41.9,13449417,4288982,181329
+0100000US,,United States,5221102,State commercial banks (banking),850,50 largest firms,2012,16573,76757135,52.4,17160985,5319693,240986
+0100000US,,United States,52212,Savings institutions,001,All firms,2012,9591,D,100.0,D,D,m
+0100000US,,United States,52212,Savings institutions,804,4 largest firms,2012,514,D,23.0,D,D,j
+0100000US,,United States,52212,Savings institutions,808,8 largest firms,2012,1510,D,35.0,D,D,j
+0100000US,,United States,52212,Savings institutions,820,20 largest firms,2012,2528,D,48.5,D,D,k
+0100000US,,United States,52212,Savings institutions,850,50 largest firms,2012,4038,D,62.1,D,D,l
+0100000US,,United States,522120,Savings institutions,001,All firms,2012,9591,D,100.0,D,D,m
+0100000US,,United States,522120,Savings institutions,804,4 largest firms,2012,514,D,23.0,D,D,j
+0100000US,,United States,522120,Savings institutions,808,8 largest firms,2012,1510,D,35.0,D,D,j
+0100000US,,United States,522120,Savings institutions,820,20 largest firms,2012,2528,D,48.5,D,D,k
+0100000US,,United States,522120,Savings institutions,850,50 largest firms,2012,4038,D,62.1,D,D,l
+0100000US,,United States,5221201,"Savings institutions, federally chartered",001,All firms,2012,4866,23847981,100.0,4429105,1228639,75840
+0100000US,,United States,5221201,"Savings institutions, federally chartered",804,4 largest firms,2012,313,8339576,35.0,776863,238888,10323
+0100000US,,United States,5221201,"Savings institutions, federally chartered",808,8 largest firms,2012,713,11101576,46.6,1213039,361616,17325
+0100000US,,United States,5221201,"Savings institutions, federally chartered",820,20 largest firms,2012,1311,14410242,60.4,1860450,567702,27218
+0100000US,,United States,5221201,"Savings institutions, federally chartered",850,50 largest firms,2012,2267,17484567,73.3,2648174,759704,40797
+0100000US,,United States,5221203,"Savings institutions, not federally chartered",001,All firms,2012,4723,D,100.0,D,D,l
+0100000US,,United States,5221203,"Savings institutions, not federally chartered",804,4 largest firms,2012,1216,D,32.7,D,D,j
+0100000US,,United States,5221203,"Savings institutions, not federally chartered",808,8 largest firms,2012,1664,D,41.3,D,D,j
+0100000US,,United States,5221203,"Savings institutions, not federally chartered",820,20 largest firms,2012,2198,D,54.6,D,D,j
+0100000US,,United States,5221203,"Savings institutions, not federally chartered",850,50 largest firms,2012,2796,D,67.7,D,D,k
+0100000US,,United States,52213,Credit unions,001,All firms,2012,18665,49986801,100.0,11339980,2892801,255649
+0100000US,,United States,52213,Credit unions,804,4 largest firms,2012,569,5777247,11.6,834423,236457,15984
+0100000US,,United States,52213,Credit unions,808,8 largest firms,2012,869,7241543,14.5,1099743,302557,21956
+0100000US,,United States,52213,Credit unions,820,20 largest firms,2012,1312,10058121,20.1,1657569,450635,33291
+0100000US,,United States,52213,Credit unions,850,50 largest firms,2012,2072,14661890,29.3,2576437,687801,51707
+0100000US,,United States,522130,Credit unions,001,All firms,2012,18665,49986801,100.0,11339980,2892801,255649
+0100000US,,United States,522130,Credit unions,804,4 largest firms,2012,569,5777247,11.6,834423,236457,15984
+0100000US,,United States,522130,Credit unions,808,8 largest firms,2012,869,7241543,14.5,1099743,302557,21956
+0100000US,,United States,522130,Credit unions,820,20 largest firms,2012,1312,10058121,20.1,1657569,450635,33291
+0100000US,,United States,522130,Credit unions,850,50 largest firms,2012,2072,14661890,29.3,2576437,687801,51707
+0100000US,,United States,5221301,"Credit unions, federally chartered",001,All firms,2012,10279,27385018,100.0,6087951,1557992,138196
+0100000US,,United States,5221301,"Credit unions, federally chartered",804,4 largest firms,2012,422,5094824,18.6,704136,199213,12999
+0100000US,,United States,5221301,"Credit unions, federally chartered",808,8 largest firms,2012,617,6234965,22.8,898946,248750,17361
+0100000US,,United States,5221301,"Credit unions, federally chartered",820,20 largest firms,2012,1013,8610485,31.4,1410905,386138,27731
+0100000US,,United States,5221301,"Credit unions, federally chartered",850,50 largest firms,2012,1689,11834043,43.2,2074330,558273,41110
+0100000US,,United States,5221309,"Credit unions, not federally chartered",001,All firms,2012,8386,22601783,100.0,5252029,1334809,117453
+0100000US,,United States,5221309,"Credit unions, not federally chartered",804,4 largest firms,2012,414,2033180,9.0,370302,97477,8444
+0100000US,,United States,5221309,"Credit unions, not federally chartered",808,8 largest firms,2012,471,2862320,12.7,496979,132854,10924
+0100000US,,United States,5221309,"Credit unions, not federally chartered",820,20 largest firms,2012,831,4712491,20.9,885858,229213,18559
+0100000US,,United States,5221309,"Credit unions, not federally chartered",850,50 largest firms,2012,1478,7811129,34.6,1535155,398617,31170
+0100000US,,United States,52219,Other depository credit intermediation,001,All firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,52219,Other depository credit intermediation,804,4 largest firms,2012,6,D,99.9,D,D,g
+0100000US,,United States,52219,Other depository credit intermediation,808,8 largest firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,52219,Other depository credit intermediation,820,20 largest firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,52219,Other depository credit intermediation,850,50 largest firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,522190,Other depository credit intermediation,001,All firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,522190,Other depository credit intermediation,804,4 largest firms,2012,6,D,99.9,D,D,g
+0100000US,,United States,522190,Other depository credit intermediation,808,8 largest firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,522190,Other depository credit intermediation,820,20 largest firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,522190,Other depository credit intermediation,850,50 largest firms,2012,10,D,100.0,D,D,g
+0100000US,,United States,5222,Nondepository credit intermediation,001,All firms,2012,41020,535960486,100.0,41470122,12048603,526719
+0100000US,,United States,5222,Nondepository credit intermediation,804,4 largest firms,2012,3516,280155189,52.3,7910806,2824131,94659
+0100000US,,United States,5222,Nondepository credit intermediation,808,8 largest firms,2012,5197,351739071,65.6,13350569,4881345,160761
+0100000US,,United States,5222,Nondepository credit intermediation,820,20 largest firms,2012,5709,405110707,75.6,17239799,6064262,201783
+0100000US,,United States,5222,Nondepository credit intermediation,850,50 largest firms,2012,8661,444924609,83.0,20978182,7178683,254082
+0100000US,,United States,52221,Credit card issuing,001,All firms,2012,1095,81762669,100.0,4235378,1449748,67504
+0100000US,,United States,52221,Credit card issuing,804,4 largest firms,2012,674,63439957,77.6,3029181,1045971,45750
+0100000US,,United States,52221,Credit card issuing,808,8 largest firms,2012,819,74259596,90.8,3713405,1277555,56047
+0100000US,,United States,52221,Credit card issuing,820,20 largest firms,2012,869,80960097,99.0,4148861,1427204,65922
+0100000US,,United States,52221,Credit card issuing,850,50 largest firms,2012,923,81726493,100.0,4224545,1447089,67211
+0100000US,,United States,522210,Credit card issuing,001,All firms,2012,1095,81762669,100.0,4235378,1449748,67504
+0100000US,,United States,522210,Credit card issuing,804,4 largest firms,2012,674,63439957,77.6,3029181,1045971,45750
+0100000US,,United States,522210,Credit card issuing,808,8 largest firms,2012,819,74259596,90.8,3713405,1277555,56047
+0100000US,,United States,522210,Credit card issuing,820,20 largest firms,2012,869,80960097,99.0,4148861,1427204,65922
+0100000US,,United States,522210,Credit card issuing,850,50 largest firms,2012,923,81726493,100.0,4224545,1447089,67211
+0100000US,,United States,52222,Sales financing,001,All firms,2012,4337,83388640,100.0,8092436,2665429,85868
+0100000US,,United States,52222,Sales financing,804,4 largest firms,2012,294,27985337,33.6,1942118,806821,13937
+0100000US,,United States,52222,Sales financing,808,8 largest firms,2012,568,43942950,52.7,2736759,1083098,23687
+0100000US,,United States,52222,Sales financing,820,20 largest firms,2012,903,62551435,75.0,4485664,1635302,39207
+0100000US,,United States,52222,Sales financing,850,50 largest firms,2012,1457,73367772,88.0,6204167,2166168,57623
+0100000US,,United States,522220,Sales financing,001,All firms,2012,4337,83388640,100.0,8092436,2665429,85868
+0100000US,,United States,522220,Sales financing,804,4 largest firms,2012,294,27985337,33.6,1942118,806821,13937
+0100000US,,United States,522220,Sales financing,808,8 largest firms,2012,568,43942950,52.7,2736759,1083098,23687
+0100000US,,United States,522220,Sales financing,820,20 largest firms,2012,903,62551435,75.0,4485664,1635302,39207
+0100000US,,United States,522220,Sales financing,850,50 largest firms,2012,1457,73367772,88.0,6204167,2166168,57623
+0100000US,,United States,52229,Other nondepository credit intermediation,001,All firms,2012,35588,370809177,100.0,29142308,7933426,373347
+0100000US,,United States,52229,Other nondepository credit intermediation,804,4 largest firms,2012,3024,256023323,69.0,6505049,2342167,71625
+0100000US,,United States,52229,Other nondepository credit intermediation,808,8 largest firms,2012,3661,272533473,73.5,8538599,2896080,101851
+0100000US,,United States,52229,Other nondepository credit intermediation,820,20 largest firms,2012,5456,292367616,78.8,10951000,3699741,128798
+0100000US,,United States,52229,Other nondepository credit intermediation,850,50 largest firms,2012,9849,314398377,84.8,14092957,4499026,172875
+0100000US,,United States,522291,Consumer lending,001,All firms,2012,12423,29680913,100.0,4044701,1225361,71344
+0100000US,,United States,522291,Consumer lending,804,4 largest firms,2012,1554,15523949,52.3,1856453,670004,23654
+0100000US,,United States,522291,Consumer lending,808,8 largest firms,2012,1653,19695062,66.4,2147603,742680,26975
+0100000US,,United States,522291,Consumer lending,820,20 largest firms,2012,4303,23255510,78.4,2692664,891633,38563
+0100000US,,United States,522291,Consumer lending,850,50 largest firms,2012,6494,25456993,85.8,3076356,989130,47232
+0100000US,,United States,522292,Real estate credit,001,All firms,2012,12572,87609051,100.0,19239615,4957205,218196
+0100000US,,United States,522292,Real estate credit,804,4 largest firms,2012,3162,38314740,43.7,4839169,1595373,65222
+0100000US,,United States,522292,Real estate credit,808,8 largest firms,2012,3420,45796653,52.3,6167857,2072807,77498
+0100000US,,United States,522292,Real estate credit,820,20 largest firms,2012,4318,54750538,62.5,8103263,2543548,102059
+0100000US,,United States,522292,Real estate credit,850,50 largest firms,2012,5662,63384774,72.3,10530567,3131605,124368
+0100000US,,United States,5222929,Mortgage bankers and loan correspondents,001,All firms,2012,12018,84035356,100.0,18805202,4816047,212733
+0100000US,,United States,5222929,Mortgage bankers and loan correspondents,804,4 largest firms,2012,3162,38314740,45.6,4839169,1595373,65222
+0100000US,,United States,5222929,Mortgage bankers and loan correspondents,808,8 largest firms,2012,3420,45796653,54.5,6167857,2072807,77498
+0100000US,,United States,5222929,Mortgage bankers and loan correspondents,820,20 largest firms,2012,4197,54122780,64.4,8135924,2535954,101893
+0100000US,,United States,5222929,Mortgage bankers and loan correspondents,850,50 largest firms,2012,5457,62068495,73.9,10679080,3146266,125122
+0100000US,,United States,522293,International trade financing,001,All firms,2012,173,614741,100.0,104556,29158,793
+0100000US,,United States,522293,International trade financing,804,4 largest firms,2012,8,288200,46.9,57896,14591,150
+0100000US,,United States,522293,International trade financing,808,8 largest firms,2012,13,381004,62.0,67340,19277,230
+0100000US,,United States,522293,International trade financing,820,20 largest firms,2012,25,503941,82.0,85465,24533,445
+0100000US,,United States,522293,International trade financing,850,50 largest firms,2012,55,575226,93.6,96507,27165,578
+0100000US,,United States,522294,Secondary market financing,001,All firms,2012,137,D,100.0,D,D,j
+0100000US,,United States,522294,Secondary market financing,804,4 largest firms,2012,32,D,99.4,D,D,j
+0100000US,,United States,522294,Secondary market financing,808,8 largest firms,2012,36,D,99.8,D,D,j
+0100000US,,United States,522294,Secondary market financing,820,20 largest firms,2012,51,D,100.0,D,D,j
+0100000US,,United States,522294,Secondary market financing,850,50 largest firms,2012,82,D,100.0,D,D,j
+0100000US,,United States,522298,All other nondepository credit intermediation,001,All firms,2012,10283,D,100.0,D,D,l
+0100000US,,United States,522298,All other nondepository credit intermediation,804,4 largest firms,2012,18,D,21.0,D,D,g
+0100000US,,United States,522298,All other nondepository credit intermediation,808,8 largest firms,2012,296,D,33.4,D,D,h
+0100000US,,United States,522298,All other nondepository credit intermediation,820,20 largest firms,2012,2614,D,59.0,D,D,j
+0100000US,,United States,522298,All other nondepository credit intermediation,850,50 largest firms,2012,3842,D,78.3,D,D,k
+0100000US,,United States,5222981,Pawnshops,001,All firms,2012,8721,D,100.0,D,D,k
+0100000US,,United States,5222981,Pawnshops,804,4 largest firms,2012,2847,D,39.6,D,D,j
+0100000US,,United States,5222981,Pawnshops,808,8 largest firms,2012,3239,D,46.2,D,D,j
+0100000US,,United States,5222981,Pawnshops,820,20 largest firms,2012,3337,D,51.1,D,D,j
+0100000US,,United States,5222981,Pawnshops,850,50 largest firms,2012,3557,D,56.4,D,D,j
+0100000US,,United States,5222988,Other business credit institutions,001,All firms,2012,1562,26297471,100.0,2263702,680744,23552
+0100000US,,United States,5222988,Other business credit institutions,804,4 largest firms,2012,18,6967110,26.5,230623,97464,1637
+0100000US,,United States,5222988,Other business credit institutions,808,8 largest firms,2012,296,11068019,42.1,485107,176533,4614
+0100000US,,United States,5222988,Other business credit institutions,820,20 largest firms,2012,413,18594815,70.7,1151264,354252,9609
+0100000US,,United States,5222988,Other business credit institutions,850,50 largest firms,2012,661,23284325,88.5,1656737,520861,15415
+0100000US,,United States,5223,Activities related to credit intermediation,001,All firms,2012,29639,78603800,100.0,15803161,4171183,249803
+0100000US,,United States,5223,Activities related to credit intermediation,804,4 largest firms,2012,209,21008537,26.7,3805411,1069415,33381
+0100000US,,United States,5223,Activities related to credit intermediation,808,8 largest firms,2012,412,28910877,36.8,4788953,1394328,44628
+0100000US,,United States,5223,Activities related to credit intermediation,820,20 largest firms,2012,3367,41220827,52.4,6653351,1941857,78881
+0100000US,,United States,5223,Activities related to credit intermediation,850,50 largest firms,2012,8203,52563554,66.9,8746165,2528863,119593
+0100000US,,United States,52231,Mortgage and nonmortgage loan brokers,001,All firms,2012,7627,7909362,100.0,2639924,518553,34573
+0100000US,,United States,52231,Mortgage and nonmortgage loan brokers,804,4 largest firms,2012,67,868858,11.0,236164,42839,2129
+0100000US,,United States,52231,Mortgage and nonmortgage loan brokers,808,8 largest firms,2012,188,1438142,18.2,440059,80540,3354
+0100000US,,United States,52231,Mortgage and nonmortgage loan brokers,820,20 largest firms,2012,233,2077732,26.3,619982,109149,5042
+0100000US,,United States,52231,Mortgage and nonmortgage loan brokers,850,50 largest firms,2012,301,2878696,36.4,930412,167350,8014
+0100000US,,United States,522310,Mortgage and nonmortgage loan brokers,001,All firms,2012,7627,7909362,100.0,2639924,518553,34573
+0100000US,,United States,522310,Mortgage and nonmortgage loan brokers,804,4 largest firms,2012,67,868858,11.0,236164,42839,2129
+0100000US,,United States,522310,Mortgage and nonmortgage loan brokers,808,8 largest firms,2012,188,1438142,18.2,440059,80540,3354
+0100000US,,United States,522310,Mortgage and nonmortgage loan brokers,820,20 largest firms,2012,233,2077732,26.3,619982,109149,5042
+0100000US,,United States,522310,Mortgage and nonmortgage loan brokers,850,50 largest firms,2012,301,2878696,36.4,930412,167350,8014
+0100000US,,United States,52232,"Financial transactions processing, reserve, and clearinghouse activities",001,All firms,2012,4705,56747694,100.0,9777832,2752497,128040
+0100000US,,United States,52232,"Financial transactions processing, reserve, and clearinghouse activities",804,4 largest firms,2012,209,21008537,37.0,3805411,1069415,33381
+0100000US,,United States,52232,"Financial transactions processing, reserve, and clearinghouse activities",808,8 largest firms,2012,401,28896934,50.9,4784147,1392883,44449
+0100000US,,United States,52232,"Financial transactions processing, reserve, and clearinghouse activities",820,20 largest firms,2012,797,40967851,72.2,6504988,1903623,72949
+0100000US,,United States,52232,"Financial transactions processing, reserve, and clearinghouse activities",850,50 largest firms,2012,1067,48667143,85.8,7969268,2298490,96021
+0100000US,,United States,522320,"Financial transactions processing, reserve, and clearinghouse activities",001,All firms,2012,4705,56747694,100.0,9777832,2752497,128040
+0100000US,,United States,522320,"Financial transactions processing, reserve, and clearinghouse activities",804,4 largest firms,2012,209,21008537,37.0,3805411,1069415,33381
+0100000US,,United States,522320,"Financial transactions processing, reserve, and clearinghouse activities",808,8 largest firms,2012,401,28896934,50.9,4784147,1392883,44449
+0100000US,,United States,522320,"Financial transactions processing, reserve, and clearinghouse activities",820,20 largest firms,2012,797,40967851,72.2,6504988,1903623,72949
+0100000US,,United States,522320,"Financial transactions processing, reserve, and clearinghouse activities",850,50 largest firms,2012,1067,48667143,85.8,7969268,2298490,96021
+0100000US,,United States,52239,Other activities related to credit intermediation,001,All firms,2012,17307,13946744,100.0,3385405,900133,87190
+0100000US,,United States,52239,Other activities related to credit intermediation,804,4 largest firms,2012,4064,2518048,18.1,378524,88895,11585
+0100000US,,United States,52239,Other activities related to credit intermediation,808,8 largest firms,2012,5647,4012736,28.8,643877,171444,18675
+0100000US,,United States,52239,Other activities related to credit intermediation,820,20 largest firms,2012,7729,7062206,50.6,1405791,402936,32967
+0100000US,,United States,52239,Other activities related to credit intermediation,850,50 largest firms,2012,9373,9821465,70.4,2143255,586639,49139
+0100000US,,United States,522390,Other activities related to credit intermediation,001,All firms,2012,17307,13946744,100.0,3385405,900133,87190
+0100000US,,United States,522390,Other activities related to credit intermediation,804,4 largest firms,2012,4064,2518048,18.1,378524,88895,11585
+0100000US,,United States,522390,Other activities related to credit intermediation,808,8 largest firms,2012,5647,4012736,28.8,643877,171444,18675
+0100000US,,United States,522390,Other activities related to credit intermediation,820,20 largest firms,2012,7729,7062206,50.6,1405791,402936,32967
+0100000US,,United States,522390,Other activities related to credit intermediation,850,50 largest firms,2012,9373,9821465,70.4,2143255,586639,49139
+0100000US,,United States,523,"Securities, commodity contracts, and other financial investments and related activities",001,All firms,2012,95906,515453286,100.0,168427512,58427084,903558
+0100000US,,United States,523,"Securities, commodity contracts, and other financial investments and related activities",804,4 largest firms,2012,8617,89310265,17.3,30553993,14492876,133030
+0100000US,,United States,523,"Securities, commodity contracts, and other financial investments and related activities",808,8 largest firms,2012,13121,136107967,26.4,47755460,20358286,231622
+0100000US,,United States,523,"Securities, commodity contracts, and other financial investments and related activities",820,20 largest firms,2012,27570,217639462,42.2,68811038,27706452,346369
+0100000US,,United States,523,"Securities, commodity contracts, and other financial investments and related activities",850,50 largest firms,2012,29480,294241396,57.1,89707044,34357810,447393
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,001,All firms,2012,45428,236512139,100.0,79762665,30008809,425910
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,804,4 largest firms,2012,7882,74950090,31.7,25037890,12251641,100228
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,808,8 largest firms,2012,12282,115096166,48.7,40913881,17619663,175169
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,820,20 largest firms,2012,26581,163244198,69.0,55440394,22343299,272898
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,850,50 largest firms,2012,28435,189604111,80.2,63358521,25058866,314745
+0100000US,,United States,52311,Investment banking and securities dealing,001,All firms,2012,3142,104079040,100.0,33180014,14604122,97860
+0100000US,,United States,52311,Investment banking and securities dealing,804,4 largest firms,2012,74,48588401,46.7,14821501,8303039,37408
+0100000US,,United States,52311,Investment banking and securities dealing,808,8 largest firms,2012,103,70595347,67.8,21384106,10500358,52554
+0100000US,,United States,52311,Investment banking and securities dealing,820,20 largest firms,2012,162,86417985,83.0,26081347,12190326,66414
+0100000US,,United States,52311,Investment banking and securities dealing,850,50 largest firms,2012,295,94866566,91.1,29355358,13507916,76014
+0100000US,,United States,523110,Investment banking and securities dealing,001,All firms,2012,3142,104079040,100.0,33180014,14604122,97860
+0100000US,,United States,523110,Investment banking and securities dealing,804,4 largest firms,2012,74,48588401,46.7,14821501,8303039,37408
+0100000US,,United States,523110,Investment banking and securities dealing,808,8 largest firms,2012,103,70595347,67.8,21384106,10500358,52554
+0100000US,,United States,523110,Investment banking and securities dealing,820,20 largest firms,2012,162,86417985,83.0,26081347,12190326,66414
+0100000US,,United States,523110,Investment banking and securities dealing,850,50 largest firms,2012,295,94866566,91.1,29355358,13507916,76014
+0100000US,,United States,52312,Securities brokerage,001,All firms,2012,40298,120382829,100.0,43678044,14369776,310652
+0100000US,,United States,52312,Securities brokerage,804,4 largest firms,2012,7445,40803570,33.9,17082492,6135554,97879
+0100000US,,United States,52312,Securities brokerage,808,8 largest firms,2012,19967,59725638,49.6,24179781,8130204,163726
+0100000US,,United States,52312,Securities brokerage,820,20 largest firms,2012,26774,85494096,71.0,32255338,10903713,221994
+0100000US,,United States,52312,Securities brokerage,850,50 largest firms,2012,29076,100911916,83.8,36705997,12430799,249885
+0100000US,,United States,523120,Securities brokerage,001,All firms,2012,40298,120382829,100.0,43678044,14369776,310652
+0100000US,,United States,523120,Securities brokerage,804,4 largest firms,2012,7445,40803570,33.9,17082492,6135554,97879
+0100000US,,United States,523120,Securities brokerage,808,8 largest firms,2012,19967,59725638,49.6,24179781,8130204,163726
+0100000US,,United States,523120,Securities brokerage,820,20 largest firms,2012,26774,85494096,71.0,32255338,10903713,221994
+0100000US,,United States,523120,Securities brokerage,850,50 largest firms,2012,29076,100911916,83.8,36705997,12430799,249885
+0100000US,,United States,52313,Commodity contracts dealing,001,All firms,2012,727,6672968,100.0,1563745,681018,7026
+0100000US,,United States,52313,Commodity contracts dealing,804,4 largest firms,2012,10,2396942,35.9,413310,204787,557
+0100000US,,United States,52313,Commodity contracts dealing,808,8 largest firms,2012,15,3649164,54.7,690964,384145,1610
+0100000US,,United States,52313,Commodity contracts dealing,820,20 largest firms,2012,32,5072391,76.0,957847,493925,3081
+0100000US,,United States,52313,Commodity contracts dealing,850,50 largest firms,2012,177,6123600,91.8,1376391,639521,4901
+0100000US,,United States,523130,Commodity contracts dealing,001,All firms,2012,727,6672968,100.0,1563745,681018,7026
+0100000US,,United States,523130,Commodity contracts dealing,804,4 largest firms,2012,10,2396942,35.9,413310,204787,557
+0100000US,,United States,523130,Commodity contracts dealing,808,8 largest firms,2012,15,3649164,54.7,690964,384145,1610
+0100000US,,United States,523130,Commodity contracts dealing,820,20 largest firms,2012,32,5072391,76.0,957847,493925,3081
+0100000US,,United States,523130,Commodity contracts dealing,850,50 largest firms,2012,177,6123600,91.8,1376391,639521,4901
+0100000US,,United States,52314,Commodity contracts brokerage,001,All firms,2012,1261,5377302,100.0,1340862,353893,10372
+0100000US,,United States,52314,Commodity contracts brokerage,804,4 largest firms,2012,12,2157724,40.1,385113,115651,2141
+0100000US,,United States,52314,Commodity contracts brokerage,808,8 largest firms,2012,37,2896325,53.9,551959,157264,3187
+0100000US,,United States,52314,Commodity contracts brokerage,820,20 largest firms,2012,58,3683575,68.5,786510,223255,4787
+0100000US,,United States,52314,Commodity contracts brokerage,850,50 largest firms,2012,108,4374419,81.3,996306,273570,6046
+0100000US,,United States,523140,Commodity contracts brokerage,001,All firms,2012,1261,5377302,100.0,1340862,353893,10372
+0100000US,,United States,523140,Commodity contracts brokerage,804,4 largest firms,2012,12,2157724,40.1,385113,115651,2141
+0100000US,,United States,523140,Commodity contracts brokerage,808,8 largest firms,2012,37,2896325,53.9,551959,157264,3187
+0100000US,,United States,523140,Commodity contracts brokerage,820,20 largest firms,2012,58,3683575,68.5,786510,223255,4787
+0100000US,,United States,523140,Commodity contracts brokerage,850,50 largest firms,2012,108,4374419,81.3,996306,273570,6046
+0100000US,,United States,5232,Securities and commodity exchanges,001,All firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,5232,Securities and commodity exchanges,804,4 largest firms,2012,14,8223983,84.8,912236,355466,4751
+0100000US,,United States,5232,Securities and commodity exchanges,808,8 largest firms,2012,22,9637768,99.4,1196252,472971,6199
+0100000US,,United States,5232,Securities and commodity exchanges,820,20 largest firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,5232,Securities and commodity exchanges,850,50 largest firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,52321,Securities and commodity exchanges,001,All firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,52321,Securities and commodity exchanges,804,4 largest firms,2012,14,8223983,84.8,912236,355466,4751
+0100000US,,United States,52321,Securities and commodity exchanges,808,8 largest firms,2012,22,9637768,99.4,1196252,472971,6199
+0100000US,,United States,52321,Securities and commodity exchanges,820,20 largest firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,52321,Securities and commodity exchanges,850,50 largest firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,523210,Securities and commodity exchanges,001,All firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,523210,Securities and commodity exchanges,804,4 largest firms,2012,14,8223983,84.8,912236,355466,4751
+0100000US,,United States,523210,Securities and commodity exchanges,808,8 largest firms,2012,22,9637768,99.4,1196252,472971,6199
+0100000US,,United States,523210,Securities and commodity exchanges,820,20 largest firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,523210,Securities and commodity exchanges,850,50 largest firms,2012,29,9693795,100.0,1215602,477446,6388
+0100000US,,United States,5239,Other financial investment activities,001,All firms,2012,50449,269247352,100.0,87449245,27940829,471260
+0100000US,,United States,5239,Other financial investment activities,804,4 largest firms,2012,833,31072682,11.5,8845464,2592962,55892
+0100000US,,United States,5239,Other financial investment activities,808,8 largest firms,2012,1686,54272878,20.2,14192181,5075761,80488
+0100000US,,United States,5239,Other financial investment activities,820,20 largest firms,2012,1949,91796508,34.1,23432222,8111726,122740
+0100000US,,United States,5239,Other financial investment activities,850,50 largest firms,2012,2437,132813432,49.3,36729201,12784782,171029
+0100000US,,United States,52391,Miscellaneous intermediation,001,All firms,2012,8006,18895451,100.0,6032505,1670222,38658
+0100000US,,United States,52391,Miscellaneous intermediation,804,4 largest firms,2012,11,3660847,19.4,971217,349165,2006
+0100000US,,United States,52391,Miscellaneous intermediation,808,8 largest firms,2012,15,4409426,23.3,1058519,371410,2284
+0100000US,,United States,52391,Miscellaneous intermediation,820,20 largest firms,2012,39,5792282,30.7,1458174,497007,4113
+0100000US,,United States,52391,Miscellaneous intermediation,850,50 largest firms,2012,78,7705131,40.8,2119140,665695,6500
+0100000US,,United States,523910,Miscellaneous intermediation,001,All firms,2012,8006,18895451,100.0,6032505,1670222,38658
+0100000US,,United States,523910,Miscellaneous intermediation,804,4 largest firms,2012,11,3660847,19.4,971217,349165,2006
+0100000US,,United States,523910,Miscellaneous intermediation,808,8 largest firms,2012,15,4409426,23.3,1058519,371410,2284
+0100000US,,United States,523910,Miscellaneous intermediation,820,20 largest firms,2012,39,5792282,30.7,1458174,497007,4113
+0100000US,,United States,523910,Miscellaneous intermediation,850,50 largest firms,2012,78,7705131,40.8,2119140,665695,6500
+0100000US,,United States,52392,Portfolio management,001,All firms,2012,23559,193246038,100.0,65262982,21579975,270805
+0100000US,,United States,52392,Portfolio management,804,4 largest firms,2012,57,25198904,13.0,6676679,2662659,22482
+0100000US,,United States,52392,Portfolio management,808,8 largest firms,2012,277,42829105,22.2,10517190,3658983,39693
+0100000US,,United States,52392,Portfolio management,820,20 largest firms,2012,653,71675361,37.1,21322485,7570346,80851
+0100000US,,United States,52392,Portfolio management,850,50 largest firms,2012,967,105190409,54.4,31707728,11414470,108310
+0100000US,,United States,523920,Portfolio management,001,All firms,2012,23559,193246038,100.0,65262982,21579975,270805
+0100000US,,United States,523920,Portfolio management,804,4 largest firms,2012,57,25198904,13.0,6676679,2662659,22482
+0100000US,,United States,523920,Portfolio management,808,8 largest firms,2012,277,42829105,22.2,10517190,3658983,39693
+0100000US,,United States,523920,Portfolio management,820,20 largest firms,2012,653,71675361,37.1,21322485,7570346,80851
+0100000US,,United States,523920,Portfolio management,850,50 largest firms,2012,967,105190409,54.4,31707728,11414470,108310
+0100000US,,United States,52393,Investment advice,001,All firms,2012,15735,32226538,100.0,11114088,3198492,101953
+0100000US,,United States,52393,Investment advice,804,4 largest firms,2012,1048,9397055,29.2,2371073,732588,25172
+0100000US,,United States,52393,Investment advice,808,8 largest firms,2012,1131,11550024,35.8,3141232,908704,28255
+0100000US,,United States,52393,Investment advice,820,20 largest firms,2012,1376,14882404,46.2,4569799,1423960,39217
+0100000US,,United States,52393,Investment advice,850,50 largest firms,2012,1489,18082806,56.1,5699448,1743350,45609
+0100000US,,United States,523930,Investment advice,001,All firms,2012,15735,32226538,100.0,11114088,3198492,101953
+0100000US,,United States,523930,Investment advice,804,4 largest firms,2012,1048,9397055,29.2,2371073,732588,25172
+0100000US,,United States,523930,Investment advice,808,8 largest firms,2012,1131,11550024,35.8,3141232,908704,28255
+0100000US,,United States,523930,Investment advice,820,20 largest firms,2012,1376,14882404,46.2,4569799,1423960,39217
+0100000US,,United States,523930,Investment advice,850,50 largest firms,2012,1489,18082806,56.1,5699448,1743350,45609
+0100000US,,United States,52399,All other financial investment activities,001,All firms,2012,3149,24879325,100.0,5039670,1492140,59844
+0100000US,,United States,52399,All other financial investment activities,804,4 largest firms,2012,134,12911879,51.9,1284200,403947,17656
+0100000US,,United States,52399,All other financial investment activities,808,8 largest firms,2012,191,15491314,62.3,2060614,659807,22231
+0100000US,,United States,52399,All other financial investment activities,820,20 largest firms,2012,240,18919395,76.0,3117609,941046,33954
+0100000US,,United States,52399,All other financial investment activities,850,50 largest firms,2012,428,21226172,85.3,3797665,1164443,41796
+0100000US,,United States,523991,"Trust, fiduciary, and custody activities",001,All firms,2012,2396,16693578,100.0,2878075,791484,39014
+0100000US,,United States,523991,"Trust, fiduciary, and custody activities",804,4 largest firms,2012,143,9801310,58.7,654400,182595,10153
+0100000US,,United States,523991,"Trust, fiduciary, and custody activities",808,8 largest firms,2012,170,11370674,68.1,1157592,316805,15719
+0100000US,,United States,523991,"Trust, fiduciary, and custody activities",820,20 largest firms,2012,220,13177526,78.9,1662592,467983,21242
+0100000US,,United States,523991,"Trust, fiduciary, and custody activities",850,50 largest firms,2012,397,14443809,86.5,2021739,575934,25600
+0100000US,,United States,523999,Miscellaneous financial investment activities,001,All firms,2012,753,8185747,100.0,2161595,700656,20830
+0100000US,,United States,523999,Miscellaneous financial investment activities,804,4 largest firms,2012,45,5201204,63.5,1212740,435719,10868
+0100000US,,United States,523999,Miscellaneous financial investment activities,808,8 largest firms,2012,56,6486324,79.2,1711264,567148,15442
+0100000US,,United States,523999,Miscellaneous financial investment activities,820,20 largest firms,2012,84,7304159,89.2,1929427,633255,17846
+0100000US,,United States,523999,Miscellaneous financial investment activities,850,50 largest firms,2012,123,7788821,95.2,2050263,673580,18971
+0100000US,,United States,524,Insurance carriers and related activities,001,All firms,2012,176074,1925298129,100.0,169186018,49727673,2304429
+0100000US,,United States,524,Insurance carriers and related activities,804,4 largest firms,2012,837,271929966,14.1,16760770,4975294,194921
+0100000US,,United States,524,Insurance carriers and related activities,808,8 largest firms,2012,3126,446654739,23.2,24643787,7870092,281042
+0100000US,,United States,524,Insurance carriers and related activities,820,20 largest firms,2012,10895,778091527,40.4,50578889,16209946,585626
+0100000US,,United States,524,Insurance carriers and related activities,850,50 largest firms,2012,18207,1182264245,61.4,75118677,24160980,881099
+0100000US,,United States,5241,Insurance carriers,001,All firms,2012,31784,1661469008,100.0,118079104,36828420,1448112
+0100000US,,United States,5241,Insurance carriers,804,4 largest firms,2012,1436,263414200,15.9,18625926,5977260,213491
+0100000US,,United States,5241,Insurance carriers,808,8 largest firms,2012,5526,409455999,24.6,29875635,9577812,333367
+0100000US,,United States,5241,Insurance carriers,820,20 largest firms,2012,10652,721408424,43.4,51976714,16706399,600332
+0100000US,,United States,5241,Insurance carriers,850,50 largest firms,2012,17539,1088636206,65.5,73111258,23661640,850574
+0100000US,,United States,52411,"Direct life, health, and medical insurance carriers",001,All firms,2012,13548,1142018510,100.0,69970154,22568613,836123
+0100000US,,United States,52411,"Direct life, health, and medical insurance carriers",804,4 largest firms,2012,2002,250797444,22.0,16799309,5734670,176409
+0100000US,,United States,52411,"Direct life, health, and medical insurance carriers",808,8 largest firms,2012,3194,373835060,32.7,25494670,8609189,276955
+0100000US,,United States,52411,"Direct life, health, and medical insurance carriers",820,20 largest firms,2012,4821,622517291,54.5,37765682,12707972,416264
+0100000US,,United States,52411,"Direct life, health, and medical insurance carriers",850,50 largest firms,2012,9633,861891554,75.5,53428944,17826702,599570
+0100000US,,United States,524113,Direct life insurance carriers,001,All firms,2012,8939,494705909,100.0,31563613,10577568,350207
+0100000US,,United States,524113,Direct life insurance carriers,804,4 largest firms,2012,1505,143944707,29.1,8840472,3171507,88905
+0100000US,,United States,524113,Direct life insurance carriers,808,8 largest firms,2012,1916,236635040,47.8,12523398,4490253,125600
+0100000US,,United States,524113,Direct life insurance carriers,820,20 largest firms,2012,6346,365197463,73.8,21907390,7564659,232704
+0100000US,,United States,524113,Direct life insurance carriers,850,50 largest firms,2012,7920,455187431,92.0,28767739,9802767,311386
+0100000US,,United States,524114,Direct health and medical insurance carriers,001,All firms,2012,4609,647312601,100.0,38406541,11991045,485916
+0100000US,,United States,524114,Direct health and medical insurance carriers,804,4 largest firms,2012,1367,222649097,34.4,14598105,4705813,165595
+0100000US,,United States,524114,Direct health and medical insurance carriers,808,8 largest firms,2012,1878,318386383,49.2,20890179,6784683,239757
+0100000US,,United States,524114,Direct health and medical insurance carriers,820,20 largest firms,2012,2451,433775423,67.0,26320302,8548385,307847
+0100000US,,United States,524114,Direct health and medical insurance carriers,850,50 largest firms,2012,3354,532839771,82.3,31874581,10212344,386059
+0100000US,,United States,52412,"Direct insurance (except life, health, and medical) carriers",001,All firms,2012,17855,470033022,100.0,45836458,13448821,598640
+0100000US,,United States,52412,"Direct insurance (except life, health, and medical) carriers",804,4 largest firms,2012,3957,138207126,29.4,13483390,3717781,172131
+0100000US,,United States,52412,"Direct insurance (except life, health, and medical) carriers",808,8 largest firms,2012,7586,212676855,45.2,19019225,5366684,254254
+0100000US,,United States,52412,"Direct insurance (except life, health, and medical) carriers",820,20 largest firms,2012,9864,300525272,63.9,27045699,8135026,344107
+0100000US,,United States,52412,"Direct insurance (except life, health, and medical) carriers",850,50 largest firms,2012,11877,369216351,78.6,35026780,10372415,453258
+0100000US,,United States,524126,Direct property and casualty insurance carriers,001,All firms,2012,14603,445749327,100.0,41522999,12431616,533978
+0100000US,,United States,524126,Direct property and casualty insurance carriers,804,4 largest firms,2012,3957,138207126,31.0,13483390,3717781,172131
+0100000US,,United States,524126,Direct property and casualty insurance carriers,808,8 largest firms,2012,7585,212673125,47.7,19017905,5366354,254231
+0100000US,,United States,524126,Direct property and casualty insurance carriers,820,20 largest firms,2012,8739,297765235,66.8,26336258,7966670,331773
+0100000US,,United States,524126,Direct property and casualty insurance carriers,850,50 largest firms,2012,10351,359137907,80.6,32386787,9809581,413840
+0100000US,,United States,524127,Direct title insurance carriers,001,All firms,2012,2763,13919129,100.0,2713148,661711,43250
+0100000US,,United States,524127,Direct title insurance carriers,804,4 largest firms,2012,1635,12439892,89.4,2320419,573216,36058
+0100000US,,United States,524127,Direct title insurance carriers,808,8 largest firms,2012,1724,12985705,93.3,2400272,590612,36997
+0100000US,,United States,524127,Direct title insurance carriers,820,20 largest firms,2012,1852,13355694,96.0,2515227,616342,38885
+0100000US,,United States,524127,Direct title insurance carriers,850,50 largest firms,2012,1909,13527123,97.2,2580204,631059,40040
+0100000US,,United States,524128,"Other direct insurance (except life, health, and medical) carriers",001,All firms,2012,489,10364566,100.0,1600311,355494,21412
+0100000US,,United States,524128,"Other direct insurance (except life, health, and medical) carriers",804,4 largest firms,2012,25,4467197,43.1,986448,198209,12392
+0100000US,,United States,524128,"Other direct insurance (except life, health, and medical) carriers",808,8 largest firms,2012,76,6795510,65.6,1137153,241150,13874
+0100000US,,United States,524128,"Other direct insurance (except life, health, and medical) carriers",820,20 largest firms,2012,89,8770980,84.6,1340364,290705,16702
+0100000US,,United States,524128,"Other direct insurance (except life, health, and medical) carriers",850,50 largest firms,2012,138,9860728,95.1,1485060,328380,19084
+0100000US,,United States,52413,Reinsurance carriers,001,All firms,2012,381,49417476,100.0,2272492,810986,13349
+0100000US,,United States,52413,Reinsurance carriers,804,4 largest firms,2012,105,24436017,49.4,992391,364787,5495
+0100000US,,United States,52413,Reinsurance carriers,808,8 largest firms,2012,120,32026748,64.8,1182720,418524,6212
+0100000US,,United States,52413,Reinsurance carriers,820,20 largest firms,2012,188,42263528,85.5,1709896,630096,9101
+0100000US,,United States,52413,Reinsurance carriers,850,50 largest firms,2012,289,49141084,99.4,2204522,793190,12635
+0100000US,,United States,524130,Reinsurance carriers,001,All firms,2012,381,49417476,100.0,2272492,810986,13349
+0100000US,,United States,524130,Reinsurance carriers,804,4 largest firms,2012,105,24436017,49.4,992391,364787,5495
+0100000US,,United States,524130,Reinsurance carriers,808,8 largest firms,2012,120,32026748,64.8,1182720,418524,6212
+0100000US,,United States,524130,Reinsurance carriers,820,20 largest firms,2012,188,42263528,85.5,1709896,630096,9101
+0100000US,,United States,524130,Reinsurance carriers,850,50 largest firms,2012,289,49141084,99.4,2204522,793190,12635
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",001,All firms,2012,144290,263829121,100.0,51106914,12899253,856317
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",804,4 largest firms,2012,194,112347746,42.6,1640601,423657,14967
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",808,8 largest firms,2012,715,123498486,46.8,3491101,1102690,31891
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",820,20 largest firms,2012,2727,139491251,52.9,8504233,2565147,82153
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",850,50 largest firms,2012,4394,155756799,59.0,12495462,3545297,136969
+0100000US,,United States,52421,Insurance agencies and brokerages,001,All firms,2012,132882,106844034,100.0,37499689,9511276,640258
+0100000US,,United States,52421,Insurance agencies and brokerages,804,4 largest firms,2012,1025,11914500,11.2,3173919,1100132,28995
+0100000US,,United States,52421,Insurance agencies and brokerages,808,8 largest firms,2012,1949,17159397,16.1,5583936,1783292,50092
+0100000US,,United States,52421,Insurance agencies and brokerages,820,20 largest firms,2012,3146,23696825,22.2,7901102,2376943,77702
+0100000US,,United States,52421,Insurance agencies and brokerages,850,50 largest firms,2012,3706,28905805,27.1,9359228,2769209,95560
+0100000US,,United States,524210,Insurance agencies and brokerages,001,All firms,2012,132882,106844034,100.0,37499689,9511276,640258
+0100000US,,United States,524210,Insurance agencies and brokerages,804,4 largest firms,2012,1025,11914500,11.2,3173919,1100132,28995
+0100000US,,United States,524210,Insurance agencies and brokerages,808,8 largest firms,2012,1949,17159397,16.1,5583936,1783292,50092
+0100000US,,United States,524210,Insurance agencies and brokerages,820,20 largest firms,2012,3146,23696825,22.2,7901102,2376943,77702
+0100000US,,United States,524210,Insurance agencies and brokerages,850,50 largest firms,2012,3706,28905805,27.1,9359228,2769209,95560
+0100000US,,United States,52429,Other insurance related activities,001,All firms,2012,11408,156985087,100.0,13607225,3387977,216059
+0100000US,,United States,52429,Other insurance related activities,804,4 largest firms,2012,134,110827989,70.6,881247,177455,9328
+0100000US,,United States,52429,Other insurance related activities,808,8 largest firms,2012,231,117095052,74.6,1758486,424163,16846
+0100000US,,United States,52429,Other insurance related activities,820,20 largest firms,2012,910,126364560,80.5,3451601,885275,42694
+0100000US,,United States,52429,Other insurance related activities,850,50 largest firms,2012,1368,135087555,86.1,5390007,1392409,69970
+0100000US,,United States,524291,Claims adjusting,001,All firms,2012,4534,6117944,100.0,2474094,567470,36303
+0100000US,,United States,524291,Claims adjusting,804,4 largest firms,2012,82,1330725,21.8,581682,127252,6134
+0100000US,,United States,524291,Claims adjusting,808,8 largest firms,2012,149,1831166,29.9,763998,164342,8129
+0100000US,,United States,524291,Claims adjusting,820,20 largest firms,2012,449,2552953,41.7,1097833,250898,12747
+0100000US,,United States,524291,Claims adjusting,850,50 largest firms,2012,619,3449048,56.4,1432204,325352,17320
+0100000US,,United States,524292,Third party administration of insurance and pension funds,001,All firms,2012,4796,145245780,100.0,9132175,2277301,152227
+0100000US,,United States,524292,Third party administration of insurance and pension funds,804,4 largest firms,2012,133,110825678,76.3,880302,177201,9292
+0100000US,,United States,524292,Third party administration of insurance and pension funds,808,8 largest firms,2012,309,117040816,80.6,1276390,298326,14453
+0100000US,,United States,524292,Third party administration of insurance and pension funds,820,20 largest firms,2012,818,124791552,85.9,2633450,630571,36815
+0100000US,,United States,524292,Third party administration of insurance and pension funds,850,50 largest firms,2012,1086,131308249,90.4,3862524,965551,55714
+0100000US,,United States,524298,All other insurance related activities,001,All firms,2012,2078,5621363,100.0,2000956,543206,27529
+0100000US,,United States,524298,All other insurance related activities,804,4 largest firms,2012,107,2767256,49.2,896218,264388,8046
+0100000US,,United States,524298,All other insurance related activities,808,8 largest firms,2012,190,3199429,56.9,1056566,318659,10063
+0100000US,,United States,524298,All other insurance related activities,820,20 largest firms,2012,236,3729255,66.3,1251528,367654,14992
+0100000US,,United States,524298,All other insurance related activities,850,50 largest firms,2012,302,4319641,76.8,1472327,421720,18507

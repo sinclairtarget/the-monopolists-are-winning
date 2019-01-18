@@ -1,0 +1,802 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Revenue ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,48-49(104),Transportation and warehousing(104),001,All firms,2012,213809,730541303,100.0,183840920,45286363,4305464
+0100000US,,United States,48-49(104),Transportation and warehousing(104),804,4 largest firms,2012,5627,133446979,18.3,31774517,8145548,686396
+0100000US,,United States,48-49(104),Transportation and warehousing(104),808,8 largest firms,2012,6265,193049559,26.4,40864945,10382785,833779
+0100000US,,United States,48-49(104),Transportation and warehousing(104),820,20 largest firms,2012,9491,246208662,33.7,50263658,12828846,1010549
+0100000US,,United States,48-49(104),Transportation and warehousing(104),850,50 largest firms,2012,13722,307915237,42.1,61998254,15843389,1272226
+0100000US,,United States,481,Air transportation,001,All firms,2012,4979,181272565,100.0,26235674,6909199,444575
+0100000US,,United States,481,Air transportation,804,4 largest firms,2012,848,102803217,56.7,16258358,4393949,265270
+0100000US,,United States,481,Air transportation,808,8 largest firms,2012,1156,130028424,71.7,19666893,5295373,330874
+0100000US,,United States,481,Air transportation,820,20 largest firms,2012,1453,155409491,85.7,22351227,5967987,377435
+0100000US,,United States,481,Air transportation,850,50 largest firms,2012,1832,168720265,93.1,23788018,6331104,403506
+0100000US,,United States,4811,Scheduled air transportation,001,All firms,2012,2624,163848732,100.0,23532876,6269724,408185
+0100000US,,United States,4811,Scheduled air transportation,804,4 largest firms,2012,841,102676463,62.7,16240625,4390239,265037
+0100000US,,United States,4811,Scheduled air transportation,808,8 largest firms,2012,1149,129901670,79.3,19649160,5291663,330641
+0100000US,,United States,4811,Scheduled air transportation,820,20 largest firms,2012,1539,151636314,92.5,22243817,5952128,381802
+0100000US,,United States,4811,Scheduled air transportation,850,50 largest firms,2012,1897,160865758,98.2,22945785,6124462,396551
+0100000US,,United States,48111,Scheduled air transportation,001,All firms,2012,2624,163848732,100.0,23532876,6269724,408185
+0100000US,,United States,48111,Scheduled air transportation,804,4 largest firms,2012,841,102676463,62.7,16240625,4390239,265037
+0100000US,,United States,48111,Scheduled air transportation,808,8 largest firms,2012,1149,129901670,79.3,19649160,5291663,330641
+0100000US,,United States,48111,Scheduled air transportation,820,20 largest firms,2012,1539,151636314,92.5,22243817,5952128,381802
+0100000US,,United States,48111,Scheduled air transportation,850,50 largest firms,2012,1897,160865758,98.2,22945785,6124462,396551
+0100000US,,United States,481111,Scheduled passenger air transportation,001,All firms,2012,2231,157177234,100.0,22802763,6071225,398335
+0100000US,,United States,481111,Scheduled passenger air transportation,804,4 largest firms,2012,841,102676463,65.3,16240625,4390239,265037
+0100000US,,United States,481111,Scheduled passenger air transportation,808,8 largest firms,2012,1145,129495862,82.4,19646736,5291093,330576
+0100000US,,United States,481111,Scheduled passenger air transportation,820,20 largest firms,2012,1531,149463708,95.1,21945480,5861922,379466
+0100000US,,United States,481111,Scheduled passenger air transportation,850,50 largest firms,2012,1867,155983938,99.2,22562767,6011738,393081
+0100000US,,United States,481112,Scheduled freight air transportation,001,All firms,2012,393,6671498,100.0,730113,198499,9850
+0100000US,,United States,481112,Scheduled freight air transportation,804,4 largest firms,2012,38,3666981,55.0,344411,100772,3262
+0100000US,,United States,481112,Scheduled freight air transportation,808,8 largest firms,2012,48,4961232,74.4,438445,125604,4200
+0100000US,,United States,481112,Scheduled freight air transportation,820,20 largest firms,2012,161,5911816,88.6,593708,163820,7009
+0100000US,,United States,481112,Scheduled freight air transportation,850,50 largest firms,2012,251,6513023,97.6,693237,188620,9071
+0100000US,,United States,4812,Nonscheduled air transportation,001,All firms,2012,2355,17423833,100.0,2702798,639475,36390
+0100000US,,United States,4812,Nonscheduled air transportation,804,4 largest firms,2012,12,D,39.8,D,D,i
+0100000US,,United States,4812,Nonscheduled air transportation,808,8 largest firms,2012,24,8227369,47.2,838211,204869,9142
+0100000US,,United States,4812,Nonscheduled air transportation,820,20 largest firms,2012,69,10331992,59.3,1264440,305659,14357
+0100000US,,United States,4812,Nonscheduled air transportation,850,50 largest firms,2012,180,12372328,71.0,1642142,395655,18966
+0100000US,,United States,48121,Nonscheduled air transportation,001,All firms,2012,2355,17423833,100.0,2702798,639475,36390
+0100000US,,United States,48121,Nonscheduled air transportation,804,4 largest firms,2012,12,D,39.8,D,D,i
+0100000US,,United States,48121,Nonscheduled air transportation,808,8 largest firms,2012,24,8227369,47.2,838211,204869,9142
+0100000US,,United States,48121,Nonscheduled air transportation,820,20 largest firms,2012,69,10331992,59.3,1264440,305659,14357
+0100000US,,United States,48121,Nonscheduled air transportation,850,50 largest firms,2012,180,12372328,71.0,1642142,395655,18966
+0100000US,,United States,481211,Nonscheduled chartered passenger air transportation,001,All firms,2012,1624,11451468,100.0,2072321,507568,27910
+0100000US,,United States,481211,Nonscheduled chartered passenger air transportation,804,4 largest firms,2012,18,4527315,39.5,660336,158562,7446
+0100000US,,United States,481211,Nonscheduled chartered passenger air transportation,808,8 largest firms,2012,40,5606795,49.0,903386,223083,10586
+0100000US,,United States,481211,Nonscheduled chartered passenger air transportation,820,20 largest firms,2012,66,7020774,61.3,1119923,278290,13367
+0100000US,,United States,481211,Nonscheduled chartered passenger air transportation,850,50 largest firms,2012,121,8261069,72.1,1378429,342183,16495
+0100000US,,United States,481212,Nonscheduled chartered freight air transportation,001,All firms,2012,156,4173316,100.0,224687,50158,2776
+0100000US,,United States,481212,Nonscheduled chartered freight air transportation,804,4 largest firms,2012,5,3441469,82.5,93054,22447,742
+0100000US,,United States,481212,Nonscheduled chartered freight air transportation,808,8 largest firms,2012,18,3749699,89.8,135039,30487,1206
+0100000US,,United States,481212,Nonscheduled chartered freight air transportation,820,20 largest firms,2012,31,4040800,96.8,193913,43866,2107
+0100000US,,United States,481212,Nonscheduled chartered freight air transportation,850,50 largest firms,2012,65,4144291,99.3,216799,48544,2560
+0100000US,,United States,481219,Other nonscheduled air transportation,001,All firms,2012,575,1799049,100.0,405790,81749,5704
+0100000US,,United States,481219,Other nonscheduled air transportation,804,4 largest firms,2012,5,661187,36.8,168382,33672,1863
+0100000US,,United States,481219,Other nonscheduled air transportation,808,8 largest firms,2012,16,859208,47.8,199210,40696,2276
+0100000US,,United States,481219,Other nonscheduled air transportation,820,20 largest firms,2012,62,1157159,64.3,263607,53012,3051
+0100000US,,United States,481219,Other nonscheduled air transportation,850,50 largest firms,2012,105,1407791,78.3,317145,63995,3768
+0100000US,,United States,483,Water transportation,001,All firms,2012,1496,41708660,100.0,4801895,1241762,67428
+0100000US,,United States,483,Water transportation,804,4 largest firms,2012,19,15819810,37.9,1018689,316881,15455
+0100000US,,United States,483,Water transportation,808,8 largest firms,2012,70,21553086,51.7,1350564,397283,18228
+0100000US,,United States,483,Water transportation,820,20 largest firms,2012,208,30247824,72.5,2280540,647509,30109
+0100000US,,United States,483,Water transportation,850,50 largest firms,2012,344,36001291,86.3,3189279,867603,42282
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",001,All firms,2012,962,33341914,100.0,3426107,895784,46877
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",804,4 largest firms,2012,25,15651492,46.9,805360,254546,12870
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",808,8 largest firms,2012,108,20574528,61.7,1221941,351564,16737
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",820,20 largest firms,2012,215,26701524,80.1,1942683,540753,26376
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",850,50 largest firms,2012,326,30482884,91.4,2635938,707104,34408
+0100000US,,United States,48311,"Deep sea, coastal, and great lakes water transportation",001,All firms,2012,962,33341914,100.0,3426107,895784,46877
+0100000US,,United States,48311,"Deep sea, coastal, and great lakes water transportation",804,4 largest firms,2012,25,15651492,46.9,805360,254546,12870
+0100000US,,United States,48311,"Deep sea, coastal, and great lakes water transportation",808,8 largest firms,2012,108,20574528,61.7,1221941,351564,16737
+0100000US,,United States,48311,"Deep sea, coastal, and great lakes water transportation",820,20 largest firms,2012,215,26701524,80.1,1942683,540753,26376
+0100000US,,United States,48311,"Deep sea, coastal, and great lakes water transportation",850,50 largest firms,2012,326,30482884,91.4,2635938,707104,34408
+0100000US,,United States,483111,Deep sea freight transportation,001,All firms,2012,327,9639955,100.0,816064,196937,9149
+0100000US,,United States,483111,Deep sea freight transportation,804,4 largest firms,2012,98,5689410,59.0,378405,84050,3392
+0100000US,,United States,483111,Deep sea freight transportation,808,8 largest firms,2012,123,7591932,78.8,486784,113753,4770
+0100000US,,United States,483111,Deep sea freight transportation,820,20 largest firms,2012,151,8835694,91.7,677982,161714,7173
+0100000US,,United States,483111,Deep sea freight transportation,850,50 largest firms,2012,192,9471192,98.2,763309,182266,8430
+0100000US,,United States,483112,Deep sea passenger transportation,001,All firms,2012,41,16324925,100.0,948286,296986,16177
+0100000US,,United States,483112,Deep sea passenger transportation,804,4 largest firms,2012,10,14885118,91.2,843536,267514,13345
+0100000US,,United States,483112,Deep sea passenger transportation,808,8 largest firms,2012,14,16206292,99.3,904722,286135,14793
+0100000US,,United States,483112,Deep sea passenger transportation,820,20 largest firms,2012,26,16323911,100.0,948115,296944,16168
+0100000US,,United States,483112,Deep sea passenger transportation,850,50 largest firms,2012,41,16324925,100.0,948286,296986,16177
+0100000US,,United States,483113,Coastal and great lakes freight transportation,001,All firms,2012,480,7006467,100.0,1571686,384218,19782
+0100000US,,United States,483113,Coastal and great lakes freight transportation,804,4 largest firms,2012,22,1953612,27.9,317660,84949,3798
+0100000US,,United States,483113,Coastal and great lakes freight transportation,808,8 largest firms,2012,67,3077806,43.9,536997,133062,6117
+0100000US,,United States,483113,Coastal and great lakes freight transportation,820,20 largest firms,2012,143,4860196,69.4,876490,220679,9944
+0100000US,,United States,483113,Coastal and great lakes freight transportation,850,50 largest firms,2012,186,6157675,87.9,1283785,316890,15196
+0100000US,,United States,483114,Coastal and great lakes passenger transportation,001,All firms,2012,114,370567,100.0,90071,17643,1769
+0100000US,,United States,483114,Coastal and great lakes passenger transportation,804,4 largest firms,2012,10,172225,46.5,36134,6872,626
+0100000US,,United States,483114,Coastal and great lakes passenger transportation,808,8 largest firms,2012,16,222230,60.0,47177,8602,786
+0100000US,,United States,483114,Coastal and great lakes passenger transportation,820,20 largest firms,2012,32,295876,79.8,67295,12716,1230
+0100000US,,United States,483114,Coastal and great lakes passenger transportation,850,50 largest firms,2012,63,355555,95.9,84778,16630,1609
+0100000US,,United States,4832,Inland water transportation,001,All firms,2012,534,8366746,100.0,1375788,345978,20551
+0100000US,,United States,4832,Inland water transportation,804,4 largest firms,2012,22,4274720,51.1,425780,123625,5771
+0100000US,,United States,4832,Inland water transportation,808,8 largest firms,2012,28,5664786,67.7,658305,180440,8997
+0100000US,,United States,4832,Inland water transportation,820,20 largest firms,2012,55,7014391,83.8,927670,245203,12905
+0100000US,,United States,4832,Inland water transportation,850,50 largest firms,2012,104,7802833,93.3,1193601,305152,16962
+0100000US,,United States,48321,Inland water transportation,001,All firms,2012,534,8366746,100.0,1375788,345978,20551
+0100000US,,United States,48321,Inland water transportation,804,4 largest firms,2012,22,4274720,51.1,425780,123625,5771
+0100000US,,United States,48321,Inland water transportation,808,8 largest firms,2012,28,5664786,67.7,658305,180440,8997
+0100000US,,United States,48321,Inland water transportation,820,20 largest firms,2012,55,7014391,83.8,927670,245203,12905
+0100000US,,United States,48321,Inland water transportation,850,50 largest firms,2012,104,7802833,93.3,1193601,305152,16962
+0100000US,,United States,483211,Inland water freight transportation,001,All firms,2012,328,8074181,100.0,1282691,325043,18389
+0100000US,,United States,483211,Inland water freight transportation,804,4 largest firms,2012,22,4274720,52.9,425780,123625,5771
+0100000US,,United States,483211,Inland water freight transportation,808,8 largest firms,2012,28,5664786,70.2,658305,180440,8997
+0100000US,,United States,483211,Inland water freight transportation,820,20 largest firms,2012,55,7014391,86.9,927670,245203,12905
+0100000US,,United States,483211,Inland water freight transportation,850,50 largest firms,2012,91,7724417,95.7,1171255,299077,16409
+0100000US,,United States,4832111,Inland waterways freight transportation (except towing),001,All firms,2012,172,D,100.0,D,D,j
+0100000US,,United States,4832111,Inland waterways freight transportation (except towing),804,4 largest firms,2012,17,4034592,61.8,403390,115805,5281
+0100000US,,United States,4832111,Inland waterways freight transportation (except towing),808,8 largest firms,2012,23,5185814,79.4,566511,154999,7427
+0100000US,,United States,4832111,Inland waterways freight transportation (except towing),820,20 largest firms,2012,40,6204809,95.0,793936,208060,10453
+0100000US,,United States,4832111,Inland waterways freight transportation (except towing),850,50 largest firms,2012,76,6469546,99.1,849923,220793,11282
+0100000US,,United States,4832112,Inland waterways towing transportation,001,All firms,2012,156,1545616,100.0,416377,100529,6797
+0100000US,,United States,4832112,Inland waterways towing transportation,804,4 largest firms,2012,13,867026,56.1,180710,47709,3157
+0100000US,,United States,4832112,Inland waterways towing transportation,808,8 largest firms,2012,17,1060353,68.6,254804,64504,4239
+0100000US,,United States,4832112,Inland waterways towing transportation,820,20 largest firms,2012,32,1300954,84.2,327844,79473,5205
+0100000US,,United States,4832112,Inland waterways towing transportation,850,50 largest firms,2012,62,1471879,95.2,385973,93031,6169
+0100000US,,United States,483212,Inland water passenger transportation,001,All firms,2012,206,292565,100.0,93097,20935,2162
+0100000US,,United States,483212,Inland water passenger transportation,804,4 largest firms,2012,11,114079,39.0,26862,7056,598
+0100000US,,United States,483212,Inland water passenger transportation,808,8 largest firms,2012,28,161639,55.2,43615,10829,978
+0100000US,,United States,483212,Inland water passenger transportation,820,20 largest firms,2012,41,221670,75.8,68042,16097,1394
+0100000US,,United States,483212,Inland water passenger transportation,850,50 largest firms,2012,74,262490,89.7,83035,18959,1800
+0100000US,,United States,4832121,Inland waterways ferry transportation,001,All firms,2012,76,196651,100.0,56345,13216,1326
+0100000US,,United States,4832121,Inland waterways ferry transportation,804,4 largest firms,2012,11,114079,58.0,26862,7056,598
+0100000US,,United States,4832121,Inland waterways ferry transportation,808,8 largest firms,2012,22,155650,79.2,39394,9734,867
+0100000US,,United States,4832121,Inland waterways ferry transportation,820,20 largest firms,2012,37,183924,93.5,51593,12257,1156
+0100000US,,United States,4832121,Inland waterways ferry transportation,850,50 largest firms,2012,67,196340,99.8,56223,13192,1320
+0100000US,,United States,4832122,Other water passenger transportation (including water taxi),001,All firms,2012,130,95914,100.0,36752,7719,836
+0100000US,,United States,4832122,Other water passenger transportation (including water taxi),804,4 largest firms,2012,9,32882,34.3,12446,2833,217
+0100000US,,United States,4832122,Other water passenger transportation (including water taxi),808,8 largest firms,2012,14,49059,51.1,21322,4775,384
+0100000US,,United States,4832122,Other water passenger transportation (including water taxi),820,20 largest firms,2012,26,69248,72.2,27382,5986,536
+0100000US,,United States,4832122,Other water passenger transportation (including water taxi),850,50 largest firms,2012,56,86627,90.3,33716,7158,713
+0100000US,,United States,484,Truck transportation,001,All firms,2012,111899,238003186,100.0,57861069,13662521,1363102
+0100000US,,United States,484,Truck transportation,804,4 largest firms,2012,1856,18912572,7.9,5689086,1398116,107440
+0100000US,,United States,484,Truck transportation,808,8 largest firms,2012,2395,29972858,12.6,8631753,2116578,172940
+0100000US,,United States,484,Truck transportation,820,20 largest firms,2012,3904,48275471,20.3,11965276,2920051,243701
+0100000US,,United States,484,Truck transportation,850,50 largest firms,2012,5152,66605338,28.0,15788269,3819025,327956
+0100000US,,United States,4841,General freight trucking,001,All firms,2012,64068,153027972,100.0,38164096,9139586,896434
+0100000US,,United States,4841,General freight trucking,804,4 largest firms,2012,1854,18817994,12.3,5660847,1391316,106867
+0100000US,,United States,4841,General freight trucking,808,8 largest firms,2012,2386,29686959,19.4,8540171,2094326,171037
+0100000US,,United States,4841,General freight trucking,820,20 largest firms,2012,3980,46241959,30.2,12259890,3000137,251608
+0100000US,,United States,4841,General freight trucking,850,50 largest firms,2012,5088,60005793,39.2,15396285,3720000,325037
+0100000US,,United States,48411,"General freight trucking, local",001,All firms,2012,26456,23359554,100.0,6614109,1562362,175308
+0100000US,,United States,48411,"General freight trucking, local",804,4 largest firms,2012,48,409443,1.8,63389,15324,1663
+0100000US,,United States,48411,"General freight trucking, local",808,8 largest firms,2012,54,715126,3.1,103937,25414,2472
+0100000US,,United States,48411,"General freight trucking, local",820,20 largest firms,2012,153,1341612,5.7,259499,60709,5369
+0100000US,,United States,48411,"General freight trucking, local",850,50 largest firms,2012,289,2330622,10.0,479936,112962,10314
+0100000US,,United States,484110,"General freight trucking, local",001,All firms,2012,26456,23359554,100.0,6614109,1562362,175308
+0100000US,,United States,484110,"General freight trucking, local",804,4 largest firms,2012,48,409443,1.8,63389,15324,1663
+0100000US,,United States,484110,"General freight trucking, local",808,8 largest firms,2012,54,715126,3.1,103937,25414,2472
+0100000US,,United States,484110,"General freight trucking, local",820,20 largest firms,2012,153,1341612,5.7,259499,60709,5369
+0100000US,,United States,484110,"General freight trucking, local",850,50 largest firms,2012,289,2330622,10.0,479936,112962,10314
+0100000US,,United States,4841101,"Local general freight trucking without storage, truckload",001,All firms,2012,18215,16638538,100.0,4601696,1084847,119895
+0100000US,,United States,4841101,"Local general freight trucking without storage, truckload",804,4 largest firms,2012,31,408549,2.5,49761,12613,1159
+0100000US,,United States,4841101,"Local general freight trucking without storage, truckload",808,8 largest firms,2012,36,690582,4.2,90437,21833,2006
+0100000US,,United States,4841101,"Local general freight trucking without storage, truckload",820,20 largest firms,2012,80,1242022,7.5,222582,52346,4450
+0100000US,,United States,4841101,"Local general freight trucking without storage, truckload",850,50 largest firms,2012,187,2116483,12.7,424280,99590,8625
+0100000US,,United States,4841102,"Local general freight trucking without storage, less than truckload",001,All firms,2012,6349,5190398,100.0,1544864,366322,43186
+0100000US,,United States,4841102,"Local general freight trucking without storage, less than truckload",804,4 largest firms,2012,82,231283,4.5,57102,13153,1456
+0100000US,,United States,4841102,"Local general freight trucking without storage, less than truckload",808,8 largest firms,2012,111,354584,6.8,79227,18581,2079
+0100000US,,United States,4841102,"Local general freight trucking without storage, less than truckload",820,20 largest firms,2012,141,654496,12.6,130918,28815,3045
+0100000US,,United States,4841102,"Local general freight trucking without storage, less than truckload",850,50 largest firms,2012,262,1167280,22.5,281917,64415,6583
+0100000US,,United States,4841103,"Local general freight trucking with storage, truckload",001,All firms,2012,1024,837645,100.0,276630,66180,6819
+0100000US,,United States,4841103,"Local general freight trucking with storage, truckload",804,4 largest firms,2012,4,94507,11.3,12762,3140,268
+0100000US,,United States,4841103,"Local general freight trucking with storage, truckload",808,8 largest firms,2012,8,151569,18.1,19677,5122,487
+0100000US,,United States,4841103,"Local general freight trucking with storage, truckload",820,20 largest firms,2012,21,262833,31.4,41929,10330,1015
+0100000US,,United States,4841103,"Local general freight trucking with storage, truckload",850,50 largest firms,2012,57,432386,51.6,80773,19466,2090
+0100000US,,United States,4841104,"Local general freight trucking with storage, less than truckload",001,All firms,2012,868,692973,100.0,190919,45013,5408
+0100000US,,United States,4841104,"Local general freight trucking with storage, less than truckload",804,4 largest firms,2012,5,107148,15.5,20330,4693,408
+0100000US,,United States,4841104,"Local general freight trucking with storage, less than truckload",808,8 largest firms,2012,11,150507,21.7,30905,7336,732
+0100000US,,United States,4841104,"Local general freight trucking with storage, less than truckload",820,20 largest firms,2012,26,247986,35.8,62117,14611,1496
+0100000US,,United States,4841104,"Local general freight trucking with storage, less than truckload",850,50 largest firms,2012,58,383516,55.3,98207,22914,2441
+0100000US,,United States,48412,"General freight trucking, long-distance",001,All firms,2012,37612,129668418,100.0,31549987,7577224,721126
+0100000US,,United States,48412,"General freight trucking, long-distance",804,4 largest firms,2012,1854,18817994,14.5,5660847,1391316,106867
+0100000US,,United States,48412,"General freight trucking, long-distance",808,8 largest firms,2012,2386,29686959,22.9,8540171,2094326,171037
+0100000US,,United States,48412,"General freight trucking, long-distance",820,20 largest firms,2012,3980,46241959,35.7,12259890,3000137,251608
+0100000US,,United States,48412,"General freight trucking, long-distance",850,50 largest firms,2012,5082,59913781,46.2,15384735,3717354,324874
+0100000US,,United States,484121,"General freight trucking, long-distance, truckload",001,All firms,2012,29851,92215444,100.0,18899388,4531626,470492
+0100000US,,United States,484121,"General freight trucking, long-distance, truckload",804,4 largest firms,2012,637,13412545,14.5,2105707,539308,52876
+0100000US,,United States,484121,"General freight trucking, long-distance, truckload",808,8 largest firms,2012,1245,19430736,21.1,3177532,807254,80224
+0100000US,,United States,484121,"General freight trucking, long-distance, truckload",820,20 largest firms,2012,1650,26494792,28.7,4481330,1085278,112424
+0100000US,,United States,484121,"General freight trucking, long-distance, truckload",850,50 largest firms,2012,1973,35002881,38.0,6026675,1446151,149318
+0100000US,,United States,484122,"General freight trucking, long-distance, less than truckload",001,All firms,2012,7761,37452974,100.0,12650599,3045598,250634
+0100000US,,United States,484122,"General freight trucking, long-distance, less than truckload",804,4 largest firms,2012,1495,15668609,41.8,5502211,1333889,102508
+0100000US,,United States,484122,"General freight trucking, long-distance, less than truckload",808,8 largest firms,2012,2422,22486741,60.0,7957151,1918825,145905
+0100000US,,United States,484122,"General freight trucking, long-distance, less than truckload",820,20 largest firms,2012,3261,28543321,76.2,10159158,2448117,192378
+0100000US,,United States,484122,"General freight trucking, long-distance, less than truckload",850,50 largest firms,2012,3773,31918142,85.2,11154038,2692380,214128
+0100000US,,United States,4842,Specialized freight trucking,001,All firms,2012,47831,84975214,100.0,19696973,4522935,466668
+0100000US,,United States,4842,Specialized freight trucking,804,4 largest firms,2012,11,5106565,6.0,355227,88259,6074
+0100000US,,United States,4842,Specialized freight trucking,808,8 largest firms,2012,147,7794994,9.2,726033,179038,13214
+0100000US,,United States,4842,Specialized freight trucking,820,20 largest firms,2012,511,11969743,14.1,1683046,406020,30711
+0100000US,,United States,4842,Specialized freight trucking,850,50 largest firms,2012,1093,17580981,20.7,2971908,721291,55622
+0100000US,,United States,48421,Used household and office goods moving,001,All firms,2012,7826,13651293,100.0,2963149,652142,89697
+0100000US,,United States,48421,Used household and office goods moving,804,4 largest firms,2012,44,3564272,26.1,175675,41421,3326
+0100000US,,United States,48421,Used household and office goods moving,808,8 largest firms,2012,131,4229212,31.0,306829,74155,6306
+0100000US,,United States,48421,Used household and office goods moving,820,20 largest firms,2012,229,5109803,37.4,496134,115561,10048
+0100000US,,United States,48421,Used household and office goods moving,850,50 largest firms,2012,379,6301323,46.2,751824,174760,16324
+0100000US,,United States,484210,Used household and office goods moving,001,All firms,2012,7826,13651293,100.0,2963149,652142,89697
+0100000US,,United States,484210,Used household and office goods moving,804,4 largest firms,2012,44,3564272,26.1,175675,41421,3326
+0100000US,,United States,484210,Used household and office goods moving,808,8 largest firms,2012,131,4229212,31.0,306829,74155,6306
+0100000US,,United States,484210,Used household and office goods moving,820,20 largest firms,2012,229,5109803,37.4,496134,115561,10048
+0100000US,,United States,484210,Used household and office goods moving,850,50 largest firms,2012,379,6301323,46.2,751824,174760,16324
+0100000US,,United States,4842101,"Local used household and office goods moving, without storage",001,All firms,2012,3610,2043646,100.0,652383,139089,25910
+0100000US,,United States,4842101,"Local used household and office goods moving, without storage",804,4 largest firms,2012,14,97819,4.8,23115,5974,612
+0100000US,,United States,4842101,"Local used household and office goods moving, without storage",808,8 largest firms,2012,18,159114,7.8,39403,9375,988
+0100000US,,United States,4842101,"Local used household and office goods moving, without storage",820,20 largest firms,2012,34,298209,14.6,89047,19893,2025
+0100000US,,United States,4842101,"Local used household and office goods moving, without storage",850,50 largest firms,2012,81,509916,25.0,160646,34805,4159
+0100000US,,United States,4842102,Long-distance used household and office goods moving,001,All firms,2012,2564,9189283,100.0,1527661,344020,40286
+0100000US,,United States,4842102,Long-distance used household and office goods moving,804,4 largest firms,2012,43,3563370,38.8,174383,41070,3308
+0100000US,,United States,4842102,Long-distance used household and office goods moving,808,8 largest firms,2012,126,4221207,45.9,301127,72802,6187
+0100000US,,United States,4842102,Long-distance used household and office goods moving,820,20 largest firms,2012,217,4994633,54.4,456595,108662,9164
+0100000US,,United States,4842102,Long-distance used household and office goods moving,850,50 largest firms,2012,314,5938360,64.6,650024,153940,13559
+0100000US,,United States,4842103,"Local used household and office goods moving, with storage",001,All firms,2012,1652,2418364,100.0,783105,169033,23501
+0100000US,,United States,4842103,"Local used household and office goods moving, with storage",804,4 largest firms,2012,15,236901,9.8,56922,11653,1225
+0100000US,,United States,4842103,"Local used household and office goods moving, with storage",808,8 largest firms,2012,37,357219,14.8,86931,18340,2017
+0100000US,,United States,4842103,"Local used household and office goods moving, with storage",820,20 largest firms,2012,66,599062,24.8,138869,30148,3309
+0100000US,,United States,4842103,"Local used household and office goods moving, with storage",850,50 largest firms,2012,139,974998,40.3,254729,55723,6190
+0100000US,,United States,48422,"Specialized freight (except used goods) trucking, local",001,All firms,2012,30167,36171307,100.0,8860189,2000268,213794
+0100000US,,United States,48422,"Specialized freight (except used goods) trucking, local",804,4 largest firms,2012,103,1401056,3.9,319093,73375,4524
+0100000US,,United States,48422,"Specialized freight (except used goods) trucking, local",808,8 largest firms,2012,185,1966151,5.4,495814,114369,8200
+0100000US,,United States,48422,"Specialized freight (except used goods) trucking, local",820,20 largest firms,2012,375,3069652,8.5,783887,184770,14350
+0100000US,,United States,48422,"Specialized freight (except used goods) trucking, local",850,50 largest firms,2012,501,4681959,12.9,1142046,267113,20593
+0100000US,,United States,484220,"Specialized freight (except used goods) trucking, local",001,All firms,2012,30167,36171307,100.0,8860189,2000268,213794
+0100000US,,United States,484220,"Specialized freight (except used goods) trucking, local",804,4 largest firms,2012,103,1401056,3.9,319093,73375,4524
+0100000US,,United States,484220,"Specialized freight (except used goods) trucking, local",808,8 largest firms,2012,185,1966151,5.4,495814,114369,8200
+0100000US,,United States,484220,"Specialized freight (except used goods) trucking, local",820,20 largest firms,2012,375,3069652,8.5,783887,184770,14350
+0100000US,,United States,484220,"Specialized freight (except used goods) trucking, local",850,50 largest firms,2012,501,4681959,12.9,1142046,267113,20593
+0100000US,,United States,4842201,Local hazardous materials trucking (except waste),001,All firms,2012,2489,5655166,100.0,1501270,353054,28672
+0100000US,,United States,4842201,Local hazardous materials trucking (except waste),804,4 largest firms,2012,43,1113001,19.7,238855,55928,3390
+0100000US,,United States,4842201,Local hazardous materials trucking (except waste),808,8 largest firms,2012,109,1473438,26.1,364708,86341,6018
+0100000US,,United States,4842201,Local hazardous materials trucking (except waste),820,20 largest firms,2012,146,2070806,36.6,483563,114751,7984
+0100000US,,United States,4842201,Local hazardous materials trucking (except waste),850,50 largest firms,2012,247,2838690,50.2,673684,159010,11356
+0100000US,,United States,4842202,Local agricultural products trucking without storage,001,All firms,2012,7544,6219991,100.0,1412556,330598,40860
+0100000US,,United States,4842202,Local agricultural products trucking without storage,804,4 largest firms,2012,14,237460,3.8,34031,9667,1107
+0100000US,,United States,4842202,Local agricultural products trucking without storage,808,8 largest firms,2012,24,359981,5.8,67497,17855,1806
+0100000US,,United States,4842202,Local agricultural products trucking without storage,820,20 largest firms,2012,46,640253,10.3,131486,32095,3222
+0100000US,,United States,4842202,Local agricultural products trucking without storage,850,50 largest firms,2012,89,1076740,17.3,239917,58358,5567
+0100000US,,United States,4842203,Dump trucking,001,All firms,2012,13848,14509910,100.0,3072366,644220,82463
+0100000US,,United States,4842203,Dump trucking,804,4 largest firms,2012,57,394473,2.7,60265,13935,1734
+0100000US,,United States,4842203,Dump trucking,808,8 largest firms,2012,65,622321,4.3,107969,24887,3104
+0100000US,,United States,4842203,Dump trucking,820,20 largest firms,2012,80,1112952,7.7,178021,40400,4646
+0100000US,,United States,4842203,Dump trucking,850,50 largest firms,2012,134,1929690,13.3,348844,78473,8786
+0100000US,,United States,4842204,Local specialized trucking without storage,001,All firms,2012,5944,8999813,100.0,2649617,620507,57203
+0100000US,,United States,4842204,Local specialized trucking without storage,804,4 largest firms,2012,91,682145,7.6,218079,49298,3839
+0100000US,,United States,4842204,Local specialized trucking without storage,808,8 largest firms,2012,133,1073873,11.9,337474,77309,5739
+0100000US,,United States,4842204,Local specialized trucking without storage,820,20 largest firms,2012,255,1697295,18.9,519604,120947,8566
+0100000US,,United States,4842204,Local specialized trucking without storage,850,50 largest firms,2012,322,2571149,28.6,791299,183084,12338
+0100000US,,United States,4842205,"Local, specialized freight (except used goods) trucking",001,All firms,2012,342,786427,100.0,224380,51889,4596
+0100000US,,United States,4842205,"Local, specialized freight (except used goods) trucking",804,4 largest firms,2012,4,169425,21.5,30035,5001,277
+0100000US,,United States,4842205,"Local, specialized freight (except used goods) trucking",808,8 largest firms,2012,10,242338,30.8,52694,10637,809
+0100000US,,United States,4842205,"Local, specialized freight (except used goods) trucking",820,20 largest firms,2012,29,376601,47.9,88299,19619,1438
+0100000US,,United States,4842205,"Local, specialized freight (except used goods) trucking",850,50 largest firms,2012,70,557565,70.9,141052,32133,2571
+0100000US,,United States,48423,"Specialized freight (except used goods) trucking, long-distance",001,All firms,2012,9838,35152614,100.0,7873635,1870525,163177
+0100000US,,United States,48423,"Specialized freight (except used goods) trucking, long-distance",804,4 largest firms,2012,134,3913168,11.1,525802,131845,10158
+0100000US,,United States,48423,"Specialized freight (except used goods) trucking, long-distance",808,8 largest firms,2012,283,5612399,16.0,928688,230030,17309
+0100000US,,United States,48423,"Specialized freight (except used goods) trucking, long-distance",820,20 largest firms,2012,514,8711141,24.8,1507349,370977,29599
+0100000US,,United States,48423,"Specialized freight (except used goods) trucking, long-distance",850,50 largest firms,2012,898,13080765,37.2,2512979,609936,48311
+0100000US,,United States,484230,"Specialized freight (except used goods) trucking, long-distance",001,All firms,2012,9838,35152614,100.0,7873635,1870525,163177
+0100000US,,United States,484230,"Specialized freight (except used goods) trucking, long-distance",804,4 largest firms,2012,134,3913168,11.1,525802,131845,10158
+0100000US,,United States,484230,"Specialized freight (except used goods) trucking, long-distance",808,8 largest firms,2012,283,5612399,16.0,928688,230030,17309
+0100000US,,United States,484230,"Specialized freight (except used goods) trucking, long-distance",820,20 largest firms,2012,514,8711141,24.8,1507349,370977,29599
+0100000US,,United States,484230,"Specialized freight (except used goods) trucking, long-distance",850,50 largest firms,2012,898,13080765,37.2,2512979,609936,48311
+0100000US,,United States,4842301,"Hazardous materials trucking (except waste), long-distance",001,All firms,2012,1536,6073246,100.0,1479509,358500,29854
+0100000US,,United States,4842301,"Hazardous materials trucking (except waste), long-distance",804,4 largest firms,2012,173,1655119,27.3,309716,77084,6163
+0100000US,,United States,4842301,"Hazardous materials trucking (except waste), long-distance",808,8 largest firms,2012,261,2135756,35.2,463780,114240,9411
+0100000US,,United States,4842301,"Hazardous materials trucking (except waste), long-distance",820,20 largest firms,2012,355,2923229,48.1,641117,155999,12609
+0100000US,,United States,4842301,"Hazardous materials trucking (except waste), long-distance",850,50 largest firms,2012,493,4063356,66.9,890621,215878,17792
+0100000US,,United States,4842302,"Agricultural products trucking, long-distance",001,All firms,2012,3178,4189114,100.0,899667,209605,22468
+0100000US,,United States,4842302,"Agricultural products trucking, long-distance",804,4 largest firms,2012,29,385626,9.2,104765,23238,2105
+0100000US,,United States,4842302,"Agricultural products trucking, long-distance",808,8 largest firms,2012,41,569303,13.6,149287,33980,3169
+0100000US,,United States,4842302,"Agricultural products trucking, long-distance",820,20 largest firms,2012,55,897098,21.4,200922,45808,4255
+0100000US,,United States,4842302,"Agricultural products trucking, long-distance",850,50 largest firms,2012,91,1407942,33.6,307263,69681,6558
+0100000US,,United States,4842303,"Other specialized trucking, long-distance",001,All firms,2012,5124,24890254,100.0,5494459,1302420,110855
+0100000US,,United States,4842303,"Other specialized trucking, long-distance",804,4 largest firms,2012,54,3388368,13.6,454597,112362,8095
+0100000US,,United States,4842303,"Other specialized trucking, long-distance",808,8 largest firms,2012,198,4800359,19.3,848329,207633,14630
+0100000US,,United States,4842303,"Other specialized trucking, long-distance",820,20 largest firms,2012,398,7641791,30.7,1373023,331369,26115
+0100000US,,United States,4842303,"Other specialized trucking, long-distance",850,50 largest firms,2012,642,11267815,45.3,2120380,515249,40148
+0100000US,,United States,485,Transit and ground passenger transportation,001,All firms,2012,18735,28687226,100.0,11275499,2785464,495105
+0100000US,,United States,485,Transit and ground passenger transportation,804,4 largest firms,2012,1233,5903068,20.6,2899878,714893,136987
+0100000US,,United States,485,Transit and ground passenger transportation,808,8 largest firms,2012,1419,7271764,25.3,3423622,858379,157836
+0100000US,,United States,485,Transit and ground passenger transportation,820,20 largest firms,2012,1681,9070407,31.6,4260784,1067782,183525
+0100000US,,United States,485,Transit and ground passenger transportation,850,50 largest firms,2012,1878,11047818,38.5,5073728,1271089,212380
+0100000US,,United States,4851,Urban transit systems,001,All firms,2012,834,3672499,100.0,2021937,495353,47813
+0100000US,,United States,4851,Urban transit systems,804,4 largest firms,2012,170,1988274,54.1,935918,220547,22511
+0100000US,,United States,4851,Urban transit systems,808,8 largest firms,2012,206,2420292,65.9,1309992,315504,28482
+0100000US,,United States,4851,Urban transit systems,820,20 largest firms,2012,238,2873988,78.3,1631868,398657,35652
+0100000US,,United States,4851,Urban transit systems,850,50 largest firms,2012,286,3309791,90.1,1852489,454062,41025
+0100000US,,United States,48511,Urban transit systems,001,All firms,2012,834,3672499,100.0,2021937,495353,47813
+0100000US,,United States,48511,Urban transit systems,804,4 largest firms,2012,170,1988274,54.1,935918,220547,22511
+0100000US,,United States,48511,Urban transit systems,808,8 largest firms,2012,206,2420292,65.9,1309992,315504,28482
+0100000US,,United States,48511,Urban transit systems,820,20 largest firms,2012,238,2873988,78.3,1631868,398657,35652
+0100000US,,United States,48511,Urban transit systems,850,50 largest firms,2012,286,3309791,90.1,1852489,454062,41025
+0100000US,,United States,485111,Mixed mode transit systems,001,All firms,2012,17,D,100.0,D,D,f
+0100000US,,United States,485111,Mixed mode transit systems,804,4 largest firms,2012,4,D,95.0,D,D,f
+0100000US,,United States,485111,Mixed mode transit systems,808,8 largest firms,2012,8,D,98.0,D,D,f
+0100000US,,United States,485111,Mixed mode transit systems,820,20 largest firms,2012,17,D,100.0,D,D,f
+0100000US,,United States,485111,Mixed mode transit systems,850,50 largest firms,2012,17,D,100.0,D,D,f
+0100000US,,United States,485112,Commuter rail systems,001,All firms,2012,9,D,100.0,D,D,h
+0100000US,,United States,485112,Commuter rail systems,804,4 largest firms,2012,9,D,100.0,D,D,h
+0100000US,,United States,485112,Commuter rail systems,808,8 largest firms,2012,9,D,100.0,D,D,h
+0100000US,,United States,485112,Commuter rail systems,820,20 largest firms,2012,9,D,100.0,D,D,h
+0100000US,,United States,485112,Commuter rail systems,850,50 largest firms,2012,9,D,100.0,D,D,h
+0100000US,,United States,485113,Bus and other motor vehicle transit systems,001,All firms,2012,772,2894674,100.0,1702180,416942,42951
+0100000US,,United States,485113,Bus and other motor vehicle transit systems,804,4 largest firms,2012,162,1624368,56.1,935875,225357,22517
+0100000US,,United States,485113,Bus and other motor vehicle transit systems,808,8 largest firms,2012,186,1920764,66.4,1166435,281095,26953
+0100000US,,United States,485113,Bus and other motor vehicle transit systems,820,20 largest firms,2012,216,2275907,78.6,1392041,340848,32798
+0100000US,,United States,485113,Bus and other motor vehicle transit systems,850,50 largest firms,2012,272,2601005,89.9,1561074,383251,37105
+0100000US,,United States,485119,Other urban transit systems,001,All firms,2012,36,314601,100.0,116889,28615,1630
+0100000US,,United States,485119,Other urban transit systems,804,4 largest firms,2012,17,D,86.9,D,D,g
+0100000US,,United States,485119,Other urban transit systems,808,8 largest firms,2012,24,310963,98.8,115628,28370,1588
+0100000US,,United States,485119,Other urban transit systems,820,20 largest firms,2012,36,314601,100.0,116889,28615,1630
+0100000US,,United States,485119,Other urban transit systems,850,50 largest firms,2012,36,314601,100.0,116889,28615,1630
+0100000US,,United States,4852,Interurban and rural bus transportation,001,All firms,2012,507,1151483,100.0,445576,107671,16663
+0100000US,,United States,4852,Interurban and rural bus transportation,804,4 largest firms,2012,120,593387,51.5,268580,65505,9924
+0100000US,,United States,4852,Interurban and rural bus transportation,808,8 largest firms,2012,148,700218,60.8,308500,75190,11573
+0100000US,,United States,4852,Interurban and rural bus transportation,820,20 largest firms,2012,178,871890,75.7,362421,88186,13250
+0100000US,,United States,4852,Interurban and rural bus transportation,850,50 largest firms,2012,240,1018776,88.5,409729,99426,14901
+0100000US,,United States,48521,Interurban and rural bus transportation,001,All firms,2012,507,1151483,100.0,445576,107671,16663
+0100000US,,United States,48521,Interurban and rural bus transportation,804,4 largest firms,2012,120,593387,51.5,268580,65505,9924
+0100000US,,United States,48521,Interurban and rural bus transportation,808,8 largest firms,2012,148,700218,60.8,308500,75190,11573
+0100000US,,United States,48521,Interurban and rural bus transportation,820,20 largest firms,2012,178,871890,75.7,362421,88186,13250
+0100000US,,United States,48521,Interurban and rural bus transportation,850,50 largest firms,2012,240,1018776,88.5,409729,99426,14901
+0100000US,,United States,485210,Interurban and rural bus transportation,001,All firms,2012,507,1151483,100.0,445576,107671,16663
+0100000US,,United States,485210,Interurban and rural bus transportation,804,4 largest firms,2012,120,593387,51.5,268580,65505,9924
+0100000US,,United States,485210,Interurban and rural bus transportation,808,8 largest firms,2012,148,700218,60.8,308500,75190,11573
+0100000US,,United States,485210,Interurban and rural bus transportation,820,20 largest firms,2012,178,871890,75.7,362421,88186,13250
+0100000US,,United States,485210,Interurban and rural bus transportation,850,50 largest firms,2012,240,1018776,88.5,409729,99426,14901
+0100000US,,United States,4853,Taxi and limousine service,001,All firms,2012,7506,6614317,100.0,1780095,422650,75466
+0100000US,,United States,4853,Taxi and limousine service,804,4 largest firms,2012,34,547477,8.3,128804,29816,3494
+0100000US,,United States,4853,Taxi and limousine service,808,8 largest firms,2012,49,808728,12.2,216641,52839,7169
+0100000US,,United States,4853,Taxi and limousine service,820,20 largest firms,2012,84,1355719,20.5,346994,83169,11251
+0100000US,,United States,4853,Taxi and limousine service,850,50 largest firms,2012,140,2128333,32.2,540235,129096,18075
+0100000US,,United States,48531,Taxi service,001,All firms,2012,3050,2476673,100.0,729417,176179,33404
+0100000US,,United States,48531,Taxi service,804,4 largest firms,2012,19,292996,11.8,100799,24129,4351
+0100000US,,United States,48531,Taxi service,808,8 largest firms,2012,31,465539,18.8,147052,35071,5753
+0100000US,,United States,48531,Taxi service,820,20 largest firms,2012,53,834455,33.7,289437,68903,11142
+0100000US,,United States,48531,Taxi service,850,50 largest firms,2012,99,1233814,49.8,351952,83246,13476
+0100000US,,United States,485310,Taxi service,001,All firms,2012,3050,2476673,100.0,729417,176179,33404
+0100000US,,United States,485310,Taxi service,804,4 largest firms,2012,19,292996,11.8,100799,24129,4351
+0100000US,,United States,485310,Taxi service,808,8 largest firms,2012,31,465539,18.8,147052,35071,5753
+0100000US,,United States,485310,Taxi service,820,20 largest firms,2012,53,834455,33.7,289437,68903,11142
+0100000US,,United States,485310,Taxi service,850,50 largest firms,2012,99,1233814,49.8,351952,83246,13476
+0100000US,,United States,48532,Limousine service,001,All firms,2012,4456,4137644,100.0,1050678,246471,42062
+0100000US,,United States,48532,Limousine service,804,4 largest firms,2012,34,499673,12.1,100844,25180,2184
+0100000US,,United States,48532,Limousine service,808,8 largest firms,2012,41,696311,16.8,132830,31705,2835
+0100000US,,United States,48532,Limousine service,820,20 largest firms,2012,57,1042280,25.2,199556,48220,5070
+0100000US,,United States,48532,Limousine service,850,50 largest firms,2012,101,1538087,37.2,328711,79780,8813
+0100000US,,United States,485320,Limousine service,001,All firms,2012,4456,4137644,100.0,1050678,246471,42062
+0100000US,,United States,485320,Limousine service,804,4 largest firms,2012,34,499673,12.1,100844,25180,2184
+0100000US,,United States,485320,Limousine service,808,8 largest firms,2012,41,696311,16.8,132830,31705,2835
+0100000US,,United States,485320,Limousine service,820,20 largest firms,2012,57,1042280,25.2,199556,48220,5070
+0100000US,,United States,485320,Limousine service,850,50 largest firms,2012,101,1538087,37.2,328711,79780,8813
+0100000US,,United States,4854,School and employee bus transportation,001,All firms,2012,4327,9443990,100.0,4206391,1086948,239563
+0100000US,,United States,4854,School and employee bus transportation,804,4 largest firms,2012,1012,3913821,41.4,1832329,466571,110685
+0100000US,,United States,4854,School and employee bus transportation,808,8 largest firms,2012,1163,4474901,47.4,2074102,529624,124891
+0100000US,,United States,4854,School and employee bus transportation,820,20 largest firms,2012,1247,5266450,55.8,2416896,617852,141025
+0100000US,,United States,4854,School and employee bus transportation,850,50 largest firms,2012,1366,6033347,63.9,2769472,709281,156424
+0100000US,,United States,48541,School and employee bus transportation,001,All firms,2012,4327,9443990,100.0,4206391,1086948,239563
+0100000US,,United States,48541,School and employee bus transportation,804,4 largest firms,2012,1012,3913821,41.4,1832329,466571,110685
+0100000US,,United States,48541,School and employee bus transportation,808,8 largest firms,2012,1163,4474901,47.4,2074102,529624,124891
+0100000US,,United States,48541,School and employee bus transportation,820,20 largest firms,2012,1247,5266450,55.8,2416896,617852,141025
+0100000US,,United States,48541,School and employee bus transportation,850,50 largest firms,2012,1366,6033347,63.9,2769472,709281,156424
+0100000US,,United States,485410,School and employee bus transportation,001,All firms,2012,4327,9443990,100.0,4206391,1086948,239563
+0100000US,,United States,485410,School and employee bus transportation,804,4 largest firms,2012,1012,3913821,41.4,1832329,466571,110685
+0100000US,,United States,485410,School and employee bus transportation,808,8 largest firms,2012,1163,4474901,47.4,2074102,529624,124891
+0100000US,,United States,485410,School and employee bus transportation,820,20 largest firms,2012,1247,5266450,55.8,2416896,617852,141025
+0100000US,,United States,485410,School and employee bus transportation,850,50 largest firms,2012,1366,6033347,63.9,2769472,709281,156424
+0100000US,,United States,4855,Charter bus industry,001,All firms,2012,1388,3078003,100.0,885906,202445,33850
+0100000US,,United States,4855,Charter bus industry,804,4 largest firms,2012,36,438644,14.3,142644,40637,5010
+0100000US,,United States,4855,Charter bus industry,808,8 largest firms,2012,54,567175,18.4,177825,48843,6077
+0100000US,,United States,4855,Charter bus industry,820,20 largest firms,2012,75,802559,26.1,251990,64796,8091
+0100000US,,United States,4855,Charter bus industry,850,50 largest firms,2012,112,1212206,39.4,366266,88280,11567
+0100000US,,United States,48551,Charter bus industry,001,All firms,2012,1388,3078003,100.0,885906,202445,33850
+0100000US,,United States,48551,Charter bus industry,804,4 largest firms,2012,36,438644,14.3,142644,40637,5010
+0100000US,,United States,48551,Charter bus industry,808,8 largest firms,2012,54,567175,18.4,177825,48843,6077
+0100000US,,United States,48551,Charter bus industry,820,20 largest firms,2012,75,802559,26.1,251990,64796,8091
+0100000US,,United States,48551,Charter bus industry,850,50 largest firms,2012,112,1212206,39.4,366266,88280,11567
+0100000US,,United States,485510,Charter bus industry,001,All firms,2012,1388,3078003,100.0,885906,202445,33850
+0100000US,,United States,485510,Charter bus industry,804,4 largest firms,2012,36,438644,14.3,142644,40637,5010
+0100000US,,United States,485510,Charter bus industry,808,8 largest firms,2012,54,567175,18.4,177825,48843,6077
+0100000US,,United States,485510,Charter bus industry,820,20 largest firms,2012,75,802559,26.1,251990,64796,8091
+0100000US,,United States,485510,Charter bus industry,850,50 largest firms,2012,112,1212206,39.4,366266,88280,11567
+0100000US,,United States,4859,Other transit and ground passenger transportation,001,All firms,2012,4173,4726934,100.0,1935594,470397,81750
+0100000US,,United States,4859,Other transit and ground passenger transportation,804,4 largest firms,2012,110,683606,14.5,309589,71025,8941
+0100000US,,United States,4859,Other transit and ground passenger transportation,808,8 largest firms,2012,118,859582,18.2,359692,82569,10287
+0100000US,,United States,4859,Other transit and ground passenger transportation,820,20 largest firms,2012,243,1231218,26.0,507109,120676,16923
+0100000US,,United States,4859,Other transit and ground passenger transportation,850,50 largest firms,2012,332,1721430,36.4,712867,170911,24450
+0100000US,,United States,48599,Other transit and ground passenger transportation,001,All firms,2012,4173,4726934,100.0,1935594,470397,81750
+0100000US,,United States,48599,Other transit and ground passenger transportation,804,4 largest firms,2012,110,683606,14.5,309589,71025,8941
+0100000US,,United States,48599,Other transit and ground passenger transportation,808,8 largest firms,2012,118,859582,18.2,359692,82569,10287
+0100000US,,United States,48599,Other transit and ground passenger transportation,820,20 largest firms,2012,243,1231218,26.0,507109,120676,16923
+0100000US,,United States,48599,Other transit and ground passenger transportation,850,50 largest firms,2012,332,1721430,36.4,712867,170911,24450
+0100000US,,United States,485991,Special needs transportation,001,All firms,2012,2833,3521904,100.0,1496769,363385,61605
+0100000US,,United States,485991,Special needs transportation,804,4 largest firms,2012,51,528143,15.0,271986,62970,7821
+0100000US,,United States,485991,Special needs transportation,808,8 largest firms,2012,59,698413,19.8,324542,75042,9385
+0100000US,,United States,485991,Special needs transportation,820,20 largest firms,2012,85,977852,27.8,424031,99348,13061
+0100000US,,United States,485991,Special needs transportation,850,50 largest firms,2012,164,1354844,38.5,593626,143412,19870
+0100000US,,United States,485999,All other transit and ground passenger transportation,001,All firms,2012,1340,1205030,100.0,438825,107012,20145
+0100000US,,United States,485999,All other transit and ground passenger transportation,804,4 largest firms,2012,129,276425,22.9,84436,19986,2936
+0100000US,,United States,485999,All other transit and ground passenger transportation,808,8 largest firms,2012,170,390675,32.4,140090,35391,5725
+0100000US,,United States,485999,All other transit and ground passenger transportation,820,20 largest firms,2012,191,570713,47.4,208222,51734,8490
+0100000US,,United States,485999,All other transit and ground passenger transportation,850,50 largest firms,2012,237,761312,63.2,274945,67688,11370
+0100000US,,United States,4859991,Scheduled airport shuttle service,001,All firms,2012,672,843775,100.0,323597,80049,14888
+0100000US,,United States,4859991,Scheduled airport shuttle service,804,4 largest firms,2012,99,245822,29.1,94037,24046,3945
+0100000US,,United States,4859991,Scheduled airport shuttle service,808,8 largest firms,2012,117,340531,40.4,137480,34786,5438
+0100000US,,United States,4859991,Scheduled airport shuttle service,820,20 largest firms,2012,135,475898,56.4,184648,46012,7761
+0100000US,,United States,4859991,Scheduled airport shuttle service,850,50 largest firms,2012,177,620697,73.6,238986,59207,10008
+0100000US,,United States,4859992,All other passenger transportation,001,All firms,2012,668,361255,100.0,115228,26963,5257
+0100000US,,United States,4859992,All other passenger transportation,804,4 largest firms,2012,42,121267,33.6,30404,7727,1297
+0100000US,,United States,4859992,All other passenger transportation,808,8 largest firms,2012,46,155070,42.9,42243,10485,1780
+0100000US,,United States,4859992,All other passenger transportation,820,20 largest firms,2012,81,199497,55.2,60300,14683,2543
+0100000US,,United States,4859992,All other passenger transportation,850,50 largest firms,2012,122,252404,69.9,79480,18792,3260
+0100000US,,United States,486,Pipeline transportation,001,All firms,2012,3391,36483158,100.0,5085561,1493936,47387
+0100000US,,United States,486,Pipeline transportation,804,4 largest firms,2012,947,8849218,24.3,1529207,372610,11923
+0100000US,,United States,486,Pipeline transportation,808,8 largest firms,2012,1490,16244062,44.5,2398462,675994,20049
+0100000US,,United States,486,Pipeline transportation,820,20 largest firms,2012,2323,27029049,74.1,3610186,1031314,32166
+0100000US,,United States,486,Pipeline transportation,850,50 largest firms,2012,3160,34927284,95.7,4850735,1428271,44816
+0100000US,,United States,4861,Pipeline transportation of crude oil,001,All firms,2012,658,6800729,100.0,1195304,357014,11299
+0100000US,,United States,4861,Pipeline transportation of crude oil,804,4 largest firms,2012,130,3110578,45.7,329221,97365,2901
+0100000US,,United States,4861,Pipeline transportation of crude oil,808,8 largest firms,2012,484,4715207,69.3,940812,292487,8521
+0100000US,,United States,4861,Pipeline transportation of crude oil,820,20 largest firms,2012,610,6467457,95.1,1133376,340962,10550
+0100000US,,United States,4861,Pipeline transportation of crude oil,850,50 largest firms,2012,658,6800729,100.0,1195304,357014,11299
+0100000US,,United States,48611,Pipeline transportation of crude oil,001,All firms,2012,658,6800729,100.0,1195304,357014,11299
+0100000US,,United States,48611,Pipeline transportation of crude oil,804,4 largest firms,2012,130,3110578,45.7,329221,97365,2901
+0100000US,,United States,48611,Pipeline transportation of crude oil,808,8 largest firms,2012,484,4715207,69.3,940812,292487,8521
+0100000US,,United States,48611,Pipeline transportation of crude oil,820,20 largest firms,2012,610,6467457,95.1,1133376,340962,10550
+0100000US,,United States,48611,Pipeline transportation of crude oil,850,50 largest firms,2012,658,6800729,100.0,1195304,357014,11299
+0100000US,,United States,486110,Pipeline transportation of crude oil,001,All firms,2012,658,6800729,100.0,1195304,357014,11299
+0100000US,,United States,486110,Pipeline transportation of crude oil,804,4 largest firms,2012,130,3110578,45.7,329221,97365,2901
+0100000US,,United States,486110,Pipeline transportation of crude oil,808,8 largest firms,2012,484,4715207,69.3,940812,292487,8521
+0100000US,,United States,486110,Pipeline transportation of crude oil,820,20 largest firms,2012,610,6467457,95.1,1133376,340962,10550
+0100000US,,United States,486110,Pipeline transportation of crude oil,850,50 largest firms,2012,658,6800729,100.0,1195304,357014,11299
+0100000US,,United States,4862,Pipeline transportation of natural gas,001,All firms,2012,2118,22986921,100.0,3245961,949843,29597
+0100000US,,United States,4862,Pipeline transportation of natural gas,804,4 largest firms,2012,688,7940481,34.5,1454431,409987,10067
+0100000US,,United States,4862,Pipeline transportation of natural gas,808,8 largest firms,2012,1325,13485309,58.7,2122831,599530,17587
+0100000US,,United States,4862,Pipeline transportation of natural gas,820,20 largest firms,2012,1906,20566416,89.5,2943399,860723,26345
+0100000US,,United States,4862,Pipeline transportation of natural gas,850,50 largest firms,2012,2040,22819366,99.3,3212702,942315,29202
+0100000US,,United States,48621,Pipeline transportation of natural gas,001,All firms,2012,2118,22986921,100.0,3245961,949843,29597
+0100000US,,United States,48621,Pipeline transportation of natural gas,804,4 largest firms,2012,688,7940481,34.5,1454431,409987,10067
+0100000US,,United States,48621,Pipeline transportation of natural gas,808,8 largest firms,2012,1325,13485309,58.7,2122831,599530,17587
+0100000US,,United States,48621,Pipeline transportation of natural gas,820,20 largest firms,2012,1906,20566416,89.5,2943399,860723,26345
+0100000US,,United States,48621,Pipeline transportation of natural gas,850,50 largest firms,2012,2040,22819366,99.3,3212702,942315,29202
+0100000US,,United States,486210,Pipeline transportation of natural gas,001,All firms,2012,2118,22986921,100.0,3245961,949843,29597
+0100000US,,United States,486210,Pipeline transportation of natural gas,804,4 largest firms,2012,688,7940481,34.5,1454431,409987,10067
+0100000US,,United States,486210,Pipeline transportation of natural gas,808,8 largest firms,2012,1325,13485309,58.7,2122831,599530,17587
+0100000US,,United States,486210,Pipeline transportation of natural gas,820,20 largest firms,2012,1906,20566416,89.5,2943399,860723,26345
+0100000US,,United States,486210,Pipeline transportation of natural gas,850,50 largest firms,2012,2040,22819366,99.3,3212702,942315,29202
+0100000US,,United States,4869,Other pipeline transportation,001,All firms,2012,615,6695508,100.0,644296,187079,6491
+0100000US,,United States,4869,Other pipeline transportation,804,4 largest firms,2012,230,3796102,56.7,329266,93234,3319
+0100000US,,United States,4869,Other pipeline transportation,808,8 largest firms,2012,452,5383825,80.4,472985,138049,4768
+0100000US,,United States,4869,Other pipeline transportation,820,20 largest firms,2012,549,6504276,97.1,595665,173250,5982
+0100000US,,United States,4869,Other pipeline transportation,850,50 largest firms,2012,615,6695508,100.0,644296,187079,6491
+0100000US,,United States,48691,Pipeline transportation of refined petroleum products,001,All firms,2012,580,6416864,100.0,622821,181387,6233
+0100000US,,United States,48691,Pipeline transportation of refined petroleum products,804,4 largest firms,2012,230,3796102,59.2,329266,93234,3319
+0100000US,,United States,48691,Pipeline transportation of refined petroleum products,808,8 largest firms,2012,435,5338335,83.2,469302,136965,4729
+0100000US,,United States,48691,Pipeline transportation of refined petroleum products,820,20 largest firms,2012,533,6285839,98.0,591541,172804,5894
+0100000US,,United States,48691,Pipeline transportation of refined petroleum products,850,50 largest firms,2012,580,6416864,100.0,622821,181387,6233
+0100000US,,United States,486910,Pipeline transportation of refined petroleum products,001,All firms,2012,580,6416864,100.0,622821,181387,6233
+0100000US,,United States,486910,Pipeline transportation of refined petroleum products,804,4 largest firms,2012,230,3796102,59.2,329266,93234,3319
+0100000US,,United States,486910,Pipeline transportation of refined petroleum products,808,8 largest firms,2012,435,5338335,83.2,469302,136965,4729
+0100000US,,United States,486910,Pipeline transportation of refined petroleum products,820,20 largest firms,2012,533,6285839,98.0,591541,172804,5894
+0100000US,,United States,486910,Pipeline transportation of refined petroleum products,850,50 largest firms,2012,580,6416864,100.0,622821,181387,6233
+0100000US,,United States,48699,All other pipeline transportation,001,All firms,2012,35,278644,100.0,21475,5692,258
+0100000US,,United States,48699,All other pipeline transportation,804,4 largest firms,2012,25,259142,93.0,17270,4468,208
+0100000US,,United States,48699,All other pipeline transportation,808,8 largest firms,2012,30,277594,99.6,20156,5378,240
+0100000US,,United States,48699,All other pipeline transportation,820,20 largest firms,2012,35,278644,100.0,21475,5692,258
+0100000US,,United States,48699,All other pipeline transportation,850,50 largest firms,2012,35,278644,100.0,21475,5692,258
+0100000US,,United States,486990,All other pipeline transportation,001,All firms,2012,35,278644,100.0,21475,5692,258
+0100000US,,United States,486990,All other pipeline transportation,804,4 largest firms,2012,25,259142,93.0,17270,4468,208
+0100000US,,United States,486990,All other pipeline transportation,808,8 largest firms,2012,30,277594,99.6,20156,5378,240
+0100000US,,United States,486990,All other pipeline transportation,820,20 largest firms,2012,35,278644,100.0,21475,5692,258
+0100000US,,United States,486990,All other pipeline transportation,850,50 largest firms,2012,35,278644,100.0,21475,5692,258
+0100000US,,United States,487,Scenic and sightseeing transportation,001,All firms,2012,2573,3092261,100.0,832436,168878,27925
+0100000US,,United States,487,Scenic and sightseeing transportation,804,4 largest firms,2012,31,401807,13.0,113496,26034,3428
+0100000US,,United States,487,Scenic and sightseeing transportation,808,8 largest firms,2012,54,640970,20.7,186856,43010,6092
+0100000US,,United States,487,Scenic and sightseeing transportation,820,20 largest firms,2012,83,1066907,34.5,280268,62155,8439
+0100000US,,United States,487,Scenic and sightseeing transportation,850,50 largest firms,2012,125,1467563,47.5,394720,84937,11814
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",001,All firms,2012,592,1010050,100.0,300816,58819,10974
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",804,4 largest firms,2012,22,324474,32.1,99580,17637,3381
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",808,8 largest firms,2012,31,425426,42.1,128758,24037,4334
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",820,20 largest firms,2012,52,557391,55.2,172036,32623,5816
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",850,50 largest firms,2012,88,701482,69.5,214214,41575,7327
+0100000US,,United States,48711,"Scenic and sightseeing transportation, land",001,All firms,2012,592,1010050,100.0,300816,58819,10974
+0100000US,,United States,48711,"Scenic and sightseeing transportation, land",804,4 largest firms,2012,22,324474,32.1,99580,17637,3381
+0100000US,,United States,48711,"Scenic and sightseeing transportation, land",808,8 largest firms,2012,31,425426,42.1,128758,24037,4334
+0100000US,,United States,48711,"Scenic and sightseeing transportation, land",820,20 largest firms,2012,52,557391,55.2,172036,32623,5816
+0100000US,,United States,48711,"Scenic and sightseeing transportation, land",850,50 largest firms,2012,88,701482,69.5,214214,41575,7327
+0100000US,,United States,487110,"Scenic and sightseeing transportation, land",001,All firms,2012,592,1010050,100.0,300816,58819,10974
+0100000US,,United States,487110,"Scenic and sightseeing transportation, land",804,4 largest firms,2012,22,324474,32.1,99580,17637,3381
+0100000US,,United States,487110,"Scenic and sightseeing transportation, land",808,8 largest firms,2012,31,425426,42.1,128758,24037,4334
+0100000US,,United States,487110,"Scenic and sightseeing transportation, land",820,20 largest firms,2012,52,557391,55.2,172036,32623,5816
+0100000US,,United States,487110,"Scenic and sightseeing transportation, land",850,50 largest firms,2012,88,701482,69.5,214214,41575,7327
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",001,All firms,2012,1761,1579684,100.0,428790,86949,14400
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",804,4 largest firms,2012,24,259167,16.4,78202,24038,2402
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",808,8 largest firms,2012,32,389090,24.6,103051,27776,3156
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",820,20 largest firms,2012,47,574530,36.4,159165,37466,4581
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",850,50 largest firms,2012,80,775039,49.1,213499,47036,6391
+0100000US,,United States,48721,"Scenic and sightseeing transportation, water",001,All firms,2012,1761,1579684,100.0,428790,86949,14400
+0100000US,,United States,48721,"Scenic and sightseeing transportation, water",804,4 largest firms,2012,24,259167,16.4,78202,24038,2402
+0100000US,,United States,48721,"Scenic and sightseeing transportation, water",808,8 largest firms,2012,32,389090,24.6,103051,27776,3156
+0100000US,,United States,48721,"Scenic and sightseeing transportation, water",820,20 largest firms,2012,47,574530,36.4,159165,37466,4581
+0100000US,,United States,48721,"Scenic and sightseeing transportation, water",850,50 largest firms,2012,80,775039,49.1,213499,47036,6391
+0100000US,,United States,487210,"Scenic and sightseeing transportation, water",001,All firms,2012,1761,1579684,100.0,428790,86949,14400
+0100000US,,United States,487210,"Scenic and sightseeing transportation, water",804,4 largest firms,2012,24,259167,16.4,78202,24038,2402
+0100000US,,United States,487210,"Scenic and sightseeing transportation, water",808,8 largest firms,2012,32,389090,24.6,103051,27776,3156
+0100000US,,United States,487210,"Scenic and sightseeing transportation, water",820,20 largest firms,2012,47,574530,36.4,159165,37466,4581
+0100000US,,United States,487210,"Scenic and sightseeing transportation, water",850,50 largest firms,2012,80,775039,49.1,213499,47036,6391
+0100000US,,United States,4872101,Excursion and sightseeing boats (including dinner cruises),001,All firms,2012,888,1302925,100.0,363582,74160,11775
+0100000US,,United States,4872101,Excursion and sightseeing boats (including dinner cruises),804,4 largest firms,2012,24,259167,19.9,78202,24038,2402
+0100000US,,United States,4872101,Excursion and sightseeing boats (including dinner cruises),808,8 largest firms,2012,32,389090,29.9,103051,27776,3156
+0100000US,,United States,4872101,Excursion and sightseeing boats (including dinner cruises),820,20 largest firms,2012,47,574530,44.1,159165,37466,4581
+0100000US,,United States,4872101,Excursion and sightseeing boats (including dinner cruises),850,50 largest firms,2012,80,770853,59.2,215597,47407,6444
+0100000US,,United States,4872102,Charter fishing and party fishing boats,001,All firms,2012,873,276759,100.0,65208,12789,2625
+0100000US,,United States,4872102,Charter fishing and party fishing boats,804,4 largest firms,2012,4,21534,7.8,3577,634,144
+0100000US,,United States,4872102,Charter fishing and party fishing boats,808,8 largest firms,2012,8,33864,12.2,5291,996,217
+0100000US,,United States,4872102,Charter fishing and party fishing boats,820,20 largest firms,2012,20,57425,20.7,10559,2384,404
+0100000US,,United States,4872102,Charter fishing and party fishing boats,850,50 largest firms,2012,50,97597,35.3,19777,4299,714
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",001,All firms,2012,220,502527,100.0,102830,23110,2551
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",804,4 largest firms,2012,12,221637,44.1,40909,9868,828
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",808,8 largest firms,2012,21,289040,57.5,54017,13064,1157
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",820,20 largest firms,2012,37,369320,73.5,72775,17552,1562
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",850,50 largest firms,2012,69,451428,89.8,91473,20855,2061
+0100000US,,United States,48799,"Scenic and sightseeing transportation, other",001,All firms,2012,220,502527,100.0,102830,23110,2551
+0100000US,,United States,48799,"Scenic and sightseeing transportation, other",804,4 largest firms,2012,12,221637,44.1,40909,9868,828
+0100000US,,United States,48799,"Scenic and sightseeing transportation, other",808,8 largest firms,2012,21,289040,57.5,54017,13064,1157
+0100000US,,United States,48799,"Scenic and sightseeing transportation, other",820,20 largest firms,2012,37,369320,73.5,72775,17552,1562
+0100000US,,United States,48799,"Scenic and sightseeing transportation, other",850,50 largest firms,2012,69,451428,89.8,91473,20855,2061
+0100000US,,United States,487990,"Scenic and sightseeing transportation, other",001,All firms,2012,220,502527,100.0,102830,23110,2551
+0100000US,,United States,487990,"Scenic and sightseeing transportation, other",804,4 largest firms,2012,12,221637,44.1,40909,9868,828
+0100000US,,United States,487990,"Scenic and sightseeing transportation, other",808,8 largest firms,2012,21,289040,57.5,54017,13064,1157
+0100000US,,United States,487990,"Scenic and sightseeing transportation, other",820,20 largest firms,2012,37,369320,73.5,72775,17552,1562
+0100000US,,United States,487990,"Scenic and sightseeing transportation, other",850,50 largest firms,2012,69,451428,89.8,91473,20855,2061
+0100000US,,United States,488,Support activities for transportation,001,All firms,2012,42489,103438615,100.0,28435421,6972061,617663
+0100000US,,United States,488,Support activities for transportation,804,4 largest firms,2012,730,6108053,5.9,2665689,706008,45160
+0100000US,,United States,488,Support activities for transportation,808,8 largest firms,2012,1091,10319348,10.0,3555432,932200,60607
+0100000US,,United States,488,Support activities for transportation,820,20 largest firms,2012,1757,18729709,18.1,5620891,1439224,97915
+0100000US,,United States,488,Support activities for transportation,850,50 largest firms,2012,2987,29566015,28.6,8006133,2019631,144271
+0100000US,,United States,4881,Support activities for air transportation,001,All firms,2012,5950,22474388,100.0,6839656,1678568,166466
+0100000US,,United States,4881,Support activities for air transportation,804,4 largest firms,2012,103,3191432,14.2,870640,210887,13627
+0100000US,,United States,4881,Support activities for air transportation,808,8 largest firms,2012,207,5187937,23.1,1569149,383597,25515
+0100000US,,United States,4881,Support activities for air transportation,820,20 largest firms,2012,652,9150098,40.7,2735395,669068,57240
+0100000US,,United States,4881,Support activities for air transportation,850,50 largest firms,2012,951,12403107,55.2,3803980,940484,81215
+0100000US,,United States,48811,Airport operations,001,All firms,2012,2221,6928099,100.0,2273285,558341,81226
+0100000US,,United States,48811,Airport operations,804,4 largest firms,2012,197,1509892,21.8,463789,114364,14549
+0100000US,,United States,48811,Airport operations,808,8 largest firms,2012,299,2221175,32.1,767989,186644,26441
+0100000US,,United States,48811,Airport operations,820,20 largest firms,2012,547,3252958,47.0,1155952,284860,40419
+0100000US,,United States,48811,Airport operations,850,50 largest firms,2012,864,4428687,63.9,1715950,420238,62073
+0100000US,,United States,488111,Air traffic control,001,All firms,2012,247,245500,100.0,98134,25308,1541
+0100000US,,United States,488111,Air traffic control,804,4 largest firms,2012,228,222665,90.7,80801,20816,1241
+0100000US,,United States,488111,Air traffic control,808,8 largest firms,2012,243,245304,99.9,97990,25296,1540
+0100000US,,United States,488111,Air traffic control,820,20 largest firms,2012,247,245500,100.0,98134,25308,1541
+0100000US,,United States,488111,Air traffic control,850,50 largest firms,2012,247,245500,100.0,98134,25308,1541
+0100000US,,United States,488119,Other airport operations,001,All firms,2012,1974,6682599,100.0,2175151,533033,79685
+0100000US,,United States,488119,Other airport operations,804,4 largest firms,2012,197,1509892,22.6,463789,114364,14549
+0100000US,,United States,488119,Other airport operations,808,8 largest firms,2012,299,2221175,33.2,767989,186644,26441
+0100000US,,United States,488119,Other airport operations,820,20 largest firms,2012,414,3220411,48.2,1161455,284070,41906
+0100000US,,United States,488119,Other airport operations,850,50 largest firms,2012,659,4285799,64.1,1656311,404990,61495
+0100000US,,United States,48819,Other support activities for air transportation,001,All firms,2012,3729,15546289,100.0,4566371,1120227,85240
+0100000US,,United States,48819,Other support activities for air transportation,804,4 largest firms,2012,122,2911033,18.7,935839,225892,14794
+0100000US,,United States,48819,Other support activities for air transportation,808,8 largest firms,2012,201,4872350,31.3,1509579,367268,23660
+0100000US,,United States,48819,Other support activities for air transportation,820,20 largest firms,2012,394,7769603,50.0,2209748,545704,36643
+0100000US,,United States,48819,Other support activities for air transportation,850,50 largest firms,2012,514,10108710,65.0,2949130,729290,49388
+0100000US,,United States,488190,Other support activities for air transportation,001,All firms,2012,3729,15546289,100.0,4566371,1120227,85240
+0100000US,,United States,488190,Other support activities for air transportation,804,4 largest firms,2012,122,2911033,18.7,935839,225892,14794
+0100000US,,United States,488190,Other support activities for air transportation,808,8 largest firms,2012,201,4872350,31.3,1509579,367268,23660
+0100000US,,United States,488190,Other support activities for air transportation,820,20 largest firms,2012,394,7769603,50.0,2209748,545704,36643
+0100000US,,United States,488190,Other support activities for air transportation,850,50 largest firms,2012,514,10108710,65.0,2949130,729290,49388
+0100000US,,United States,4882,Support activities for rail transportation,001,All firms,2012,1275,4835940,100.0,1448653,353268,32100
+0100000US,,United States,4882,Support activities for rail transportation,804,4 largest firms,2012,132,1438946,29.8,301557,74393,5919
+0100000US,,United States,4882,Support activities for rail transportation,808,8 largest firms,2012,308,2026218,41.9,555963,133400,11730
+0100000US,,United States,4882,Support activities for rail transportation,820,20 largest firms,2012,450,2989209,61.8,809021,198119,17079
+0100000US,,United States,4882,Support activities for rail transportation,850,50 largest firms,2012,709,3876950,80.2,1136213,278682,24196
+0100000US,,United States,48821,Support activities for rail transportation,001,All firms,2012,1275,4835940,100.0,1448653,353268,32100
+0100000US,,United States,48821,Support activities for rail transportation,804,4 largest firms,2012,132,1438946,29.8,301557,74393,5919
+0100000US,,United States,48821,Support activities for rail transportation,808,8 largest firms,2012,308,2026218,41.9,555963,133400,11730
+0100000US,,United States,48821,Support activities for rail transportation,820,20 largest firms,2012,450,2989209,61.8,809021,198119,17079
+0100000US,,United States,48821,Support activities for rail transportation,850,50 largest firms,2012,709,3876950,80.2,1136213,278682,24196
+0100000US,,United States,488210,Support activities for rail transportation,001,All firms,2012,1275,4835940,100.0,1448653,353268,32100
+0100000US,,United States,488210,Support activities for rail transportation,804,4 largest firms,2012,132,1438946,29.8,301557,74393,5919
+0100000US,,United States,488210,Support activities for rail transportation,808,8 largest firms,2012,308,2026218,41.9,555963,133400,11730
+0100000US,,United States,488210,Support activities for rail transportation,820,20 largest firms,2012,450,2989209,61.8,809021,198119,17079
+0100000US,,United States,488210,Support activities for rail transportation,850,50 largest firms,2012,709,3876950,80.2,1136213,278682,24196
+0100000US,,United States,4883,Support activities for water transportation,001,All firms,2012,2526,16486242,100.0,5049354,1276610,84746
+0100000US,,United States,4883,Support activities for water transportation,804,4 largest firms,2012,108,4448122,27.0,2120376,570823,34033
+0100000US,,United States,4883,Support activities for water transportation,808,8 largest firms,2012,145,6233814,37.8,2359234,622148,36748
+0100000US,,United States,4883,Support activities for water transportation,820,20 largest firms,2012,230,9083642,55.1,2843496,744054,43193
+0100000US,,United States,4883,Support activities for water transportation,850,50 largest firms,2012,385,11614060,70.4,3445350,891152,53176
+0100000US,,United States,48831,Port and harbor operations,001,All firms,2012,355,2359128,100.0,378398,93714,7096
+0100000US,,United States,48831,Port and harbor operations,804,4 largest firms,2012,36,1324391,56.1,165373,41220,2448
+0100000US,,United States,48831,Port and harbor operations,808,8 largest firms,2012,47,1739585,73.7,203894,50513,3480
+0100000US,,United States,48831,Port and harbor operations,820,20 largest firms,2012,67,2023099,85.8,269421,66562,4649
+0100000US,,United States,48831,Port and harbor operations,850,50 largest firms,2012,104,2200446,93.3,326732,81149,5797
+0100000US,,United States,488310,Port and harbor operations,001,All firms,2012,355,2359128,100.0,378398,93714,7096
+0100000US,,United States,488310,Port and harbor operations,804,4 largest firms,2012,36,1324391,56.1,165373,41220,2448
+0100000US,,United States,488310,Port and harbor operations,808,8 largest firms,2012,47,1739585,73.7,203894,50513,3480
+0100000US,,United States,488310,Port and harbor operations,820,20 largest firms,2012,67,2023099,85.8,269421,66562,4649
+0100000US,,United States,488310,Port and harbor operations,850,50 largest firms,2012,104,2200446,93.3,326732,81149,5797
+0100000US,,United States,48832,Marine cargo handling,001,All firms,2012,460,8903626,100.0,3150943,824738,53313
+0100000US,,United States,48832,Marine cargo handling,804,4 largest firms,2012,106,4368814,49.1,2101505,566629,33477
+0100000US,,United States,48832,Marine cargo handling,808,8 largest firms,2012,117,5741498,64.5,2328584,617908,35591
+0100000US,,United States,48832,Marine cargo handling,820,20 largest firms,2012,161,7224809,81.1,2601393,684255,39113
+0100000US,,United States,48832,Marine cargo handling,850,50 largest firms,2012,226,8179196,91.9,2915551,763811,46769
+0100000US,,United States,488320,Marine cargo handling,001,All firms,2012,460,8903626,100.0,3150943,824738,53313
+0100000US,,United States,488320,Marine cargo handling,804,4 largest firms,2012,106,4368814,49.1,2101505,566629,33477
+0100000US,,United States,488320,Marine cargo handling,808,8 largest firms,2012,117,5741498,64.5,2328584,617908,35591
+0100000US,,United States,488320,Marine cargo handling,820,20 largest firms,2012,161,7224809,81.1,2601393,684255,39113
+0100000US,,United States,488320,Marine cargo handling,850,50 largest firms,2012,226,8179196,91.9,2915551,763811,46769
+0100000US,,United States,48833,Navigational services to shipping,001,All firms,2012,860,3167702,100.0,846356,201385,12422
+0100000US,,United States,48833,Navigational services to shipping,804,4 largest firms,2012,49,716581,22.6,162528,41604,2523
+0100000US,,United States,48833,Navigational services to shipping,808,8 largest firms,2012,79,1059888,33.5,235690,59080,3570
+0100000US,,United States,48833,Navigational services to shipping,820,20 largest firms,2012,108,1652132,52.2,368297,91752,5249
+0100000US,,United States,48833,Navigational services to shipping,850,50 largest firms,2012,160,2281182,72.0,533831,131242,7528
+0100000US,,United States,488330,Navigational services to shipping,001,All firms,2012,860,3167702,100.0,846356,201385,12422
+0100000US,,United States,488330,Navigational services to shipping,804,4 largest firms,2012,49,716581,22.6,162528,41604,2523
+0100000US,,United States,488330,Navigational services to shipping,808,8 largest firms,2012,79,1059888,33.5,235690,59080,3570
+0100000US,,United States,488330,Navigational services to shipping,820,20 largest firms,2012,108,1652132,52.2,368297,91752,5249
+0100000US,,United States,488330,Navigational services to shipping,850,50 largest firms,2012,160,2281182,72.0,533831,131242,7528
+0100000US,,United States,48839,Other support activities for water transportation,001,All firms,2012,851,2055786,100.0,673657,156773,11915
+0100000US,,United States,48839,Other support activities for water transportation,804,4 largest firms,2012,11,473369,23.0,128785,28423,1669
+0100000US,,United States,48839,Other support activities for water transportation,808,8 largest firms,2012,21,637103,31.0,149355,33426,1973
+0100000US,,United States,48839,Other support activities for water transportation,820,20 largest firms,2012,44,921930,44.8,247537,58897,3672
+0100000US,,United States,48839,Other support activities for water transportation,850,50 largest firms,2012,101,1327009,64.5,372087,87450,5587
+0100000US,,United States,488390,Other support activities for water transportation,001,All firms,2012,851,2055786,100.0,673657,156773,11915
+0100000US,,United States,488390,Other support activities for water transportation,804,4 largest firms,2012,11,473369,23.0,128785,28423,1669
+0100000US,,United States,488390,Other support activities for water transportation,808,8 largest firms,2012,21,637103,31.0,149355,33426,1973
+0100000US,,United States,488390,Other support activities for water transportation,820,20 largest firms,2012,44,921930,44.8,247537,58897,3672
+0100000US,,United States,488390,Other support activities for water transportation,850,50 largest firms,2012,101,1327009,64.5,372087,87450,5587
+0100000US,,United States,4884,Support activities for road transportation,001,All firms,2012,10860,7511269,100.0,2531589,607962,87712
+0100000US,,United States,4884,Support activities for road transportation,804,4 largest firms,2012,167,597873,8.0,138818,30663,3912
+0100000US,,United States,4884,Support activities for road transportation,808,8 largest firms,2012,201,869678,11.6,212565,49323,7248
+0100000US,,United States,4884,Support activities for road transportation,820,20 largest firms,2012,390,1281501,17.1,417038,97752,15198
+0100000US,,United States,4884,Support activities for road transportation,850,50 largest firms,2012,548,1766897,23.5,545902,127156,18746
+0100000US,,United States,48841,Motor vehicle towing,001,All firms,2012,8385,5108880,100.0,1626026,399419,55587
+0100000US,,United States,48841,Motor vehicle towing,804,4 largest firms,2012,23,207343,4.1,67785,17330,2841
+0100000US,,United States,48841,Motor vehicle towing,808,8 largest firms,2012,27,278751,5.5,74155,19033,3009
+0100000US,,United States,48841,Motor vehicle towing,820,20 largest firms,2012,48,400598,7.8,102485,25894,3563
+0100000US,,United States,48841,Motor vehicle towing,850,50 largest firms,2012,96,614824,12.0,171136,41934,5243
+0100000US,,United States,488410,Motor vehicle towing,001,All firms,2012,8385,5108880,100.0,1626026,399419,55587
+0100000US,,United States,488410,Motor vehicle towing,804,4 largest firms,2012,23,207343,4.1,67785,17330,2841
+0100000US,,United States,488410,Motor vehicle towing,808,8 largest firms,2012,27,278751,5.5,74155,19033,3009
+0100000US,,United States,488410,Motor vehicle towing,820,20 largest firms,2012,48,400598,7.8,102485,25894,3563
+0100000US,,United States,488410,Motor vehicle towing,850,50 largest firms,2012,96,614824,12.0,171136,41934,5243
+0100000US,,United States,48849,Other support activities for road transportation,001,All firms,2012,2475,2402389,100.0,905563,208543,32125
+0100000US,,United States,48849,Other support activities for road transportation,804,4 largest firms,2012,167,597873,24.9,138818,30663,3912
+0100000US,,United States,48849,Other support activities for road transportation,808,8 largest firms,2012,216,832715,34.7,211473,47640,7270
+0100000US,,United States,48849,Other support activities for road transportation,820,20 largest firms,2012,391,1166747,48.6,367106,84690,13077
+0100000US,,United States,48849,Other support activities for road transportation,850,50 largest firms,2012,535,1535314,63.9,488170,111740,16243
+0100000US,,United States,488490,Other support activities for road transportation,001,All firms,2012,2475,2402389,100.0,905563,208543,32125
+0100000US,,United States,488490,Other support activities for road transportation,804,4 largest firms,2012,167,597873,24.9,138818,30663,3912
+0100000US,,United States,488490,Other support activities for road transportation,808,8 largest firms,2012,216,832715,34.7,211473,47640,7270
+0100000US,,United States,488490,Other support activities for road transportation,820,20 largest firms,2012,391,1166747,48.6,367106,84690,13077
+0100000US,,United States,488490,Other support activities for road transportation,850,50 largest firms,2012,535,1535314,63.9,488170,111740,16243
+0100000US,,United States,4885,Freight transportation arrangement,001,All firms,2012,20520,50145296,100.0,12108381,2947883,231574
+0100000US,,United States,4885,Freight transportation arrangement,804,4 largest firms,2012,902,5536939,11.0,1414506,355475,26972
+0100000US,,United States,4885,Freight transportation arrangement,808,8 largest firms,2012,1431,8251388,16.5,2001999,500358,39119
+0100000US,,United States,4885,Freight transportation arrangement,820,20 largest firms,2012,1940,12003192,23.9,2625581,644936,48886
+0100000US,,United States,4885,Freight transportation arrangement,850,50 largest firms,2012,2598,16431786,32.8,3789495,939900,69364
+0100000US,,United States,48851,Freight transportation arrangement,001,All firms,2012,20520,50145296,100.0,12108381,2947883,231574
+0100000US,,United States,48851,Freight transportation arrangement,804,4 largest firms,2012,902,5536939,11.0,1414506,355475,26972
+0100000US,,United States,48851,Freight transportation arrangement,808,8 largest firms,2012,1431,8251388,16.5,2001999,500358,39119
+0100000US,,United States,48851,Freight transportation arrangement,820,20 largest firms,2012,1940,12003192,23.9,2625581,644936,48886
+0100000US,,United States,48851,Freight transportation arrangement,850,50 largest firms,2012,2598,16431786,32.8,3789495,939900,69364
+0100000US,,United States,488510,Freight transportation arrangement,001,All firms,2012,20520,50145296,100.0,12108381,2947883,231574
+0100000US,,United States,488510,Freight transportation arrangement,804,4 largest firms,2012,902,5536939,11.0,1414506,355475,26972
+0100000US,,United States,488510,Freight transportation arrangement,808,8 largest firms,2012,1431,8251388,16.5,2001999,500358,39119
+0100000US,,United States,488510,Freight transportation arrangement,820,20 largest firms,2012,1940,12003192,23.9,2625581,644936,48886
+0100000US,,United States,488510,Freight transportation arrangement,850,50 largest firms,2012,2598,16431786,32.8,3789495,939900,69364
+0100000US,,United States,4885101,Freight forwarding,001,All firms,2012,7535,21583556,100.0,4907602,1204339,93191
+0100000US,,United States,4885101,Freight forwarding,804,4 largest firms,2012,296,3120856,14.5,522442,134327,9927
+0100000US,,United States,4885101,Freight forwarding,808,8 largest firms,2012,531,4330342,20.1,729472,181235,13260
+0100000US,,United States,4885101,Freight forwarding,820,20 largest firms,2012,810,6230151,28.9,1173644,289103,20485
+0100000US,,United States,4885101,Freight forwarding,850,50 largest firms,2012,1324,8642992,40.0,1938493,495009,33487
+0100000US,,United States,4885102,Arrangement of transportation of freight and cargo,001,All firms,2012,12985,28561740,100.0,7200779,1743544,138383
+0100000US,,United States,4885102,Arrangement of transportation of freight and cargo,804,4 largest firms,2012,882,4430049,15.5,1227881,303816,24030
+0100000US,,United States,4885102,Arrangement of transportation of freight and cargo,808,8 largest firms,2012,1220,6013044,21.1,1525316,378605,30083
+0100000US,,United States,4885102,Arrangement of transportation of freight and cargo,820,20 largest firms,2012,1383,8108471,28.4,2069758,510856,39385
+0100000US,,United States,4885102,Arrangement of transportation of freight and cargo,850,50 largest firms,2012,1791,10444786,36.6,2713711,683659,49355
+0100000US,,United States,4889,Other support activities for transportation,001,All firms,2012,1358,1985480,100.0,457788,107770,15065
+0100000US,,United States,4889,Other support activities for transportation,804,4 largest firms,2012,25,303965,15.3,62145,15658,1877
+0100000US,,United States,4889,Other support activities for transportation,808,8 largest firms,2012,46,486693,24.5,94730,23170,2748
+0100000US,,United States,4889,Other support activities for transportation,820,20 largest firms,2012,62,776933,39.1,148409,35797,4671
+0100000US,,United States,4889,Other support activities for transportation,850,50 largest firms,2012,106,1116491,56.2,225358,52568,6544
+0100000US,,United States,48899,Other support activities for transportation,001,All firms,2012,1358,1985480,100.0,457788,107770,15065
+0100000US,,United States,48899,Other support activities for transportation,804,4 largest firms,2012,25,303965,15.3,62145,15658,1877
+0100000US,,United States,48899,Other support activities for transportation,808,8 largest firms,2012,46,486693,24.5,94730,23170,2748
+0100000US,,United States,48899,Other support activities for transportation,820,20 largest firms,2012,62,776933,39.1,148409,35797,4671
+0100000US,,United States,48899,Other support activities for transportation,850,50 largest firms,2012,106,1116491,56.2,225358,52568,6544
+0100000US,,United States,488991,Packing and crating,001,All firms,2012,1348,D,100.0,D,D,j
+0100000US,,United States,488991,Packing and crating,804,4 largest firms,2012,25,303347,15.8,54878,13912,1704
+0100000US,,United States,488991,Packing and crating,808,8 largest firms,2012,44,462370,24.1,82836,20205,2405
+0100000US,,United States,488991,Packing and crating,820,20 largest firms,2012,60,740744,38.6,137487,32813,4335
+0100000US,,United States,488991,Packing and crating,850,50 largest firms,2012,104,1067571,55.6,212030,49183,6154
+0100000US,,United States,488999,All other support activities for transportation,001,All firms,2012,10,D,100.0,D,D,e
+0100000US,,United States,488999,All other support activities for transportation,804,4 largest firms,2012,9,D,99.6,D,D,e
+0100000US,,United States,488999,All other support activities for transportation,808,8 largest firms,2012,10,66154,100.0,15815,4117,436
+0100000US,,United States,488999,All other support activities for transportation,820,20 largest firms,2012,10,66154,100.0,15815,4117,436
+0100000US,,United States,488999,All other support activities for transportation,850,50 largest firms,2012,10,66154,100.0,15815,4117,436
+0100000US,,United States,492,Couriers and messengers,001,All firms,2012,13799,69361977,100.0,21156531,5124633,529489
+0100000US,,United States,492,Couriers and messengers,804,4 largest firms,2012,4183,D,88.0,D,D,m
+0100000US,,United States,492,Couriers and messengers,808,8 largest firms,2012,4397,D,89.1,D,D,m
+0100000US,,United States,492,Couriers and messengers,820,20 largest firms,2012,4680,62761911,90.5,19468750,4727444,471036
+0100000US,,United States,492,Couriers and messengers,850,50 largest firms,2012,4834,63606655,91.7,19653635,4771027,476221
+0100000US,,United States,4921,Couriers and express delivery services,001,All firms,2012,9185,65800624,100.0,20263275,4910693,497709
+0100000US,,United States,4921,Couriers and express delivery services,804,4 largest firms,2012,4158,D,92.5,D,D,m
+0100000US,,United States,4921,Couriers and express delivery services,808,8 largest firms,2012,4363,D,93.7,D,D,m
+0100000US,,United States,4921,Couriers and express delivery services,820,20 largest firms,2012,4505,62305112,94.7,19404930,4711097,468596
+0100000US,,United States,4921,Couriers and express delivery services,850,50 largest firms,2012,4595,62873876,95.6,19521354,4737125,471447
+0100000US,,United States,49211,Couriers and express delivery services,001,All firms,2012,9185,65800624,100.0,20263275,4910693,497709
+0100000US,,United States,49211,Couriers and express delivery services,804,4 largest firms,2012,4158,D,92.5,D,D,m
+0100000US,,United States,49211,Couriers and express delivery services,808,8 largest firms,2012,4363,D,93.7,D,D,m
+0100000US,,United States,49211,Couriers and express delivery services,820,20 largest firms,2012,4505,62305112,94.7,19404930,4711097,468596
+0100000US,,United States,49211,Couriers and express delivery services,850,50 largest firms,2012,4595,62873876,95.6,19521354,4737125,471447
+0100000US,,United States,492110,Couriers and express delivery services,001,All firms,2012,9185,65800624,100.0,20263275,4910693,497709
+0100000US,,United States,492110,Couriers and express delivery services,804,4 largest firms,2012,4158,D,92.5,D,D,m
+0100000US,,United States,492110,Couriers and express delivery services,808,8 largest firms,2012,4363,D,93.7,D,D,m
+0100000US,,United States,492110,Couriers and express delivery services,820,20 largest firms,2012,4505,62305112,94.7,19404930,4711097,468596
+0100000US,,United States,492110,Couriers and express delivery services,850,50 largest firms,2012,4595,62873876,95.6,19521354,4737125,471447
+0100000US,,United States,4921101,Courier services (except by air),001,All firms,2012,7500,D,100.0,D,D,m
+0100000US,,United States,4921101,Courier services (except by air),804,4 largest firms,2012,2678,D,90.4,D,D,m
+0100000US,,United States,4921101,Courier services (except by air),808,8 largest firms,2012,2863,D,91.9,D,D,m
+0100000US,,United States,4921101,Courier services (except by air),820,20 largest firms,2012,2983,D,92.9,D,D,m
+0100000US,,United States,4921101,Courier services (except by air),850,50 largest firms,2012,3079,D,94.0,D,D,m
+0100000US,,United States,4921102,Air courier services,001,All firms,2012,1685,D,100.0,D,D,m
+0100000US,,United States,4921102,Air courier services,804,4 largest firms,2012,1510,D,98.5,D,D,m
+0100000US,,United States,4921102,Air courier services,808,8 largest firms,2012,1521,D,99.0,D,D,m
+0100000US,,United States,4921102,Air courier services,820,20 largest firms,2012,1535,D,99.5,D,D,m
+0100000US,,United States,4921102,Air courier services,850,50 largest firms,2012,1574,D,99.8,D,D,m
+0100000US,,United States,4922,Local messengers and local delivery,001,All firms,2012,4614,3561353,100.0,893256,213940,31780
+0100000US,,United States,4922,Local messengers and local delivery,804,4 largest firms,2012,68,441423,12.4,73681,18068,2619
+0100000US,,United States,4922,Local messengers and local delivery,808,8 largest firms,2012,208,620427,17.4,101068,24646,3393
+0100000US,,United States,4922,Local messengers and local delivery,820,20 largest firms,2012,253,946887,26.6,180445,43626,5503
+0100000US,,United States,4922,Local messengers and local delivery,850,50 largest firms,2012,341,1333130,37.4,261430,63881,8448
+0100000US,,United States,49221,Local messengers and local delivery,001,All firms,2012,4614,3561353,100.0,893256,213940,31780
+0100000US,,United States,49221,Local messengers and local delivery,804,4 largest firms,2012,68,441423,12.4,73681,18068,2619
+0100000US,,United States,49221,Local messengers and local delivery,808,8 largest firms,2012,208,620427,17.4,101068,24646,3393
+0100000US,,United States,49221,Local messengers and local delivery,820,20 largest firms,2012,253,946887,26.6,180445,43626,5503
+0100000US,,United States,49221,Local messengers and local delivery,850,50 largest firms,2012,341,1333130,37.4,261430,63881,8448
+0100000US,,United States,492210,Local messengers and local delivery,001,All firms,2012,4614,3561353,100.0,893256,213940,31780
+0100000US,,United States,492210,Local messengers and local delivery,804,4 largest firms,2012,68,441423,12.4,73681,18068,2619
+0100000US,,United States,492210,Local messengers and local delivery,808,8 largest firms,2012,208,620427,17.4,101068,24646,3393
+0100000US,,United States,492210,Local messengers and local delivery,820,20 largest firms,2012,253,946887,26.6,180445,43626,5503
+0100000US,,United States,492210,Local messengers and local delivery,850,50 largest firms,2012,341,1333130,37.4,261430,63881,8448
+0100000US,,United States,493,Warehousing and storage,001,All firms,2012,14448,28493655,100.0,28156834,6927909,712790
+0100000US,,United States,493,Warehousing and storage,804,4 largest firms,2012,1033,5853631,20.5,1484789,394687,38326
+0100000US,,United States,493,Warehousing and storage,808,8 largest firms,2012,1292,7728029,27.1,2033484,509123,51187
+0100000US,,United States,493,Warehousing and storage,820,20 largest firms,2012,1692,10762430,37.8,2644637,663508,64922
+0100000US,,United States,493,Warehousing and storage,850,50 largest firms,2012,2121,14290723,50.2,3710945,924231,89884
+0100000US,,United States,4931,Warehousing and storage,001,All firms,2012,14448,28493655,100.0,28156834,6927909,712790
+0100000US,,United States,4931,Warehousing and storage,804,4 largest firms,2012,1033,5853631,20.5,1484789,394687,38326
+0100000US,,United States,4931,Warehousing and storage,808,8 largest firms,2012,1292,7728029,27.1,2033484,509123,51187
+0100000US,,United States,4931,Warehousing and storage,820,20 largest firms,2012,1692,10762430,37.8,2644637,663508,64922
+0100000US,,United States,4931,Warehousing and storage,850,50 largest firms,2012,2121,14290723,50.2,3710945,924231,89884
+0100000US,,United States,49311,General warehousing and storage,001,All firms,2012,10243,17617039,100.0,23162725,5642167,599384
+0100000US,,United States,49311,General warehousing and storage,804,4 largest firms,2012,507,3973026,22.6,1041210,221822,30631
+0100000US,,United States,49311,General warehousing and storage,808,8 largest firms,2012,680,5247340,29.8,1301226,289264,36967
+0100000US,,United States,49311,General warehousing and storage,820,20 largest firms,2012,975,7235564,41.1,1932695,446034,53014
+0100000US,,United States,49311,General warehousing and storage,850,50 largest firms,2012,1248,9065477,51.5,2522527,578247,68216
+0100000US,,United States,493110,General warehousing and storage,001,All firms,2012,10243,17617039,100.0,23162725,5642167,599384
+0100000US,,United States,493110,General warehousing and storage,804,4 largest firms,2012,507,3973026,22.6,1041210,221822,30631
+0100000US,,United States,493110,General warehousing and storage,808,8 largest firms,2012,680,5247340,29.8,1301226,289264,36967
+0100000US,,United States,493110,General warehousing and storage,820,20 largest firms,2012,975,7235564,41.1,1932695,446034,53014
+0100000US,,United States,493110,General warehousing and storage,850,50 largest firms,2012,1248,9065477,51.5,2522527,578247,68216
+0100000US,,United States,49312,Refrigerated warehousing and storage,001,All firms,2012,1175,4097750,100.0,1729454,426827,41823
+0100000US,,United States,49312,Refrigerated warehousing and storage,804,4 largest firms,2012,229,1560718,38.1,439008,108936,11223
+0100000US,,United States,49312,Refrigerated warehousing and storage,808,8 largest firms,2012,304,2075709,50.7,686985,169149,17619
+0100000US,,United States,49312,Refrigerated warehousing and storage,820,20 largest firms,2012,378,2525583,61.6,790450,193638,20080
+0100000US,,United States,49312,Refrigerated warehousing and storage,850,50 largest firms,2012,432,3006343,73.4,899337,219737,22582
+0100000US,,United States,493120,Refrigerated warehousing and storage,001,All firms,2012,1175,4097750,100.0,1729454,426827,41823
+0100000US,,United States,493120,Refrigerated warehousing and storage,804,4 largest firms,2012,229,1560718,38.1,439008,108936,11223
+0100000US,,United States,493120,Refrigerated warehousing and storage,808,8 largest firms,2012,304,2075709,50.7,686985,169149,17619
+0100000US,,United States,493120,Refrigerated warehousing and storage,820,20 largest firms,2012,378,2525583,61.6,790450,193638,20080
+0100000US,,United States,493120,Refrigerated warehousing and storage,850,50 largest firms,2012,432,3006343,73.4,899337,219737,22582
+0100000US,,United States,49313,Farm product warehousing and storage,001,All firms,2012,525,737768,100.0,205501,51436,4816
+0100000US,,United States,49313,Farm product warehousing and storage,804,4 largest firms,2012,37,140784,19.1,22878,5513,472
+0100000US,,United States,49313,Farm product warehousing and storage,808,8 largest firms,2012,53,211400,28.7,27052,6619,597
+0100000US,,United States,49313,Farm product warehousing and storage,820,20 largest firms,2012,72,329483,44.7,38019,9078,869
+0100000US,,United States,49313,Farm product warehousing and storage,850,50 largest firms,2012,136,506346,68.6,69677,16390,1692
+0100000US,,United States,493130,Farm product warehousing and storage,001,All firms,2012,525,737768,100.0,205501,51436,4816
+0100000US,,United States,493130,Farm product warehousing and storage,804,4 largest firms,2012,37,140784,19.1,22878,5513,472
+0100000US,,United States,493130,Farm product warehousing and storage,808,8 largest firms,2012,53,211400,28.7,27052,6619,597
+0100000US,,United States,493130,Farm product warehousing and storage,820,20 largest firms,2012,72,329483,44.7,38019,9078,869
+0100000US,,United States,493130,Farm product warehousing and storage,850,50 largest firms,2012,136,506346,68.6,69677,16390,1692
+0100000US,,United States,49319,Other warehousing and storage,001,All firms,2012,2505,6041098,100.0,3059154,807479,66767
+0100000US,,United States,49319,Other warehousing and storage,804,4 largest firms,2012,665,3059828,50.7,645171,201655,10808
+0100000US,,United States,49319,Other warehousing and storage,808,8 largest firms,2012,688,3732137,61.8,793586,237409,12621
+0100000US,,United States,49319,Other warehousing and storage,820,20 largest firms,2012,791,4546495,75.3,948584,275142,15593
+0100000US,,United States,49319,Other warehousing and storage,850,50 largest firms,2012,865,5062673,83.8,1075778,307059,18439
+0100000US,,United States,493190,Other warehousing and storage,001,All firms,2012,2505,6041098,100.0,3059154,807479,66767
+0100000US,,United States,493190,Other warehousing and storage,804,4 largest firms,2012,665,3059828,50.7,645171,201655,10808
+0100000US,,United States,493190,Other warehousing and storage,808,8 largest firms,2012,688,3732137,61.8,793586,237409,12621
+0100000US,,United States,493190,Other warehousing and storage,820,20 largest firms,2012,791,4546495,75.3,948584,275142,15593
+0100000US,,United States,493190,Other warehousing and storage,850,50 largest firms,2012,865,5062673,83.8,1075778,307059,18439
+0100000US,,United States,4931901,Household goods warehousing and storage,001,All firms,2012,459,182060,100.0,912244,222632,26909
+0100000US,,United States,4931901,Household goods warehousing and storage,804,4 largest firms,2012,9,64887,35.6,16665,3714,445
+0100000US,,United States,4931901,Household goods warehousing and storage,808,8 largest firms,2012,20,92633,50.9,23298,5136,619
+0100000US,,United States,4931901,Household goods warehousing and storage,820,20 largest firms,2012,32,131157,72.0,33671,7878,913
+0100000US,,United States,4931901,Household goods warehousing and storage,850,50 largest firms,2012,65,163450,89.8,45551,10356,1306
+0100000US,,United States,4931902,Specialized goods warehousing and storage,001,All firms,2012,2046,5859038,100.0,2146910,584847,39858
+0100000US,,United States,4931902,Specialized goods warehousing and storage,804,4 largest firms,2012,658,3044606,52.0,641762,200789,10699
+0100000US,,United States,4931902,Specialized goods warehousing and storage,808,8 largest firms,2012,681,3716915,63.4,790177,236543,12512
+0100000US,,United States,4931902,Specialized goods warehousing and storage,820,20 largest firms,2012,784,4531273,77.3,945175,274276,15484
+0100000US,,United States,4931902,Specialized goods warehousing and storage,850,50 largest firms,2012,862,5022959,85.7,1067401,305501,18205

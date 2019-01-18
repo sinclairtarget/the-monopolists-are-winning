@@ -1,0 +1,1177 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Type of operation or tax status code,Meaning of Type of operation or tax status code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts/Revenue ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,001,All firms,2012,856463,1480277061,100.0,581406127,140837991,8203735
+0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,804,4 largest firms,2012,2450,58748279,4.0,22297802,5765594,194224
+0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,808,8 largest firms,2012,3871,102253776,6.9,36817555,9351259,336002
+0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,820,20 largest firms,2012,8899,181788011,12.3,65288336,16422140,635936
+0100000US,,United States,54,"Professional, scientific, and technical services",A,All establishments,850,50 largest firms,2012,23561,278208358,18.8,101986111,25834365,1287946
+0100000US,,United States,54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,001,All firms,2012,851542,1440060452,100.0,566412533,137086878,7997617
+0100000US,,United States,54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,804,4 largest firms,2012,2450,58748279,4.1,22297802,5765594,194224
+0100000US,,United States,54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,808,8 largest firms,2012,3871,102253776,7.1,36817555,9351259,336002
+0100000US,,United States,54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,820,20 largest firms,2012,8899,181788011,12.6,65288336,16422140,635936
+0100000US,,United States,54,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,850,50 largest firms,2012,23601,274288336,19.0,100998931,25662786,1275442
+0100000US,,United States,54,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,001,All firms,2012,4921,40216609,100.0,14993594,3751113,206118
+0100000US,,United States,54,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,804,4 largest firms,2012,137,10847012,27.0,3751436,971447,38912
+0100000US,,United States,54,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,808,8 largest firms,2012,198,14406012,35.8,5477236,1386661,65305
+0100000US,,United States,54,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,820,20 largest firms,2012,354,20855703,51.9,7347985,1859437,88582
+0100000US,,United States,54,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,850,50 largest firms,2012,667,27396445,68.1,9841219,2469305,122232
+0100000US,,United States,541,"Professional, scientific, and technical services",A,All establishments,001,All firms,2012,856463,1480277061,100.0,581406127,140837991,8203735
+0100000US,,United States,541,"Professional, scientific, and technical services",A,All establishments,804,4 largest firms,2012,2450,58748279,4.0,22297802,5765594,194224
+0100000US,,United States,541,"Professional, scientific, and technical services",A,All establishments,808,8 largest firms,2012,3871,102253776,6.9,36817555,9351259,336002
+0100000US,,United States,541,"Professional, scientific, and technical services",A,All establishments,820,20 largest firms,2012,8899,181788011,12.3,65288336,16422140,635936
+0100000US,,United States,541,"Professional, scientific, and technical services",A,All establishments,850,50 largest firms,2012,23561,278208358,18.8,101986111,25834365,1287946
+0100000US,,United States,541,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,001,All firms,2012,851542,1440060452,100.0,566412533,137086878,7997617
+0100000US,,United States,541,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,804,4 largest firms,2012,2450,58748279,4.1,22297802,5765594,194224
+0100000US,,United States,541,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,808,8 largest firms,2012,3871,102253776,7.1,36817555,9351259,336002
+0100000US,,United States,541,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,820,20 largest firms,2012,8899,181788011,12.6,65288336,16422140,635936
+0100000US,,United States,541,"Professional, scientific, and technical services",T,Establishments subject to federal income tax,850,50 largest firms,2012,23601,274288336,19.0,100998931,25662786,1275442
+0100000US,,United States,541,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,001,All firms,2012,4921,40216609,100.0,14993594,3751113,206118
+0100000US,,United States,541,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,804,4 largest firms,2012,137,10847012,27.0,3751436,971447,38912
+0100000US,,United States,541,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,808,8 largest firms,2012,198,14406012,35.8,5477236,1386661,65305
+0100000US,,United States,541,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,820,20 largest firms,2012,354,20855703,51.9,7347985,1859437,88582
+0100000US,,United States,541,"Professional, scientific, and technical services",Y,Establishments exempt from federal income tax,850,50 largest firms,2012,667,27396445,68.1,9841219,2469305,122232
+0100000US,,United States,5411,Legal services,A,All establishments,001,All firms,2012,186831,261694645,100.0,93393076,20940871,1148683
+0100000US,,United States,5411,Legal services,A,All establishments,804,4 largest firms,2012,39,6809858,2.6,1437771,356817,10186
+0100000US,,United States,5411,Legal services,A,All establishments,808,8 largest firms,2012,296,11795575,4.5,3275234,753863,24077
+0100000US,,United States,5411,Legal services,A,All establishments,820,20 largest firms,2012,446,23000633,8.8,5970116,1462909,43752
+0100000US,,United States,5411,Legal services,A,All establishments,850,50 largest firms,2012,728,43301177,16.5,11952390,3002966,83128
+0100000US,,United States,5411,Legal services,T,Establishments subject to federal income tax,001,All firms,2012,184753,258951336,100.0,91925657,20573505,1122346
+0100000US,,United States,5411,Legal services,T,Establishments subject to federal income tax,804,4 largest firms,2012,39,6809858,2.6,1437771,356817,10186
+0100000US,,United States,5411,Legal services,T,Establishments subject to federal income tax,808,8 largest firms,2012,296,11795575,4.6,3275234,753863,24077
+0100000US,,United States,5411,Legal services,T,Establishments subject to federal income tax,820,20 largest firms,2012,446,23000633,8.9,5970116,1462909,43752
+0100000US,,United States,5411,Legal services,T,Establishments subject to federal income tax,850,50 largest firms,2012,728,43301177,16.7,11952390,3002966,83128
+0100000US,,United States,5411,Legal services,Y,Establishments exempt from federal income tax,001,All firms,2012,2078,2743309,100.0,1467419,367366,26337
+0100000US,,United States,5411,Legal services,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,47,348484,12.7,204308,54426,2878
+0100000US,,United States,5411,Legal services,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,85,467963,17.1,254703,67290,3767
+0100000US,,United States,5411,Legal services,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,201,701818,25.6,375574,98354,5820
+0100000US,,United States,5411,Legal services,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,337,1114313,40.6,573647,146617,9045
+0100000US,,United States,54111,Offices of lawyers,A,All establishments,001,All firms,2012,173943,248884540,100.0,89454410,20011182,1065249
+0100000US,,United States,54111,Offices of lawyers,A,All establishments,804,4 largest firms,2012,39,6809858,2.7,1437771,356817,10186
+0100000US,,United States,54111,Offices of lawyers,A,All establishments,808,8 largest firms,2012,112,11670098,4.7,3117216,717940,18963
+0100000US,,United States,54111,Offices of lawyers,A,All establishments,820,20 largest firms,2012,210,22418867,9.0,5935250,1433829,38756
+0100000US,,United States,54111,Offices of lawyers,A,All establishments,850,50 largest firms,2012,511,42216368,17.0,11736940,2945166,77617
+0100000US,,United States,54111,Offices of lawyers,T,Establishments subject to federal income tax,001,All firms,2012,171865,246141231,100.0,87986991,19643816,1038912
+0100000US,,United States,54111,Offices of lawyers,T,Establishments subject to federal income tax,804,4 largest firms,2012,39,6809858,2.8,1437771,356817,10186
+0100000US,,United States,54111,Offices of lawyers,T,Establishments subject to federal income tax,808,8 largest firms,2012,112,11670098,4.7,3117216,717940,18963
+0100000US,,United States,54111,Offices of lawyers,T,Establishments subject to federal income tax,820,20 largest firms,2012,210,22418867,9.1,5935250,1433829,38756
+0100000US,,United States,54111,Offices of lawyers,T,Establishments subject to federal income tax,850,50 largest firms,2012,511,42216368,17.2,11736940,2945166,77617
+0100000US,,United States,54111,Offices of lawyers,Y,Establishments exempt from federal income tax,001,All firms,2012,2078,2743309,100.0,1467419,367366,26337
+0100000US,,United States,54111,Offices of lawyers,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,47,348484,12.7,204308,54426,2878
+0100000US,,United States,54111,Offices of lawyers,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,85,467963,17.1,254703,67290,3767
+0100000US,,United States,54111,Offices of lawyers,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,201,701818,25.6,375574,98354,5820
+0100000US,,United States,54111,Offices of lawyers,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,337,1114313,40.6,573647,146617,9045
+0100000US,,United States,541110,Offices of lawyers,A,All establishments,001,All firms,2012,173943,248884540,100.0,89454410,20011182,1065249
+0100000US,,United States,541110,Offices of lawyers,A,All establishments,804,4 largest firms,2012,39,6809858,2.7,1437771,356817,10186
+0100000US,,United States,541110,Offices of lawyers,A,All establishments,808,8 largest firms,2012,112,11670098,4.7,3117216,717940,18963
+0100000US,,United States,541110,Offices of lawyers,A,All establishments,820,20 largest firms,2012,210,22418867,9.0,5935250,1433829,38756
+0100000US,,United States,541110,Offices of lawyers,A,All establishments,850,50 largest firms,2012,511,42216368,17.0,11736940,2945166,77617
+0100000US,,United States,541110,Offices of lawyers,T,Establishments subject to federal income tax,001,All firms,2012,171865,246141231,100.0,87986991,19643816,1038912
+0100000US,,United States,541110,Offices of lawyers,T,Establishments subject to federal income tax,804,4 largest firms,2012,39,6809858,2.8,1437771,356817,10186
+0100000US,,United States,541110,Offices of lawyers,T,Establishments subject to federal income tax,808,8 largest firms,2012,112,11670098,4.7,3117216,717940,18963
+0100000US,,United States,541110,Offices of lawyers,T,Establishments subject to federal income tax,820,20 largest firms,2012,210,22418867,9.1,5935250,1433829,38756
+0100000US,,United States,541110,Offices of lawyers,T,Establishments subject to federal income tax,850,50 largest firms,2012,511,42216368,17.2,11736940,2945166,77617
+0100000US,,United States,541110,Offices of lawyers,Y,Establishments exempt from federal income tax,001,All firms,2012,2078,2743309,100.0,1467419,367366,26337
+0100000US,,United States,541110,Offices of lawyers,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,47,348484,12.7,204308,54426,2878
+0100000US,,United States,541110,Offices of lawyers,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,85,467963,17.1,254703,67290,3767
+0100000US,,United States,541110,Offices of lawyers,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,201,701818,25.6,375574,98354,5820
+0100000US,,United States,541110,Offices of lawyers,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,337,1114313,40.6,573647,146617,9045
+0100000US,,United States,5411101,Offices of lawyers,A,All establishments,001,All firms,2012,171865,246141231,100.0,87986991,19643816,1038912
+0100000US,,United States,5411101,Offices of lawyers,A,All establishments,804,4 largest firms,2012,39,6809858,2.8,1437771,356817,10186
+0100000US,,United States,5411101,Offices of lawyers,A,All establishments,808,8 largest firms,2012,112,11670098,4.7,3117216,717940,18963
+0100000US,,United States,5411101,Offices of lawyers,A,All establishments,820,20 largest firms,2012,210,22418867,9.1,5935250,1433829,38756
+0100000US,,United States,5411101,Offices of lawyers,A,All establishments,850,50 largest firms,2012,511,42216368,17.2,11736940,2945166,77617
+0100000US,,United States,5411101,Offices of lawyers,T,Establishments subject to federal income tax,001,All firms,2012,171865,246141231,100.0,87986991,19643816,1038912
+0100000US,,United States,5411101,Offices of lawyers,T,Establishments subject to federal income tax,804,4 largest firms,2012,39,6809858,2.8,1437771,356817,10186
+0100000US,,United States,5411101,Offices of lawyers,T,Establishments subject to federal income tax,808,8 largest firms,2012,112,11670098,4.7,3117216,717940,18963
+0100000US,,United States,5411101,Offices of lawyers,T,Establishments subject to federal income tax,820,20 largest firms,2012,210,22418867,9.1,5935250,1433829,38756
+0100000US,,United States,5411101,Offices of lawyers,T,Establishments subject to federal income tax,850,50 largest firms,2012,511,42216368,17.2,11736940,2945166,77617
+0100000US,,United States,5411102,Legal aid societies and similar legal services,A,All establishments,001,All firms,2012,2078,2743309,100.0,1467419,367366,26337
+0100000US,,United States,5411102,Legal aid societies and similar legal services,A,All establishments,804,4 largest firms,2012,47,348484,12.7,204308,54426,2878
+0100000US,,United States,5411102,Legal aid societies and similar legal services,A,All establishments,808,8 largest firms,2012,85,467963,17.1,254703,67290,3767
+0100000US,,United States,5411102,Legal aid societies and similar legal services,A,All establishments,820,20 largest firms,2012,201,701818,25.6,375574,98354,5820
+0100000US,,United States,5411102,Legal aid societies and similar legal services,A,All establishments,850,50 largest firms,2012,337,1114313,40.6,573647,146617,9045
+0100000US,,United States,5411102,Legal aid societies and similar legal services,Y,Establishments exempt from federal income tax,001,All firms,2012,2078,2743309,100.0,1467419,367366,26337
+0100000US,,United States,5411102,Legal aid societies and similar legal services,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,47,348484,12.7,204308,54426,2878
+0100000US,,United States,5411102,Legal aid societies and similar legal services,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,85,467963,17.1,254703,67290,3767
+0100000US,,United States,5411102,Legal aid societies and similar legal services,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,201,701818,25.6,375574,98354,5820
+0100000US,,United States,5411102,Legal aid societies and similar legal services,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,337,1114313,40.6,573647,146617,9045
+0100000US,,United States,54119,Other legal services,A,All establishments,001,All firms,2012,12888,12810105,100.0,3938666,929689,83434
+0100000US,,United States,54119,Other legal services,A,All establishments,804,4 largest firms,2012,364,2880421,22.5,562042,145305,9354
+0100000US,,United States,54119,Other legal services,A,All establishments,808,8 largest firms,2012,475,3613833,28.2,786607,195189,13673
+0100000US,,United States,54119,Other legal services,A,All establishments,820,20 largest firms,2012,850,4523789,35.3,1114026,281374,20019
+0100000US,,United States,54119,Other legal services,A,All establishments,850,50 largest firms,2012,1239,5553960,43.4,1443244,358561,26275
+0100000US,,United States,54119,Other legal services,T,Establishments subject to federal income tax,001,All firms,2012,12888,12810105,100.0,3938666,929689,83434
+0100000US,,United States,54119,Other legal services,T,Establishments subject to federal income tax,804,4 largest firms,2012,364,2880421,22.5,562042,145305,9354
+0100000US,,United States,54119,Other legal services,T,Establishments subject to federal income tax,808,8 largest firms,2012,475,3613833,28.2,786607,195189,13673
+0100000US,,United States,54119,Other legal services,T,Establishments subject to federal income tax,820,20 largest firms,2012,850,4523789,35.3,1114026,281374,20019
+0100000US,,United States,54119,Other legal services,T,Establishments subject to federal income tax,850,50 largest firms,2012,1239,5553960,43.4,1443244,358561,26275
+0100000US,,United States,541191,Title abstract and settlement offices,A,All establishments,001,All firms,2012,9602,9553727,100.0,2977039,696534,62517
+0100000US,,United States,541191,Title abstract and settlement offices,A,All establishments,804,4 largest firms,2012,339,2627609,27.5,547034,136375,9630
+0100000US,,United States,541191,Title abstract and settlement offices,A,All establishments,808,8 largest firms,2012,723,3065687,32.1,743727,188903,13228
+0100000US,,United States,541191,Title abstract and settlement offices,A,All establishments,820,20 largest firms,2012,867,3669689,38.4,922484,230137,16628
+0100000US,,United States,541191,Title abstract and settlement offices,A,All establishments,850,50 largest firms,2012,1207,4488226,47.0,1185078,290860,21764
+0100000US,,United States,541191,Title abstract and settlement offices,T,Establishments subject to federal income tax,001,All firms,2012,9602,9553727,100.0,2977039,696534,62517
+0100000US,,United States,541191,Title abstract and settlement offices,T,Establishments subject to federal income tax,804,4 largest firms,2012,339,2627609,27.5,547034,136375,9630
+0100000US,,United States,541191,Title abstract and settlement offices,T,Establishments subject to federal income tax,808,8 largest firms,2012,723,3065687,32.1,743727,188903,13228
+0100000US,,United States,541191,Title abstract and settlement offices,T,Establishments subject to federal income tax,820,20 largest firms,2012,867,3669689,38.4,922484,230137,16628
+0100000US,,United States,541191,Title abstract and settlement offices,T,Establishments subject to federal income tax,850,50 largest firms,2012,1207,4488226,47.0,1185078,290860,21764
+0100000US,,United States,541199,All other legal services,A,All establishments,001,All firms,2012,3286,3256378,100.0,961627,233155,20917
+0100000US,,United States,541199,All other legal services,A,All establishments,804,4 largest firms,2012,49,964170,29.6,227127,58784,4098
+0100000US,,United States,541199,All other legal services,A,All establishments,808,8 largest firms,2012,94,1187073,36.5,286142,72346,5228
+0100000US,,United States,541199,All other legal services,A,All establishments,820,20 largest firms,2012,139,1462101,44.9,390847,101006,7095
+0100000US,,United States,541199,All other legal services,A,All establishments,850,50 largest firms,2012,210,1828597,56.2,516420,127768,9473
+0100000US,,United States,541199,All other legal services,T,Establishments subject to federal income tax,001,All firms,2012,3286,3256378,100.0,961627,233155,20917
+0100000US,,United States,541199,All other legal services,T,Establishments subject to federal income tax,804,4 largest firms,2012,49,964170,29.6,227127,58784,4098
+0100000US,,United States,541199,All other legal services,T,Establishments subject to federal income tax,808,8 largest firms,2012,94,1187073,36.5,286142,72346,5228
+0100000US,,United States,541199,All other legal services,T,Establishments subject to federal income tax,820,20 largest firms,2012,139,1462101,44.9,390847,101006,7095
+0100000US,,United States,541199,All other legal services,T,Establishments subject to federal income tax,850,50 largest firms,2012,210,1828597,56.2,516420,127768,9473
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,001,All firms,2012,127855,130261064,100.0,61428722,14935839,1443462
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,804,4 largest firms,2012,584,30680674,23.6,9835285,2342159,99429
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,808,8 largest firms,2012,8317,46349223,35.6,18134369,4415066,454131
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,820,20 largest firms,2012,8891,55850639,42.9,22362994,5455269,516606
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,850,50 largest firms,2012,9385,62312074,47.8,25066285,6207869,565815
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,001,All firms,2012,127855,130261064,100.0,61428722,14935839,1443462
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,804,4 largest firms,2012,584,30680674,23.6,9835285,2342159,99429
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,808,8 largest firms,2012,8317,46349223,35.6,18134369,4415066,454131
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,820,20 largest firms,2012,8891,55850639,42.9,22362994,5455269,516606
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,850,50 largest firms,2012,9385,62312074,47.8,25066285,6207869,565815
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,001,All firms,2012,127855,130261064,100.0,61428722,14935839,1443462
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,804,4 largest firms,2012,584,30680674,23.6,9835285,2342159,99429
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,808,8 largest firms,2012,8317,46349223,35.6,18134369,4415066,454131
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,820,20 largest firms,2012,8891,55850639,42.9,22362994,5455269,516606
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",A,All establishments,850,50 largest firms,2012,9385,62312074,47.8,25066285,6207869,565815
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,001,All firms,2012,127855,130261064,100.0,61428722,14935839,1443462
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,804,4 largest firms,2012,584,30680674,23.6,9835285,2342159,99429
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,808,8 largest firms,2012,8317,46349223,35.6,18134369,4415066,454131
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,820,20 largest firms,2012,8891,55850639,42.9,22362994,5455269,516606
+0100000US,,United States,54121,"Accounting, tax preparation, bookkeeping, and payroll services",T,Establishments subject to federal income tax,850,50 largest firms,2012,9385,62312074,47.8,25066285,6207869,565815
+0100000US,,United States,541211,Offices of certified public accountants,A,All establishments,001,All firms,2012,57150,76910557,100.0,30144028,6980870,438613
+0100000US,,United States,541211,Offices of certified public accountants,A,All establishments,804,4 largest firms,2012,480,28634152,37.2,9254972,2203111,93392
+0100000US,,United States,541211,Offices of certified public accountants,A,All establishments,808,8 largest firms,2012,687,32160769,41.8,10697040,2541661,110745
+0100000US,,United States,541211,Offices of certified public accountants,A,All establishments,820,20 largest firms,2012,1011,36127309,47.0,12081253,2859953,129484
+0100000US,,United States,541211,Offices of certified public accountants,A,All establishments,850,50 largest firms,2012,1280,39190761,51.0,13507008,3197953,145226
+0100000US,,United States,541211,Offices of certified public accountants,T,Establishments subject to federal income tax,001,All firms,2012,57150,76910557,100.0,30144028,6980870,438613
+0100000US,,United States,541211,Offices of certified public accountants,T,Establishments subject to federal income tax,804,4 largest firms,2012,480,28634152,37.2,9254972,2203111,93392
+0100000US,,United States,541211,Offices of certified public accountants,T,Establishments subject to federal income tax,808,8 largest firms,2012,687,32160769,41.8,10697040,2541661,110745
+0100000US,,United States,541211,Offices of certified public accountants,T,Establishments subject to federal income tax,820,20 largest firms,2012,1011,36127309,47.0,12081253,2859953,129484
+0100000US,,United States,541211,Offices of certified public accountants,T,Establishments subject to federal income tax,850,50 largest firms,2012,1280,39190761,51.0,13507008,3197953,145226
+0100000US,,United States,541213,Tax preparation services,A,All establishments,001,All firms,2012,27049,5847892,100.0,1837555,802390,202917
+0100000US,,United States,541213,Tax preparation services,A,All establishments,804,4 largest firms,2012,7971,D,D,D,D,l
+0100000US,,United States,541213,Tax preparation services,A,All establishments,808,8 largest firms,2012,8169,2265002,38.7,715789,366185,92352
+0100000US,,United States,541213,Tax preparation services,A,All establishments,820,20 largest firms,2012,8333,2369994,40.5,750316,377953,95164
+0100000US,,United States,541213,Tax preparation services,A,All establishments,850,50 largest firms,2012,8572,2526342,43.2,793382,395086,98832
+0100000US,,United States,541213,Tax preparation services,T,Establishments subject to federal income tax,001,All firms,2012,27049,5847892,100.0,1837555,802390,202917
+0100000US,,United States,541213,Tax preparation services,T,Establishments subject to federal income tax,804,4 largest firms,2012,7971,D,D,D,D,l
+0100000US,,United States,541213,Tax preparation services,T,Establishments subject to federal income tax,808,8 largest firms,2012,8169,2265002,38.7,715789,366185,92352
+0100000US,,United States,541213,Tax preparation services,T,Establishments subject to federal income tax,820,20 largest firms,2012,8333,2369994,40.5,750316,377953,95164
+0100000US,,United States,541213,Tax preparation services,T,Establishments subject to federal income tax,850,50 largest firms,2012,8572,2526342,43.2,793382,395086,98832
+0100000US,,United States,541214,Payroll services,A,All establishments,001,All firms,2012,5935,29306461,100.0,20880138,5021440,577295
+0100000US,,United States,541214,Payroll services,A,All establishments,804,4 largest firms,2012,798,14545548,49.6,7699502,1739386,270164
+0100000US,,United States,541214,Payroll services,A,All establishments,808,8 largest firms,2012,920,17310527,59.1,9532180,2205456,295762
+0100000US,,United States,541214,Payroll services,A,All establishments,820,20 largest firms,2012,949,19291215,65.8,10758624,2647741,328924
+0100000US,,United States,541214,Payroll services,A,All establishments,850,50 largest firms,2012,1037,21362364,72.9,12055668,2959307,361007
+0100000US,,United States,541214,Payroll services,T,Establishments subject to federal income tax,001,All firms,2012,5935,29306461,100.0,20880138,5021440,577295
+0100000US,,United States,541214,Payroll services,T,Establishments subject to federal income tax,804,4 largest firms,2012,798,14545548,49.6,7699502,1739386,270164
+0100000US,,United States,541214,Payroll services,T,Establishments subject to federal income tax,808,8 largest firms,2012,920,17310527,59.1,9532180,2205456,295762
+0100000US,,United States,541214,Payroll services,T,Establishments subject to federal income tax,820,20 largest firms,2012,949,19291215,65.8,10758624,2647741,328924
+0100000US,,United States,541214,Payroll services,T,Establishments subject to federal income tax,850,50 largest firms,2012,1037,21362364,72.9,12055668,2959307,361007
+0100000US,,United States,5412141,Talent payment services,A,All establishments,001,All firms,2012,204,5017042,100.0,3893769,800464,108276
+0100000US,,United States,5412141,Talent payment services,A,All establishments,804,4 largest firms,2012,112,D,D,D,D,m
+0100000US,,United States,5412141,Talent payment services,A,All establishments,808,8 largest firms,2012,116,4855189,96.8,3712600,759133,104748
+0100000US,,United States,5412141,Talent payment services,A,All establishments,820,20 largest firms,2012,128,4981206,99.3,3795426,777160,106449
+0100000US,,United States,5412141,Talent payment services,A,All establishments,850,50 largest firms,2012,159,5011478,99.9,3809886,780598,107182
+0100000US,,United States,5412141,Talent payment services,T,Establishments subject to federal income tax,001,All firms,2012,204,5017042,100.0,3893769,800464,108276
+0100000US,,United States,5412141,Talent payment services,T,Establishments subject to federal income tax,804,4 largest firms,2012,112,D,D,D,D,m
+0100000US,,United States,5412141,Talent payment services,T,Establishments subject to federal income tax,808,8 largest firms,2012,116,4855189,96.8,3712600,759133,104748
+0100000US,,United States,5412141,Talent payment services,T,Establishments subject to federal income tax,820,20 largest firms,2012,128,4981206,99.3,3795426,777160,106449
+0100000US,,United States,5412141,Talent payment services,T,Establishments subject to federal income tax,850,50 largest firms,2012,159,5011478,99.9,3809886,780598,107182
+0100000US,,United States,5412142,Payroll services (except talent payment services),A,All establishments,001,All firms,2012,5731,24289419,100.0,16986369,4220976,469019
+0100000US,,United States,5412142,Payroll services (except talent payment services),A,All establishments,804,4 largest firms,2012,754,11872027,48.9,5367219,1278637,189575
+0100000US,,United States,5412142,Payroll services (except talent payment services),A,All establishments,808,8 largest firms,2012,812,13386292,55.1,6339746,1558646,208114
+0100000US,,United States,5412142,Payroll services (except talent payment services),A,All establishments,820,20 largest firms,2012,837,14869012,61.2,7275576,1943441,233676
+0100000US,,United States,5412142,Payroll services (except talent payment services),A,All establishments,850,50 largest firms,2012,925,16790630,69.1,8486402,2229510,261804
+0100000US,,United States,5412142,Payroll services (except talent payment services),T,Establishments subject to federal income tax,001,All firms,2012,5731,24289419,100.0,16986369,4220976,469019
+0100000US,,United States,5412142,Payroll services (except talent payment services),T,Establishments subject to federal income tax,804,4 largest firms,2012,754,11872027,48.9,5367219,1278637,189575
+0100000US,,United States,5412142,Payroll services (except talent payment services),T,Establishments subject to federal income tax,808,8 largest firms,2012,812,13386292,55.1,6339746,1558646,208114
+0100000US,,United States,5412142,Payroll services (except talent payment services),T,Establishments subject to federal income tax,820,20 largest firms,2012,837,14869012,61.2,7275576,1943441,233676
+0100000US,,United States,5412142,Payroll services (except talent payment services),T,Establishments subject to federal income tax,850,50 largest firms,2012,925,16790630,69.1,8486402,2229510,261804
+0100000US,,United States,541219,Other accounting services,A,All establishments,001,All firms,2012,37721,18196154,100.0,8567001,2131139,224637
+0100000US,,United States,541219,Other accounting services,A,All establishments,804,4 largest firms,2012,289,3413715,18.8,1089956,271085,17024
+0100000US,,United States,541219,Other accounting services,A,All establishments,808,8 largest firms,2012,352,3945422,21.7,1252404,310710,19278
+0100000US,,United States,541219,Other accounting services,A,All establishments,820,20 largest firms,2012,403,4816594,26.5,1570061,388462,25851
+0100000US,,United States,541219,Other accounting services,A,All establishments,850,50 largest firms,2012,536,5787113,31.8,1950769,482434,32897
+0100000US,,United States,541219,Other accounting services,T,Establishments subject to federal income tax,001,All firms,2012,37721,18196154,100.0,8567001,2131139,224637
+0100000US,,United States,541219,Other accounting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,289,3413715,18.8,1089956,271085,17024
+0100000US,,United States,541219,Other accounting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,352,3945422,21.7,1252404,310710,19278
+0100000US,,United States,541219,Other accounting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,403,4816594,26.5,1570061,388462,25851
+0100000US,,United States,541219,Other accounting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,536,5787113,31.8,1950769,482434,32897
+0100000US,,United States,5413,"Architectural, engineering, and related services",A,All establishments,001,All firms,2012,107342,265946642,100.0,103155052,24698924,1354603
+0100000US,,United States,5413,"Architectural, engineering, and related services",A,All establishments,804,4 largest firms,2012,444,27487800,10.3,7794571,2092833,80266
+0100000US,,United States,5413,"Architectural, engineering, and related services",A,All establishments,808,8 largest firms,2012,1353,39425221,14.8,12377703,3256091,130376
+0100000US,,United States,5413,"Architectural, engineering, and related services",A,All establishments,820,20 largest firms,2012,2696,60193987,22.6,20306947,5375577,207615
+0100000US,,United States,5413,"Architectural, engineering, and related services",A,All establishments,850,50 largest firms,2012,4110,83989051,31.6,28371668,7439326,302502
+0100000US,,United States,5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,001,All firms,2012,107342,265946642,100.0,103155052,24698924,1354603
+0100000US,,United States,5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,804,4 largest firms,2012,444,27487800,10.3,7794571,2092833,80266
+0100000US,,United States,5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,808,8 largest firms,2012,1353,39425221,14.8,12377703,3256091,130376
+0100000US,,United States,5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,820,20 largest firms,2012,2696,60193987,22.6,20306947,5375577,207615
+0100000US,,United States,5413,"Architectural, engineering, and related services",T,Establishments subject to federal income tax,850,50 largest firms,2012,4110,83989051,31.6,28371668,7439326,302502
+0100000US,,United States,54131,Architectural services,A,All establishments,001,All firms,2012,20869,28128771,100.0,10310982,2293880,150030
+0100000US,,United States,54131,Architectural services,A,All establishments,804,4 largest firms,2012,85,1642941,5.8,464063,100666,4569
+0100000US,,United States,54131,Architectural services,A,All establishments,808,8 largest firms,2012,151,2675009,9.5,828495,194929,8817
+0100000US,,United States,54131,Architectural services,A,All establishments,820,20 largest firms,2012,231,4255622,15.1,1414685,335431,15604
+0100000US,,United States,54131,Architectural services,A,All establishments,850,50 largest firms,2012,349,6121788,21.8,2050629,476627,22880
+0100000US,,United States,54131,Architectural services,T,Establishments subject to federal income tax,001,All firms,2012,20869,28128771,100.0,10310982,2293880,150030
+0100000US,,United States,54131,Architectural services,T,Establishments subject to federal income tax,804,4 largest firms,2012,85,1642941,5.8,464063,100666,4569
+0100000US,,United States,54131,Architectural services,T,Establishments subject to federal income tax,808,8 largest firms,2012,151,2675009,9.5,828495,194929,8817
+0100000US,,United States,54131,Architectural services,T,Establishments subject to federal income tax,820,20 largest firms,2012,231,4255622,15.1,1414685,335431,15604
+0100000US,,United States,54131,Architectural services,T,Establishments subject to federal income tax,850,50 largest firms,2012,349,6121788,21.8,2050629,476627,22880
+0100000US,,United States,541310,Architectural services,A,All establishments,001,All firms,2012,20869,28128771,100.0,10310982,2293880,150030
+0100000US,,United States,541310,Architectural services,A,All establishments,804,4 largest firms,2012,85,1642941,5.8,464063,100666,4569
+0100000US,,United States,541310,Architectural services,A,All establishments,808,8 largest firms,2012,151,2675009,9.5,828495,194929,8817
+0100000US,,United States,541310,Architectural services,A,All establishments,820,20 largest firms,2012,231,4255622,15.1,1414685,335431,15604
+0100000US,,United States,541310,Architectural services,A,All establishments,850,50 largest firms,2012,349,6121788,21.8,2050629,476627,22880
+0100000US,,United States,541310,Architectural services,T,Establishments subject to federal income tax,001,All firms,2012,20869,28128771,100.0,10310982,2293880,150030
+0100000US,,United States,541310,Architectural services,T,Establishments subject to federal income tax,804,4 largest firms,2012,85,1642941,5.8,464063,100666,4569
+0100000US,,United States,541310,Architectural services,T,Establishments subject to federal income tax,808,8 largest firms,2012,151,2675009,9.5,828495,194929,8817
+0100000US,,United States,541310,Architectural services,T,Establishments subject to federal income tax,820,20 largest firms,2012,231,4255622,15.1,1414685,335431,15604
+0100000US,,United States,541310,Architectural services,T,Establishments subject to federal income tax,850,50 largest firms,2012,349,6121788,21.8,2050629,476627,22880
+0100000US,,United States,54132,Landscape architectural services,A,All establishments,001,All firms,2012,4884,2796029,100.0,1032726,228007,21605
+0100000US,,United States,54132,Landscape architectural services,A,All establishments,804,4 largest firms,2012,13,126844,4.5,58608,13679,830
+0100000US,,United States,54132,Landscape architectural services,A,All establishments,808,8 largest firms,2012,24,201921,7.2,83080,19754,1139
+0100000US,,United States,54132,Landscape architectural services,A,All establishments,820,20 largest firms,2012,61,335474,12.0,130353,30301,1765
+0100000US,,United States,54132,Landscape architectural services,A,All establishments,850,50 largest firms,2012,105,529880,19.0,204805,46814,2932
+0100000US,,United States,54132,Landscape architectural services,T,Establishments subject to federal income tax,001,All firms,2012,4884,2796029,100.0,1032726,228007,21605
+0100000US,,United States,54132,Landscape architectural services,T,Establishments subject to federal income tax,804,4 largest firms,2012,13,126844,4.5,58608,13679,830
+0100000US,,United States,54132,Landscape architectural services,T,Establishments subject to federal income tax,808,8 largest firms,2012,24,201921,7.2,83080,19754,1139
+0100000US,,United States,54132,Landscape architectural services,T,Establishments subject to federal income tax,820,20 largest firms,2012,61,335474,12.0,130353,30301,1765
+0100000US,,United States,54132,Landscape architectural services,T,Establishments subject to federal income tax,850,50 largest firms,2012,105,529880,19.0,204805,46814,2932
+0100000US,,United States,541320,Landscape architectural services,A,All establishments,001,All firms,2012,4884,2796029,100.0,1032726,228007,21605
+0100000US,,United States,541320,Landscape architectural services,A,All establishments,804,4 largest firms,2012,13,126844,4.5,58608,13679,830
+0100000US,,United States,541320,Landscape architectural services,A,All establishments,808,8 largest firms,2012,24,201921,7.2,83080,19754,1139
+0100000US,,United States,541320,Landscape architectural services,A,All establishments,820,20 largest firms,2012,61,335474,12.0,130353,30301,1765
+0100000US,,United States,541320,Landscape architectural services,A,All establishments,850,50 largest firms,2012,105,529880,19.0,204805,46814,2932
+0100000US,,United States,541320,Landscape architectural services,T,Establishments subject to federal income tax,001,All firms,2012,4884,2796029,100.0,1032726,228007,21605
+0100000US,,United States,541320,Landscape architectural services,T,Establishments subject to federal income tax,804,4 largest firms,2012,13,126844,4.5,58608,13679,830
+0100000US,,United States,541320,Landscape architectural services,T,Establishments subject to federal income tax,808,8 largest firms,2012,24,201921,7.2,83080,19754,1139
+0100000US,,United States,541320,Landscape architectural services,T,Establishments subject to federal income tax,820,20 largest firms,2012,61,335474,12.0,130353,30301,1765
+0100000US,,United States,541320,Landscape architectural services,T,Establishments subject to federal income tax,850,50 largest firms,2012,105,529880,19.0,204805,46814,2932
+0100000US,,United States,54133,Engineering services,A,All establishments,001,All firms,2012,58293,208124038,100.0,81185364,19685495,985389
+0100000US,,United States,54133,Engineering services,A,All establishments,804,4 largest firms,2012,439,27345425,13.1,7748948,2081339,79662
+0100000US,,United States,54133,Engineering services,A,All establishments,808,8 largest firms,2012,957,38863049,18.7,12520006,3319687,127287
+0100000US,,United States,54133,Engineering services,A,All establishments,820,20 largest firms,2012,2599,58936638,28.3,19945885,5273933,203304
+0100000US,,United States,54133,Engineering services,A,All establishments,850,50 largest firms,2012,3818,81806293,39.3,27404587,7189335,287841
+0100000US,,United States,54133,Engineering services,T,Establishments subject to federal income tax,001,All firms,2012,58293,208124038,100.0,81185364,19685495,985389
+0100000US,,United States,54133,Engineering services,T,Establishments subject to federal income tax,804,4 largest firms,2012,439,27345425,13.1,7748948,2081339,79662
+0100000US,,United States,54133,Engineering services,T,Establishments subject to federal income tax,808,8 largest firms,2012,957,38863049,18.7,12520006,3319687,127287
+0100000US,,United States,54133,Engineering services,T,Establishments subject to federal income tax,820,20 largest firms,2012,2599,58936638,28.3,19945885,5273933,203304
+0100000US,,United States,54133,Engineering services,T,Establishments subject to federal income tax,850,50 largest firms,2012,3818,81806293,39.3,27404587,7189335,287841
+0100000US,,United States,541330,Engineering services,A,All establishments,001,All firms,2012,58293,208124038,100.0,81185364,19685495,985389
+0100000US,,United States,541330,Engineering services,A,All establishments,804,4 largest firms,2012,439,27345425,13.1,7748948,2081339,79662
+0100000US,,United States,541330,Engineering services,A,All establishments,808,8 largest firms,2012,957,38863049,18.7,12520006,3319687,127287
+0100000US,,United States,541330,Engineering services,A,All establishments,820,20 largest firms,2012,2599,58936638,28.3,19945885,5273933,203304
+0100000US,,United States,541330,Engineering services,A,All establishments,850,50 largest firms,2012,3818,81806293,39.3,27404587,7189335,287841
+0100000US,,United States,541330,Engineering services,T,Establishments subject to federal income tax,001,All firms,2012,58293,208124038,100.0,81185364,19685495,985389
+0100000US,,United States,541330,Engineering services,T,Establishments subject to federal income tax,804,4 largest firms,2012,439,27345425,13.1,7748948,2081339,79662
+0100000US,,United States,541330,Engineering services,T,Establishments subject to federal income tax,808,8 largest firms,2012,957,38863049,18.7,12520006,3319687,127287
+0100000US,,United States,541330,Engineering services,T,Establishments subject to federal income tax,820,20 largest firms,2012,2599,58936638,28.3,19945885,5273933,203304
+0100000US,,United States,541330,Engineering services,T,Establishments subject to federal income tax,850,50 largest firms,2012,3818,81806293,39.3,27404587,7189335,287841
+0100000US,,United States,54134,Drafting services,A,All establishments,001,All firms,2012,2363,833293,100.0,345898,79884,7430
+0100000US,,United States,54134,Drafting services,A,All establishments,804,4 largest firms,2012,5,60375,7.2,31666,7132,487
+0100000US,,United States,54134,Drafting services,A,All establishments,808,8 largest firms,2012,9,94723,11.4,39310,9127,596
+0100000US,,United States,54134,Drafting services,A,All establishments,820,20 largest firms,2012,25,163285,19.6,70183,16151,1054
+0100000US,,United States,54134,Drafting services,A,All establishments,850,50 largest firms,2012,56,269155,32.3,105970,24213,1626
+0100000US,,United States,54134,Drafting services,T,Establishments subject to federal income tax,001,All firms,2012,2363,833293,100.0,345898,79884,7430
+0100000US,,United States,54134,Drafting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,5,60375,7.2,31666,7132,487
+0100000US,,United States,54134,Drafting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,9,94723,11.4,39310,9127,596
+0100000US,,United States,54134,Drafting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,25,163285,19.6,70183,16151,1054
+0100000US,,United States,54134,Drafting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,56,269155,32.3,105970,24213,1626
+0100000US,,United States,541340,Drafting services,A,All establishments,001,All firms,2012,2363,833293,100.0,345898,79884,7430
+0100000US,,United States,541340,Drafting services,A,All establishments,804,4 largest firms,2012,5,60375,7.2,31666,7132,487
+0100000US,,United States,541340,Drafting services,A,All establishments,808,8 largest firms,2012,9,94723,11.4,39310,9127,596
+0100000US,,United States,541340,Drafting services,A,All establishments,820,20 largest firms,2012,25,163285,19.6,70183,16151,1054
+0100000US,,United States,541340,Drafting services,A,All establishments,850,50 largest firms,2012,56,269155,32.3,105970,24213,1626
+0100000US,,United States,541340,Drafting services,T,Establishments subject to federal income tax,001,All firms,2012,2363,833293,100.0,345898,79884,7430
+0100000US,,United States,541340,Drafting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,5,60375,7.2,31666,7132,487
+0100000US,,United States,541340,Drafting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,9,94723,11.4,39310,9127,596
+0100000US,,United States,541340,Drafting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,25,163285,19.6,70183,16151,1054
+0100000US,,United States,541340,Drafting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,56,269155,32.3,105970,24213,1626
+0100000US,,United States,54135,Building inspection services,A,All establishments,001,All firms,2012,5475,2004713,100.0,657811,150393,17205
+0100000US,,United States,54135,Building inspection services,A,All establishments,804,4 largest firms,2012,11,250470,12.5,35035,9545,788
+0100000US,,United States,54135,Building inspection services,A,All establishments,808,8 largest firms,2012,23,335374,16.7,66325,15865,1575
+0100000US,,United States,54135,Building inspection services,A,All establishments,820,20 largest firms,2012,51,496970,24.8,116058,27240,2616
+0100000US,,United States,54135,Building inspection services,A,All establishments,850,50 largest firms,2012,118,697367,34.8,195708,46942,4245
+0100000US,,United States,54135,Building inspection services,T,Establishments subject to federal income tax,001,All firms,2012,5475,2004713,100.0,657811,150393,17205
+0100000US,,United States,54135,Building inspection services,T,Establishments subject to federal income tax,804,4 largest firms,2012,11,250470,12.5,35035,9545,788
+0100000US,,United States,54135,Building inspection services,T,Establishments subject to federal income tax,808,8 largest firms,2012,23,335374,16.7,66325,15865,1575
+0100000US,,United States,54135,Building inspection services,T,Establishments subject to federal income tax,820,20 largest firms,2012,51,496970,24.8,116058,27240,2616
+0100000US,,United States,54135,Building inspection services,T,Establishments subject to federal income tax,850,50 largest firms,2012,118,697367,34.8,195708,46942,4245
+0100000US,,United States,541350,Building inspection services,A,All establishments,001,All firms,2012,5475,2004713,100.0,657811,150393,17205
+0100000US,,United States,541350,Building inspection services,A,All establishments,804,4 largest firms,2012,11,250470,12.5,35035,9545,788
+0100000US,,United States,541350,Building inspection services,A,All establishments,808,8 largest firms,2012,23,335374,16.7,66325,15865,1575
+0100000US,,United States,541350,Building inspection services,A,All establishments,820,20 largest firms,2012,51,496970,24.8,116058,27240,2616
+0100000US,,United States,541350,Building inspection services,A,All establishments,850,50 largest firms,2012,118,697367,34.8,195708,46942,4245
+0100000US,,United States,541350,Building inspection services,T,Establishments subject to federal income tax,001,All firms,2012,5475,2004713,100.0,657811,150393,17205
+0100000US,,United States,541350,Building inspection services,T,Establishments subject to federal income tax,804,4 largest firms,2012,11,250470,12.5,35035,9545,788
+0100000US,,United States,541350,Building inspection services,T,Establishments subject to federal income tax,808,8 largest firms,2012,23,335374,16.7,66325,15865,1575
+0100000US,,United States,541350,Building inspection services,T,Establishments subject to federal income tax,820,20 largest firms,2012,51,496970,24.8,116058,27240,2616
+0100000US,,United States,541350,Building inspection services,T,Establishments subject to federal income tax,850,50 largest firms,2012,118,697367,34.8,195708,46942,4245
+0100000US,,United States,54136,Geophysical surveying and mapping services,A,All establishments,001,All firms,2012,760,3141222,100.0,848935,208705,11570
+0100000US,,United States,54136,Geophysical surveying and mapping services,A,All establishments,804,4 largest firms,2012,9,1356225,43.2,303305,76789,4247
+0100000US,,United States,54136,Geophysical surveying and mapping services,A,All establishments,808,8 largest firms,2012,21,1939702,61.7,375672,96013,5278
+0100000US,,United States,54136,Geophysical surveying and mapping services,A,All establishments,820,20 largest firms,2012,50,2596385,82.7,546552,137932,7695
+0100000US,,United States,54136,Geophysical surveying and mapping services,A,All establishments,850,50 largest firms,2012,91,2815382,89.6,621846,155242,8983
+0100000US,,United States,54136,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,001,All firms,2012,760,3141222,100.0,848935,208705,11570
+0100000US,,United States,54136,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,804,4 largest firms,2012,9,1356225,43.2,303305,76789,4247
+0100000US,,United States,54136,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,808,8 largest firms,2012,21,1939702,61.7,375672,96013,5278
+0100000US,,United States,54136,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,820,20 largest firms,2012,50,2596385,82.7,546552,137932,7695
+0100000US,,United States,54136,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,850,50 largest firms,2012,91,2815382,89.6,621846,155242,8983
+0100000US,,United States,541360,Geophysical surveying and mapping services,A,All establishments,001,All firms,2012,760,3141222,100.0,848935,208705,11570
+0100000US,,United States,541360,Geophysical surveying and mapping services,A,All establishments,804,4 largest firms,2012,9,1356225,43.2,303305,76789,4247
+0100000US,,United States,541360,Geophysical surveying and mapping services,A,All establishments,808,8 largest firms,2012,21,1939702,61.7,375672,96013,5278
+0100000US,,United States,541360,Geophysical surveying and mapping services,A,All establishments,820,20 largest firms,2012,50,2596385,82.7,546552,137932,7695
+0100000US,,United States,541360,Geophysical surveying and mapping services,A,All establishments,850,50 largest firms,2012,91,2815382,89.6,621846,155242,8983
+0100000US,,United States,541360,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,001,All firms,2012,760,3141222,100.0,848935,208705,11570
+0100000US,,United States,541360,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,804,4 largest firms,2012,9,1356225,43.2,303305,76789,4247
+0100000US,,United States,541360,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,808,8 largest firms,2012,21,1939702,61.7,375672,96013,5278
+0100000US,,United States,541360,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,820,20 largest firms,2012,50,2596385,82.7,546552,137932,7695
+0100000US,,United States,541360,Geophysical surveying and mapping services,T,Establishments subject to federal income tax,850,50 largest firms,2012,91,2815382,89.6,621846,155242,8983
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,A,All establishments,001,All firms,2012,8085,5594247,100.0,2250879,513609,46356
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,A,All establishments,804,4 largest firms,2012,20,927073,16.6,262521,71736,2827
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,A,All establishments,808,8 largest firms,2012,33,1195499,21.4,351592,90084,3925
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,A,All establishments,820,20 largest firms,2012,85,1607306,28.7,508247,118898,6389
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,A,All establishments,850,50 largest firms,2012,138,2053136,36.7,677126,156055,8779
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,001,All firms,2012,8085,5594247,100.0,2250879,513609,46356
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,804,4 largest firms,2012,20,927073,16.6,262521,71736,2827
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,808,8 largest firms,2012,33,1195499,21.4,351592,90084,3925
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,820,20 largest firms,2012,85,1607306,28.7,508247,118898,6389
+0100000US,,United States,54137,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,850,50 largest firms,2012,138,2053136,36.7,677126,156055,8779
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,A,All establishments,001,All firms,2012,8085,5594247,100.0,2250879,513609,46356
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,A,All establishments,804,4 largest firms,2012,20,927073,16.6,262521,71736,2827
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,A,All establishments,808,8 largest firms,2012,33,1195499,21.4,351592,90084,3925
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,A,All establishments,820,20 largest firms,2012,85,1607306,28.7,508247,118898,6389
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,A,All establishments,850,50 largest firms,2012,138,2053136,36.7,677126,156055,8779
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,001,All firms,2012,8085,5594247,100.0,2250879,513609,46356
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,804,4 largest firms,2012,20,927073,16.6,262521,71736,2827
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,808,8 largest firms,2012,33,1195499,21.4,351592,90084,3925
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,820,20 largest firms,2012,85,1607306,28.7,508247,118898,6389
+0100000US,,United States,541370,Surveying and mapping (except geophysical) services,T,Establishments subject to federal income tax,850,50 largest firms,2012,138,2053136,36.7,677126,156055,8779
+0100000US,,United States,54138,Testing laboratories,A,All establishments,001,All firms,2012,6613,15324329,100.0,6522457,1538951,115018
+0100000US,,United States,54138,Testing laboratories,A,All establishments,804,4 largest firms,2012,221,2028160,13.2,819685,209794,13314
+0100000US,,United States,54138,Testing laboratories,A,All establishments,808,8 largest firms,2012,361,2880332,18.8,1184557,299381,19303
+0100000US,,United States,54138,Testing laboratories,A,All establishments,820,20 largest firms,2012,475,4219122,27.5,1759279,435130,28301
+0100000US,,United States,54138,Testing laboratories,A,All establishments,850,50 largest firms,2012,687,5874361,38.3,2403878,580176,38745
+0100000US,,United States,54138,Testing laboratories,T,Establishments subject to federal income tax,001,All firms,2012,6613,15324329,100.0,6522457,1538951,115018
+0100000US,,United States,54138,Testing laboratories,T,Establishments subject to federal income tax,804,4 largest firms,2012,221,2028160,13.2,819685,209794,13314
+0100000US,,United States,54138,Testing laboratories,T,Establishments subject to federal income tax,808,8 largest firms,2012,361,2880332,18.8,1184557,299381,19303
+0100000US,,United States,54138,Testing laboratories,T,Establishments subject to federal income tax,820,20 largest firms,2012,475,4219122,27.5,1759279,435130,28301
+0100000US,,United States,54138,Testing laboratories,T,Establishments subject to federal income tax,850,50 largest firms,2012,687,5874361,38.3,2403878,580176,38745
+0100000US,,United States,541380,Testing laboratories,A,All establishments,001,All firms,2012,6613,15324329,100.0,6522457,1538951,115018
+0100000US,,United States,541380,Testing laboratories,A,All establishments,804,4 largest firms,2012,221,2028160,13.2,819685,209794,13314
+0100000US,,United States,541380,Testing laboratories,A,All establishments,808,8 largest firms,2012,361,2880332,18.8,1184557,299381,19303
+0100000US,,United States,541380,Testing laboratories,A,All establishments,820,20 largest firms,2012,475,4219122,27.5,1759279,435130,28301
+0100000US,,United States,541380,Testing laboratories,A,All establishments,850,50 largest firms,2012,687,5874361,38.3,2403878,580176,38745
+0100000US,,United States,541380,Testing laboratories,T,Establishments subject to federal income tax,001,All firms,2012,6613,15324329,100.0,6522457,1538951,115018
+0100000US,,United States,541380,Testing laboratories,T,Establishments subject to federal income tax,804,4 largest firms,2012,221,2028160,13.2,819685,209794,13314
+0100000US,,United States,541380,Testing laboratories,T,Establishments subject to federal income tax,808,8 largest firms,2012,361,2880332,18.8,1184557,299381,19303
+0100000US,,United States,541380,Testing laboratories,T,Establishments subject to federal income tax,820,20 largest firms,2012,475,4219122,27.5,1759279,435130,28301
+0100000US,,United States,541380,Testing laboratories,T,Establishments subject to federal income tax,850,50 largest firms,2012,687,5874361,38.3,2403878,580176,38745
+0100000US,,United States,5414,Specialized design services,A,All establishments,001,All firms,2012,29946,18207575,100.0,5332214,1231993,101088
+0100000US,,United States,5414,Specialized design services,A,All establishments,804,4 largest firms,2012,21,455314,2.5,159726,38723,1686
+0100000US,,United States,5414,Specialized design services,A,All establishments,808,8 largest firms,2012,42,694912,3.8,218407,52926,2484
+0100000US,,United States,5414,Specialized design services,A,All establishments,820,20 largest firms,2012,64,1226135,6.7,374099,90044,4529
+0100000US,,United States,5414,Specialized design services,A,All establishments,850,50 largest firms,2012,112,1966062,10.8,575693,136156,6795
+0100000US,,United States,5414,Specialized design services,T,Establishments subject to federal income tax,001,All firms,2012,29946,18207575,100.0,5332214,1231993,101088
+0100000US,,United States,5414,Specialized design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,21,455314,2.5,159726,38723,1686
+0100000US,,United States,5414,Specialized design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,42,694912,3.8,218407,52926,2484
+0100000US,,United States,5414,Specialized design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,64,1226135,6.7,374099,90044,4529
+0100000US,,United States,5414,Specialized design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,112,1966062,10.8,575693,136156,6795
+0100000US,,United States,54141,Interior design services,A,All establishments,001,All firms,2012,11449,7670819,100.0,1606252,361291,34302
+0100000US,,United States,54141,Interior design services,A,All establishments,804,4 largest firms,2012,16,181284,2.4,51261,10505,619
+0100000US,,United States,54141,Interior design services,A,All establishments,808,8 largest firms,2012,22,293099,3.8,84572,18540,1071
+0100000US,,United States,54141,Interior design services,A,All establishments,820,20 largest firms,2012,42,521130,6.8,156278,33945,1838
+0100000US,,United States,54141,Interior design services,A,All establishments,850,50 largest firms,2012,121,882416,11.5,260608,58057,4472
+0100000US,,United States,54141,Interior design services,T,Establishments subject to federal income tax,001,All firms,2012,11449,7670819,100.0,1606252,361291,34302
+0100000US,,United States,54141,Interior design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,16,181284,2.4,51261,10505,619
+0100000US,,United States,54141,Interior design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,22,293099,3.8,84572,18540,1071
+0100000US,,United States,54141,Interior design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,42,521130,6.8,156278,33945,1838
+0100000US,,United States,54141,Interior design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,121,882416,11.5,260608,58057,4472
+0100000US,,United States,541410,Interior design services,A,All establishments,001,All firms,2012,11449,7670819,100.0,1606252,361291,34302
+0100000US,,United States,541410,Interior design services,A,All establishments,804,4 largest firms,2012,16,181284,2.4,51261,10505,619
+0100000US,,United States,541410,Interior design services,A,All establishments,808,8 largest firms,2012,22,293099,3.8,84572,18540,1071
+0100000US,,United States,541410,Interior design services,A,All establishments,820,20 largest firms,2012,42,521130,6.8,156278,33945,1838
+0100000US,,United States,541410,Interior design services,A,All establishments,850,50 largest firms,2012,121,882416,11.5,260608,58057,4472
+0100000US,,United States,541410,Interior design services,T,Establishments subject to federal income tax,001,All firms,2012,11449,7670819,100.0,1606252,361291,34302
+0100000US,,United States,541410,Interior design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,16,181284,2.4,51261,10505,619
+0100000US,,United States,541410,Interior design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,22,293099,3.8,84572,18540,1071
+0100000US,,United States,541410,Interior design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,42,521130,6.8,156278,33945,1838
+0100000US,,United States,541410,Interior design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,121,882416,11.5,260608,58057,4472
+0100000US,,United States,54142,Industrial design services,A,All establishments,001,All firms,2012,1437,1629021,100.0,742089,173039,9665
+0100000US,,United States,54142,Industrial design services,A,All establishments,804,4 largest firms,2012,15,396474,24.3,128434,31226,1326
+0100000US,,United States,54142,Industrial design services,A,All establishments,808,8 largest firms,2012,24,505635,31.0,155204,37233,1565
+0100000US,,United States,54142,Industrial design services,A,All establishments,820,20 largest firms,2012,39,677288,41.6,207970,48815,2143
+0100000US,,United States,54142,Industrial design services,A,All establishments,850,50 largest firms,2012,75,902416,55.4,285366,66444,3054
+0100000US,,United States,54142,Industrial design services,T,Establishments subject to federal income tax,001,All firms,2012,1437,1629021,100.0,742089,173039,9665
+0100000US,,United States,54142,Industrial design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,15,396474,24.3,128434,31226,1326
+0100000US,,United States,54142,Industrial design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,24,505635,31.0,155204,37233,1565
+0100000US,,United States,54142,Industrial design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,39,677288,41.6,207970,48815,2143
+0100000US,,United States,54142,Industrial design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,75,902416,55.4,285366,66444,3054
+0100000US,,United States,541420,Industrial design services,A,All establishments,001,All firms,2012,1437,1629021,100.0,742089,173039,9665
+0100000US,,United States,541420,Industrial design services,A,All establishments,804,4 largest firms,2012,15,396474,24.3,128434,31226,1326
+0100000US,,United States,541420,Industrial design services,A,All establishments,808,8 largest firms,2012,24,505635,31.0,155204,37233,1565
+0100000US,,United States,541420,Industrial design services,A,All establishments,820,20 largest firms,2012,39,677288,41.6,207970,48815,2143
+0100000US,,United States,541420,Industrial design services,A,All establishments,850,50 largest firms,2012,75,902416,55.4,285366,66444,3054
+0100000US,,United States,541420,Industrial design services,T,Establishments subject to federal income tax,001,All firms,2012,1437,1629021,100.0,742089,173039,9665
+0100000US,,United States,541420,Industrial design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,15,396474,24.3,128434,31226,1326
+0100000US,,United States,541420,Industrial design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,24,505635,31.0,155204,37233,1565
+0100000US,,United States,541420,Industrial design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,39,677288,41.6,207970,48815,2143
+0100000US,,United States,541420,Industrial design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,75,902416,55.4,285366,66444,3054
+0100000US,,United States,54143,Graphic design services,A,All establishments,001,All firms,2012,15298,7552462,100.0,2589524,601932,49497
+0100000US,,United States,54143,Graphic design services,A,All establishments,804,4 largest firms,2012,22,266147,3.5,95253,23413,1238
+0100000US,,United States,54143,Graphic design services,A,All establishments,808,8 largest firms,2012,26,432562,5.7,157787,39218,2011
+0100000US,,United States,54143,Graphic design services,A,All establishments,820,20 largest firms,2012,51,702637,9.3,249653,61208,2987
+0100000US,,United States,54143,Graphic design services,A,All establishments,850,50 largest firms,2012,108,1088486,14.4,368560,88881,4826
+0100000US,,United States,54143,Graphic design services,T,Establishments subject to federal income tax,001,All firms,2012,15298,7552462,100.0,2589524,601932,49497
+0100000US,,United States,54143,Graphic design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,22,266147,3.5,95253,23413,1238
+0100000US,,United States,54143,Graphic design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,26,432562,5.7,157787,39218,2011
+0100000US,,United States,54143,Graphic design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,51,702637,9.3,249653,61208,2987
+0100000US,,United States,54143,Graphic design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,108,1088486,14.4,368560,88881,4826
+0100000US,,United States,541430,Graphic design services,A,All establishments,001,All firms,2012,15298,7552462,100.0,2589524,601932,49497
+0100000US,,United States,541430,Graphic design services,A,All establishments,804,4 largest firms,2012,22,266147,3.5,95253,23413,1238
+0100000US,,United States,541430,Graphic design services,A,All establishments,808,8 largest firms,2012,26,432562,5.7,157787,39218,2011
+0100000US,,United States,541430,Graphic design services,A,All establishments,820,20 largest firms,2012,51,702637,9.3,249653,61208,2987
+0100000US,,United States,541430,Graphic design services,A,All establishments,850,50 largest firms,2012,108,1088486,14.4,368560,88881,4826
+0100000US,,United States,541430,Graphic design services,T,Establishments subject to federal income tax,001,All firms,2012,15298,7552462,100.0,2589524,601932,49497
+0100000US,,United States,541430,Graphic design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,22,266147,3.5,95253,23413,1238
+0100000US,,United States,541430,Graphic design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,26,432562,5.7,157787,39218,2011
+0100000US,,United States,541430,Graphic design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,51,702637,9.3,249653,61208,2987
+0100000US,,United States,541430,Graphic design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,108,1088486,14.4,368560,88881,4826
+0100000US,,United States,54149,Other specialized design services,A,All establishments,001,All firms,2012,1762,1355273,100.0,394349,95731,7624
+0100000US,,United States,54149,Other specialized design services,A,All establishments,804,4 largest firms,2012,4,207355,15.3,27413,7045,482
+0100000US,,United States,54149,Other specialized design services,A,All establishments,808,8 largest firms,2012,8,319775,23.6,45372,10453,696
+0100000US,,United States,54149,Other specialized design services,A,All establishments,820,20 largest firms,2012,20,516487,38.1,68824,16327,1108
+0100000US,,United States,54149,Other specialized design services,A,All establishments,850,50 largest firms,2012,50,685976,50.6,114098,27308,2002
+0100000US,,United States,54149,Other specialized design services,T,Establishments subject to federal income tax,001,All firms,2012,1762,1355273,100.0,394349,95731,7624
+0100000US,,United States,54149,Other specialized design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,4,207355,15.3,27413,7045,482
+0100000US,,United States,54149,Other specialized design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,8,319775,23.6,45372,10453,696
+0100000US,,United States,54149,Other specialized design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,20,516487,38.1,68824,16327,1108
+0100000US,,United States,54149,Other specialized design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,50,685976,50.6,114098,27308,2002
+0100000US,,United States,541490,Other specialized design services,A,All establishments,001,All firms,2012,1762,1355273,100.0,394349,95731,7624
+0100000US,,United States,541490,Other specialized design services,A,All establishments,804,4 largest firms,2012,4,207355,15.3,27413,7045,482
+0100000US,,United States,541490,Other specialized design services,A,All establishments,808,8 largest firms,2012,8,319775,23.6,45372,10453,696
+0100000US,,United States,541490,Other specialized design services,A,All establishments,820,20 largest firms,2012,20,516487,38.1,68824,16327,1108
+0100000US,,United States,541490,Other specialized design services,A,All establishments,850,50 largest firms,2012,50,685976,50.6,114098,27308,2002
+0100000US,,United States,541490,Other specialized design services,T,Establishments subject to federal income tax,001,All firms,2012,1762,1355273,100.0,394349,95731,7624
+0100000US,,United States,541490,Other specialized design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,4,207355,15.3,27413,7045,482
+0100000US,,United States,541490,Other specialized design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,8,319775,23.6,45372,10453,696
+0100000US,,United States,541490,Other specialized design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,20,516487,38.1,68824,16327,1108
+0100000US,,United States,541490,Other specialized design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,50,685976,50.6,114098,27308,2002
+0100000US,,United States,5415,Computer systems design and related services,A,All establishments,001,All firms,2012,130408,326031285,100.0,125574738,31083608,1473241
+0100000US,,United States,5415,Computer systems design and related services,A,All establishments,804,4 largest firms,2012,3820,50948331,15.6,19715707,5261525,196597
+0100000US,,United States,5415,Computer systems design and related services,A,All establishments,808,8 largest firms,2012,6203,71738152,22.0,25912469,6820236,264901
+0100000US,,United States,5415,Computer systems design and related services,A,All establishments,820,20 largest firms,2012,9938,103278692,31.7,35838727,9327991,377892
+0100000US,,United States,5415,Computer systems design and related services,A,All establishments,850,50 largest firms,2012,12374,132980428,40.8,46073538,11877996,481034
+0100000US,,United States,5415,Computer systems design and related services,T,Establishments subject to federal income tax,001,All firms,2012,130408,326031285,100.0,125574738,31083608,1473241
+0100000US,,United States,5415,Computer systems design and related services,T,Establishments subject to federal income tax,804,4 largest firms,2012,3820,50948331,15.6,19715707,5261525,196597
+0100000US,,United States,5415,Computer systems design and related services,T,Establishments subject to federal income tax,808,8 largest firms,2012,6203,71738152,22.0,25912469,6820236,264901
+0100000US,,United States,5415,Computer systems design and related services,T,Establishments subject to federal income tax,820,20 largest firms,2012,9938,103278692,31.7,35838727,9327991,377892
+0100000US,,United States,5415,Computer systems design and related services,T,Establishments subject to federal income tax,850,50 largest firms,2012,12374,132980428,40.8,46073538,11877996,481034
+0100000US,,United States,54151,Computer systems design and related services,A,All establishments,001,All firms,2012,130408,326031285,100.0,125574738,31083608,1473241
+0100000US,,United States,54151,Computer systems design and related services,A,All establishments,804,4 largest firms,2012,3820,50948331,15.6,19715707,5261525,196597
+0100000US,,United States,54151,Computer systems design and related services,A,All establishments,808,8 largest firms,2012,6203,71738152,22.0,25912469,6820236,264901
+0100000US,,United States,54151,Computer systems design and related services,A,All establishments,820,20 largest firms,2012,9938,103278692,31.7,35838727,9327991,377892
+0100000US,,United States,54151,Computer systems design and related services,A,All establishments,850,50 largest firms,2012,12374,132980428,40.8,46073538,11877996,481034
+0100000US,,United States,54151,Computer systems design and related services,T,Establishments subject to federal income tax,001,All firms,2012,130408,326031285,100.0,125574738,31083608,1473241
+0100000US,,United States,54151,Computer systems design and related services,T,Establishments subject to federal income tax,804,4 largest firms,2012,3820,50948331,15.6,19715707,5261525,196597
+0100000US,,United States,54151,Computer systems design and related services,T,Establishments subject to federal income tax,808,8 largest firms,2012,6203,71738152,22.0,25912469,6820236,264901
+0100000US,,United States,54151,Computer systems design and related services,T,Establishments subject to federal income tax,820,20 largest firms,2012,9938,103278692,31.7,35838727,9327991,377892
+0100000US,,United States,54151,Computer systems design and related services,T,Establishments subject to federal income tax,850,50 largest firms,2012,12374,132980428,40.8,46073538,11877996,481034
+0100000US,,United States,541511,Custom computer programming services,A,All establishments,001,All firms,2012,64314,121231992,100.0,50564757,12109763,630407
+0100000US,,United States,541511,Custom computer programming services,A,All establishments,804,4 largest firms,2012,155,14282747,11.8,4724995,1157758,62765
+0100000US,,United States,541511,Custom computer programming services,A,All establishments,808,8 largest firms,2012,191,18500740,15.3,6436223,1552157,81984
+0100000US,,United States,541511,Custom computer programming services,A,All establishments,820,20 largest firms,2012,366,24463895,20.2,9121574,2271587,113830
+0100000US,,United States,541511,Custom computer programming services,A,All establishments,850,50 largest firms,2012,869,32191771,26.6,12112367,3012624,148507
+0100000US,,United States,541511,Custom computer programming services,T,Establishments subject to federal income tax,001,All firms,2012,64314,121231992,100.0,50564757,12109763,630407
+0100000US,,United States,541511,Custom computer programming services,T,Establishments subject to federal income tax,804,4 largest firms,2012,155,14282747,11.8,4724995,1157758,62765
+0100000US,,United States,541511,Custom computer programming services,T,Establishments subject to federal income tax,808,8 largest firms,2012,191,18500740,15.3,6436223,1552157,81984
+0100000US,,United States,541511,Custom computer programming services,T,Establishments subject to federal income tax,820,20 largest firms,2012,366,24463895,20.2,9121574,2271587,113830
+0100000US,,United States,541511,Custom computer programming services,T,Establishments subject to federal income tax,850,50 largest firms,2012,869,32191771,26.6,12112367,3012624,148507
+0100000US,,United States,541512,Computer systems design services,A,All establishments,001,All firms,2012,47503,152706095,100.0,51716491,12833693,568576
+0100000US,,United States,541512,Computer systems design services,A,All establishments,804,4 largest firms,2012,2579,37265348,24.4,12894944,3236412,118498
+0100000US,,United States,541512,Computer systems design services,A,All establishments,808,8 largest firms,2012,7418,51683497,33.8,17326901,4383908,178240
+0100000US,,United States,541512,Computer systems design services,A,All establishments,820,20 largest firms,2012,8920,73845845,48.4,24775917,6255622,246168
+0100000US,,United States,541512,Computer systems design services,A,All establishments,850,50 largest firms,2012,10360,91244688,59.8,29979988,7654637,296858
+0100000US,,United States,541512,Computer systems design services,T,Establishments subject to federal income tax,001,All firms,2012,47503,152706095,100.0,51716491,12833693,568576
+0100000US,,United States,541512,Computer systems design services,T,Establishments subject to federal income tax,804,4 largest firms,2012,2579,37265348,24.4,12894944,3236412,118498
+0100000US,,United States,541512,Computer systems design services,T,Establishments subject to federal income tax,808,8 largest firms,2012,7418,51683497,33.8,17326901,4383908,178240
+0100000US,,United States,541512,Computer systems design services,T,Establishments subject to federal income tax,820,20 largest firms,2012,8920,73845845,48.4,24775917,6255622,246168
+0100000US,,United States,541512,Computer systems design services,T,Establishments subject to federal income tax,850,50 largest firms,2012,10360,91244688,59.8,29979988,7654637,296858
+0100000US,,United States,5415121,Computer systems integrators,A,All establishments,001,All firms,2012,27048,124430237,100.0,41392682,10218757,457299
+0100000US,,United States,5415121,Computer systems integrators,A,All establishments,804,4 largest firms,2012,4454,36745431,29.5,13521915,3411657,136790
+0100000US,,United States,5415121,Computer systems integrators,A,All establishments,808,8 largest firms,2012,5496,48390580,38.9,16578258,4176270,170202
+0100000US,,United States,5415121,Computer systems integrators,A,All establishments,820,20 largest firms,2012,8771,67760391,54.5,23039189,5765142,236447
+0100000US,,United States,5415121,Computer systems integrators,A,All establishments,850,50 largest firms,2012,9223,81291746,65.3,26659462,6697926,272216
+0100000US,,United States,5415121,Computer systems integrators,T,Establishments subject to federal income tax,001,All firms,2012,27048,124430237,100.0,41392682,10218757,457299
+0100000US,,United States,5415121,Computer systems integrators,T,Establishments subject to federal income tax,804,4 largest firms,2012,4454,36745431,29.5,13521915,3411657,136790
+0100000US,,United States,5415121,Computer systems integrators,T,Establishments subject to federal income tax,808,8 largest firms,2012,5496,48390580,38.9,16578258,4176270,170202
+0100000US,,United States,5415121,Computer systems integrators,T,Establishments subject to federal income tax,820,20 largest firms,2012,8771,67760391,54.5,23039189,5765142,236447
+0100000US,,United States,5415121,Computer systems integrators,T,Establishments subject to federal income tax,850,50 largest firms,2012,9223,81291746,65.3,26659462,6697926,272216
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),A,All establishments,001,All firms,2012,20455,28275858,100.0,10323809,2614936,111277
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),A,All establishments,804,4 largest firms,2012,796,8599239,30.4,2691113,791447,18602
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),A,All establishments,808,8 largest firms,2012,938,10799439,38.2,3335536,950158,24198
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),A,All establishments,820,20 largest firms,2012,1188,12875064,45.5,4152722,1175667,32249
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),A,All establishments,850,50 largest firms,2012,1270,14811176,52.4,4934571,1367512,39801
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),T,Establishments subject to federal income tax,001,All firms,2012,20455,28275858,100.0,10323809,2614936,111277
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),T,Establishments subject to federal income tax,804,4 largest firms,2012,796,8599239,30.4,2691113,791447,18602
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),T,Establishments subject to federal income tax,808,8 largest firms,2012,938,10799439,38.2,3335536,950158,24198
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),T,Establishments subject to federal income tax,820,20 largest firms,2012,1188,12875064,45.5,4152722,1175667,32249
+0100000US,,United States,5415122,Computer systems consultants (except systems integrators),T,Establishments subject to federal income tax,850,50 largest firms,2012,1270,14811176,52.4,4934571,1367512,39801
+0100000US,,United States,541513,Computer facilities management services,A,All establishments,001,All firms,2012,8114,34241591,100.0,14879521,4059078,176101
+0100000US,,United States,541513,Computer facilities management services,A,All establishments,804,4 largest firms,2012,1503,20265345,59.2,8366851,2393165,88516
+0100000US,,United States,541513,Computer facilities management services,A,All establishments,808,8 largest firms,2012,1567,22047127,64.4,8682551,2474328,92799
+0100000US,,United States,541513,Computer facilities management services,A,All establishments,820,20 largest firms,2012,1638,24346581,71.1,9444207,2663204,101445
+0100000US,,United States,541513,Computer facilities management services,A,All establishments,850,50 largest firms,2012,1905,26519874,77.4,10329502,2872538,113886
+0100000US,,United States,541513,Computer facilities management services,T,Establishments subject to federal income tax,001,All firms,2012,8114,34241591,100.0,14879521,4059078,176101
+0100000US,,United States,541513,Computer facilities management services,T,Establishments subject to federal income tax,804,4 largest firms,2012,1503,20265345,59.2,8366851,2393165,88516
+0100000US,,United States,541513,Computer facilities management services,T,Establishments subject to federal income tax,808,8 largest firms,2012,1567,22047127,64.4,8682551,2474328,92799
+0100000US,,United States,541513,Computer facilities management services,T,Establishments subject to federal income tax,820,20 largest firms,2012,1638,24346581,71.1,9444207,2663204,101445
+0100000US,,United States,541513,Computer facilities management services,T,Establishments subject to federal income tax,850,50 largest firms,2012,1905,26519874,77.4,10329502,2872538,113886
+0100000US,,United States,541519,Other computer related services,A,All establishments,001,All firms,2012,10477,17851607,100.0,8413969,2081074,98157
+0100000US,,United States,541519,Other computer related services,A,All establishments,804,4 largest firms,2012,543,3594145,20.1,1560949,359645,13480
+0100000US,,United States,541519,Other computer related services,A,All establishments,808,8 largest firms,2012,561,5023718,28.1,2186759,541338,20602
+0100000US,,United States,541519,Other computer related services,A,All establishments,820,20 largest firms,2012,589,6782000,38.0,2973613,728640,32199
+0100000US,,United States,541519,Other computer related services,A,All establishments,850,50 largest firms,2012,689,8816931,49.4,3808671,925113,41451
+0100000US,,United States,541519,Other computer related services,T,Establishments subject to federal income tax,001,All firms,2012,10477,17851607,100.0,8413969,2081074,98157
+0100000US,,United States,541519,Other computer related services,T,Establishments subject to federal income tax,804,4 largest firms,2012,543,3594145,20.1,1560949,359645,13480
+0100000US,,United States,541519,Other computer related services,T,Establishments subject to federal income tax,808,8 largest firms,2012,561,5023718,28.1,2186759,541338,20602
+0100000US,,United States,541519,Other computer related services,T,Establishments subject to federal income tax,820,20 largest firms,2012,589,6782000,38.0,2973613,728640,32199
+0100000US,,United States,541519,Other computer related services,T,Establishments subject to federal income tax,850,50 largest firms,2012,689,8816931,49.4,3808671,925113,41451
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",A,All establishments,001,All firms,2012,151627,207289073,100.0,78348389,18484738,1021271
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",A,All establishments,804,4 largest firms,2012,384,28914122,13.9,12520534,2780993,85622
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",A,All establishments,808,8 largest firms,2012,764,38160761,18.4,16120144,3845662,104922
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",A,All establishments,820,20 largest firms,2012,2249,48972897,23.6,21016529,4961026,151246
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",A,All establishments,850,50 largest firms,2012,2849,62514948,30.2,25643150,6107839,209461
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",T,Establishments subject to federal income tax,001,All firms,2012,151627,207289073,100.0,78348389,18484738,1021271
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",T,Establishments subject to federal income tax,804,4 largest firms,2012,384,28914122,13.9,12520534,2780993,85622
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",T,Establishments subject to federal income tax,808,8 largest firms,2012,764,38160761,18.4,16120144,3845662,104922
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",T,Establishments subject to federal income tax,820,20 largest firms,2012,2249,48972897,23.6,21016529,4961026,151246
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",T,Establishments subject to federal income tax,850,50 largest firms,2012,2849,62514948,30.2,25643150,6107839,209461
+0100000US,,United States,54161,Management consulting services,A,All establishments,001,All firms,2012,120813,170213499,100.0,65051305,15360718,828550
+0100000US,,United States,54161,Management consulting services,A,All establishments,804,4 largest firms,2012,378,28912731,17.0,12519916,2780745,85614
+0100000US,,United States,54161,Management consulting services,A,All establishments,808,8 largest firms,2012,743,37845274,22.2,16031009,3797245,104522
+0100000US,,United States,54161,Management consulting services,A,All establishments,820,20 largest firms,2012,2070,47626414,28.0,20690852,4808245,146922
+0100000US,,United States,54161,Management consulting services,A,All establishments,850,50 largest firms,2012,3290,59398777,34.9,24904919,5911069,212365
+0100000US,,United States,54161,Management consulting services,T,Establishments subject to federal income tax,001,All firms,2012,120813,170213499,100.0,65051305,15360718,828550
+0100000US,,United States,54161,Management consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,378,28912731,17.0,12519916,2780745,85614
+0100000US,,United States,54161,Management consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,743,37845274,22.2,16031009,3797245,104522
+0100000US,,United States,54161,Management consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,2070,47626414,28.0,20690852,4808245,146922
+0100000US,,United States,54161,Management consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,3290,59398777,34.9,24904919,5911069,212365
+0100000US,,United States,541611,Administrative management and general management consulting services,A,All establishments,001,All firms,2012,68290,103813995,100.0,42280063,9825120,463495
+0100000US,,United States,541611,Administrative management and general management consulting services,A,All establishments,804,4 largest firms,2012,378,28912731,27.9,12519916,2780745,85614
+0100000US,,United States,541611,Administrative management and general management consulting services,A,All establishments,808,8 largest firms,2012,455,33658653,32.4,15040145,3363488,94148
+0100000US,,United States,541611,Administrative management and general management consulting services,A,All establishments,820,20 largest firms,2012,750,40580866,39.1,17077900,3923281,113406
+0100000US,,United States,541611,Administrative management and general management consulting services,A,All establishments,850,50 largest firms,2012,922,47432256,45.7,19716365,4572128,159562
+0100000US,,United States,541611,Administrative management and general management consulting services,T,Establishments subject to federal income tax,001,All firms,2012,68290,103813995,100.0,42280063,9825120,463495
+0100000US,,United States,541611,Administrative management and general management consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,378,28912731,27.9,12519916,2780745,85614
+0100000US,,United States,541611,Administrative management and general management consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,455,33658653,32.4,15040145,3363488,94148
+0100000US,,United States,541611,Administrative management and general management consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,750,40580866,39.1,17077900,3923281,113406
+0100000US,,United States,541611,Administrative management and general management consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,922,47432256,45.7,19716365,4572128,159562
+0100000US,,United States,541612,Human resources consulting services,A,All establishments,001,All firms,2012,8217,16890369,100.0,7883970,1983566,104795
+0100000US,,United States,541612,Human resources consulting services,A,All establishments,804,4 largest firms,2012,1307,7213086,42.7,2733711,718550,21954
+0100000US,,United States,541612,Human resources consulting services,A,All establishments,808,8 largest firms,2012,1417,8813853,52.2,4211526,1116654,37721
+0100000US,,United States,541612,Human resources consulting services,A,All establishments,820,20 largest firms,2012,1479,9993404,59.2,4733665,1235177,47526
+0100000US,,United States,541612,Human resources consulting services,A,All establishments,850,50 largest firms,2012,1556,11337736,67.1,5399605,1413853,61584
+0100000US,,United States,541612,Human resources consulting services,T,Establishments subject to federal income tax,001,All firms,2012,8217,16890369,100.0,7883970,1983566,104795
+0100000US,,United States,541612,Human resources consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,1307,7213086,42.7,2733711,718550,21954
+0100000US,,United States,541612,Human resources consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,1417,8813853,52.2,4211526,1116654,37721
+0100000US,,United States,541612,Human resources consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,1479,9993404,59.2,4733665,1235177,47526
+0100000US,,United States,541612,Human resources consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,1556,11337736,67.1,5399605,1413853,61584
+0100000US,,United States,5416121,Actuarial consulting,A,All establishments,001,All firms,2012,751,1807041,100.0,1025112,181664,6701
+0100000US,,United States,5416121,Actuarial consulting,A,All establishments,804,4 largest firms,2012,46,987402,54.6,650459,90426,2689
+0100000US,,United States,5416121,Actuarial consulting,A,All establishments,808,8 largest firms,2012,56,1108002,61.3,695786,100302,3034
+0100000US,,United States,5416121,Actuarial consulting,A,All establishments,820,20 largest firms,2012,93,1325325,73.3,791698,125321,3786
+0100000US,,United States,5416121,Actuarial consulting,A,All establishments,850,50 largest firms,2012,133,1510296,83.6,889066,147968,4909
+0100000US,,United States,5416121,Actuarial consulting,T,Establishments subject to federal income tax,001,All firms,2012,751,1807041,100.0,1025112,181664,6701
+0100000US,,United States,5416121,Actuarial consulting,T,Establishments subject to federal income tax,804,4 largest firms,2012,46,987402,54.6,650459,90426,2689
+0100000US,,United States,5416121,Actuarial consulting,T,Establishments subject to federal income tax,808,8 largest firms,2012,56,1108002,61.3,695786,100302,3034
+0100000US,,United States,5416121,Actuarial consulting,T,Establishments subject to federal income tax,820,20 largest firms,2012,93,1325325,73.3,791698,125321,3786
+0100000US,,United States,5416121,Actuarial consulting,T,Establishments subject to federal income tax,850,50 largest firms,2012,133,1510296,83.6,889066,147968,4909
+0100000US,,United States,5416123,Human resources and personnel management consulting,A,All establishments,001,All firms,2012,7466,15083328,100.0,6858858,1801902,98094
+0100000US,,United States,5416123,Human resources and personnel management consulting,A,All establishments,804,4 largest firms,2012,1343,7174722,47.6,3296549,940386,31141
+0100000US,,United States,5416123,Human resources and personnel management consulting,A,All establishments,808,8 largest firms,2012,1416,8017272,53.2,3639195,1044717,36005
+0100000US,,United States,5416123,Human resources and personnel management consulting,A,All establishments,820,20 largest firms,2012,1439,9146203,60.6,4186819,1167401,46716
+0100000US,,United States,5416123,Human resources and personnel management consulting,A,All establishments,850,50 largest firms,2012,1515,10404107,69.0,4790135,1335179,60001
+0100000US,,United States,5416123,Human resources and personnel management consulting,T,Establishments subject to federal income tax,001,All firms,2012,7466,15083328,100.0,6858858,1801902,98094
+0100000US,,United States,5416123,Human resources and personnel management consulting,T,Establishments subject to federal income tax,804,4 largest firms,2012,1343,7174722,47.6,3296549,940386,31141
+0100000US,,United States,5416123,Human resources and personnel management consulting,T,Establishments subject to federal income tax,808,8 largest firms,2012,1416,8017272,53.2,3639195,1044717,36005
+0100000US,,United States,5416123,Human resources and personnel management consulting,T,Establishments subject to federal income tax,820,20 largest firms,2012,1439,9146203,60.6,4186819,1167401,46716
+0100000US,,United States,5416123,Human resources and personnel management consulting,T,Establishments subject to federal income tax,850,50 largest firms,2012,1515,10404107,69.0,4790135,1335179,60001
+0100000US,,United States,541613,Marketing consulting services,A,All establishments,001,All firms,2012,30349,31853199,100.0,9508360,2262873,158771
+0100000US,,United States,541613,Marketing consulting services,A,All establishments,804,4 largest firms,2012,128,2577499,8.1,868705,215815,9920
+0100000US,,United States,541613,Marketing consulting services,A,All establishments,808,8 largest firms,2012,158,3638546,11.4,1212388,304655,13077
+0100000US,,United States,541613,Marketing consulting services,A,All establishments,820,20 largest firms,2012,219,5772327,18.1,1861735,468239,21350
+0100000US,,United States,541613,Marketing consulting services,A,All establishments,850,50 largest firms,2012,364,8169958,25.6,2489154,630420,36893
+0100000US,,United States,541613,Marketing consulting services,T,Establishments subject to federal income tax,001,All firms,2012,30349,31853199,100.0,9508360,2262873,158771
+0100000US,,United States,541613,Marketing consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,128,2577499,8.1,868705,215815,9920
+0100000US,,United States,541613,Marketing consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,158,3638546,11.4,1212388,304655,13077
+0100000US,,United States,541613,Marketing consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,219,5772327,18.1,1861735,468239,21350
+0100000US,,United States,541613,Marketing consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,364,8169958,25.6,2489154,630420,36893
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",A,All establishments,001,All firms,2012,8137,13900011,100.0,4258726,1034578,83015
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",A,All establishments,804,4 largest firms,2012,186,2120333,15.3,537787,130144,16340
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",A,All establishments,808,8 largest firms,2012,895,2790184,20.1,804705,194874,20856
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",A,All establishments,820,20 largest firms,2012,957,3791876,27.3,1023560,251393,24849
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",A,All establishments,850,50 largest firms,2012,1039,5262917,37.9,1509092,369136,34927
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",T,Establishments subject to federal income tax,001,All firms,2012,8137,13900011,100.0,4258726,1034578,83015
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",T,Establishments subject to federal income tax,804,4 largest firms,2012,186,2120333,15.3,537787,130144,16340
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",T,Establishments subject to federal income tax,808,8 largest firms,2012,895,2790184,20.1,804705,194874,20856
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",T,Establishments subject to federal income tax,820,20 largest firms,2012,957,3791876,27.3,1023560,251393,24849
+0100000US,,United States,541614,"Process, physical distribution, and logistics consulting services",T,Establishments subject to federal income tax,850,50 largest firms,2012,1039,5262917,37.9,1509092,369136,34927
+0100000US,,United States,541618,Other management consulting services,A,All establishments,001,All firms,2012,5820,3755925,100.0,1120186,254581,18474
+0100000US,,United States,541618,Other management consulting services,A,All establishments,804,4 largest firms,2012,4,367520,9.8,90762,25043,1043
+0100000US,,United States,541618,Other management consulting services,A,All establishments,808,8 largest firms,2012,9,503990,13.4,116104,30516,1583
+0100000US,,United States,541618,Other management consulting services,A,All establishments,820,20 largest firms,2012,27,798806,21.3,200025,50966,2778
+0100000US,,United States,541618,Other management consulting services,A,All establishments,850,50 largest firms,2012,62,1230828,32.8,310232,76268,4248
+0100000US,,United States,541618,Other management consulting services,T,Establishments subject to federal income tax,001,All firms,2012,5820,3755925,100.0,1120186,254581,18474
+0100000US,,United States,541618,Other management consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,4,367520,9.8,90762,25043,1043
+0100000US,,United States,541618,Other management consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,9,503990,13.4,116104,30516,1583
+0100000US,,United States,541618,Other management consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,27,798806,21.3,200025,50966,2778
+0100000US,,United States,541618,Other management consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,62,1230828,32.8,310232,76268,4248
+0100000US,,United States,54162,Environmental consulting services,A,All establishments,001,All firms,2012,10221,13476737,100.0,4776859,1126154,78254
+0100000US,,United States,54162,Environmental consulting services,A,All establishments,804,4 largest firms,2012,200,1136857,8.4,347975,83310,4308
+0100000US,,United States,54162,Environmental consulting services,A,All establishments,808,8 largest firms,2012,308,1693081,12.6,576798,144018,7926
+0100000US,,United States,54162,Environmental consulting services,A,All establishments,820,20 largest firms,2012,501,2796063,20.7,998212,244931,13262
+0100000US,,United States,54162,Environmental consulting services,A,All establishments,850,50 largest firms,2012,750,4335899,32.2,1503683,378918,19600
+0100000US,,United States,54162,Environmental consulting services,T,Establishments subject to federal income tax,001,All firms,2012,10221,13476737,100.0,4776859,1126154,78254
+0100000US,,United States,54162,Environmental consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,200,1136857,8.4,347975,83310,4308
+0100000US,,United States,54162,Environmental consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,308,1693081,12.6,576798,144018,7926
+0100000US,,United States,54162,Environmental consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,501,2796063,20.7,998212,244931,13262
+0100000US,,United States,54162,Environmental consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,750,4335899,32.2,1503683,378918,19600
+0100000US,,United States,541620,Environmental consulting services,A,All establishments,001,All firms,2012,10221,13476737,100.0,4776859,1126154,78254
+0100000US,,United States,541620,Environmental consulting services,A,All establishments,804,4 largest firms,2012,200,1136857,8.4,347975,83310,4308
+0100000US,,United States,541620,Environmental consulting services,A,All establishments,808,8 largest firms,2012,308,1693081,12.6,576798,144018,7926
+0100000US,,United States,541620,Environmental consulting services,A,All establishments,820,20 largest firms,2012,501,2796063,20.7,998212,244931,13262
+0100000US,,United States,541620,Environmental consulting services,A,All establishments,850,50 largest firms,2012,750,4335899,32.2,1503683,378918,19600
+0100000US,,United States,541620,Environmental consulting services,T,Establishments subject to federal income tax,001,All firms,2012,10221,13476737,100.0,4776859,1126154,78254
+0100000US,,United States,541620,Environmental consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,200,1136857,8.4,347975,83310,4308
+0100000US,,United States,541620,Environmental consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,308,1693081,12.6,576798,144018,7926
+0100000US,,United States,541620,Environmental consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,501,2796063,20.7,998212,244931,13262
+0100000US,,United States,541620,Environmental consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,750,4335899,32.2,1503683,378918,19600
+0100000US,,United States,54169,Other scientific and technical consulting services,A,All establishments,001,All firms,2012,20593,23598837,100.0,8520225,1997866,114467
+0100000US,,United States,54169,Other scientific and technical consulting services,A,All establishments,804,4 largest firms,2012,52,2733812,11.6,816989,204671,9560
+0100000US,,United States,54169,Other scientific and technical consulting services,A,All establishments,808,8 largest firms,2012,124,3868537,16.4,1330797,343689,13406
+0100000US,,United States,54169,Other scientific and technical consulting services,A,All establishments,820,20 largest firms,2012,268,5548007,23.5,2107900,541307,20742
+0100000US,,United States,54169,Other scientific and technical consulting services,A,All establishments,850,50 largest firms,2012,342,7509524,31.8,2706869,683130,26959
+0100000US,,United States,54169,Other scientific and technical consulting services,T,Establishments subject to federal income tax,001,All firms,2012,20593,23598837,100.0,8520225,1997866,114467
+0100000US,,United States,54169,Other scientific and technical consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,52,2733812,11.6,816989,204671,9560
+0100000US,,United States,54169,Other scientific and technical consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,124,3868537,16.4,1330797,343689,13406
+0100000US,,United States,54169,Other scientific and technical consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,268,5548007,23.5,2107900,541307,20742
+0100000US,,United States,54169,Other scientific and technical consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,342,7509524,31.8,2706869,683130,26959
+0100000US,,United States,541690,Other scientific and technical consulting services,A,All establishments,001,All firms,2012,20593,23598837,100.0,8520225,1997866,114467
+0100000US,,United States,541690,Other scientific and technical consulting services,A,All establishments,804,4 largest firms,2012,52,2733812,11.6,816989,204671,9560
+0100000US,,United States,541690,Other scientific and technical consulting services,A,All establishments,808,8 largest firms,2012,124,3868537,16.4,1330797,343689,13406
+0100000US,,United States,541690,Other scientific and technical consulting services,A,All establishments,820,20 largest firms,2012,268,5548007,23.5,2107900,541307,20742
+0100000US,,United States,541690,Other scientific and technical consulting services,A,All establishments,850,50 largest firms,2012,342,7509524,31.8,2706869,683130,26959
+0100000US,,United States,541690,Other scientific and technical consulting services,T,Establishments subject to federal income tax,001,All firms,2012,20593,23598837,100.0,8520225,1997866,114467
+0100000US,,United States,541690,Other scientific and technical consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,52,2733812,11.6,816989,204671,9560
+0100000US,,United States,541690,Other scientific and technical consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,124,3868537,16.4,1330797,343689,13406
+0100000US,,United States,541690,Other scientific and technical consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,268,5548007,23.5,2107900,541307,20742
+0100000US,,United States,541690,Other scientific and technical consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,342,7509524,31.8,2706869,683130,26959
+0100000US,,United States,5416901,Economic and related consulting services,A,All establishments,001,All firms,2012,2463,3861610,100.0,1499121,367251,14819
+0100000US,,United States,5416901,Economic and related consulting services,A,All establishments,804,4 largest firms,2012,34,1109310,28.7,401582,123085,2164
+0100000US,,United States,5416901,Economic and related consulting services,A,All establishments,808,8 largest firms,2012,55,1549078,40.1,616486,170907,4381
+0100000US,,United States,5416901,Economic and related consulting services,A,All establishments,820,20 largest firms,2012,80,2012768,52.1,781023,212805,5839
+0100000US,,United States,5416901,Economic and related consulting services,A,All establishments,850,50 largest firms,2012,133,2389454,61.9,945692,246642,7253
+0100000US,,United States,5416901,Economic and related consulting services,T,Establishments subject to federal income tax,001,All firms,2012,2463,3861610,100.0,1499121,367251,14819
+0100000US,,United States,5416901,Economic and related consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,34,1109310,28.7,401582,123085,2164
+0100000US,,United States,5416901,Economic and related consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,55,1549078,40.1,616486,170907,4381
+0100000US,,United States,5416901,Economic and related consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,80,2012768,52.1,781023,212805,5839
+0100000US,,United States,5416901,Economic and related consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,133,2389454,61.9,945692,246642,7253
+0100000US,,United States,5416909,All other scientific and technical consulting services,A,All establishments,001,All firms,2012,18130,19737227,100.0,7021104,1630615,99648
+0100000US,,United States,5416909,All other scientific and technical consulting services,A,All establishments,804,4 largest firms,2012,103,2729849,13.8,962605,240717,11198
+0100000US,,United States,5416909,All other scientific and technical consulting services,A,All establishments,808,8 largest firms,2012,142,3498186,17.7,1219506,306248,13643
+0100000US,,United States,5416909,All other scientific and technical consulting services,A,All establishments,820,20 largest firms,2012,233,4611846,23.4,1633721,395384,17775
+0100000US,,United States,5416909,All other scientific and technical consulting services,A,All establishments,850,50 largest firms,2012,309,6188804,31.4,2185716,532744,24391
+0100000US,,United States,5416909,All other scientific and technical consulting services,T,Establishments subject to federal income tax,001,All firms,2012,18130,19737227,100.0,7021104,1630615,99648
+0100000US,,United States,5416909,All other scientific and technical consulting services,T,Establishments subject to federal income tax,804,4 largest firms,2012,103,2729849,13.8,962605,240717,11198
+0100000US,,United States,5416909,All other scientific and technical consulting services,T,Establishments subject to federal income tax,808,8 largest firms,2012,142,3498186,17.7,1219506,306248,13643
+0100000US,,United States,5416909,All other scientific and technical consulting services,T,Establishments subject to federal income tax,820,20 largest firms,2012,233,4611846,23.4,1633721,395384,17775
+0100000US,,United States,5416909,All other scientific and technical consulting services,T,Establishments subject to federal income tax,850,50 largest firms,2012,309,6188804,31.4,2185716,532744,24391
+0100000US,,United States,5417,Scientific research and development services,A,All establishments,001,All firms,2012,16992,116438675,100.0,63255647,17088508,623552
+0100000US,,United States,5417,Scientific research and development services,A,All establishments,804,4 largest firms,2012,86,13400297,11.5,4604621,1155061,50905
+0100000US,,United States,5417,Scientific research and development services,A,All establishments,808,8 largest firms,2012,119,20047198,17.2,6257844,1596990,64495
+0100000US,,United States,5417,Scientific research and development services,A,All establishments,820,20 largest firms,2012,283,33191669,28.5,11424132,2919545,116612
+0100000US,,United States,5417,Scientific research and development services,A,All establishments,850,50 largest firms,2012,536,49028608,42.1,17430753,4546948,170586
+0100000US,,United States,5417,Scientific research and development services,T,Establishments subject to federal income tax,001,All firms,2012,14149,78965375,100.0,49729472,13704761,443771
+0100000US,,United States,5417,Scientific research and development services,T,Establishments subject to federal income tax,804,4 largest firms,2012,28,9069306,11.5,2887790,736109,30544
+0100000US,,United States,5417,Scientific research and development services,T,Establishments subject to federal income tax,808,8 largest firms,2012,57,14682996,18.6,4197907,1104456,40230
+0100000US,,United States,5417,Scientific research and development services,T,Establishments subject to federal income tax,820,20 largest firms,2012,138,23714154,30.0,7444383,1944630,63067
+0100000US,,United States,5417,Scientific research and development services,T,Establishments subject to federal income tax,850,50 largest firms,2012,471,33367536,42.3,12761973,3434971,104878
+0100000US,,United States,5417,Scientific research and development services,Y,Establishments exempt from federal income tax,001,All firms,2012,2843,37473300,100.0,13526175,3383747,179781
+0100000US,,United States,5417,Scientific research and development services,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,137,10847012,28.9,3751436,971447,38912
+0100000US,,United States,5417,Scientific research and development services,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,198,14406012,38.4,5477236,1386661,65305
+0100000US,,United States,5417,Scientific research and development services,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,354,20855703,55.7,7347985,1859437,88582
+0100000US,,United States,5417,Scientific research and development services,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,654,27327812,72.9,9759793,2445921,121703
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",A,All establishments,001,All firms,2012,15159,110720409,100.0,60909497,16504910,585737
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",A,All establishments,804,4 largest firms,2012,86,13400297,12.1,4604621,1155061,50905
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",A,All establishments,808,8 largest firms,2012,119,20047198,18.1,6257844,1596990,64495
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",A,All establishments,820,20 largest firms,2012,283,33191669,30.0,11424132,2919545,116612
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",A,All establishments,850,50 largest firms,2012,523,48529445,43.8,17289080,4487273,165630
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",T,Establishments subject to federal income tax,001,All firms,2012,13099,77058743,100.0,48845790,13480323,427446
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",T,Establishments subject to federal income tax,804,4 largest firms,2012,28,9069306,11.8,2887790,736109,30544
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",T,Establishments subject to federal income tax,808,8 largest firms,2012,57,14682996,19.1,4197907,1104456,40230
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",T,Establishments subject to federal income tax,820,20 largest firms,2012,138,23714154,30.8,7444383,1944630,63067
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",T,Establishments subject to federal income tax,850,50 largest firms,2012,458,32984961,42.8,12598755,3389707,101203
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",Y,Establishments exempt from federal income tax,001,All firms,2012,2060,33661666,100.0,12063707,3024587,158291
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",Y,Establishments exempt from federal income tax,804,4 largest firms,2012,137,10847012,32.2,3751436,971447,38912
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",Y,Establishments exempt from federal income tax,808,8 largest firms,2012,190,14372384,42.7,5533431,1403022,65295
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",Y,Establishments exempt from federal income tax,820,20 largest firms,2012,346,20564665,61.1,7252517,1838263,87710
+0100000US,,United States,54171,"Research and development in the physical, engineering, and life sciences",Y,Establishments exempt from federal income tax,850,50 largest firms,2012,652,26364089,78.3,9326887,2339765,115909
+0100000US,,United States,541711,Research and development in biotechnology,A,All establishments,001,All firms,2012,2901,16851195,100.0,10963066,2953252,80763
+0100000US,,United States,541711,Research and development in biotechnology,A,All establishments,804,4 largest firms,2012,24,3930350,23.3,1496544,341346,5985
+0100000US,,United States,541711,Research and development in biotechnology,A,All establishments,808,8 largest firms,2012,42,5363536,31.8,1936601,444711,9947
+0100000US,,United States,541711,Research and development in biotechnology,A,All establishments,820,20 largest firms,2012,63,7159359,42.5,3136708,769688,18166
+0100000US,,United States,541711,Research and development in biotechnology,A,All establishments,850,50 largest firms,2012,107,9170662,54.4,4073882,1021447,25856
+0100000US,,United States,541711,Research and development in biotechnology,T,Establishments subject to federal income tax,001,All firms,2012,2743,15409500,100.0,10471561,2833383,73246
+0100000US,,United States,541711,Research and development in biotechnology,T,Establishments subject to federal income tax,804,4 largest firms,2012,24,3930350,25.5,1496544,341346,5985
+0100000US,,United States,541711,Research and development in biotechnology,T,Establishments subject to federal income tax,808,8 largest firms,2012,28,5147851,33.4,1979445,458363,7600
+0100000US,,United States,541711,Research and development in biotechnology,T,Establishments subject to federal income tax,820,20 largest firms,2012,49,6628073,43.0,3018713,745420,14788
+0100000US,,United States,541711,Research and development in biotechnology,T,Establishments subject to federal income tax,850,50 largest firms,2012,91,8479278,55.0,3870467,978725,21515
+0100000US,,United States,541711,Research and development in biotechnology,Y,Establishments exempt from federal income tax,001,All firms,2012,158,1441695,100.0,491505,119869,7517
+0100000US,,United States,541711,Research and development in biotechnology,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,20,870215,60.4,261321,61328,4362
+0100000US,,United States,541711,Research and development in biotechnology,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,24,1093415,75.8,350404,83647,5613
+0100000US,,United States,541711,Research and development in biotechnology,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,39,1356196,94.1,451306,109779,6937
+0100000US,,United States,541711,Research and development in biotechnology,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,75,1416248,98.2,477860,116606,7317
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",A,All establishments,001,All firms,2012,12258,93869214,100.0,49946431,13551658,504974
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",A,All establishments,804,4 largest firms,2012,86,13400297,14.3,4604621,1155061,50905
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",A,All establishments,808,8 largest firms,2012,114,20020657,21.3,6145709,1569634,64031
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",A,All establishments,820,20 largest firms,2012,340,31668140,33.7,10652168,2760981,117591
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",A,All establishments,850,50 largest firms,2012,527,45373711,48.3,16223154,4327885,167686
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",T,Establishments subject to federal income tax,001,All firms,2012,10356,61649243,100.0,38374229,10646940,354200
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",T,Establishments subject to federal income tax,804,4 largest firms,2012,28,9069306,14.7,2887790,736109,30544
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",T,Establishments subject to federal income tax,808,8 largest firms,2012,49,14167685,23.0,4269502,1150458,42343
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",T,Establishments subject to federal income tax,820,20 largest firms,2012,117,21429591,34.8,7615865,2091787,65206
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",T,Establishments subject to federal income tax,850,50 largest firms,2012,449,29078708,47.2,11030473,3041398,96780
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Y,Establishments exempt from federal income tax,001,All firms,2012,1902,32219971,100.0,11572202,2904718,150774
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Y,Establishments exempt from federal income tax,804,4 largest firms,2012,137,10847012,33.7,3751436,971447,38912
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Y,Establishments exempt from federal income tax,808,8 largest firms,2012,190,14372384,44.6,5533431,1403022,65295
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Y,Establishments exempt from federal income tax,820,20 largest firms,2012,334,20536468,63.7,7222542,1831832,86688
+0100000US,,United States,541712,"Research and development in the physical, engineering, and life sciences (except biotechnology)",Y,Establishments exempt from federal income tax,850,50 largest firms,2012,640,25853039,80.2,9189871,2312092,113137
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,A,All establishments,001,All firms,2012,6310,53913099,100.0,32235032,8833353,309010
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,A,All establishments,804,4 largest firms,2012,86,13400297,24.9,4604621,1155061,50905
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,A,All establishments,808,8 largest firms,2012,150,19356517,35.9,6426752,1638784,67306
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,A,All establishments,820,20 largest firms,2012,278,26729352,49.6,10069253,2612428,102053
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,A,All establishments,850,50 largest firms,2012,613,33675936,62.5,12815394,3405474,128992
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,T,Establishments subject to federal income tax,001,All firms,2012,5617,33664236,100.0,24793775,6947787,223558
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,T,Establishments subject to federal income tax,804,4 largest firms,2012,13,8509505,25.3,2675316,667337,28394
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,T,Establishments subject to federal income tax,808,8 largest firms,2012,50,10745839,31.9,4319419,1144674,37669
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,T,Establishments subject to federal income tax,820,20 largest firms,2012,264,13932754,41.4,5633064,1588000,49413
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,T,Establishments subject to federal income tax,850,50 largest firms,2012,451,18274734,54.3,8114487,2219924,72556
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,Y,Establishments exempt from federal income tax,001,All firms,2012,693,20248863,100.0,7441257,1885566,85452
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,137,10847012,53.6,3751436,971447,38912
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,194,13984179,69.1,5049597,1297260,56563
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,306,17946808,88.6,6660715,1687521,75047
+0100000US,,United States,5417121,Research and development in the physical and engineering sciences,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,382,19634694,97.0,7193182,1825665,81653
+0100000US,,United States,5417122,Research and development in other life sciences,A,All establishments,001,All firms,2012,5948,39956115,100.0,17711399,4718305,195964
+0100000US,,United States,5417122,Research and development in other life sciences,A,All establishments,804,4 largest firms,2012,36,5658180,14.2,1594186,483121,13949
+0100000US,,United States,5417122,Research and development in other life sciences,A,All establishments,808,8 largest firms,2012,131,8966784,22.4,2774208,777136,31368
+0100000US,,United States,5417122,Research and development in other life sciences,A,All establishments,820,20 largest firms,2012,180,15133875,37.9,4763216,1308831,49542
+0100000US,,United States,5417122,Research and development in other life sciences,A,All establishments,850,50 largest firms,2012,465,21600531,54.1,8509861,2248913,85520
+0100000US,,United States,5417122,Research and development in other life sciences,T,Establishments subject to federal income tax,001,All firms,2012,4739,27985007,100.0,13580454,3699153,130642
+0100000US,,United States,5417122,Research and development in other life sciences,T,Establishments subject to federal income tax,804,4 largest firms,2012,36,5658180,20.2,1594186,483121,13949
+0100000US,,United States,5417122,Research and development in other life sciences,T,Establishments subject to federal income tax,808,8 largest firms,2012,60,8667529,31.0,2363605,726532,21390
+0100000US,,United States,5417122,Research and development in other life sciences,T,Establishments subject to federal income tax,820,20 largest firms,2012,147,13148661,47.0,4485769,1229580,40431
+0100000US,,United States,5417122,Research and development in other life sciences,T,Establishments subject to federal income tax,850,50 largest firms,2012,248,17045451,60.9,7137355,1900952,61146
+0100000US,,United States,5417122,Research and development in other life sciences,Y,Establishments exempt from federal income tax,001,All firms,2012,1209,11971108,100.0,4130945,1019152,65322
+0100000US,,United States,5417122,Research and development in other life sciences,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,98,2754283,23.0,981262,243416,15461
+0100000US,,United States,5417122,Research and development in other life sciences,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,103,4396699,36.7,1436457,353492,21682
+0100000US,,United States,5417122,Research and development in other life sciences,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,265,6549386,54.7,2144602,525823,32659
+0100000US,,United States,5417122,Research and development in other life sciences,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,356,8754394,73.1,2930212,721671,44504
+0100000US,,United States,54172,Research and development in the social sciences and humanities,A,All establishments,001,All firms,2012,1833,5718266,100.0,2346150,583598,37815
+0100000US,,United States,54172,Research and development in the social sciences and humanities,A,All establishments,804,4 largest firms,2012,43,1821810,31.9,741821,182293,10313
+0100000US,,United States,54172,Research and development in the social sciences and humanities,A,All establishments,808,8 largest firms,2012,91,2552204,44.6,1051252,261231,15812
+0100000US,,United States,54172,Research and development in the social sciences and humanities,A,All establishments,820,20 largest firms,2012,111,3446467,60.3,1350650,337583,19601
+0100000US,,United States,54172,Research and development in the social sciences and humanities,A,All establishments,850,50 largest firms,2012,160,4093759,71.6,1603513,397344,23153
+0100000US,,United States,54172,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,001,All firms,2012,1050,1906632,100.0,883682,224438,16325
+0100000US,,United States,54172,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,804,4 largest firms,2012,36,1068244,56.0,454051,115291,7362
+0100000US,,United States,54172,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,808,8 largest firms,2012,45,1160439,60.9,492792,124683,7875
+0100000US,,United States,54172,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,820,20 largest firms,2012,79,1300508,68.2,563965,142543,8799
+0100000US,,United States,54172,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,850,50 largest firms,2012,125,1453813,76.3,632116,159809,9715
+0100000US,,United States,54172,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,001,All firms,2012,783,3811634,100.0,1462468,359160,21490
+0100000US,,United States,54172,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,39,1407886,36.9,549081,135820,7828
+0100000US,,United States,54172,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,58,1869112,49.0,738845,183264,10008
+0100000US,,United States,54172,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,82,2493974,65.4,931552,229472,12857
+0100000US,,United States,54172,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,125,3012033,79.0,1140094,279282,15783
+0100000US,,United States,541720,Research and development in the social sciences and humanities,A,All establishments,001,All firms,2012,1833,5718266,100.0,2346150,583598,37815
+0100000US,,United States,541720,Research and development in the social sciences and humanities,A,All establishments,804,4 largest firms,2012,43,1821810,31.9,741821,182293,10313
+0100000US,,United States,541720,Research and development in the social sciences and humanities,A,All establishments,808,8 largest firms,2012,91,2552204,44.6,1051252,261231,15812
+0100000US,,United States,541720,Research and development in the social sciences and humanities,A,All establishments,820,20 largest firms,2012,111,3446467,60.3,1350650,337583,19601
+0100000US,,United States,541720,Research and development in the social sciences and humanities,A,All establishments,850,50 largest firms,2012,160,4093759,71.6,1603513,397344,23153
+0100000US,,United States,541720,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,001,All firms,2012,1050,1906632,100.0,883682,224438,16325
+0100000US,,United States,541720,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,804,4 largest firms,2012,36,1068244,56.0,454051,115291,7362
+0100000US,,United States,541720,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,808,8 largest firms,2012,45,1160439,60.9,492792,124683,7875
+0100000US,,United States,541720,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,820,20 largest firms,2012,79,1300508,68.2,563965,142543,8799
+0100000US,,United States,541720,Research and development in the social sciences and humanities,T,Establishments subject to federal income tax,850,50 largest firms,2012,125,1453813,76.3,632116,159809,9715
+0100000US,,United States,541720,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,001,All firms,2012,783,3811634,100.0,1462468,359160,21490
+0100000US,,United States,541720,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,804,4 largest firms,2012,39,1407886,36.9,549081,135820,7828
+0100000US,,United States,541720,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,808,8 largest firms,2012,58,1869112,49.0,738845,183264,10008
+0100000US,,United States,541720,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,820,20 largest firms,2012,82,2493974,65.4,931552,229472,12857
+0100000US,,United States,541720,Research and development in the social sciences and humanities,Y,Establishments exempt from federal income tax,850,50 largest firms,2012,125,3012033,79.0,1140094,279282,15783
+0100000US,,United States,5418,"Advertising, public relations, and related services",A,All establishments,001,All firms,2012,37540,87344525,100.0,28182524,6896837,447899
+0100000US,,United States,5418,"Advertising, public relations, and related services",A,All establishments,804,4 largest firms,2012,741,15239294,17.4,6878762,1765808,70847
+0100000US,,United States,5418,"Advertising, public relations, and related services",A,All establishments,808,8 largest firms,2012,1115,20152242,23.1,7396763,1910909,79033
+0100000US,,United States,5418,"Advertising, public relations, and related services",A,All establishments,820,20 largest firms,2012,1359,26363204,30.2,9409798,2429327,100505
+0100000US,,United States,5418,"Advertising, public relations, and related services",A,All establishments,850,50 largest firms,2012,1635,32753870,37.5,10767648,2763722,137611
+0100000US,,United States,5418,"Advertising, public relations, and related services",T,Establishments subject to federal income tax,001,All firms,2012,37540,87344525,100.0,28182524,6896837,447899
+0100000US,,United States,5418,"Advertising, public relations, and related services",T,Establishments subject to federal income tax,804,4 largest firms,2012,741,15239294,17.4,6878762,1765808,70847
+0100000US,,United States,5418,"Advertising, public relations, and related services",T,Establishments subject to federal income tax,808,8 largest firms,2012,1115,20152242,23.1,7396763,1910909,79033
+0100000US,,United States,5418,"Advertising, public relations, and related services",T,Establishments subject to federal income tax,820,20 largest firms,2012,1359,26363204,30.2,9409798,2429327,100505
+0100000US,,United States,5418,"Advertising, public relations, and related services",T,Establishments subject to federal income tax,850,50 largest firms,2012,1635,32753870,37.5,10767648,2763722,137611
+0100000US,,United States,54181,Advertising agencies,A,All establishments,001,All firms,2012,13113,34831993,100.0,13568236,3346677,171246
+0100000US,,United States,54181,Advertising agencies,A,All establishments,804,4 largest firms,2012,432,10480145,30.1,5020649,1298687,50655
+0100000US,,United States,54181,Advertising agencies,A,All establishments,808,8 largest firms,2012,553,12336114,35.4,5716574,1477794,58057
+0100000US,,United States,54181,Advertising agencies,A,All establishments,820,20 largest firms,2012,605,14321085,41.1,6313255,1623974,63407
+0100000US,,United States,54181,Advertising agencies,A,All establishments,850,50 largest firms,2012,665,16500687,47.4,7053062,1804174,70653
+0100000US,,United States,54181,Advertising agencies,T,Establishments subject to federal income tax,001,All firms,2012,13113,34831993,100.0,13568236,3346677,171246
+0100000US,,United States,54181,Advertising agencies,T,Establishments subject to federal income tax,804,4 largest firms,2012,432,10480145,30.1,5020649,1298687,50655
+0100000US,,United States,54181,Advertising agencies,T,Establishments subject to federal income tax,808,8 largest firms,2012,553,12336114,35.4,5716574,1477794,58057
+0100000US,,United States,54181,Advertising agencies,T,Establishments subject to federal income tax,820,20 largest firms,2012,605,14321085,41.1,6313255,1623974,63407
+0100000US,,United States,54181,Advertising agencies,T,Establishments subject to federal income tax,850,50 largest firms,2012,665,16500687,47.4,7053062,1804174,70653
+0100000US,,United States,541810,Advertising agencies,A,All establishments,001,All firms,2012,13113,34831993,100.0,13568236,3346677,171246
+0100000US,,United States,541810,Advertising agencies,A,All establishments,804,4 largest firms,2012,432,10480145,30.1,5020649,1298687,50655
+0100000US,,United States,541810,Advertising agencies,A,All establishments,808,8 largest firms,2012,553,12336114,35.4,5716574,1477794,58057
+0100000US,,United States,541810,Advertising agencies,A,All establishments,820,20 largest firms,2012,605,14321085,41.1,6313255,1623974,63407
+0100000US,,United States,541810,Advertising agencies,A,All establishments,850,50 largest firms,2012,665,16500687,47.4,7053062,1804174,70653
+0100000US,,United States,541810,Advertising agencies,T,Establishments subject to federal income tax,001,All firms,2012,13113,34831993,100.0,13568236,3346677,171246
+0100000US,,United States,541810,Advertising agencies,T,Establishments subject to federal income tax,804,4 largest firms,2012,432,10480145,30.1,5020649,1298687,50655
+0100000US,,United States,541810,Advertising agencies,T,Establishments subject to federal income tax,808,8 largest firms,2012,553,12336114,35.4,5716574,1477794,58057
+0100000US,,United States,541810,Advertising agencies,T,Establishments subject to federal income tax,820,20 largest firms,2012,605,14321085,41.1,6313255,1623974,63407
+0100000US,,United States,541810,Advertising agencies,T,Establishments subject to federal income tax,850,50 largest firms,2012,665,16500687,47.4,7053062,1804174,70653
+0100000US,,United States,54182,Public relations agencies,A,All establishments,001,All firms,2012,7964,10134602,100.0,4391558,1040686,50370
+0100000US,,United States,54182,Public relations agencies,A,All establishments,804,4 largest firms,2012,158,2185199,21.6,1091649,258849,11199
+0100000US,,United States,54182,Public relations agencies,A,All establishments,808,8 largest firms,2012,190,2590402,25.6,1294260,311841,13126
+0100000US,,United States,54182,Public relations agencies,A,All establishments,820,20 largest firms,2012,219,3291180,32.5,1561954,384716,15057
+0100000US,,United States,54182,Public relations agencies,A,All establishments,850,50 largest firms,2012,294,3980154,39.3,1851693,452343,17768
+0100000US,,United States,54182,Public relations agencies,T,Establishments subject to federal income tax,001,All firms,2012,7964,10134602,100.0,4391558,1040686,50370
+0100000US,,United States,54182,Public relations agencies,T,Establishments subject to federal income tax,804,4 largest firms,2012,158,2185199,21.6,1091649,258849,11199
+0100000US,,United States,54182,Public relations agencies,T,Establishments subject to federal income tax,808,8 largest firms,2012,190,2590402,25.6,1294260,311841,13126
+0100000US,,United States,54182,Public relations agencies,T,Establishments subject to federal income tax,820,20 largest firms,2012,219,3291180,32.5,1561954,384716,15057
+0100000US,,United States,54182,Public relations agencies,T,Establishments subject to federal income tax,850,50 largest firms,2012,294,3980154,39.3,1851693,452343,17768
+0100000US,,United States,541820,Public relations agencies,A,All establishments,001,All firms,2012,7964,10134602,100.0,4391558,1040686,50370
+0100000US,,United States,541820,Public relations agencies,A,All establishments,804,4 largest firms,2012,158,2185199,21.6,1091649,258849,11199
+0100000US,,United States,541820,Public relations agencies,A,All establishments,808,8 largest firms,2012,190,2590402,25.6,1294260,311841,13126
+0100000US,,United States,541820,Public relations agencies,A,All establishments,820,20 largest firms,2012,219,3291180,32.5,1561954,384716,15057
+0100000US,,United States,541820,Public relations agencies,A,All establishments,850,50 largest firms,2012,294,3980154,39.3,1851693,452343,17768
+0100000US,,United States,541820,Public relations agencies,T,Establishments subject to federal income tax,001,All firms,2012,7964,10134602,100.0,4391558,1040686,50370
+0100000US,,United States,541820,Public relations agencies,T,Establishments subject to federal income tax,804,4 largest firms,2012,158,2185199,21.6,1091649,258849,11199
+0100000US,,United States,541820,Public relations agencies,T,Establishments subject to federal income tax,808,8 largest firms,2012,190,2590402,25.6,1294260,311841,13126
+0100000US,,United States,541820,Public relations agencies,T,Establishments subject to federal income tax,820,20 largest firms,2012,219,3291180,32.5,1561954,384716,15057
+0100000US,,United States,541820,Public relations agencies,T,Establishments subject to federal income tax,850,50 largest firms,2012,294,3980154,39.3,1851693,452343,17768
+0100000US,,United States,54183,Media buying agencies,A,All establishments,001,All firms,2012,955,6725301,100.0,1762418,428898,20577
+0100000US,,United States,54183,Media buying agencies,A,All establishments,804,4 largest firms,2012,88,2403602,35.7,650574,154799,7628
+0100000US,,United States,54183,Media buying agencies,A,All establishments,808,8 largest firms,2012,112,3206775,47.7,836149,205128,9558
+0100000US,,United States,54183,Media buying agencies,A,All establishments,820,20 largest firms,2012,146,4379437,65.1,1140107,280698,12754
+0100000US,,United States,54183,Media buying agencies,A,All establishments,850,50 largest firms,2012,186,5345917,79.5,1337799,329261,14980
+0100000US,,United States,54183,Media buying agencies,T,Establishments subject to federal income tax,001,All firms,2012,955,6725301,100.0,1762418,428898,20577
+0100000US,,United States,54183,Media buying agencies,T,Establishments subject to federal income tax,804,4 largest firms,2012,88,2403602,35.7,650574,154799,7628
+0100000US,,United States,54183,Media buying agencies,T,Establishments subject to federal income tax,808,8 largest firms,2012,112,3206775,47.7,836149,205128,9558
+0100000US,,United States,54183,Media buying agencies,T,Establishments subject to federal income tax,820,20 largest firms,2012,146,4379437,65.1,1140107,280698,12754
+0100000US,,United States,54183,Media buying agencies,T,Establishments subject to federal income tax,850,50 largest firms,2012,186,5345917,79.5,1337799,329261,14980
+0100000US,,United States,541830,Media buying agencies,A,All establishments,001,All firms,2012,955,6725301,100.0,1762418,428898,20577
+0100000US,,United States,541830,Media buying agencies,A,All establishments,804,4 largest firms,2012,88,2403602,35.7,650574,154799,7628
+0100000US,,United States,541830,Media buying agencies,A,All establishments,808,8 largest firms,2012,112,3206775,47.7,836149,205128,9558
+0100000US,,United States,541830,Media buying agencies,A,All establishments,820,20 largest firms,2012,146,4379437,65.1,1140107,280698,12754
+0100000US,,United States,541830,Media buying agencies,A,All establishments,850,50 largest firms,2012,186,5345917,79.5,1337799,329261,14980
+0100000US,,United States,541830,Media buying agencies,T,Establishments subject to federal income tax,001,All firms,2012,955,6725301,100.0,1762418,428898,20577
+0100000US,,United States,541830,Media buying agencies,T,Establishments subject to federal income tax,804,4 largest firms,2012,88,2403602,35.7,650574,154799,7628
+0100000US,,United States,541830,Media buying agencies,T,Establishments subject to federal income tax,808,8 largest firms,2012,112,3206775,47.7,836149,205128,9558
+0100000US,,United States,541830,Media buying agencies,T,Establishments subject to federal income tax,820,20 largest firms,2012,146,4379437,65.1,1140107,280698,12754
+0100000US,,United States,541830,Media buying agencies,T,Establishments subject to federal income tax,850,50 largest firms,2012,186,5345917,79.5,1337799,329261,14980
+0100000US,,United States,54184,Media representatives,A,All establishments,001,All firms,2012,1487,2936349,100.0,869811,210265,11077
+0100000US,,United States,54184,Media representatives,A,All establishments,804,4 largest firms,2012,79,762040,26.0,240858,60772,2019
+0100000US,,United States,54184,Media representatives,A,All establishments,808,8 largest firms,2012,103,1124409,38.3,317524,77351,2641
+0100000US,,United States,54184,Media representatives,A,All establishments,820,20 largest firms,2012,136,1600054,54.5,465750,117620,3996
+0100000US,,United States,54184,Media representatives,A,All establishments,850,50 largest firms,2012,180,2029635,69.1,566511,141410,5354
+0100000US,,United States,54184,Media representatives,T,Establishments subject to federal income tax,001,All firms,2012,1487,2936349,100.0,869811,210265,11077
+0100000US,,United States,54184,Media representatives,T,Establishments subject to federal income tax,804,4 largest firms,2012,79,762040,26.0,240858,60772,2019
+0100000US,,United States,54184,Media representatives,T,Establishments subject to federal income tax,808,8 largest firms,2012,103,1124409,38.3,317524,77351,2641
+0100000US,,United States,54184,Media representatives,T,Establishments subject to federal income tax,820,20 largest firms,2012,136,1600054,54.5,465750,117620,3996
+0100000US,,United States,54184,Media representatives,T,Establishments subject to federal income tax,850,50 largest firms,2012,180,2029635,69.1,566511,141410,5354
+0100000US,,United States,541840,Media representatives,A,All establishments,001,All firms,2012,1487,2936349,100.0,869811,210265,11077
+0100000US,,United States,541840,Media representatives,A,All establishments,804,4 largest firms,2012,79,762040,26.0,240858,60772,2019
+0100000US,,United States,541840,Media representatives,A,All establishments,808,8 largest firms,2012,103,1124409,38.3,317524,77351,2641
+0100000US,,United States,541840,Media representatives,A,All establishments,820,20 largest firms,2012,136,1600054,54.5,465750,117620,3996
+0100000US,,United States,541840,Media representatives,A,All establishments,850,50 largest firms,2012,180,2029635,69.1,566511,141410,5354
+0100000US,,United States,541840,Media representatives,T,Establishments subject to federal income tax,001,All firms,2012,1487,2936349,100.0,869811,210265,11077
+0100000US,,United States,541840,Media representatives,T,Establishments subject to federal income tax,804,4 largest firms,2012,79,762040,26.0,240858,60772,2019
+0100000US,,United States,541840,Media representatives,T,Establishments subject to federal income tax,808,8 largest firms,2012,103,1124409,38.3,317524,77351,2641
+0100000US,,United States,541840,Media representatives,T,Establishments subject to federal income tax,820,20 largest firms,2012,136,1600054,54.5,465750,117620,3996
+0100000US,,United States,541840,Media representatives,T,Establishments subject to federal income tax,850,50 largest firms,2012,180,2029635,69.1,566511,141410,5354
+0100000US,,United States,5418401,Radio and television advertising representatives,A,All establishments,001,All firms,2012,509,1724140,100.0,530328,133396,5874
+0100000US,,United States,5418401,Radio and television advertising representatives,A,All establishments,804,4 largest firms,2012,79,762040,44.2,240858,60772,2019
+0100000US,,United States,5418401,Radio and television advertising representatives,A,All establishments,808,8 largest firms,2012,119,1106778,64.2,345000,92254,2903
+0100000US,,United States,5418401,Radio and television advertising representatives,A,All establishments,820,20 largest firms,2012,145,1375099,79.8,413626,108091,3763
+0100000US,,United States,5418401,Radio and television advertising representatives,A,All establishments,850,50 largest firms,2012,201,1563849,90.7,473751,120035,4559
+0100000US,,United States,5418401,Radio and television advertising representatives,T,Establishments subject to federal income tax,001,All firms,2012,509,1724140,100.0,530328,133396,5874
+0100000US,,United States,5418401,Radio and television advertising representatives,T,Establishments subject to federal income tax,804,4 largest firms,2012,79,762040,44.2,240858,60772,2019
+0100000US,,United States,5418401,Radio and television advertising representatives,T,Establishments subject to federal income tax,808,8 largest firms,2012,119,1106778,64.2,345000,92254,2903
+0100000US,,United States,5418401,Radio and television advertising representatives,T,Establishments subject to federal income tax,820,20 largest firms,2012,145,1375099,79.8,413626,108091,3763
+0100000US,,United States,5418401,Radio and television advertising representatives,T,Establishments subject to federal income tax,850,50 largest firms,2012,201,1563849,90.7,473751,120035,4559
+0100000US,,United States,5418402,Publishers' advertising representatives,A,All establishments,001,All firms,2012,978,1212209,100.0,339483,76869,5203
+0100000US,,United States,5418402,Publishers' advertising representatives,A,All establishments,804,4 largest firms,2012,6,230160,19.0,38943,5892,223
+0100000US,,United States,5418402,Publishers' advertising representatives,A,All establishments,808,8 largest firms,2012,10,348161,28.7,73380,14709,584
+0100000US,,United States,5418402,Publishers' advertising representatives,A,All establishments,820,20 largest firms,2012,23,554597,45.8,125376,27360,1154
+0100000US,,United States,5418402,Publishers' advertising representatives,A,All establishments,850,50 largest firms,2012,56,731795,60.4,185208,40252,2056
+0100000US,,United States,5418402,Publishers' advertising representatives,T,Establishments subject to federal income tax,001,All firms,2012,978,1212209,100.0,339483,76869,5203
+0100000US,,United States,5418402,Publishers' advertising representatives,T,Establishments subject to federal income tax,804,4 largest firms,2012,6,230160,19.0,38943,5892,223
+0100000US,,United States,5418402,Publishers' advertising representatives,T,Establishments subject to federal income tax,808,8 largest firms,2012,10,348161,28.7,73380,14709,584
+0100000US,,United States,5418402,Publishers' advertising representatives,T,Establishments subject to federal income tax,820,20 largest firms,2012,23,554597,45.8,125376,27360,1154
+0100000US,,United States,5418402,Publishers' advertising representatives,T,Establishments subject to federal income tax,850,50 largest firms,2012,56,731795,60.4,185208,40252,2056
+0100000US,,United States,54185,Outdoor advertising,A,All establishments,001,All firms,2012,2671,7157429,100.0,1174003,297457,24737
+0100000US,,United States,54185,Outdoor advertising,A,All establishments,804,4 largest firms,2012,357,3919174,54.8,490023,136480,11407
+0100000US,,United States,54185,Outdoor advertising,A,All establishments,808,8 largest firms,2012,386,4582808,64.0,588343,159791,12293
+0100000US,,United States,54185,Outdoor advertising,A,All establishments,820,20 largest firms,2012,442,5164022,72.1,689539,181480,13724
+0100000US,,United States,54185,Outdoor advertising,A,All establishments,850,50 largest firms,2012,496,5591464,78.1,786331,205972,15097
+0100000US,,United States,54185,Outdoor advertising,T,Establishments subject to federal income tax,001,All firms,2012,2671,7157429,100.0,1174003,297457,24737
+0100000US,,United States,54185,Outdoor advertising,T,Establishments subject to federal income tax,804,4 largest firms,2012,357,3919174,54.8,490023,136480,11407
+0100000US,,United States,54185,Outdoor advertising,T,Establishments subject to federal income tax,808,8 largest firms,2012,386,4582808,64.0,588343,159791,12293
+0100000US,,United States,54185,Outdoor advertising,T,Establishments subject to federal income tax,820,20 largest firms,2012,442,5164022,72.1,689539,181480,13724
+0100000US,,United States,54185,Outdoor advertising,T,Establishments subject to federal income tax,850,50 largest firms,2012,496,5591464,78.1,786331,205972,15097
+0100000US,,United States,541850,Outdoor advertising,A,All establishments,001,All firms,2012,2671,7157429,100.0,1174003,297457,24737
+0100000US,,United States,541850,Outdoor advertising,A,All establishments,804,4 largest firms,2012,357,3919174,54.8,490023,136480,11407
+0100000US,,United States,541850,Outdoor advertising,A,All establishments,808,8 largest firms,2012,386,4582808,64.0,588343,159791,12293
+0100000US,,United States,541850,Outdoor advertising,A,All establishments,820,20 largest firms,2012,442,5164022,72.1,689539,181480,13724
+0100000US,,United States,541850,Outdoor advertising,A,All establishments,850,50 largest firms,2012,496,5591464,78.1,786331,205972,15097
+0100000US,,United States,541850,Outdoor advertising,T,Establishments subject to federal income tax,001,All firms,2012,2671,7157429,100.0,1174003,297457,24737
+0100000US,,United States,541850,Outdoor advertising,T,Establishments subject to federal income tax,804,4 largest firms,2012,357,3919174,54.8,490023,136480,11407
+0100000US,,United States,541850,Outdoor advertising,T,Establishments subject to federal income tax,808,8 largest firms,2012,386,4582808,64.0,588343,159791,12293
+0100000US,,United States,541850,Outdoor advertising,T,Establishments subject to federal income tax,820,20 largest firms,2012,442,5164022,72.1,689539,181480,13724
+0100000US,,United States,541850,Outdoor advertising,T,Establishments subject to federal income tax,850,50 largest firms,2012,496,5591464,78.1,786331,205972,15097
+0100000US,,United States,54186,Direct mail advertising,A,All establishments,001,All firms,2012,2917,10200311,100.0,2295482,580043,49933
+0100000US,,United States,54186,Direct mail advertising,A,All establishments,804,4 largest firms,2012,57,2490647,24.4,334382,98694,4832
+0100000US,,United States,54186,Direct mail advertising,A,All establishments,808,8 largest firms,2012,147,3346397,32.8,542010,152317,10470
+0100000US,,United States,54186,Direct mail advertising,A,All establishments,820,20 largest firms,2012,176,4364510,42.8,783038,215667,14581
+0100000US,,United States,54186,Direct mail advertising,A,All establishments,850,50 largest firms,2012,220,5370384,52.6,1023483,275629,19596
+0100000US,,United States,54186,Direct mail advertising,T,Establishments subject to federal income tax,001,All firms,2012,2917,10200311,100.0,2295482,580043,49933
+0100000US,,United States,54186,Direct mail advertising,T,Establishments subject to federal income tax,804,4 largest firms,2012,57,2490647,24.4,334382,98694,4832
+0100000US,,United States,54186,Direct mail advertising,T,Establishments subject to federal income tax,808,8 largest firms,2012,147,3346397,32.8,542010,152317,10470
+0100000US,,United States,54186,Direct mail advertising,T,Establishments subject to federal income tax,820,20 largest firms,2012,176,4364510,42.8,783038,215667,14581
+0100000US,,United States,54186,Direct mail advertising,T,Establishments subject to federal income tax,850,50 largest firms,2012,220,5370384,52.6,1023483,275629,19596
+0100000US,,United States,541860,Direct mail advertising,A,All establishments,001,All firms,2012,2917,10200311,100.0,2295482,580043,49933
+0100000US,,United States,541860,Direct mail advertising,A,All establishments,804,4 largest firms,2012,57,2490647,24.4,334382,98694,4832
+0100000US,,United States,541860,Direct mail advertising,A,All establishments,808,8 largest firms,2012,147,3346397,32.8,542010,152317,10470
+0100000US,,United States,541860,Direct mail advertising,A,All establishments,820,20 largest firms,2012,176,4364510,42.8,783038,215667,14581
+0100000US,,United States,541860,Direct mail advertising,A,All establishments,850,50 largest firms,2012,220,5370384,52.6,1023483,275629,19596
+0100000US,,United States,541860,Direct mail advertising,T,Establishments subject to federal income tax,001,All firms,2012,2917,10200311,100.0,2295482,580043,49933
+0100000US,,United States,541860,Direct mail advertising,T,Establishments subject to federal income tax,804,4 largest firms,2012,57,2490647,24.4,334382,98694,4832
+0100000US,,United States,541860,Direct mail advertising,T,Establishments subject to federal income tax,808,8 largest firms,2012,147,3346397,32.8,542010,152317,10470
+0100000US,,United States,541860,Direct mail advertising,T,Establishments subject to federal income tax,820,20 largest firms,2012,176,4364510,42.8,783038,215667,14581
+0100000US,,United States,541860,Direct mail advertising,T,Establishments subject to federal income tax,850,50 largest firms,2012,220,5370384,52.6,1023483,275629,19596
+0100000US,,United States,54187,Advertising material distribution services,A,All establishments,001,All firms,2012,797,2702694,100.0,637165,157784,11109
+0100000US,,United States,54187,Advertising material distribution services,A,All establishments,804,4 largest firms,2012,35,1117987,41.4,137222,37249,1632
+0100000US,,United States,54187,Advertising material distribution services,A,All establishments,808,8 largest firms,2012,45,1365018,50.5,189477,48940,2781
+0100000US,,United States,54187,Advertising material distribution services,A,All establishments,820,20 largest firms,2012,60,1823762,67.5,325097,79961,4539
+0100000US,,United States,54187,Advertising material distribution services,A,All establishments,850,50 largest firms,2012,122,2233117,82.6,455648,113044,6743
+0100000US,,United States,54187,Advertising material distribution services,T,Establishments subject to federal income tax,001,All firms,2012,797,2702694,100.0,637165,157784,11109
+0100000US,,United States,54187,Advertising material distribution services,T,Establishments subject to federal income tax,804,4 largest firms,2012,35,1117987,41.4,137222,37249,1632
+0100000US,,United States,54187,Advertising material distribution services,T,Establishments subject to federal income tax,808,8 largest firms,2012,45,1365018,50.5,189477,48940,2781
+0100000US,,United States,54187,Advertising material distribution services,T,Establishments subject to federal income tax,820,20 largest firms,2012,60,1823762,67.5,325097,79961,4539
+0100000US,,United States,54187,Advertising material distribution services,T,Establishments subject to federal income tax,850,50 largest firms,2012,122,2233117,82.6,455648,113044,6743
+0100000US,,United States,541870,Advertising material distribution services,A,All establishments,001,All firms,2012,797,2702694,100.0,637165,157784,11109
+0100000US,,United States,541870,Advertising material distribution services,A,All establishments,804,4 largest firms,2012,35,1117987,41.4,137222,37249,1632
+0100000US,,United States,541870,Advertising material distribution services,A,All establishments,808,8 largest firms,2012,45,1365018,50.5,189477,48940,2781
+0100000US,,United States,541870,Advertising material distribution services,A,All establishments,820,20 largest firms,2012,60,1823762,67.5,325097,79961,4539
+0100000US,,United States,541870,Advertising material distribution services,A,All establishments,850,50 largest firms,2012,122,2233117,82.6,455648,113044,6743
+0100000US,,United States,541870,Advertising material distribution services,T,Establishments subject to federal income tax,001,All firms,2012,797,2702694,100.0,637165,157784,11109
+0100000US,,United States,541870,Advertising material distribution services,T,Establishments subject to federal income tax,804,4 largest firms,2012,35,1117987,41.4,137222,37249,1632
+0100000US,,United States,541870,Advertising material distribution services,T,Establishments subject to federal income tax,808,8 largest firms,2012,45,1365018,50.5,189477,48940,2781
+0100000US,,United States,541870,Advertising material distribution services,T,Establishments subject to federal income tax,820,20 largest firms,2012,60,1823762,67.5,325097,79961,4539
+0100000US,,United States,541870,Advertising material distribution services,T,Establishments subject to federal income tax,850,50 largest firms,2012,122,2233117,82.6,455648,113044,6743
+0100000US,,United States,54189,Other services related to advertising,A,All establishments,001,All firms,2012,7636,12655846,100.0,3483851,835027,108850
+0100000US,,United States,54189,Other services related to advertising,A,All establishments,804,4 largest firms,2012,45,1652815,13.1,692100,177192,3789
+0100000US,,United States,54189,Other services related to advertising,A,All establishments,808,8 largest firms,2012,50,2549599,20.1,882590,224530,25486
+0100000US,,United States,54189,Other services related to advertising,A,All establishments,820,20 largest firms,2012,307,3584208,28.3,1109587,278888,36003
+0100000US,,United States,54189,Other services related to advertising,A,All establishments,850,50 largest firms,2012,434,4892279,38.7,1451149,361501,50733
+0100000US,,United States,54189,Other services related to advertising,T,Establishments subject to federal income tax,001,All firms,2012,7636,12655846,100.0,3483851,835027,108850
+0100000US,,United States,54189,Other services related to advertising,T,Establishments subject to federal income tax,804,4 largest firms,2012,45,1652815,13.1,692100,177192,3789
+0100000US,,United States,54189,Other services related to advertising,T,Establishments subject to federal income tax,808,8 largest firms,2012,50,2549599,20.1,882590,224530,25486
+0100000US,,United States,54189,Other services related to advertising,T,Establishments subject to federal income tax,820,20 largest firms,2012,307,3584208,28.3,1109587,278888,36003
+0100000US,,United States,54189,Other services related to advertising,T,Establishments subject to federal income tax,850,50 largest firms,2012,434,4892279,38.7,1451149,361501,50733
+0100000US,,United States,541890,Other services related to advertising,A,All establishments,001,All firms,2012,7636,12655846,100.0,3483851,835027,108850
+0100000US,,United States,541890,Other services related to advertising,A,All establishments,804,4 largest firms,2012,45,1652815,13.1,692100,177192,3789
+0100000US,,United States,541890,Other services related to advertising,A,All establishments,808,8 largest firms,2012,50,2549599,20.1,882590,224530,25486
+0100000US,,United States,541890,Other services related to advertising,A,All establishments,820,20 largest firms,2012,307,3584208,28.3,1109587,278888,36003
+0100000US,,United States,541890,Other services related to advertising,A,All establishments,850,50 largest firms,2012,434,4892279,38.7,1451149,361501,50733
+0100000US,,United States,541890,Other services related to advertising,T,Establishments subject to federal income tax,001,All firms,2012,7636,12655846,100.0,3483851,835027,108850
+0100000US,,United States,541890,Other services related to advertising,T,Establishments subject to federal income tax,804,4 largest firms,2012,45,1652815,13.1,692100,177192,3789
+0100000US,,United States,541890,Other services related to advertising,T,Establishments subject to federal income tax,808,8 largest firms,2012,50,2549599,20.1,882590,224530,25486
+0100000US,,United States,541890,Other services related to advertising,T,Establishments subject to federal income tax,820,20 largest firms,2012,307,3584208,28.3,1109587,278888,36003
+0100000US,,United States,541890,Other services related to advertising,T,Establishments subject to federal income tax,850,50 largest firms,2012,434,4892279,38.7,1451149,361501,50733
+0100000US,,United States,5418902,Advertising specialties goods distributor,A,All establishments,001,All firms,2012,3955,7044711,100.0,1143154,270295,27713
+0100000US,,United States,5418902,Advertising specialties goods distributor,A,All establishments,804,4 largest firms,2012,43,1219439,17.3,114781,28498,2077
+0100000US,,United States,5418902,Advertising specialties goods distributor,A,All establishments,808,8 largest firms,2012,104,1592249,22.6,170245,41868,3570
+0100000US,,United States,5418902,Advertising specialties goods distributor,A,All establishments,820,20 largest firms,2012,132,2207449,31.3,251131,60958,5208
+0100000US,,United States,5418902,Advertising specialties goods distributor,A,All establishments,850,50 largest firms,2012,189,2964818,42.1,401686,97240,8465
+0100000US,,United States,5418902,Advertising specialties goods distributor,T,Establishments subject to federal income tax,001,All firms,2012,3955,7044711,100.0,1143154,270295,27713
+0100000US,,United States,5418902,Advertising specialties goods distributor,T,Establishments subject to federal income tax,804,4 largest firms,2012,43,1219439,17.3,114781,28498,2077
+0100000US,,United States,5418902,Advertising specialties goods distributor,T,Establishments subject to federal income tax,808,8 largest firms,2012,104,1592249,22.6,170245,41868,3570
+0100000US,,United States,5418902,Advertising specialties goods distributor,T,Establishments subject to federal income tax,820,20 largest firms,2012,132,2207449,31.3,251131,60958,5208
+0100000US,,United States,5418902,Advertising specialties goods distributor,T,Establishments subject to federal income tax,850,50 largest firms,2012,189,2964818,42.1,401686,97240,8465
+0100000US,,United States,5418903,Sign painting and lettering shop,A,All establishments,001,All firms,2012,1793,921657,100.0,270129,64088,8388
+0100000US,,United States,5418903,Sign painting and lettering shop,A,All establishments,804,4 largest firms,2012,4,104940,11.4,28740,7501,462
+0100000US,,United States,5418903,Sign painting and lettering shop,A,All establishments,808,8 largest firms,2012,8,152943,16.6,40621,10444,734
+0100000US,,United States,5418903,Sign painting and lettering shop,A,All establishments,820,20 largest firms,2012,20,234929,25.5,69438,16585,1241
+0100000US,,United States,5418903,Sign painting and lettering shop,A,All establishments,850,50 largest firms,2012,53,325094,35.3,99070,23696,1981
+0100000US,,United States,5418903,Sign painting and lettering shop,T,Establishments subject to federal income tax,001,All firms,2012,1793,921657,100.0,270129,64088,8388
+0100000US,,United States,5418903,Sign painting and lettering shop,T,Establishments subject to federal income tax,804,4 largest firms,2012,4,104940,11.4,28740,7501,462
+0100000US,,United States,5418903,Sign painting and lettering shop,T,Establishments subject to federal income tax,808,8 largest firms,2012,8,152943,16.6,40621,10444,734
+0100000US,,United States,5418903,Sign painting and lettering shop,T,Establishments subject to federal income tax,820,20 largest firms,2012,20,234929,25.5,69438,16585,1241
+0100000US,,United States,5418903,Sign painting and lettering shop,T,Establishments subject to federal income tax,850,50 largest firms,2012,53,325094,35.3,99070,23696,1981
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",A,All establishments,001,All firms,2012,1888,4689478,100.0,2070568,500644,72749
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",A,All establishments,804,4 largest firms,2012,7,1330160,28.4,767809,196032,23409
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",A,All establishments,808,8 largest firms,2012,184,1709088,36.4,903639,228441,31752
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",A,All establishments,820,20 largest firms,2012,254,2345136,50.0,1110638,278341,44114
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",A,All establishments,850,50 largest firms,2012,308,3026610,64.5,1346915,333535,56315
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",T,Establishments subject to federal income tax,001,All firms,2012,1888,4689478,100.0,2070568,500644,72749
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",T,Establishments subject to federal income tax,804,4 largest firms,2012,7,1330160,28.4,767809,196032,23409
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",T,Establishments subject to federal income tax,808,8 largest firms,2012,184,1709088,36.4,903639,228441,31752
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",T,Establishments subject to federal income tax,820,20 largest firms,2012,254,2345136,50.0,1110638,278341,44114
+0100000US,,United States,5418908,"All other advertising services, including welcoming services",T,Establishments subject to federal income tax,850,50 largest firms,2012,308,3026610,64.5,1346915,333535,56315
+0100000US,,United States,5419,"Other professional, scientific, and technical services",A,All establishments,001,All firms,2012,67922,67063577,100.0,22735765,5476673,589936
+0100000US,,United States,5419,"Other professional, scientific, and technical services",A,All establishments,804,4 largest firms,2012,761,5598784,8.3,1466100,395713,26485
+0100000US,,United States,5419,"Other professional, scientific, and technical services",A,All establishments,808,8 largest firms,2012,2542,7907886,11.8,2170247,557004,45809
+0100000US,,United States,5419,"Other professional, scientific, and technical services",A,All establishments,820,20 largest firms,2012,5633,11826878,17.6,3440498,905567,75574
+0100000US,,United States,5419,"Other professional, scientific, and technical services",A,All establishments,850,50 largest firms,2012,6377,16059133,23.9,5119154,1304356,101146
+0100000US,,United States,5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,001,All firms,2012,67922,67063577,100.0,22735765,5476673,589936
+0100000US,,United States,5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,804,4 largest firms,2012,761,5598784,8.3,1466100,395713,26485
+0100000US,,United States,5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,808,8 largest firms,2012,2542,7907886,11.8,2170247,557004,45809
+0100000US,,United States,5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,820,20 largest firms,2012,5633,11826878,17.6,3440498,905567,75574
+0100000US,,United States,5419,"Other professional, scientific, and technical services",T,Establishments subject to federal income tax,850,50 largest firms,2012,6377,16059133,23.9,5119154,1304356,101146
+0100000US,,United States,54191,Marketing research and public opinion polling,A,All establishments,001,All firms,2012,5543,16377634,100.0,5693069,1492340,102127
+0100000US,,United States,54191,Marketing research and public opinion polling,A,All establishments,804,4 largest firms,2012,89,3539358,21.6,710426,212041,10697
+0100000US,,United States,54191,Marketing research and public opinion polling,A,All establishments,808,8 largest firms,2012,136,4699175,28.7,1235083,373430,15015
+0100000US,,United States,54191,Marketing research and public opinion polling,A,All establishments,820,20 largest firms,2012,297,6665609,40.7,1986045,562690,27083
+0100000US,,United States,54191,Marketing research and public opinion polling,A,All establishments,850,50 largest firms,2012,519,8624049,52.7,2718035,752966,36299
+0100000US,,United States,54191,Marketing research and public opinion polling,T,Establishments subject to federal income tax,001,All firms,2012,5543,16377634,100.0,5693069,1492340,102127
+0100000US,,United States,54191,Marketing research and public opinion polling,T,Establishments subject to federal income tax,804,4 largest firms,2012,89,3539358,21.6,710426,212041,10697
+0100000US,,United States,54191,Marketing research and public opinion polling,T,Establishments subject to federal income tax,808,8 largest firms,2012,136,4699175,28.7,1235083,373430,15015
+0100000US,,United States,54191,Marketing research and public opinion polling,T,Establishments subject to federal income tax,820,20 largest firms,2012,297,6665609,40.7,1986045,562690,27083
+0100000US,,United States,54191,Marketing research and public opinion polling,T,Establishments subject to federal income tax,850,50 largest firms,2012,519,8624049,52.7,2718035,752966,36299
+0100000US,,United States,541910,Marketing research and public opinion polling,A,All establishments,001,All firms,2012,5543,16377634,100.0,5693069,1492340,102127
+0100000US,,United States,541910,Marketing research and public opinion polling,A,All establishments,804,4 largest firms,2012,89,3539358,21.6,710426,212041,10697
+0100000US,,United States,541910,Marketing research and public opinion polling,A,All establishments,808,8 largest firms,2012,136,4699175,28.7,1235083,373430,15015
+0100000US,,United States,541910,Marketing research and public opinion polling,A,All establishments,820,20 largest firms,2012,297,6665609,40.7,1986045,562690,27083
+0100000US,,United States,541910,Marketing research and public opinion polling,A,All establishments,850,50 largest firms,2012,519,8624049,52.7,2718035,752966,36299
+0100000US,,United States,541910,Marketing research and public opinion polling,T,Establishments subject to federal income tax,001,All firms,2012,5543,16377634,100.0,5693069,1492340,102127
+0100000US,,United States,541910,Marketing research and public opinion polling,T,Establishments subject to federal income tax,804,4 largest firms,2012,89,3539358,21.6,710426,212041,10697
+0100000US,,United States,541910,Marketing research and public opinion polling,T,Establishments subject to federal income tax,808,8 largest firms,2012,136,4699175,28.7,1235083,373430,15015
+0100000US,,United States,541910,Marketing research and public opinion polling,T,Establishments subject to federal income tax,820,20 largest firms,2012,297,6665609,40.7,1986045,562690,27083
+0100000US,,United States,541910,Marketing research and public opinion polling,T,Establishments subject to federal income tax,850,50 largest firms,2012,519,8624049,52.7,2718035,752966,36299
+0100000US,,United States,54192,Photographic services,A,All establishments,001,All firms,2012,17351,5467847,100.0,1543627,335348,67577
+0100000US,,United States,54192,Photographic services,A,All establishments,804,4 largest firms,2012,4426,1042098,19.1,302520,68052,20965
+0100000US,,United States,54192,Photographic services,A,All establishments,808,8 largest firms,2012,4511,1237699,22.6,377006,83814,25434
+0100000US,,United States,54192,Photographic services,A,All establishments,820,20 largest firms,2012,5086,1608728,29.4,477537,106214,30245
+0100000US,,United States,54192,Photographic services,A,All establishments,850,50 largest firms,2012,5167,1938537,35.5,580113,128730,32681
+0100000US,,United States,54192,Photographic services,T,Establishments subject to federal income tax,001,All firms,2012,17351,5467847,100.0,1543627,335348,67577
+0100000US,,United States,54192,Photographic services,T,Establishments subject to federal income tax,804,4 largest firms,2012,4426,1042098,19.1,302520,68052,20965
+0100000US,,United States,54192,Photographic services,T,Establishments subject to federal income tax,808,8 largest firms,2012,4511,1237699,22.6,377006,83814,25434
+0100000US,,United States,54192,Photographic services,T,Establishments subject to federal income tax,820,20 largest firms,2012,5086,1608728,29.4,477537,106214,30245
+0100000US,,United States,54192,Photographic services,T,Establishments subject to federal income tax,850,50 largest firms,2012,5167,1938537,35.5,580113,128730,32681
+0100000US,,United States,541921,"Photography studios, portrait",A,All establishments,001,All firms,2012,13649,3682072,100.0,1080525,234562,57025
+0100000US,,United States,541921,"Photography studios, portrait",A,All establishments,804,4 largest firms,2012,4426,1042098,28.3,302520,68052,20965
+0100000US,,United States,541921,"Photography studios, portrait",A,All establishments,808,8 largest firms,2012,4510,1235206,33.5,382513,85481,25625
+0100000US,,United States,541921,"Photography studios, portrait",A,All establishments,820,20 largest firms,2012,5108,1520250,41.3,476809,106737,30320
+0100000US,,United States,541921,"Photography studios, portrait",A,All establishments,850,50 largest firms,2012,5202,1737624,47.2,545572,119462,32604
+0100000US,,United States,541921,"Photography studios, portrait",T,Establishments subject to federal income tax,001,All firms,2012,13649,3682072,100.0,1080525,234562,57025
+0100000US,,United States,541921,"Photography studios, portrait",T,Establishments subject to federal income tax,804,4 largest firms,2012,4426,1042098,28.3,302520,68052,20965
+0100000US,,United States,541921,"Photography studios, portrait",T,Establishments subject to federal income tax,808,8 largest firms,2012,4510,1235206,33.5,382513,85481,25625
+0100000US,,United States,541921,"Photography studios, portrait",T,Establishments subject to federal income tax,820,20 largest firms,2012,5108,1520250,41.3,476809,106737,30320
+0100000US,,United States,541921,"Photography studios, portrait",T,Establishments subject to federal income tax,850,50 largest firms,2012,5202,1737624,47.2,545572,119462,32604
+0100000US,,United States,541922,Commercial photography,A,All establishments,001,All firms,2012,3702,1785775,100.0,463102,100786,10552
+0100000US,,United States,541922,Commercial photography,A,All establishments,804,4 largest firms,2012,7,141200,7.9,19553,3382,450
+0100000US,,United States,541922,Commercial photography,A,All establishments,808,8 largest firms,2012,11,201573,11.3,25592,5632,494
+0100000US,,United States,541922,Commercial photography,A,All establishments,820,20 largest firms,2012,26,313840,17.6,70663,16011,1295
+0100000US,,United States,541922,Commercial photography,A,All establishments,850,50 largest firms,2012,57,474813,26.6,106435,23205,1822
+0100000US,,United States,541922,Commercial photography,T,Establishments subject to federal income tax,001,All firms,2012,3702,1785775,100.0,463102,100786,10552
+0100000US,,United States,541922,Commercial photography,T,Establishments subject to federal income tax,804,4 largest firms,2012,7,141200,7.9,19553,3382,450
+0100000US,,United States,541922,Commercial photography,T,Establishments subject to federal income tax,808,8 largest firms,2012,11,201573,11.3,25592,5632,494
+0100000US,,United States,541922,Commercial photography,T,Establishments subject to federal income tax,820,20 largest firms,2012,26,313840,17.6,70663,16011,1295
+0100000US,,United States,541922,Commercial photography,T,Establishments subject to federal income tax,850,50 largest firms,2012,57,474813,26.6,106435,23205,1822
+0100000US,,United States,54193,Translation and interpretation services,A,All establishments,001,All firms,2012,2344,4186526,100.0,1164558,266659,24926
+0100000US,,United States,54193,Translation and interpretation services,A,All establishments,804,4 largest firms,2012,49,1644199,39.3,324235,79116,8806
+0100000US,,United States,54193,Translation and interpretation services,A,All establishments,808,8 largest firms,2012,58,2156583,51.5,515888,114704,10527
+0100000US,,United States,54193,Translation and interpretation services,A,All establishments,820,20 largest firms,2012,87,2670441,63.8,726053,165812,14378
+0100000US,,United States,54193,Translation and interpretation services,A,All establishments,850,50 largest firms,2012,121,3070672,73.3,836275,191246,16280
+0100000US,,United States,54193,Translation and interpretation services,T,Establishments subject to federal income tax,001,All firms,2012,2344,4186526,100.0,1164558,266659,24926
+0100000US,,United States,54193,Translation and interpretation services,T,Establishments subject to federal income tax,804,4 largest firms,2012,49,1644199,39.3,324235,79116,8806
+0100000US,,United States,54193,Translation and interpretation services,T,Establishments subject to federal income tax,808,8 largest firms,2012,58,2156583,51.5,515888,114704,10527
+0100000US,,United States,54193,Translation and interpretation services,T,Establishments subject to federal income tax,820,20 largest firms,2012,87,2670441,63.8,726053,165812,14378
+0100000US,,United States,54193,Translation and interpretation services,T,Establishments subject to federal income tax,850,50 largest firms,2012,121,3070672,73.3,836275,191246,16280
+0100000US,,United States,541930,Translation and interpretation services,A,All establishments,001,All firms,2012,2344,4186526,100.0,1164558,266659,24926
+0100000US,,United States,541930,Translation and interpretation services,A,All establishments,804,4 largest firms,2012,49,1644199,39.3,324235,79116,8806
+0100000US,,United States,541930,Translation and interpretation services,A,All establishments,808,8 largest firms,2012,58,2156583,51.5,515888,114704,10527
+0100000US,,United States,541930,Translation and interpretation services,A,All establishments,820,20 largest firms,2012,87,2670441,63.8,726053,165812,14378
+0100000US,,United States,541930,Translation and interpretation services,A,All establishments,850,50 largest firms,2012,121,3070672,73.3,836275,191246,16280
+0100000US,,United States,541930,Translation and interpretation services,T,Establishments subject to federal income tax,001,All firms,2012,2344,4186526,100.0,1164558,266659,24926
+0100000US,,United States,541930,Translation and interpretation services,T,Establishments subject to federal income tax,804,4 largest firms,2012,49,1644199,39.3,324235,79116,8806
+0100000US,,United States,541930,Translation and interpretation services,T,Establishments subject to federal income tax,808,8 largest firms,2012,58,2156583,51.5,515888,114704,10527
+0100000US,,United States,541930,Translation and interpretation services,T,Establishments subject to federal income tax,820,20 largest firms,2012,87,2670441,63.8,726053,165812,14378
+0100000US,,United States,541930,Translation and interpretation services,T,Establishments subject to federal income tax,850,50 largest firms,2012,121,3070672,73.3,836275,191246,16280
+0100000US,,United States,54194,Veterinary services,A,All establishments,001,All firms,2012,30049,29533401,100.0,10190218,2401277,321682
+0100000US,,United States,54194,Veterinary services,A,All establishments,804,4 largest firms,2012,1213,2703111,9.2,975505,225190,25470
+0100000US,,United States,54194,Veterinary services,A,All establishments,808,8 largest firms,2012,1505,3103166,10.5,1116608,260516,29670
+0100000US,,United States,54194,Veterinary services,A,All establishments,820,20 largest firms,2012,1644,3568801,12.1,1294142,304068,33800
+0100000US,,United States,54194,Veterinary services,A,All establishments,850,50 largest firms,2012,1713,4163139,14.1,1508548,354534,37779
+0100000US,,United States,54194,Veterinary services,T,Establishments subject to federal income tax,001,All firms,2012,30049,29533401,100.0,10190218,2401277,321682
+0100000US,,United States,54194,Veterinary services,T,Establishments subject to federal income tax,804,4 largest firms,2012,1213,2703111,9.2,975505,225190,25470
+0100000US,,United States,54194,Veterinary services,T,Establishments subject to federal income tax,808,8 largest firms,2012,1505,3103166,10.5,1116608,260516,29670
+0100000US,,United States,54194,Veterinary services,T,Establishments subject to federal income tax,820,20 largest firms,2012,1644,3568801,12.1,1294142,304068,33800
+0100000US,,United States,54194,Veterinary services,T,Establishments subject to federal income tax,850,50 largest firms,2012,1713,4163139,14.1,1508548,354534,37779
+0100000US,,United States,541940,Veterinary services,A,All establishments,001,All firms,2012,30049,29533401,100.0,10190218,2401277,321682
+0100000US,,United States,541940,Veterinary services,A,All establishments,804,4 largest firms,2012,1213,2703111,9.2,975505,225190,25470
+0100000US,,United States,541940,Veterinary services,A,All establishments,808,8 largest firms,2012,1505,3103166,10.5,1116608,260516,29670
+0100000US,,United States,541940,Veterinary services,A,All establishments,820,20 largest firms,2012,1644,3568801,12.1,1294142,304068,33800
+0100000US,,United States,541940,Veterinary services,A,All establishments,850,50 largest firms,2012,1713,4163139,14.1,1508548,354534,37779
+0100000US,,United States,541940,Veterinary services,T,Establishments subject to federal income tax,001,All firms,2012,30049,29533401,100.0,10190218,2401277,321682
+0100000US,,United States,541940,Veterinary services,T,Establishments subject to federal income tax,804,4 largest firms,2012,1213,2703111,9.2,975505,225190,25470
+0100000US,,United States,541940,Veterinary services,T,Establishments subject to federal income tax,808,8 largest firms,2012,1505,3103166,10.5,1116608,260516,29670
+0100000US,,United States,541940,Veterinary services,T,Establishments subject to federal income tax,820,20 largest firms,2012,1644,3568801,12.1,1294142,304068,33800
+0100000US,,United States,541940,Veterinary services,T,Establishments subject to federal income tax,850,50 largest firms,2012,1713,4163139,14.1,1508548,354534,37779
+0100000US,,United States,54199,"All other professional, scientific, and technical services",A,All establishments,001,All firms,2012,12635,11498169,100.0,4144293,981049,73624
+0100000US,,United States,54199,"All other professional, scientific, and technical services",A,All establishments,804,4 largest firms,2012,159,2197814,19.1,731388,183268,9930
+0100000US,,United States,54199,"All other professional, scientific, and technical services",A,All establishments,808,8 largest firms,2012,230,2727801,23.7,977455,233971,12622
+0100000US,,United States,54199,"All other professional, scientific, and technical services",A,All establishments,820,20 largest firms,2012,441,3547522,30.9,1321791,316242,17736
+0100000US,,United States,54199,"All other professional, scientific, and technical services",A,All establishments,850,50 largest firms,2012,544,4622975,40.2,1751081,419519,25321
+0100000US,,United States,54199,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,001,All firms,2012,12635,11498169,100.0,4144293,981049,73624
+0100000US,,United States,54199,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,804,4 largest firms,2012,159,2197814,19.1,731388,183268,9930
+0100000US,,United States,54199,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,808,8 largest firms,2012,230,2727801,23.7,977455,233971,12622
+0100000US,,United States,54199,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,820,20 largest firms,2012,441,3547522,30.9,1321791,316242,17736
+0100000US,,United States,54199,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,850,50 largest firms,2012,544,4622975,40.2,1751081,419519,25321
+0100000US,,United States,541990,"All other professional, scientific, and technical services",A,All establishments,001,All firms,2012,12635,11498169,100.0,4144293,981049,73624
+0100000US,,United States,541990,"All other professional, scientific, and technical services",A,All establishments,804,4 largest firms,2012,159,2197814,19.1,731388,183268,9930
+0100000US,,United States,541990,"All other professional, scientific, and technical services",A,All establishments,808,8 largest firms,2012,230,2727801,23.7,977455,233971,12622
+0100000US,,United States,541990,"All other professional, scientific, and technical services",A,All establishments,820,20 largest firms,2012,441,3547522,30.9,1321791,316242,17736
+0100000US,,United States,541990,"All other professional, scientific, and technical services",A,All establishments,850,50 largest firms,2012,544,4622975,40.2,1751081,419519,25321
+0100000US,,United States,541990,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,001,All firms,2012,12635,11498169,100.0,4144293,981049,73624
+0100000US,,United States,541990,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,804,4 largest firms,2012,159,2197814,19.1,731388,183268,9930
+0100000US,,United States,541990,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,808,8 largest firms,2012,230,2727801,23.7,977455,233971,12622
+0100000US,,United States,541990,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,820,20 largest firms,2012,441,3547522,30.9,1321791,316242,17736
+0100000US,,United States,541990,"All other professional, scientific, and technical services",T,Establishments subject to federal income tax,850,50 largest firms,2012,544,4622975,40.2,1751081,419519,25321
+0100000US,,United States,5419901,Meteorological services (weather forecasting),A,All establishments,001,All firms,2012,341,381235,100.0,192403,49231,3109
+0100000US,,United States,5419901,Meteorological services (weather forecasting),A,All establishments,804,4 largest firms,2012,8,151234,39.7,74715,19562,831
+0100000US,,United States,5419901,Meteorological services (weather forecasting),A,All establishments,808,8 largest firms,2012,53,189537,49.7,99718,25884,1306
+0100000US,,United States,5419901,Meteorological services (weather forecasting),A,All establishments,820,20 largest firms,2012,114,268219,70.4,134059,34777,1982
+0100000US,,United States,5419901,Meteorological services (weather forecasting),A,All establishments,850,50 largest firms,2012,175,339422,89.0,174977,44674,2706
+0100000US,,United States,5419901,Meteorological services (weather forecasting),T,Establishments subject to federal income tax,001,All firms,2012,341,381235,100.0,192403,49231,3109
+0100000US,,United States,5419901,Meteorological services (weather forecasting),T,Establishments subject to federal income tax,804,4 largest firms,2012,8,151234,39.7,74715,19562,831
+0100000US,,United States,5419901,Meteorological services (weather forecasting),T,Establishments subject to federal income tax,808,8 largest firms,2012,53,189537,49.7,99718,25884,1306
+0100000US,,United States,5419901,Meteorological services (weather forecasting),T,Establishments subject to federal income tax,820,20 largest firms,2012,114,268219,70.4,134059,34777,1982
+0100000US,,United States,5419901,Meteorological services (weather forecasting),T,Establishments subject to federal income tax,850,50 largest firms,2012,175,339422,89.0,174977,44674,2706
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",A,All establishments,001,All firms,2012,12294,11116934,100.0,3951890,931818,70515
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",A,All establishments,804,4 largest firms,2012,156,2193184,19.7,726758,182242,9845
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",A,All establishments,808,8 largest firms,2012,227,2723171,24.5,972825,232945,12537
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",A,All establishments,820,20 largest firms,2012,439,3524858,31.7,1319290,314063,18270
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",A,All establishments,850,50 largest firms,2012,587,4568039,41.1,1714085,411184,25082
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",T,Establishments subject to federal income tax,001,All firms,2012,12294,11116934,100.0,3951890,931818,70515
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",T,Establishments subject to federal income tax,804,4 largest firms,2012,156,2193184,19.7,726758,182242,9845
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",T,Establishments subject to federal income tax,808,8 largest firms,2012,227,2723171,24.5,972825,232945,12537
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",T,Establishments subject to federal income tax,820,20 largest firms,2012,439,3524858,31.7,1319290,314063,18270
+0100000US,,United States,5419909,"All other miscellaneous professional, scientific, and technical services",T,Establishments subject to federal income tax,850,50 largest firms,2012,587,4568039,41.1,1714085,411184,25082

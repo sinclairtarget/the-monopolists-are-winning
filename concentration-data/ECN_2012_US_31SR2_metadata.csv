@@ -1,0 +1,14 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+NAICS.annotation.id,Id
+CONCENFI.id,Firm concentration code
+CONCENFI.display-label,Meaning of Firm concentration code
+YEAR.id,Year
+COMPANY,Number of companies
+RCPTOT,"Total value of shipments and receipts for services ($1,000)"
+CCORCPPCT,Percent of total value of shipments and receipts for services (%)
+VSHERFI,Percent of value of shipments by the Herfindahl-Hirschman index for 50 largest companies (%)

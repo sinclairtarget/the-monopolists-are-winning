@@ -1,0 +1,14 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+CONCENFI.id,Firm concentration code
+CONCENFI.display-label,Meaning of Firm concentration code
+YEAR.id,Year
+ESTAB,Number of establishments
+RCPTOT,"Receipts ($1,000)"
+VAL_PCT,Revenue of largest firms as percent of total revenue (%)
+PAYANN,"Annual payroll ($1,000)"
+PAYQTR1,"First-quarter payroll ($1,000)"
+EMP,Number of paid employees for pay period including March 12

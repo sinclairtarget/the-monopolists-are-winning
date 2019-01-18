@@ -1,0 +1,80 @@
+EC1248SSSZ6
+Transportation and Warehousing: Subject Series - Estab & Firm Size: Summary Statistics by Concentration of Largest Firms for the U.S.: 2012
+
+Release Date : 03/11/2016
+
+Includes only firms and establishments of firms with payroll. Excludes data for corporate, subsidiary, and regional managing offices and establishments of these firms that are classified in other categories than those specified in this file. See Table Notes for more information. Data based on the 2012 Economic Census. For method of assignment to categories shown and for information on confidentiality protection, sampling error, nonsampling error, and definitions, see  Methodology.
+
+For information on economic census geographies, including changes for 2012, see the economic census Help Center.
+
+
+ 
+  Table Name
+  Transportation and Warehousing: Subject Series: Estab & Firm Size: Summary Statistics by Concentration of Largest Firms for the U.S.: 2012
+ 
+ 
+  ReleaseSchedule
+  The data in this file are scheduled for release in March 2016.
+ 
+ 
+  Key TableInformation
+  EC1248SSSZ1 through EC1248SSSZ5 and EC1248SSSZ7 present data by employment and revenue size for establishments and firms, single unit and multiunit firms, and legal form of organization for the United States. See  Methodology  for additional information on data limitations.
+ 
+ 
+  Universe
+  The universe of this file is all establishments of firms with payroll in business at any time during 2012 and classified in Transportation and Warehousing (Sector 48-49).
+ 
+ 
+  GeographyCoverage
+  The data are shown at the United States level only.
+ 
+ 
+  IndustryCoverage
+  The data are shown for 2- through 7-digit 2012 NAICS codes.
+ 
+ 
+  Data ItemsandOtherIdentifyingRecords
+  This file contains data on: 
+   
+    Establishments 
+    Revenue 
+    Revenue of largest firms as a percent of total revenue 
+    Annual payroll 
+    First-quarter payroll 
+    Paid employees 
+   Each record includes a CONCENFI code which represents a specific firm concentration category (including all firms, 4 largest firms, 8 largest firms, 20 largest firms, and 50 largest firms).
+ 
+ 
+  FTP Download
+  Download the entire table athttp://www2.census.gov/econ2012/EC/sector48/EC1248SSSZ6.zip
+ 
+ 
+  ContactInformation 
+  U.S. Census Bureau, Economy Wide Statistics Division Data User Outreach and Education Staff Washington, DC 20233-6900 Tel: (800) 242-2184 Tel: (301) 763-5154 ewd.outreach@census.gov 
+  
+
+
+(104)	Railroad transportation and U.S. Postal Service are out of scope for the 2012 Economic Census.
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+i	5,000 to 9,999 employees
+
+j	10,000 to 24,999 employees
+
+f	500 to 999 employees
+
+h	2,500 to 4,999 employees
+
+g	1,000 to 2,499 employees
+
+e	250 to 499 employees
+
+m	100,000 employees or more
+
+Source: U.S. Census Bureau, 2012 Economic Census.
+Note: The data in this file are based on the 2012 Economic Census. To maintain confidentiality, the U.S. Census Bureau suppresses data to protect the identity of any business or individual. The census results in this file contain nonsampling error. Data users who create their own estimates using data from this file should cite the U.S. Census Bureau as the source of the original data only. For the full technical documentation, see Methodology link in above headnote.
+Note: Railroad transportation and U.S. Postal Service are out of scope for the 2012 Economic Census.
+
+Symbols:D - Withheld to avoid disclosing data for individual companies; data are included in higher level totalsN - Not available or not comparableFor a complete list of all economic programs symbols, see the Symbols Glossary
+
