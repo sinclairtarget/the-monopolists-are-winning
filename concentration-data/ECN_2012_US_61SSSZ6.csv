@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,OPTAX.id,OPTAX.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Type of operation or tax status code,Meaning of Type of operation or tax status code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts/Revenue ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,61,Educational services,A,All establishments,001,All firms,2012,67960,53360305,100.0,17283363,4239975,642334
 0100000US,,United States,61,Educational services,A,All establishments,804,4 largest firms,2012,433,3752972,7.0,1010099,275072,17514
 0100000US,,United States,61,Educational services,A,All establishments,808,8 largest firms,2012,752,5625079,10.5,1572476,416120,34241

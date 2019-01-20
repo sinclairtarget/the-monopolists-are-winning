@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Revenue ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,48-49(104),Transportation and warehousing(104),001,All firms,2012,213809,730541303,100.0,183840920,45286363,4305464
 0100000US,,United States,48-49(104),Transportation and warehousing(104),804,4 largest firms,2012,5627,133446979,18.3,31774517,8145548,686396
 0100000US,,United States,48-49(104),Transportation and warehousing(104),808,8 largest firms,2012,6265,193049559,26.4,40864945,10382785,833779

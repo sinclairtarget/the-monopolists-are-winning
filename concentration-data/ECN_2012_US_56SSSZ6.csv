@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,56,Administrative and support and waste management and remediation services,001,All firms,2012,386387,673036536,100.0,329013077,78774951,9774262
 0100000US,,United States,56,Administrative and support and waste management and remediation services,804,4 largest firms,2012,1697,53348499,7.9,36766461,9106769,520557
 0100000US,,United States,56,Administrative and support and waste management and remediation services,808,8 largest firms,2012,6327,78708434,11.7,50923846,12561345,869680

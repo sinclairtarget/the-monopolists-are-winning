@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts ($1,000)",Revenue of largest firms as percent of total revenue (%),"Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,51,Information,001,All firms,2012,138341,1238463251,100.0,269069624,69449398,3321226
 0100000US,,United States,51,Information,804,4 largest firms,2012,23026,332749988,26.9,54545348,15069251,651419
 0100000US,,United States,51,Information,808,8 largest firms,2012,25267,440249337,35.5,66889480,18853801,755104

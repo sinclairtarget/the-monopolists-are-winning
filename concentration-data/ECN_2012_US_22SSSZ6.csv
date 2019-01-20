@@ -1,126 +1,126 @@
-GEO.id,GEO.id2,GEO.display-label,GEO.annotation.id,NAICS.id,NAICS.display-label,NAICS.annotation.id,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-0100000US,,United States,,22,Utilities,,001,All firms,2012,17595,531890695,100.0,58922951,17463405,651234
-0100000US,,United States,,22,Utilities,,804,4 largest firms,2012,1470,79933864,15.0,11574104,3711551,105245
-0100000US,,United States,,22,Utilities,,808,8 largest firms,2012,2886,136793958,25.7,18669767,5985254,177097
-0100000US,,United States,,22,Utilities,,820,20 largest firms,2012,5369,255175727,48.0,32802455,10036451,324210
-0100000US,,United States,,22,Utilities,,850,50 largest firms,2012,7859,367652367,69.1,43673476,13278900,445988
-0100000US,,United States,,221,Utilities,,001,All firms,2012,17595,531890695,100.0,58922951,17463405,651234
-0100000US,,United States,,221,Utilities,,804,4 largest firms,2012,1470,79933864,15.0,11574104,3711551,105245
-0100000US,,United States,,221,Utilities,,808,8 largest firms,2012,2886,136793958,25.7,18669767,5985254,177097
-0100000US,,United States,,221,Utilities,,820,20 largest firms,2012,5369,255175727,48.0,32802455,10036451,324210
-0100000US,,United States,,221,Utilities,,850,50 largest firms,2012,7859,367652367,69.1,43673476,13278900,445988
-0100000US,,United States,,2211,"Electric power generation, transmission and distribution",,001,All firms,2012,10330,430079295,100.0,49936923,14965072,522010
-0100000US,,United States,,2211,"Electric power generation, transmission and distribution",,804,4 largest firms,2012,1467,78836064,18.3,11496116,3686644,104431
-0100000US,,United States,,2211,"Electric power generation, transmission and distribution",,808,8 largest firms,2012,2883,135696158,31.6,18591779,5960347,176283
-0100000US,,United States,,2211,"Electric power generation, transmission and distribution",,820,20 largest firms,2012,5174,241715001,56.2,31311862,9639118,306352
-0100000US,,United States,,2211,"Electric power generation, transmission and distribution",,850,50 largest firms,2012,6490,324634003,75.5,39973082,12245054,398013
-0100000US,,United States,,22111,Electric power generation,,001,All firms,2012,2678,120025497,100.0,14847230,4447480,146701
-0100000US,,United States,,22111,Electric power generation,,804,4 largest firms,2012,297,26720846,22.3,3114666,980036,26621
-0100000US,,United States,,22111,Electric power generation,,808,8 largest firms,2012,616,43940531,36.6,5873028,1812275,54317
-0100000US,,United States,,22111,Electric power generation,,820,20 largest firms,2012,1010,72546525,60.4,9681869,2991910,91289
-0100000US,,United States,,22111,Electric power generation,,850,50 largest firms,2012,1506,100000460,83.3,11986781,3654004,114964
-0100000US,,United States,,221111,Hydroelectric power generation,,001,All firms,2012,405,2452297,100.0,274179,75946,3464
-0100000US,,United States,,221111,Hydroelectric power generation,,804,4 largest firms,2012,64,886584,36.2,93103,28431,1015
-0100000US,,United States,,221111,Hydroelectric power generation,,808,8 largest firms,2012,136,1388072,56.6,131104,37465,1492
-0100000US,,United States,,221111,Hydroelectric power generation,,820,20 largest firms,2012,231,2106272,85.9,220174,62269,2557
-0100000US,,United States,,221111,Hydroelectric power generation,,850,50 largest firms,2012,293,2414999,98.5,264832,73870,3232
-0100000US,,United States,,221112,Fossil fuel electric power generation,,001,All firms,2012,1416,81473633,100.0,7997908,2350526,82071
-0100000US,,United States,,221112,Fossil fuel electric power generation,,804,4 largest firms,2012,328,16697610,20.5,1646323,525452,15760
-0100000US,,United States,,221112,Fossil fuel electric power generation,,808,8 largest firms,2012,418,25975568,31.9,2274721,701907,22266
-0100000US,,United States,,221112,Fossil fuel electric power generation,,820,20 largest firms,2012,642,44005090,54.0,4363747,1340289,42360
-0100000US,,United States,,221112,Fossil fuel electric power generation,,850,50 largest firms,2012,988,67674402,83.1,6293920,1877425,63041
-0100000US,,United States,,221113,Nuclear electric power generation,,001,All firms,2012,141,28867709,100.0,5698273,1753105,51354
-0100000US,,United States,,221113,Nuclear electric power generation,,804,4 largest firms,2012,72,18025703,62.4,2697016,832159,23339
-0100000US,,United States,,221113,Nuclear electric power generation,,808,8 largest firms,2012,101,22892389,79.3,3951903,1206187,35246
-0100000US,,United States,,221113,Nuclear electric power generation,,820,20 largest firms,2012,130,28813902,99.8,5471048,1687448,49146
-0100000US,,United States,,221113,Nuclear electric power generation,,850,50 largest firms,2012,141,28867709,100.0,5698273,1753105,51354
-0100000US,,United States,,221114,Solar electric power generation,,001,All firms,2012,136,427577,100.0,117846,31284,1582
-0100000US,,United States,,221114,Solar electric power generation,,804,4 largest firms,2012,28,176788,41.3,29492,8141,379
-0100000US,,United States,,221114,Solar electric power generation,,808,8 largest firms,2012,33,240150,56.2,50438,13283,494
-0100000US,,United States,,221114,Solar electric power generation,,820,20 largest firms,2012,48,329639,77.1,67504,17059,915
-0100000US,,United States,,221114,Solar electric power generation,,850,50 largest firms,2012,79,412070,96.4,101988,26362,1324
-0100000US,,United States,,221115,Wind electric power generation,,001,All firms,2012,410,5058261,100.0,510302,168790,5347
-0100000US,,United States,,221115,Wind electric power generation,,804,4 largest firms,2012,241,3382983,66.9,289797,98826,2947
-0100000US,,United States,,221115,Wind electric power generation,,808,8 largest firms,2012,266,4157347,82.2,347624,118351,3414
-0100000US,,United States,,221115,Wind electric power generation,,820,20 largest firms,2012,306,4723563,93.4,434367,148359,4363
-0100000US,,United States,,221115,Wind electric power generation,,850,50 largest firms,2012,365,5033686,99.5,493471,164517,5125
-0100000US,,United States,,221116,Geothermal electric power generation,,001,All firms,2012,45,981196,100.0,124469,33838,1235
-0100000US,,United States,,221116,Geothermal electric power generation,,804,4 largest firms,2012,16,872351,88.9,100460,28469,953
-0100000US,,United States,,221116,Geothermal electric power generation,,808,8 largest firms,2012,34,959953,97.8,117416,32245,1156
-0100000US,,United States,,221116,Geothermal electric power generation,,820,20 largest firms,2012,45,981196,100.0,124469,33838,1235
-0100000US,,United States,,221116,Geothermal electric power generation,,850,50 largest firms,2012,45,981196,100.0,124469,33838,1235
-0100000US,,United States,,221117,Biomass electric power generation,,001,All firms,2012,107,721459,100.0,105686,28878,1424
-0100000US,,United States,,221117,Biomass electric power generation,,804,4 largest firms,2012,25,270300,37.5,24997,7959,318
-0100000US,,United States,,221117,Biomass electric power generation,,808,8 largest firms,2012,32,407950,56.5,43243,12666,515
-0100000US,,United States,,221117,Biomass electric power generation,,820,20 largest firms,2012,53,608558,84.4,78165,22193,1049
-0100000US,,United States,,221117,Biomass electric power generation,,850,50 largest firms,2012,89,718409,99.6,102533,28102,1359
-0100000US,,United States,,221118,Other electric power generation,,001,All firms,2012,18,43365,100.0,18567,5113,224
-0100000US,,United States,,221118,Other electric power generation,,804,4 largest firms,2012,6,39878,92.0,11231,3549,123
-0100000US,,United States,,221118,Other electric power generation,,808,8 largest firms,2012,10,42468,97.9,11910,3721,131
-0100000US,,United States,,221118,Other electric power generation,,820,20 largest firms,2012,18,43365,100.0,18567,5113,224
-0100000US,,United States,,221118,Other electric power generation,,850,50 largest firms,2012,18,43365,100.0,18567,5113,224
-0100000US,,United States,,22112,"Electric power transmission, control, and distribution",,001,All firms,2012,7652,310053798,100.0,35089693,10517592,375309
-0100000US,,United States,,22112,"Electric power transmission, control, and distribution",,804,4 largest firms,2012,1249,62130258,20.0,8170077,2640452,73024
-0100000US,,United States,,22112,"Electric power transmission, control, and distribution",,808,8 largest firms,2012,2128,104282043,33.6,13777142,4388588,131733
-0100000US,,United States,,22112,"Electric power transmission, control, and distribution",,820,20 largest firms,2012,4106,182291501,58.8,21990830,6760389,215869
-0100000US,,United States,,22112,"Electric power transmission, control, and distribution",,850,50 largest firms,2012,5239,243245454,78.5,29024903,8896852,293680
-0100000US,,United States,,221121,Electric bulk power transmission and control,,001,All firms,2012,250,9959166,100.0,1407906,402502,12465
-0100000US,,United States,,221121,Electric bulk power transmission and control,,804,4 largest firms,2012,95,3935033,39.5,583264,146786,4794
-0100000US,,United States,,221121,Electric bulk power transmission and control,,808,8 largest firms,2012,121,6211608,62.4,697321,181821,6000
-0100000US,,United States,,221121,Electric bulk power transmission and control,,820,20 largest firms,2012,155,8663922,87.0,1212256,346258,10497
-0100000US,,United States,,221121,Electric bulk power transmission and control,,850,50 largest firms,2012,235,9951656,99.9,1401826,401745,12425
-0100000US,,United States,,221122,Electric power distribution,,001,All firms,2012,7402,300094632,100.0,33681787,10115090,362844
-0100000US,,United States,,221122,Electric power distribution,,804,4 largest firms,2012,1183,60414782,20.1,7803029,2538862,69750
-0100000US,,United States,,221122,Electric power distribution,,808,8 largest firms,2012,1914,101594667,33.9,13271345,4233370,126216
-0100000US,,United States,,221122,Electric power distribution,,820,20 largest firms,2012,3955,177281629,59.1,21479815,6618888,210790
-0100000US,,United States,,221122,Electric power distribution,,850,50 largest firms,2012,5062,237610890,79.2,28455188,8739233,287970
-0100000US,,United States,,2212,Natural gas distribution,,001,All firms,2012,2419,89568130,100.0,6681677,1875780,83937
-0100000US,,United States,,2212,Natural gas distribution,,804,4 largest firms,2012,383,17950484,20.0,1719227,524508,19371
-0100000US,,United States,,2212,Natural gas distribution,,808,8 largest firms,2012,713,29858597,33.3,2736458,777048,31546
-0100000US,,United States,,2212,Natural gas distribution,,820,20 largest firms,2012,1059,52641830,58.8,3835506,1085433,45197
-0100000US,,United States,,2212,Natural gas distribution,,850,50 largest firms,2012,1689,78767058,87.9,5796858,1639046,71324
-0100000US,,United States,,22121,Natural gas distribution,,001,All firms,2012,2419,89568130,100.0,6681677,1875780,83937
-0100000US,,United States,,22121,Natural gas distribution,,804,4 largest firms,2012,383,17950484,20.0,1719227,524508,19371
-0100000US,,United States,,22121,Natural gas distribution,,808,8 largest firms,2012,713,29858597,33.3,2736458,777048,31546
-0100000US,,United States,,22121,Natural gas distribution,,820,20 largest firms,2012,1059,52641830,58.8,3835506,1085433,45197
-0100000US,,United States,,22121,Natural gas distribution,,850,50 largest firms,2012,1689,78767058,87.9,5796858,1639046,71324
-0100000US,,United States,,221210,Natural gas distribution,,001,All firms,2012,2419,89568130,100.0,6681677,1875780,83937
-0100000US,,United States,,221210,Natural gas distribution,,804,4 largest firms,2012,383,17950484,20.0,1719227,524508,19371
-0100000US,,United States,,221210,Natural gas distribution,,808,8 largest firms,2012,713,29858597,33.3,2736458,777048,31546
-0100000US,,United States,,221210,Natural gas distribution,,820,20 largest firms,2012,1059,52641830,58.8,3835506,1085433,45197
-0100000US,,United States,,221210,Natural gas distribution,,850,50 largest firms,2012,1689,78767058,87.9,5796858,1639046,71324
-0100000US,,United States,,2213,"Water, sewage and other systems",,001,All firms,2012,4846,12243270,100.0,2304351,622553,45287
-0100000US,,United States,,2213,"Water, sewage and other systems",,804,4 largest firms,2012,713,5245869,42.8,934428,285408,14939
-0100000US,,United States,,2213,"Water, sewage and other systems",,808,8 largest firms,2012,779,6656629,54.4,1112941,328678,17366
-0100000US,,United States,,2213,"Water, sewage and other systems",,820,20 largest firms,2012,1004,8184094,66.8,1347877,389499,21497
-0100000US,,United States,,2213,"Water, sewage and other systems",,850,50 largest firms,2012,1144,9251139,75.6,1602646,451623,25810
-0100000US,,United States,,22131,Water supply and irrigation systems,,001,All firms,2012,4039,9437810,100.0,1841726,501559,36352
-0100000US,,United States,,22131,Water supply and irrigation systems,,804,4 largest firms,2012,505,4707791,49.9,785346,242047,12073
-0100000US,,United States,,22131,Water supply and irrigation systems,,808,8 largest firms,2012,556,5678732,60.2,922149,277058,14024
-0100000US,,United States,,22131,Water supply and irrigation systems,,820,20 largest firms,2012,673,6626360,70.2,1177991,340559,18070
-0100000US,,United States,,22131,Water supply and irrigation systems,,850,50 largest firms,2012,786,7177986,76.1,1325296,376761,21156
-0100000US,,United States,,221310,Water supply and irrigation systems,,001,All firms,2012,4039,9437810,100.0,1841726,501559,36352
-0100000US,,United States,,221310,Water supply and irrigation systems,,804,4 largest firms,2012,505,4707791,49.9,785346,242047,12073
-0100000US,,United States,,221310,Water supply and irrigation systems,,808,8 largest firms,2012,556,5678732,60.2,922149,277058,14024
-0100000US,,United States,,221310,Water supply and irrigation systems,,820,20 largest firms,2012,673,6626360,70.2,1177991,340559,18070
-0100000US,,United States,,221310,Water supply and irrigation systems,,850,50 largest firms,2012,786,7177986,76.1,1325296,376761,21156
-0100000US,,United States,,22132,Sewage treatment facilities,,001,All firms,2012,712,1377034,100.0,301017,74468,6849
-0100000US,,United States,,22132,Sewage treatment facilities,,804,4 largest firms,2012,294,757035,55.0,165482,41208,3558
-0100000US,,United States,,22132,Sewage treatment facilities,,808,8 largest firms,2012,302,942050,68.4,182792,45558,3868
-0100000US,,United States,,22132,Sewage treatment facilities,,820,20 largest firms,2012,332,1095117,79.5,215070,53237,4509
-0100000US,,United States,,22132,Sewage treatment facilities,,850,50 largest firms,2012,375,1208651,87.8,248870,61930,5339
-0100000US,,United States,,221320,Sewage treatment facilities,,001,All firms,2012,712,1377034,100.0,301017,74468,6849
-0100000US,,United States,,221320,Sewage treatment facilities,,804,4 largest firms,2012,294,757035,55.0,165482,41208,3558
-0100000US,,United States,,221320,Sewage treatment facilities,,808,8 largest firms,2012,302,942050,68.4,182792,45558,3868
-0100000US,,United States,,221320,Sewage treatment facilities,,820,20 largest firms,2012,332,1095117,79.5,215070,53237,4509
-0100000US,,United States,,221320,Sewage treatment facilities,,850,50 largest firms,2012,375,1208651,87.8,248870,61930,5339
-0100000US,,United States,,22133,Steam and air-conditioning supply,,001,All firms,2012,95,1428426,100.0,161608,46526,2086
-0100000US,,United States,,22133,Steam and air-conditioning supply,,804,4 largest firms,2012,54,861953,60.3,90556,27671,1093
-0100000US,,United States,,22133,Steam and air-conditioning supply,,808,8 largest firms,2012,64,1126692,78.9,121717,35660,1446
-0100000US,,United States,,22133,Steam and air-conditioning supply,,820,20 largest firms,2012,81,1385399,97.0,153823,44546,1924
-0100000US,,United States,,22133,Steam and air-conditioning supply,,850,50 largest firms,2012,95,1428426,100.0,161608,46526,2086
-0100000US,,United States,,221330,Steam and air-conditioning supply,,001,All firms,2012,95,1428426,100.0,161608,46526,2086
-0100000US,,United States,,221330,Steam and air-conditioning supply,,804,4 largest firms,2012,54,861953,60.3,90556,27671,1093
-0100000US,,United States,,221330,Steam and air-conditioning supply,,808,8 largest firms,2012,64,1126692,78.9,121717,35660,1446
-0100000US,,United States,,221330,Steam and air-conditioning supply,,820,20 largest firms,2012,81,1385399,97.0,153823,44546,1924
-0100000US,,United States,,221330,Steam and air-conditioning supply,,850,50 largest firms,2012,95,1428426,100.0,161608,46526,2086
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+0100000US,,United States,22,Utilities,001,All firms,2012,17595,531890695,100.0,58922951,17463405,651234
+0100000US,,United States,22,Utilities,804,4 largest firms,2012,1470,79933864,15.0,11574104,3711551,105245
+0100000US,,United States,22,Utilities,808,8 largest firms,2012,2886,136793958,25.7,18669767,5985254,177097
+0100000US,,United States,22,Utilities,820,20 largest firms,2012,5369,255175727,48.0,32802455,10036451,324210
+0100000US,,United States,22,Utilities,850,50 largest firms,2012,7859,367652367,69.1,43673476,13278900,445988
+0100000US,,United States,221,Utilities,001,All firms,2012,17595,531890695,100.0,58922951,17463405,651234
+0100000US,,United States,221,Utilities,804,4 largest firms,2012,1470,79933864,15.0,11574104,3711551,105245
+0100000US,,United States,221,Utilities,808,8 largest firms,2012,2886,136793958,25.7,18669767,5985254,177097
+0100000US,,United States,221,Utilities,820,20 largest firms,2012,5369,255175727,48.0,32802455,10036451,324210
+0100000US,,United States,221,Utilities,850,50 largest firms,2012,7859,367652367,69.1,43673476,13278900,445988
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",001,All firms,2012,10330,430079295,100.0,49936923,14965072,522010
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",804,4 largest firms,2012,1467,78836064,18.3,11496116,3686644,104431
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",808,8 largest firms,2012,2883,135696158,31.6,18591779,5960347,176283
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",820,20 largest firms,2012,5174,241715001,56.2,31311862,9639118,306352
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",850,50 largest firms,2012,6490,324634003,75.5,39973082,12245054,398013
+0100000US,,United States,22111,Electric power generation,001,All firms,2012,2678,120025497,100.0,14847230,4447480,146701
+0100000US,,United States,22111,Electric power generation,804,4 largest firms,2012,297,26720846,22.3,3114666,980036,26621
+0100000US,,United States,22111,Electric power generation,808,8 largest firms,2012,616,43940531,36.6,5873028,1812275,54317
+0100000US,,United States,22111,Electric power generation,820,20 largest firms,2012,1010,72546525,60.4,9681869,2991910,91289
+0100000US,,United States,22111,Electric power generation,850,50 largest firms,2012,1506,100000460,83.3,11986781,3654004,114964
+0100000US,,United States,221111,Hydroelectric power generation,001,All firms,2012,405,2452297,100.0,274179,75946,3464
+0100000US,,United States,221111,Hydroelectric power generation,804,4 largest firms,2012,64,886584,36.2,93103,28431,1015
+0100000US,,United States,221111,Hydroelectric power generation,808,8 largest firms,2012,136,1388072,56.6,131104,37465,1492
+0100000US,,United States,221111,Hydroelectric power generation,820,20 largest firms,2012,231,2106272,85.9,220174,62269,2557
+0100000US,,United States,221111,Hydroelectric power generation,850,50 largest firms,2012,293,2414999,98.5,264832,73870,3232
+0100000US,,United States,221112,Fossil fuel electric power generation,001,All firms,2012,1416,81473633,100.0,7997908,2350526,82071
+0100000US,,United States,221112,Fossil fuel electric power generation,804,4 largest firms,2012,328,16697610,20.5,1646323,525452,15760
+0100000US,,United States,221112,Fossil fuel electric power generation,808,8 largest firms,2012,418,25975568,31.9,2274721,701907,22266
+0100000US,,United States,221112,Fossil fuel electric power generation,820,20 largest firms,2012,642,44005090,54.0,4363747,1340289,42360
+0100000US,,United States,221112,Fossil fuel electric power generation,850,50 largest firms,2012,988,67674402,83.1,6293920,1877425,63041
+0100000US,,United States,221113,Nuclear electric power generation,001,All firms,2012,141,28867709,100.0,5698273,1753105,51354
+0100000US,,United States,221113,Nuclear electric power generation,804,4 largest firms,2012,72,18025703,62.4,2697016,832159,23339
+0100000US,,United States,221113,Nuclear electric power generation,808,8 largest firms,2012,101,22892389,79.3,3951903,1206187,35246
+0100000US,,United States,221113,Nuclear electric power generation,820,20 largest firms,2012,130,28813902,99.8,5471048,1687448,49146
+0100000US,,United States,221113,Nuclear electric power generation,850,50 largest firms,2012,141,28867709,100.0,5698273,1753105,51354
+0100000US,,United States,221114,Solar electric power generation,001,All firms,2012,136,427577,100.0,117846,31284,1582
+0100000US,,United States,221114,Solar electric power generation,804,4 largest firms,2012,28,176788,41.3,29492,8141,379
+0100000US,,United States,221114,Solar electric power generation,808,8 largest firms,2012,33,240150,56.2,50438,13283,494
+0100000US,,United States,221114,Solar electric power generation,820,20 largest firms,2012,48,329639,77.1,67504,17059,915
+0100000US,,United States,221114,Solar electric power generation,850,50 largest firms,2012,79,412070,96.4,101988,26362,1324
+0100000US,,United States,221115,Wind electric power generation,001,All firms,2012,410,5058261,100.0,510302,168790,5347
+0100000US,,United States,221115,Wind electric power generation,804,4 largest firms,2012,241,3382983,66.9,289797,98826,2947
+0100000US,,United States,221115,Wind electric power generation,808,8 largest firms,2012,266,4157347,82.2,347624,118351,3414
+0100000US,,United States,221115,Wind electric power generation,820,20 largest firms,2012,306,4723563,93.4,434367,148359,4363
+0100000US,,United States,221115,Wind electric power generation,850,50 largest firms,2012,365,5033686,99.5,493471,164517,5125
+0100000US,,United States,221116,Geothermal electric power generation,001,All firms,2012,45,981196,100.0,124469,33838,1235
+0100000US,,United States,221116,Geothermal electric power generation,804,4 largest firms,2012,16,872351,88.9,100460,28469,953
+0100000US,,United States,221116,Geothermal electric power generation,808,8 largest firms,2012,34,959953,97.8,117416,32245,1156
+0100000US,,United States,221116,Geothermal electric power generation,820,20 largest firms,2012,45,981196,100.0,124469,33838,1235
+0100000US,,United States,221116,Geothermal electric power generation,850,50 largest firms,2012,45,981196,100.0,124469,33838,1235
+0100000US,,United States,221117,Biomass electric power generation,001,All firms,2012,107,721459,100.0,105686,28878,1424
+0100000US,,United States,221117,Biomass electric power generation,804,4 largest firms,2012,25,270300,37.5,24997,7959,318
+0100000US,,United States,221117,Biomass electric power generation,808,8 largest firms,2012,32,407950,56.5,43243,12666,515
+0100000US,,United States,221117,Biomass electric power generation,820,20 largest firms,2012,53,608558,84.4,78165,22193,1049
+0100000US,,United States,221117,Biomass electric power generation,850,50 largest firms,2012,89,718409,99.6,102533,28102,1359
+0100000US,,United States,221118,Other electric power generation,001,All firms,2012,18,43365,100.0,18567,5113,224
+0100000US,,United States,221118,Other electric power generation,804,4 largest firms,2012,6,39878,92.0,11231,3549,123
+0100000US,,United States,221118,Other electric power generation,808,8 largest firms,2012,10,42468,97.9,11910,3721,131
+0100000US,,United States,221118,Other electric power generation,820,20 largest firms,2012,18,43365,100.0,18567,5113,224
+0100000US,,United States,221118,Other electric power generation,850,50 largest firms,2012,18,43365,100.0,18567,5113,224
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",001,All firms,2012,7652,310053798,100.0,35089693,10517592,375309
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",804,4 largest firms,2012,1249,62130258,20.0,8170077,2640452,73024
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",808,8 largest firms,2012,2128,104282043,33.6,13777142,4388588,131733
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",820,20 largest firms,2012,4106,182291501,58.8,21990830,6760389,215869
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",850,50 largest firms,2012,5239,243245454,78.5,29024903,8896852,293680
+0100000US,,United States,221121,Electric bulk power transmission and control,001,All firms,2012,250,9959166,100.0,1407906,402502,12465
+0100000US,,United States,221121,Electric bulk power transmission and control,804,4 largest firms,2012,95,3935033,39.5,583264,146786,4794
+0100000US,,United States,221121,Electric bulk power transmission and control,808,8 largest firms,2012,121,6211608,62.4,697321,181821,6000
+0100000US,,United States,221121,Electric bulk power transmission and control,820,20 largest firms,2012,155,8663922,87.0,1212256,346258,10497
+0100000US,,United States,221121,Electric bulk power transmission and control,850,50 largest firms,2012,235,9951656,99.9,1401826,401745,12425
+0100000US,,United States,221122,Electric power distribution,001,All firms,2012,7402,300094632,100.0,33681787,10115090,362844
+0100000US,,United States,221122,Electric power distribution,804,4 largest firms,2012,1183,60414782,20.1,7803029,2538862,69750
+0100000US,,United States,221122,Electric power distribution,808,8 largest firms,2012,1914,101594667,33.9,13271345,4233370,126216
+0100000US,,United States,221122,Electric power distribution,820,20 largest firms,2012,3955,177281629,59.1,21479815,6618888,210790
+0100000US,,United States,221122,Electric power distribution,850,50 largest firms,2012,5062,237610890,79.2,28455188,8739233,287970
+0100000US,,United States,2212,Natural gas distribution,001,All firms,2012,2419,89568130,100.0,6681677,1875780,83937
+0100000US,,United States,2212,Natural gas distribution,804,4 largest firms,2012,383,17950484,20.0,1719227,524508,19371
+0100000US,,United States,2212,Natural gas distribution,808,8 largest firms,2012,713,29858597,33.3,2736458,777048,31546
+0100000US,,United States,2212,Natural gas distribution,820,20 largest firms,2012,1059,52641830,58.8,3835506,1085433,45197
+0100000US,,United States,2212,Natural gas distribution,850,50 largest firms,2012,1689,78767058,87.9,5796858,1639046,71324
+0100000US,,United States,22121,Natural gas distribution,001,All firms,2012,2419,89568130,100.0,6681677,1875780,83937
+0100000US,,United States,22121,Natural gas distribution,804,4 largest firms,2012,383,17950484,20.0,1719227,524508,19371
+0100000US,,United States,22121,Natural gas distribution,808,8 largest firms,2012,713,29858597,33.3,2736458,777048,31546
+0100000US,,United States,22121,Natural gas distribution,820,20 largest firms,2012,1059,52641830,58.8,3835506,1085433,45197
+0100000US,,United States,22121,Natural gas distribution,850,50 largest firms,2012,1689,78767058,87.9,5796858,1639046,71324
+0100000US,,United States,221210,Natural gas distribution,001,All firms,2012,2419,89568130,100.0,6681677,1875780,83937
+0100000US,,United States,221210,Natural gas distribution,804,4 largest firms,2012,383,17950484,20.0,1719227,524508,19371
+0100000US,,United States,221210,Natural gas distribution,808,8 largest firms,2012,713,29858597,33.3,2736458,777048,31546
+0100000US,,United States,221210,Natural gas distribution,820,20 largest firms,2012,1059,52641830,58.8,3835506,1085433,45197
+0100000US,,United States,221210,Natural gas distribution,850,50 largest firms,2012,1689,78767058,87.9,5796858,1639046,71324
+0100000US,,United States,2213,"Water, sewage and other systems",001,All firms,2012,4846,12243270,100.0,2304351,622553,45287
+0100000US,,United States,2213,"Water, sewage and other systems",804,4 largest firms,2012,713,5245869,42.8,934428,285408,14939
+0100000US,,United States,2213,"Water, sewage and other systems",808,8 largest firms,2012,779,6656629,54.4,1112941,328678,17366
+0100000US,,United States,2213,"Water, sewage and other systems",820,20 largest firms,2012,1004,8184094,66.8,1347877,389499,21497
+0100000US,,United States,2213,"Water, sewage and other systems",850,50 largest firms,2012,1144,9251139,75.6,1602646,451623,25810
+0100000US,,United States,22131,Water supply and irrigation systems,001,All firms,2012,4039,9437810,100.0,1841726,501559,36352
+0100000US,,United States,22131,Water supply and irrigation systems,804,4 largest firms,2012,505,4707791,49.9,785346,242047,12073
+0100000US,,United States,22131,Water supply and irrigation systems,808,8 largest firms,2012,556,5678732,60.2,922149,277058,14024
+0100000US,,United States,22131,Water supply and irrigation systems,820,20 largest firms,2012,673,6626360,70.2,1177991,340559,18070
+0100000US,,United States,22131,Water supply and irrigation systems,850,50 largest firms,2012,786,7177986,76.1,1325296,376761,21156
+0100000US,,United States,221310,Water supply and irrigation systems,001,All firms,2012,4039,9437810,100.0,1841726,501559,36352
+0100000US,,United States,221310,Water supply and irrigation systems,804,4 largest firms,2012,505,4707791,49.9,785346,242047,12073
+0100000US,,United States,221310,Water supply and irrigation systems,808,8 largest firms,2012,556,5678732,60.2,922149,277058,14024
+0100000US,,United States,221310,Water supply and irrigation systems,820,20 largest firms,2012,673,6626360,70.2,1177991,340559,18070
+0100000US,,United States,221310,Water supply and irrigation systems,850,50 largest firms,2012,786,7177986,76.1,1325296,376761,21156
+0100000US,,United States,22132,Sewage treatment facilities,001,All firms,2012,712,1377034,100.0,301017,74468,6849
+0100000US,,United States,22132,Sewage treatment facilities,804,4 largest firms,2012,294,757035,55.0,165482,41208,3558
+0100000US,,United States,22132,Sewage treatment facilities,808,8 largest firms,2012,302,942050,68.4,182792,45558,3868
+0100000US,,United States,22132,Sewage treatment facilities,820,20 largest firms,2012,332,1095117,79.5,215070,53237,4509
+0100000US,,United States,22132,Sewage treatment facilities,850,50 largest firms,2012,375,1208651,87.8,248870,61930,5339
+0100000US,,United States,221320,Sewage treatment facilities,001,All firms,2012,712,1377034,100.0,301017,74468,6849
+0100000US,,United States,221320,Sewage treatment facilities,804,4 largest firms,2012,294,757035,55.0,165482,41208,3558
+0100000US,,United States,221320,Sewage treatment facilities,808,8 largest firms,2012,302,942050,68.4,182792,45558,3868
+0100000US,,United States,221320,Sewage treatment facilities,820,20 largest firms,2012,332,1095117,79.5,215070,53237,4509
+0100000US,,United States,221320,Sewage treatment facilities,850,50 largest firms,2012,375,1208651,87.8,248870,61930,5339
+0100000US,,United States,22133,Steam and air-conditioning supply,001,All firms,2012,95,1428426,100.0,161608,46526,2086
+0100000US,,United States,22133,Steam and air-conditioning supply,804,4 largest firms,2012,54,861953,60.3,90556,27671,1093
+0100000US,,United States,22133,Steam and air-conditioning supply,808,8 largest firms,2012,64,1126692,78.9,121717,35660,1446
+0100000US,,United States,22133,Steam and air-conditioning supply,820,20 largest firms,2012,81,1385399,97.0,153823,44546,1924
+0100000US,,United States,22133,Steam and air-conditioning supply,850,50 largest firms,2012,95,1428426,100.0,161608,46526,2086
+0100000US,,United States,221330,Steam and air-conditioning supply,001,All firms,2012,95,1428426,100.0,161608,46526,2086
+0100000US,,United States,221330,Steam and air-conditioning supply,804,4 largest firms,2012,54,861953,60.3,90556,27671,1093
+0100000US,,United States,221330,Steam and air-conditioning supply,808,8 largest firms,2012,64,1126692,78.9,121717,35660,1446
+0100000US,,United States,221330,Steam and air-conditioning supply,820,20 largest firms,2012,81,1385399,97.0,153823,44546,1924
+0100000US,,United States,221330,Steam and air-conditioning supply,850,50 largest firms,2012,95,1428426,100.0,161608,46526,2086
