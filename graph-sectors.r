@@ -9,7 +9,7 @@ df <- df %>%
       # Discard rows with missing stats for disclosure reasons
       filter(VAL_PCT != 'D')
 
-# VAL_PCT should really by a number
+# VAL_PCT should really be a number
 df <- mutate(df, VAL_PCT = as.double(VAL_PCT))
 
 # Look at top four firms
