@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,56,Administrative and support and waste management and remediation services,001,All firms,2007,395292,630771091,100.0,301450047,71726996,10250955
 0100000US,,United States,56,Administrative and support and waste management and remediation services,804,4 largest firms,2007,1659,39183268,6.2,21046802,5166687,344533
 0100000US,,United States,56,Administrative and support and waste management and remediation services,808,8 largest firms,2007,3368,61514179,9.8,33713328,8204987,698957

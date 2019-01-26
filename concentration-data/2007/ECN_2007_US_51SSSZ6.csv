@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Receipts ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,51,Information,001,All firms,2007,141566,1072342856,100.0,228836587,59864137,3496773
 0100000US,,United States,51,Information,804,4 largest firms,2007,26997,301209259,28.1,46879744,14075540,723282
 0100000US,,United States,51,Information,808,8 largest firms,2007,28610,399544662,37.3,63746084,17829780,899661

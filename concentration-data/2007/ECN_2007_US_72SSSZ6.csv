@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Sales ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,72,Accommodation and food services,001,All firms,2007,634361,613795732,100.0,170826847,41234525,11600751
 0100000US,,United States,72,Accommodation and food services,804,4 largest firms,2007,2528,35822647,5.8,10681437,2679516,421525
 0100000US,,United States,72,Accommodation and food services,808,8 largest firms,2007,24854,62120620,10.1,17437582,4217160,813112

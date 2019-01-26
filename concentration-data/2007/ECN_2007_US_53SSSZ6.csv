@@ -1,5 +1,4 @@
 GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
-Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Revenue ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
 0100000US,,United States,53,Real estate and rental and leasing,001,All firms,2007,384297,485058597,100.0,84764864,21440999,2188479
 0100000US,,United States,53,Real estate and rental and leasing,804,4 largest firms,2007,3106,23326868,4.8,3036092,743186,82978
 0100000US,,United States,53,Real estate and rental and leasing,808,8 largest firms,2007,5633,40712559,8.4,4154449,1040568,118242
