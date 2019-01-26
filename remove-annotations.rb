@@ -1,6 +1,12 @@
 require 'fileutils'
 
-files = Dir["concentration-data/*with_ann.csv"]
+if ARGV.length != 1
+  $stderr.puts "usage: remove-annotations.rb <csv file directory>"
+  exit(1)
+end
+
+dir = ARGV.first
+files = Dir["#{dir}/*with_ann.csv"]
 
 files.each do |filepath|
   f = File.open(filepath)
