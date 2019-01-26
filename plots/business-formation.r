@@ -30,4 +30,3 @@ ggplot(df, aes(x = time, y = n, color = highlight)) +
     labs(title = 'Q4 Business Formations by Year',
          x = 'Year',
          y = 'Number of Businesses')
-ggsave('static-graphs/raw/business-formation.png')

@@ -1,30 +1,17 @@
-source('read-concentration-data.r')
+source('lib/concentration-data.r')
 
-df <- read_all_concentration_data('concentration-data', '*Z6.csv')
+df <- read_all_concentration_data('concentration-data/2012', '*Z6.csv')
+
+# Only look at sectors
 df <- df %>%
-      # Only look at sectors
       filter(nchar(NAICS.id) == 2) %>%
-      # Discard anything focused on a particular tax category
-      filter(is.na(OPTAX.id) | (OPTAX.id != 'T' & OPTAX.id != 'Y')) %>%
-      # Discard rows with missing stats for disclosure reasons
-      filter(VAL_PCT != 'D')
-
-# VAL_PCT should really be a number
-df <- mutate(df, VAL_PCT = as.double(VAL_PCT))
+      filter(!is.na(VAL_PCT))
 
 # Look at top four firms
-top4 <- filter(df, CONCENFI.id == '804')
-tot <- df %>%
-       filter(CONCENFI.id == '001') %>%
-       select(NAICS.id, RCPTOT, EMP, PAYANN, ESTAB)
-
-df <- inner_join(top4, tot, 'NAICS.id', suffix=c('.top4', '.tot'))
+df <- by_top4(df)
 
 # Add highlight column
 df <- mutate(df, is_information = ifelse(NAICS.id == '51', 'yes', 'no'))
-
-# Need NAICS.label to be a factor to make ggplot happy
-df <- mutate(df, NAICS.label = as.factor(NAICS.label))
 
 ggplot(df, aes(x = reorder(NAICS.label, VAL_PCT), y = VAL_PCT)) +
     geom_bar(aes(fill = is_information), stat = 'identity') +
@@ -45,4 +32,3 @@ ggplot(df, aes(x = reorder(NAICS.label, VAL_PCT), y = VAL_PCT)) +
     theme(axis.text.y = element_blank(),
           legend.position = 'none',
           panel.grid.major.y = element_blank())
-ggsave('static-graphs/raw/sectors.png')

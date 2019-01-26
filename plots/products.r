@@ -31,4 +31,3 @@ ggplot(counts, aes(x = product, fill = product, y = n)) +
     geom_col() +
     coord_polar() +
     theme(legend.position = 'none')
-ggsave('static-graphs/raw/complaints.png')
