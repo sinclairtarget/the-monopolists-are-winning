@@ -14,6 +14,13 @@ CLEAN.include('Rplots.pdf')
 
 directory OUTPUT_DIR
 
+desc 'Generate PDF report from rmarkdown file.'
+task :report => 'report.html'
+
+file 'report.html' do
+  sh %{ Rscript -e "rmarkdown::render('report.rmd')" }
+end
+
 rule '.png' => [-> (name) { source_for_png(name) }, OUTPUT_DIR] do |t|
   sh "Rscript '#{t.source}'"
 end
