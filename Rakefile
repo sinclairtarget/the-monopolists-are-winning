@@ -20,6 +20,7 @@ task :report => 'report.html'
 file 'report.html' do
   sh %{ Rscript -e "rmarkdown::render('report.rmd')" }
 end
+CLOBBER.include('report.html')
 
 rule '.png' => [-> (name) { source_for_png(name) }, OUTPUT_DIR] do |t|
   sh "Rscript '#{t.source}'"
