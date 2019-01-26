@@ -1,0 +1,107 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Revenue ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,22,Utilities,001,All firms,2007,16578,584192658,100.0,51653618,15287321,637247
+0100000US,,United States,22,Utilities,804,4 largest firms,2007,1008,73081465,12.5,6636379,2456202,66701
+0100000US,,United States,22,Utilities,808,8 largest firms,2007,1421,129090160,22.1,12978831,4338519,137513
+0100000US,,United States,22,Utilities,820,20 largest firms,2007,4172,259902516,44.5,25476358,7993750,278085
+0100000US,,United States,22,Utilities,850,50 largest firms,2007,6920,409519753,70.1,37094937,11376496,418283
+0100000US,,United States,221,Utilities,001,All firms,2007,16578,584192658,100.0,51653618,15287321,637247
+0100000US,,United States,221,Utilities,804,4 largest firms,2007,1008,73081465,12.5,6636379,2456202,66701
+0100000US,,United States,221,Utilities,808,8 largest firms,2007,1421,129090160,22.1,12978831,4338519,137513
+0100000US,,United States,221,Utilities,820,20 largest firms,2007,4172,259902516,44.5,25476358,7993750,278085
+0100000US,,United States,221,Utilities,850,50 largest firms,2007,6920,409519753,70.1,37094937,11376496,418283
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",001,All firms,2007,9554,445693484,100.0,43618314,13002243,511487
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",804,4 largest firms,2007,770,66671244,15.0,6784004,2484347,67129
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",808,8 largest firms,2007,1176,119303717,26.8,12534945,4135572,130510
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",820,20 largest firms,2007,3860,238954814,53.6,24006287,7461540,259388
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",850,50 largest firms,2007,5784,343709798,77.1,34701869,10659688,384056
+0100000US,,United States,22111,Electric power generation,001,All firms,2007,1934,120967538,100.0,11297132,3256647,122793
+0100000US,,United States,22111,Electric power generation,804,4 largest firms,2007,130,25495866,21.1,1854015,580106,17047
+0100000US,,United States,22111,Electric power generation,808,8 largest firms,2007,411,43541393,36.0,3733164,1160438,36148
+0100000US,,United States,22111,Electric power generation,820,20 largest firms,2007,768,72750105,60.1,7044668,2111192,71187
+0100000US,,United States,22111,Electric power generation,850,50 largest firms,2007,1103,101628228,84.0,9332309,2722126,97062
+0100000US,,United States,221111,Hydroelectric power generation,001,All firms,2007,295,2185084,100.0,290481,92939,4086
+0100000US,,United States,221111,Hydroelectric power generation,804,4 largest firms,2007,43,1035047,47.4,87943,24238,1061
+0100000US,,United States,221111,Hydroelectric power generation,808,8 largest firms,2007,117,1533785,70.2,136930,39353,1768
+0100000US,,United States,221111,Hydroelectric power generation,820,20 largest firms,2007,174,1975862,90.4,252166,83428,3358
+0100000US,,United States,221111,Hydroelectric power generation,850,50 largest firms,2007,219,2151396,98.5,279410,90446,3835
+0100000US,,United States,221112,Fossil fuel electric power generation,001,All firms,2007,1248,85361552,100.0,6413011,1786988,74860
+0100000US,,United States,221112,Fossil fuel electric power generation,804,4 largest firms,2007,287,20234556,23.7,1126072,357226,12742
+0100000US,,United States,221112,Fossil fuel electric power generation,808,8 largest firms,2007,365,31713175,37.2,2067527,579876,22244
+0100000US,,United States,221112,Fossil fuel electric power generation,820,20 largest firms,2007,590,50568231,59.2,3284462,951463,35871
+0100000US,,United States,221112,Fossil fuel electric power generation,850,50 largest firms,2007,886,73100074,85.6,5237581,1464577,59862
+0100000US,,United States,221113,Nuclear electric power generation,001,All firms,2007,79,28995547,100.0,4082944,1255545,37972
+0100000US,,United States,221113,Nuclear electric power generation,804,4 largest firms,2007,33,15349521,52.9,2063474,642076,17351
+0100000US,,United States,221113,Nuclear electric power generation,808,8 largest firms,2007,53,22140648,76.4,2884921,885551,26110
+0100000US,,United States,221113,Nuclear electric power generation,820,20 largest firms,2007,72,28847462,99.5,4077477,1253667,37888
+0100000US,,United States,221113,Nuclear electric power generation,850,50 largest firms,2007,79,28995547,100.0,4082944,1255545,37972
+0100000US,,United States,221119,Other electric power generation,001,All firms,2007,312,4425355,100.0,510696,121175,5875
+0100000US,,United States,221119,Other electric power generation,804,4 largest firms,2007,35,2077382,46.9,178781,38739,1552
+0100000US,,United States,221119,Other electric power generation,808,8 largest firms,2007,58,2946053,66.6,242223,54212,2271
+0100000US,,United States,221119,Other electric power generation,820,20 largest firms,2007,110,3658976,82.7,337380,84267,3539
+0100000US,,United States,221119,Other electric power generation,850,50 largest firms,2007,163,4191852,94.7,431876,105197,4855
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",001,All firms,2007,7620,324725946,100.0,32321182,9745596,388694
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",804,4 largest firms,2007,713,56828512,17.5,5945899,2004181,63736
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",808,8 largest firms,2007,1026,99501613,30.6,10107572,3335323,106801
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",820,20 largest firms,2007,3538,186831984,57.5,18685968,5835649,207166
+0100000US,,United States,22112,"Electric power transmission, control, and distribution",850,50 largest firms,2007,5125,260638856,80.3,26363416,8187806,298643
+0100000US,,United States,221121,Electric bulk power transmission and control,001,All firms,2007,74,4267551,100.0,542890,161858,6114
+0100000US,,United States,221121,Electric bulk power transmission and control,804,4 largest firms,2007,43,2312863,54.2,191356,57876,2341
+0100000US,,United States,221121,Electric bulk power transmission and control,808,8 largest firms,2007,50,3403647,79.8,341199,104487,3723
+0100000US,,United States,221121,Electric bulk power transmission and control,820,20 largest firms,2007,66,4265976,100.0,542027,161690,6087
+0100000US,,United States,221121,Electric bulk power transmission and control,850,50 largest firms,2007,74,4267551,100.0,542890,161858,6114
+0100000US,,United States,221122,Electric power distribution,001,All firms,2007,7546,320458395,100.0,31778292,9583738,382580
+0100000US,,United States,221122,Electric power distribution,804,4 largest firms,2007,713,56828512,17.7,5945899,2004181,63736
+0100000US,,United States,221122,Electric power distribution,808,8 largest firms,2007,1013,98414219,30.7,10007187,3307450,105685
+0100000US,,United States,221122,Electric power distribution,820,20 largest firms,2007,3501,185020891,57.7,18534176,5789636,205200
+0100000US,,United States,221122,Electric power distribution,850,50 largest firms,2007,5076,258111236,80.5,26179619,8133269,296240
+0100000US,,United States,2212,Natural gas distribution,001,All firms,2007,2377,128555017,100.0,6037623,1778727,83369
+0100000US,,United States,2212,Natural gas distribution,804,4 largest firms,2007,413,31652170,24.6,682391,201458,12218
+0100000US,,United States,2212,Natural gas distribution,808,8 largest firms,2007,807,53642462,41.7,2271891,738159,32188
+0100000US,,United States,2212,Natural gas distribution,820,20 largest firms,2007,1241,83315008,64.8,3964921,1197811,54656
+0100000US,,United States,2212,Natural gas distribution,850,50 largest firms,2007,1651,114911484,89.4,5317426,1579650,71897
+0100000US,,United States,22121,Natural gas distribution,001,All firms,2007,2377,128555017,100.0,6037623,1778727,83369
+0100000US,,United States,22121,Natural gas distribution,804,4 largest firms,2007,413,31652170,24.6,682391,201458,12218
+0100000US,,United States,22121,Natural gas distribution,808,8 largest firms,2007,807,53642462,41.7,2271891,738159,32188
+0100000US,,United States,22121,Natural gas distribution,820,20 largest firms,2007,1241,83315008,64.8,3964921,1197811,54656
+0100000US,,United States,22121,Natural gas distribution,850,50 largest firms,2007,1651,114911484,89.4,5317426,1579650,71897
+0100000US,,United States,221210,Natural gas distribution,001,All firms,2007,2377,128555017,100.0,6037623,1778727,83369
+0100000US,,United States,221210,Natural gas distribution,804,4 largest firms,2007,413,31652170,24.6,682391,201458,12218
+0100000US,,United States,221210,Natural gas distribution,808,8 largest firms,2007,807,53642462,41.7,2271891,738159,32188
+0100000US,,United States,221210,Natural gas distribution,820,20 largest firms,2007,1241,83315008,64.8,3964921,1197811,54656
+0100000US,,United States,221210,Natural gas distribution,850,50 largest firms,2007,1651,114911484,89.4,5317426,1579650,71897
+0100000US,,United States,2213,"Water, sewage and other systems",001,All firms,2007,4647,9944157,100.0,1997681,506351,42391
+0100000US,,United States,2213,"Water, sewage and other systems",804,4 largest firms,2007,433,3932951,39.6,780838,215104,13246
+0100000US,,United States,2213,"Water, sewage and other systems",808,8 largest firms,2007,486,5016726,50.4,915756,249039,15159
+0100000US,,United States,2213,"Water, sewage and other systems",820,20 largest firms,2007,698,6367188,64.0,1184077,315178,19819
+0100000US,,United States,2213,"Water, sewage and other systems",850,50 largest firms,2007,800,7263006,73.0,1367734,360470,22913
+0100000US,,United States,22131,Water supply and irrigation systems,001,All firms,2007,3889,7623352,100.0,1595839,405700,33871
+0100000US,,United States,22131,Water supply and irrigation systems,804,4 largest firms,2007,249,3546230,46.5,693838,188817,11001
+0100000US,,United States,22131,Water supply and irrigation systems,808,8 largest firms,2007,364,4296159,56.4,833864,227800,13280
+0100000US,,United States,22131,Water supply and irrigation systems,820,20 largest firms,2007,407,5158558,67.7,1024696,273023,16259
+0100000US,,United States,22131,Water supply and irrigation systems,850,50 largest firms,2007,489,5588008,73.3,1133532,296365,18343
+0100000US,,United States,221310,Water supply and irrigation systems,001,All firms,2007,3889,7623352,100.0,1595839,405700,33871
+0100000US,,United States,221310,Water supply and irrigation systems,804,4 largest firms,2007,249,3546230,46.5,693838,188817,11001
+0100000US,,United States,221310,Water supply and irrigation systems,808,8 largest firms,2007,364,4296159,56.4,833864,227800,13280
+0100000US,,United States,221310,Water supply and irrigation systems,820,20 largest firms,2007,407,5158558,67.7,1024696,273023,16259
+0100000US,,United States,221310,Water supply and irrigation systems,850,50 largest firms,2007,489,5588008,73.3,1133532,296365,18343
+0100000US,,United States,22132,Sewage treatment facilities,001,All firms,2007,689,1309142,100.0,297327,72930,6974
+0100000US,,United States,22132,Sewage treatment facilities,804,4 largest firms,2007,267,730862,55.8,161811,42132,3409
+0100000US,,United States,22132,Sewage treatment facilities,808,8 largest firms,2007,276,903870,69.0,194099,49713,4084
+0100000US,,United States,22132,Sewage treatment facilities,820,20 largest firms,2007,307,1045407,79.9,226560,56862,4898
+0100000US,,United States,22132,Sewage treatment facilities,850,50 largest firms,2007,354,1165293,89.0,254947,63397,5626
+0100000US,,United States,221320,Sewage treatment facilities,001,All firms,2007,689,1309142,100.0,297327,72930,6974
+0100000US,,United States,221320,Sewage treatment facilities,804,4 largest firms,2007,267,730862,55.8,161811,42132,3409
+0100000US,,United States,221320,Sewage treatment facilities,808,8 largest firms,2007,276,903870,69.0,194099,49713,4084
+0100000US,,United States,221320,Sewage treatment facilities,820,20 largest firms,2007,307,1045407,79.9,226560,56862,4898
+0100000US,,United States,221320,Sewage treatment facilities,850,50 largest firms,2007,354,1165293,89.0,254947,63397,5626
+0100000US,,United States,22133,Steam and air-conditioning supply,001,All firms,2007,69,1011663,100.0,104515,27721,1546
+0100000US,,United States,22133,Steam and air-conditioning supply,804,4 largest firms,2007,25,620844,61.4,55028,14051,723
+0100000US,,United States,22133,Steam and air-conditioning supply,808,8 largest firms,2007,37,779777,77.1,71314,19366,1005
+0100000US,,United States,22133,Steam and air-conditioning supply,820,20 largest firms,2007,52,973775,96.3,96144,25502,1373
+0100000US,,United States,22133,Steam and air-conditioning supply,850,50 largest firms,2007,69,1011663,100.0,104515,27721,1546
+0100000US,,United States,221330,Steam and air-conditioning supply,001,All firms,2007,69,1011663,100.0,104515,27721,1546
+0100000US,,United States,221330,Steam and air-conditioning supply,804,4 largest firms,2007,25,620844,61.4,55028,14051,723
+0100000US,,United States,221330,Steam and air-conditioning supply,808,8 largest firms,2007,37,779777,77.1,71314,19366,1005
+0100000US,,United States,221330,Steam and air-conditioning supply,820,20 largest firms,2007,52,973775,96.3,96144,25502,1373
+0100000US,,United States,221330,Steam and air-conditioning supply,850,50 largest firms,2007,69,1011663,100.0,104515,27721,1546

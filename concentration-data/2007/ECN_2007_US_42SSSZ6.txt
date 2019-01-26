@@ -1,0 +1,71 @@
+EC0742SSSZ6
+Wholesale Trade: Subject Series - Estab and Firm Size: Summary Statistics by Concentration of Largest Firms for the United States: 2007
+
+Includes only firms and establishments of firms with payroll.
+Excludes data for corporate, subsidiary, and regional managing
+offices and establishments of these firms that are classified in
+other categories than those specified in this file. Data based on
+the 2007 Economic Census. For method of assignment to categories
+shown and for information on confidentiality protection, sampling
+error, nonsampling error, and definitions, see
+Survey
+Methodology [pdf].
+
+
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+g	1,000 to 2,499 employees
+
+(917)	In some cases, data may not be comparable to prior census data.
+
+Source: U.S. Census Bureau, 2007 Economic Census 
+
+Note: The data in this file are based on the 2007 Economic
+Census. To maintain confidentiality, the Census Bureau suppresses
+data to protect the identity of any business or individual. The
+census results in this file contain nonsampling error. Data users
+who create their own estimates using data from this file should
+cite the Census Bureau as the source of the original data only. For
+the full technical documentation, see Survey Methodology link in
+above headnote.
+
+
+
+Universe DescriptionThe universe of this file is all
+establishments of firms with payroll at any time during 2007 and
+classified in Wholesale Trade (sector 42). 
+Data ItemsThis file contains data on: 
+
+  Establishments
+  Sales
+  Sales of largest firms as a percent of total sales
+  Annual payroll
+  First-quarter payroll
+  Paid employees
+
+Geographic CoverageThe data are shown at the United States
+level only. 
+Industry DetailThe data are shown at selected 2- through
+8-digit NAICS codes. 
+Other Variables Identifying RecordsEach record includes a
+CONCENFI code which represents a specfic concentration by largest
+firms category (including all firms, 4 largest firms, 8 largest
+firms, 20 largest firms, and 50 largest firms). 
+Release ScheduleThe data in this file are scheduled for
+release in the fourth quarter of 2010. 
+Related Data FilesEC0742SSSZ1 through EC0742SSSZ5 and
+EC0742SSSZ7 present data by employment and sales size of
+establishments and firms, single unit and multiunit firms, and
+legal form of organization for the United States. 
+Data LimitationsOnly industries that meet dissemination
+criteria are included. Also, see 
+Survey Methodology for additional information on data
+limitations. 
+File SequenceData are presented in ascending NAICS code
+sequence by firm concentration by type of operation. 
+Estimated File SizeApprox. 354 KB. 
+
+
+
+

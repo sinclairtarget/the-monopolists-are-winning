@@ -1,0 +1,411 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Revenue ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,53,Real estate and rental and leasing,001,All firms,2007,384297,485058597,100.0,84764864,21440999,2188479
+0100000US,,United States,53,Real estate and rental and leasing,804,4 largest firms,2007,3106,23326868,4.8,3036092,743186,82978
+0100000US,,United States,53,Real estate and rental and leasing,808,8 largest firms,2007,5633,40712559,8.4,4154449,1040568,118242
+0100000US,,United States,53,Real estate and rental and leasing,820,20 largest firms,2007,24730,79178698,16.3,10588076,2772519,285913
+0100000US,,United States,53,Real estate and rental and leasing,850,50 largest firms,2007,34821,126629586,26.1,15276995,4001644,393809
+0100000US,,United States,531,Real estate,001,All firms,2007,316730,330437404,100.0,61347040,15739251,1528976
+0100000US,,United States,531,Real estate,804,4 largest firms,2007,3990,17218535,5.2,2945704,779406,36965
+0100000US,,United States,531,Real estate,808,8 largest firms,2007,5605,28774988,8.7,3590203,1038921,47216
+0100000US,,United States,531,Real estate,820,20 largest firms,2007,9276,48231050,14.6,5611497,1614166,85310
+0100000US,,United States,531,Real estate,850,50 largest firms,2007,11470,71246626,21.6,8071544,2373943,122144
+0100000US,,United States,5311,Lessors of real estate,001,All firms,2007,121296,180650546,100.0,18952487,5149673,541676
+0100000US,,United States,5311,Lessors of real estate,804,4 largest firms,2007,2164,14573119,8.1,794626,266005,16528
+0100000US,,United States,5311,Lessors of real estate,808,8 largest firms,2007,2268,22899919,12.7,1185117,413971,19348
+0100000US,,United States,5311,Lessors of real estate,820,20 largest firms,2007,6070,38229746,21.2,2517573,811972,43801
+0100000US,,United States,5311,Lessors of real estate,850,50 largest firms,2007,7894,56676098,31.4,4294095,1397637,66889
+0100000US,,United States,53111,Lessors of residential buildings and dwellings,001,All firms,2007,62876,67379228,100.0,8056948,2031767,289990
+0100000US,,United States,53111,Lessors of residential buildings and dwellings,804,4 largest firms,2007,1873,7404494,11.0,620682,166955,13721
+0100000US,,United States,53111,Lessors of residential buildings and dwellings,808,8 largest firms,2007,2707,10572000,15.7,1050777,317471,21754
+0100000US,,United States,53111,Lessors of residential buildings and dwellings,820,20 largest firms,2007,3385,14261640,21.2,1403670,410685,29762
+0100000US,,United States,53111,Lessors of residential buildings and dwellings,850,50 largest firms,2007,5490,18663953,27.7,1854031,524882,44813
+0100000US,,United States,531110,Lessors of residential buildings and dwellings,001,All firms,2007,62876,67379228,100.0,8056948,2031767,289990
+0100000US,,United States,531110,Lessors of residential buildings and dwellings,804,4 largest firms,2007,1873,7404494,11.0,620682,166955,13721
+0100000US,,United States,531110,Lessors of residential buildings and dwellings,808,8 largest firms,2007,2707,10572000,15.7,1050777,317471,21754
+0100000US,,United States,531110,Lessors of residential buildings and dwellings,820,20 largest firms,2007,3385,14261640,21.2,1403670,410685,29762
+0100000US,,United States,531110,Lessors of residential buildings and dwellings,850,50 largest firms,2007,5490,18663953,27.7,1854031,524882,44813
+0100000US,,United States,5311101,Lessors of apartment buildings,001,All firms,2007,48395,60966809,100.0,7122831,1804525,248837
+0100000US,,United States,5311101,Lessors of apartment buildings,804,4 largest firms,2007,1873,7404494,12.1,620682,166955,13721
+0100000US,,United States,5311101,Lessors of apartment buildings,808,8 largest firms,2007,2704,10565269,17.3,1050232,317320,21738
+0100000US,,United States,5311101,Lessors of apartment buildings,820,20 largest firms,2007,3492,14242837,23.4,1417081,413865,30167
+0100000US,,United States,5311101,Lessors of apartment buildings,850,50 largest firms,2007,5269,18356729,30.1,1832823,518737,44097
+0100000US,,United States,5311109,Lessors of dwellings other than apartment buildings,001,All firms,2007,14481,6412419,100.0,934117,227242,41153
+0100000US,,United States,5311109,Lessors of dwellings other than apartment buildings,804,4 largest firms,2007,113,459571,7.2,18424,4820,671
+0100000US,,United States,5311109,Lessors of dwellings other than apartment buildings,808,8 largest firms,2007,127,621373,9.7,24111,6093,795
+0100000US,,United States,5311109,Lessors of dwellings other than apartment buildings,820,20 largest firms,2007,217,797884,12.4,42184,10677,1417
+0100000US,,United States,5311109,Lessors of dwellings other than apartment buildings,850,50 largest firms,2007,294,1066740,16.6,79146,20748,2846
+0100000US,,United States,53112,Lessors of nonresidential buildings (except miniwarehouses),001,All firms,2007,35021,100614721,100.0,9256636,2720492,180540
+0100000US,,United States,53112,Lessors of nonresidential buildings (except miniwarehouses),804,4 largest firms,2007,1220,14401484,14.3,712469,279017,11839
+0100000US,,United States,53112,Lessors of nonresidential buildings (except miniwarehouses),808,8 largest firms,2007,1456,21172679,21.0,1131149,414420,16538
+0100000US,,United States,53112,Lessors of nonresidential buildings (except miniwarehouses),820,20 largest firms,2007,1671,32693541,32.5,1893775,687920,24491
+0100000US,,United States,53112,Lessors of nonresidential buildings (except miniwarehouses),850,50 largest firms,2007,3025,47345337,47.1,3220045,1092264,39637
+0100000US,,United States,531120,Lessors of nonresidential buildings (except miniwarehouses),001,All firms,2007,35021,100614721,100.0,9256636,2720492,180540
+0100000US,,United States,531120,Lessors of nonresidential buildings (except miniwarehouses),804,4 largest firms,2007,1220,14401484,14.3,712469,279017,11839
+0100000US,,United States,531120,Lessors of nonresidential buildings (except miniwarehouses),808,8 largest firms,2007,1456,21172679,21.0,1131149,414420,16538
+0100000US,,United States,531120,Lessors of nonresidential buildings (except miniwarehouses),820,20 largest firms,2007,1671,32693541,32.5,1893775,687920,24491
+0100000US,,United States,531120,Lessors of nonresidential buildings (except miniwarehouses),850,50 largest firms,2007,3025,47345337,47.1,3220045,1092264,39637
+0100000US,,United States,5311201,Lessors of professional and other office buildings,001,All firms,2007,16382,48877736,100.0,4637913,1387371,78523
+0100000US,,United States,5311201,Lessors of professional and other office buildings,804,4 largest firms,2007,756,9244907,18.9,570636,238925,6194
+0100000US,,United States,5311201,Lessors of professional and other office buildings,808,8 largest firms,2007,805,13627755,27.9,887028,373750,8577
+0100000US,,United States,5311201,Lessors of professional and other office buildings,820,20 largest firms,2007,1941,20097204,41.1,1649533,575764,18020
+0100000US,,United States,5311201,Lessors of professional and other office buildings,850,50 largest firms,2007,2134,26958223,55.2,2164729,742780,22771
+0100000US,,United States,5311202,Lessors of manufacturing and industrial buildings,001,All firms,2007,4245,9885693,100.0,1034364,331593,16266
+0100000US,,United States,5311202,Lessors of manufacturing and industrial buildings,804,4 largest firms,2007,47,3700388,37.4,93943,37496,680
+0100000US,,United States,5311202,Lessors of manufacturing and industrial buildings,808,8 largest firms,2007,52,4591261,46.4,283621,143160,1488
+0100000US,,United States,5311202,Lessors of manufacturing and industrial buildings,820,20 largest firms,2007,82,5657388,57.2,384105,173936,2418
+0100000US,,United States,5311202,Lessors of manufacturing and industrial buildings,850,50 largest firms,2007,160,6480708,65.6,482433,197407,3598
+0100000US,,United States,5311203,Lessors of shopping centers and retail stores,001,All firms,2007,10228,34199510,100.0,2815452,795168,61392
+0100000US,,United States,5311203,Lessors of shopping centers and retail stores,804,4 largest firms,2007,719,11268375,32.9,531371,160636,12316
+0100000US,,United States,5311203,Lessors of shopping centers and retail stores,808,8 largest firms,2007,786,14577494,42.6,796561,249967,14507
+0100000US,,United States,5311203,Lessors of shopping centers and retail stores,820,20 largest firms,2007,946,19298563,56.4,1121385,354865,18993
+0100000US,,United States,5311203,Lessors of shopping centers and retail stores,850,50 largest firms,2007,1125,22720631,66.4,1348726,422435,22897
+0100000US,,United States,5311209,Lessors of other nonresidential buildings and facilities,001,All firms,2007,4166,7651782,100.0,768907,206360,24359
+0100000US,,United States,5311209,Lessors of other nonresidential buildings and facilities,804,4 largest firms,2007,4,2221193,29.0,79309,29935,205
+0100000US,,United States,5311209,Lessors of other nonresidential buildings and facilities,808,8 largest firms,2007,8,3391705,44.3,123990,45390,353
+0100000US,,United States,5311209,Lessors of other nonresidential buildings and facilities,820,20 largest firms,2007,33,4612729,60.3,175757,66761,798
+0100000US,,United States,5311209,Lessors of other nonresidential buildings and facilities,850,50 largest firms,2007,82,5179488,67.7,268424,90139,2521
+0100000US,,United States,53113,Lessors of miniwarehouses and self-storage units,001,All firms,2007,14168,6550186,100.0,825523,200337,38000
+0100000US,,United States,53113,Lessors of miniwarehouses and self-storage units,804,4 largest firms,2007,3600,2250354,34.4,187314,49103,8386
+0100000US,,United States,53113,Lessors of miniwarehouses and self-storage units,808,8 largest firms,2007,3710,2541620,38.8,214911,56874,9276
+0100000US,,United States,53113,Lessors of miniwarehouses and self-storage units,820,20 largest firms,2007,4210,2814660,43.0,267047,67411,11423
+0100000US,,United States,53113,Lessors of miniwarehouses and self-storage units,850,50 largest firms,2007,4422,3069366,46.9,300673,75275,12466
+0100000US,,United States,531130,Lessors of miniwarehouses and self-storage units,001,All firms,2007,14168,6550186,100.0,825523,200337,38000
+0100000US,,United States,531130,Lessors of miniwarehouses and self-storage units,804,4 largest firms,2007,3600,2250354,34.4,187314,49103,8386
+0100000US,,United States,531130,Lessors of miniwarehouses and self-storage units,808,8 largest firms,2007,3710,2541620,38.8,214911,56874,9276
+0100000US,,United States,531130,Lessors of miniwarehouses and self-storage units,820,20 largest firms,2007,4210,2814660,43.0,267047,67411,11423
+0100000US,,United States,531130,Lessors of miniwarehouses and self-storage units,850,50 largest firms,2007,4422,3069366,46.9,300673,75275,12466
+0100000US,,United States,53119,Lessors of other real estate property,001,All firms,2007,9231,6106411,100.0,813380,197077,33146
+0100000US,,United States,53119,Lessors of other real estate property,804,4 largest firms,2007,472,913581,15.0,83790,23503,4204
+0100000US,,United States,53119,Lessors of other real estate property,808,8 largest firms,2007,552,1133962,18.6,97040,26746,4589
+0100000US,,United States,53119,Lessors of other real estate property,820,20 largest firms,2007,744,1456983,23.9,138814,36371,5997
+0100000US,,United States,53119,Lessors of other real estate property,850,50 largest firms,2007,864,1812006,29.7,170316,46712,7199
+0100000US,,United States,531190,Lessors of other real estate property,001,All firms,2007,9231,6106411,100.0,813380,197077,33146
+0100000US,,United States,531190,Lessors of other real estate property,804,4 largest firms,2007,472,913581,15.0,83790,23503,4204
+0100000US,,United States,531190,Lessors of other real estate property,808,8 largest firms,2007,552,1133962,18.6,97040,26746,4589
+0100000US,,United States,531190,Lessors of other real estate property,820,20 largest firms,2007,744,1456983,23.9,138814,36371,5997
+0100000US,,United States,531190,Lessors of other real estate property,850,50 largest firms,2007,864,1812006,29.7,170316,46712,7199
+0100000US,,United States,5311901,Lessors of manufactured (mobile) home sites,001,All firms,2007,6921,4774795,100.0,568738,137201,25375
+0100000US,,United States,5311901,Lessors of manufactured (mobile) home sites,804,4 largest firms,2007,471,912888,19.1,83726,23486,4201
+0100000US,,United States,5311901,Lessors of manufactured (mobile) home sites,808,8 largest firms,2007,594,1106059,23.2,100064,27585,4868
+0100000US,,United States,5311901,Lessors of manufactured (mobile) home sites,820,20 largest firms,2007,759,1338134,28.0,128802,34430,6106
+0100000US,,United States,5311901,Lessors of manufactured (mobile) home sites,850,50 largest firms,2007,895,1594050,33.4,147172,38787,6864
+0100000US,,United States,5311902,Lessors of railroad property,804,4 largest firms,2007,4,3275,90.2,327,85,10
+0100000US,,United States,5311902,Lessors of railroad property,808,8 largest firms,2007,8,3564,98.2,402,97,11
+0100000US,,United States,5311902,Lessors of railroad property,820,20 largest firms,2007,11,3631,100.0,436,122,14
+0100000US,,United States,5311902,Lessors of railroad property,850,50 largest firms,2007,11,3631,100.0,436,122,14
+0100000US,,United States,5311909,Lessors of other real estate property,001,All firms,2007,2299,1327985,100.0,244206,59754,7757
+0100000US,,United States,5311909,Lessors of other real estate property,804,4 largest firms,2007,7,181116,13.6,14402,3116,113
+0100000US,,United States,5311909,Lessors of other real estate property,808,8 largest firms,2007,11,238350,17.9,18690,4439,148
+0100000US,,United States,5311909,Lessors of other real estate property,820,20 largest firms,2007,26,351061,26.4,33119,10406,701
+0100000US,,United States,5311909,Lessors of other real estate property,850,50 largest firms,2007,60,512339,38.6,59029,16222,1418
+0100000US,,United States,5312,Offices of real estate agents and brokers,001,All firms,2007,109472,84358267,100.0,15976628,3963317,355215
+0100000US,,United States,5312,Offices of real estate agents and brokers,804,4 largest firms,2007,2971,9555741,11.3,2246220,582921,26923
+0100000US,,United States,5312,Offices of real estate agents and brokers,808,8 largest firms,2007,3297,12559397,14.9,2651517,660883,34466
+0100000US,,United States,5312,Offices of real estate agents and brokers,820,20 largest firms,2007,4050,16070579,19.1,3835639,1036918,50377
+0100000US,,United States,5312,Offices of real estate agents and brokers,850,50 largest firms,2007,5059,19751673,23.4,4453872,1199324,63547
+0100000US,,United States,53121,Offices of real estate agents and brokers,001,All firms,2007,109472,84358267,100.0,15976628,3963317,355215
+0100000US,,United States,53121,Offices of real estate agents and brokers,804,4 largest firms,2007,2971,9555741,11.3,2246220,582921,26923
+0100000US,,United States,53121,Offices of real estate agents and brokers,808,8 largest firms,2007,3297,12559397,14.9,2651517,660883,34466
+0100000US,,United States,53121,Offices of real estate agents and brokers,820,20 largest firms,2007,4050,16070579,19.1,3835639,1036918,50377
+0100000US,,United States,53121,Offices of real estate agents and brokers,850,50 largest firms,2007,5059,19751673,23.4,4453872,1199324,63547
+0100000US,,United States,531210,Offices of real estate agents and brokers,001,All firms,2007,109472,84358267,100.0,15976628,3963317,355215
+0100000US,,United States,531210,Offices of real estate agents and brokers,804,4 largest firms,2007,2971,9555741,11.3,2246220,582921,26923
+0100000US,,United States,531210,Offices of real estate agents and brokers,808,8 largest firms,2007,3297,12559397,14.9,2651517,660883,34466
+0100000US,,United States,531210,Offices of real estate agents and brokers,820,20 largest firms,2007,4050,16070579,19.1,3835639,1036918,50377
+0100000US,,United States,531210,Offices of real estate agents and brokers,850,50 largest firms,2007,5059,19751673,23.4,4453872,1199324,63547
+0100000US,,United States,5312101,Offices of residential real estate agents and brokers,001,All firms,2007,92446,64385595,100.0,9357845,2272936,270591
+0100000US,,United States,5312101,Offices of residential real estate agents and brokers,804,4 largest firms,2007,1576,7083851,11.0,549688,136084,16463
+0100000US,,United States,5312101,Offices of residential real estate agents and brokers,808,8 largest firms,2007,1966,9311174,14.5,964899,228644,23547
+0100000US,,United States,5312101,Offices of residential real estate agents and brokers,820,20 largest firms,2007,2746,11294681,17.5,1276037,316643,30106
+0100000US,,United States,5312101,Offices of residential real estate agents and brokers,850,50 largest firms,2007,3525,14317583,22.2,1736305,438185,40425
+0100000US,,United States,5312109,Offices of nonresidential real estate agents and brokers,001,All firms,2007,17026,19972672,100.0,6618783,1690381,84624
+0100000US,,United States,5312109,Offices of nonresidential real estate agents and brokers,804,4 largest firms,2007,1559,4855024,24.3,2313937,598269,20348
+0100000US,,United States,5312109,Offices of nonresidential real estate agents and brokers,808,8 largest firms,2007,1610,5654179,28.3,2673714,732509,23718
+0100000US,,United States,5312109,Offices of nonresidential real estate agents and brokers,820,20 largest firms,2007,1685,6732813,33.7,2963316,806655,26360
+0100000US,,United States,5312109,Offices of nonresidential real estate agents and brokers,850,50 largest firms,2007,1806,7772043,38.9,3272827,874842,29223
+0100000US,,United States,5313,Activities related to real estate,001,All firms,2007,85962,65428591,100.0,26417925,6626261,632085
+0100000US,,United States,5313,Activities related to real estate,804,4 largest firms,2007,257,5126493,7.8,622890,182717,10779
+0100000US,,United States,5313,Activities related to real estate,808,8 largest firms,2007,368,6516680,10.0,910367,257290,17834
+0100000US,,United States,5313,Activities related to real estate,820,20 largest firms,2007,1313,9519077,14.5,2020802,654168,31982
+0100000US,,United States,5313,Activities related to real estate,850,50 largest firms,2007,3320,13188657,20.2,3391833,992865,58503
+0100000US,,United States,53131,Real estate property managers,001,All firms,2007,53211,44379042,100.0,20060731,4952315,516865
+0100000US,,United States,53131,Real estate property managers,804,4 largest firms,2007,243,1988608,4.5,259346,71125,6338
+0100000US,,United States,53131,Real estate property managers,808,8 largest firms,2007,519,3221749,7.3,670583,185413,13640
+0100000US,,United States,53131,Real estate property managers,820,20 largest firms,2007,1934,5242744,11.8,1624111,454538,32645
+0100000US,,United States,53131,Real estate property managers,850,50 largest firms,2007,3758,7989755,18.0,2787843,728241,57276
+0100000US,,United States,531311,Residential property managers,001,All firms,2007,36058,28520826,100.0,12497394,3007113,372262
+0100000US,,United States,531311,Residential property managers,804,4 largest firms,2007,226,1935628,6.8,303232,70068,9546
+0100000US,,United States,531311,Residential property managers,808,8 largest firms,2007,503,2917442,10.2,515592,123004,13967
+0100000US,,United States,531311,Residential property managers,820,20 largest firms,2007,1915,4544512,15.9,1170850,276695,28521
+0100000US,,United States,531311,Residential property managers,850,50 largest firms,2007,3389,6531815,22.9,2117754,508019,52826
+0100000US,,United States,531312,Nonresidential property managers,001,All firms,2007,17153,15858216,100.0,7563337,1945202,144603
+0100000US,,United States,531312,Nonresidential property managers,804,4 largest firms,2007,586,1065180,6.7,504662,181678,6295
+0100000US,,United States,531312,Nonresidential property managers,808,8 largest firms,2007,836,1630067,10.3,792717,250937,11189
+0100000US,,United States,531312,Nonresidential property managers,820,20 largest firms,2007,1272,2529728,16.0,1131540,336745,15617
+0100000US,,United States,531312,Nonresidential property managers,850,50 largest firms,2007,1422,3657645,23.1,1631220,478984,20676
+0100000US,,United States,53132,Offices of real estate appraisers,001,All firms,2007,16211,4936940,100.0,1787699,433128,44880
+0100000US,,United States,53132,Offices of real estate appraisers,804,4 largest firms,2007,40,386507,7.8,100473,26209,1841
+0100000US,,United States,53132,Offices of real estate appraisers,808,8 largest firms,2007,47,544620,11.0,142651,38366,2597
+0100000US,,United States,53132,Offices of real estate appraisers,820,20 largest firms,2007,117,737864,14.9,225288,56905,3868
+0100000US,,United States,53132,Offices of real estate appraisers,850,50 largest firms,2007,176,986833,20.0,301526,75035,5115
+0100000US,,United States,531320,Offices of real estate appraisers,001,All firms,2007,16211,4936940,100.0,1787699,433128,44880
+0100000US,,United States,531320,Offices of real estate appraisers,804,4 largest firms,2007,40,386507,7.8,100473,26209,1841
+0100000US,,United States,531320,Offices of real estate appraisers,808,8 largest firms,2007,47,544620,11.0,142651,38366,2597
+0100000US,,United States,531320,Offices of real estate appraisers,820,20 largest firms,2007,117,737864,14.9,225288,56905,3868
+0100000US,,United States,531320,Offices of real estate appraisers,850,50 largest firms,2007,176,986833,20.0,301526,75035,5115
+0100000US,,United States,53139,Other activities related to real estate,001,All firms,2007,16540,16112609,100.0,4569495,1240818,70340
+0100000US,,United States,53139,Other activities related to real estate,804,4 largest firms,2007,83,4196784,26.0,507212,178840,5109
+0100000US,,United States,53139,Other activities related to real estate,808,8 largest firms,2007,109,5137577,31.9,793707,292348,8408
+0100000US,,United States,53139,Other activities related to real estate,820,20 largest firms,2007,227,6253942,38.8,1116046,385723,12559
+0100000US,,United States,53139,Other activities related to real estate,850,50 largest firms,2007,300,7460326,46.3,1415637,462575,15190
+0100000US,,United States,531390,Other activities related to real estate,001,All firms,2007,16540,16112609,100.0,4569495,1240818,70340
+0100000US,,United States,531390,Other activities related to real estate,804,4 largest firms,2007,83,4196784,26.0,507212,178840,5109
+0100000US,,United States,531390,Other activities related to real estate,808,8 largest firms,2007,109,5137577,31.9,793707,292348,8408
+0100000US,,United States,531390,Other activities related to real estate,820,20 largest firms,2007,227,6253942,38.8,1116046,385723,12559
+0100000US,,United States,531390,Other activities related to real estate,850,50 largest firms,2007,300,7460326,46.3,1415637,462575,15190
+0100000US,,United States,532,Rental and leasing services,001,All firms,2007,65120,121685020,100.0,21123459,5101860,630124
+0100000US,,United States,532,Rental and leasing services,804,4 largest firms,2007,3437,23146100,19.0,3146406,769473,95652
+0100000US,,United States,532,Rental and leasing services,808,8 largest firms,2007,9936,37364461,30.7,5408048,1347615,167470
+0100000US,,United States,532,Rental and leasing services,820,20 largest firms,2007,24864,59133572,48.6,8934450,2209450,297299
+0100000US,,United States,532,Rental and leasing services,850,50 largest firms,2007,28404,74217970,61.0,10792050,2675094,337162
+0100000US,,United States,5321,Automotive equipment rental and leasing,001,All firms,2007,13189,44982246,100.0,6209260,1532663,190260
+0100000US,,United States,5321,Automotive equipment rental and leasing,804,4 largest firms,2007,3946,21343071,47.4,3300475,806548,99635
+0100000US,,United States,5321,Automotive equipment rental and leasing,808,8 largest firms,2007,6971,30710118,68.3,4395090,1077681,138652
+0100000US,,United States,5321,Automotive equipment rental and leasing,820,20 largest firms,2007,7433,36388727,80.9,4849870,1203891,149995
+0100000US,,United States,5321,Automotive equipment rental and leasing,850,50 largest firms,2007,7700,38260397,85.1,5083419,1263389,156064
+0100000US,,United States,53211,Passenger car rental and leasing,001,All firms,2007,6888,29221928,100.0,4268503,1034951,139923
+0100000US,,United States,53211,Passenger car rental and leasing,804,4 largest firms,2007,3361,19511738,66.8,3219458,777716,106214
+0100000US,,United States,53211,Passenger car rental and leasing,808,8 largest firms,2007,3601,24219978,82.9,3553514,859234,115033
+0100000US,,United States,53211,Passenger car rental and leasing,820,20 largest firms,2007,3794,25619608,87.7,3709302,898352,119616
+0100000US,,United States,53211,Passenger car rental and leasing,850,50 largest firms,2007,3923,26595509,91.0,3829921,930454,123115
+0100000US,,United States,532111,Passenger car rental,001,All firms,2007,6309,23788635,100.0,3880794,939971,132435
+0100000US,,United States,532111,Passenger car rental,804,4 largest firms,2007,3361,19511738,82.0,3219458,777716,106214
+0100000US,,United States,532111,Passenger car rental,808,8 largest firms,2007,3718,21396750,89.9,3470140,840009,114921
+0100000US,,United States,532111,Passenger car rental,820,20 largest firms,2007,3825,21924129,92.2,3537636,857910,117633
+0100000US,,United States,532111,Passenger car rental,850,50 largest firms,2007,3955,22414447,94.2,3623951,878862,120589
+0100000US,,United States,532112,Passenger car leasing,001,All firms,2007,579,5433293,100.0,387709,94980,7488
+0100000US,,United States,532112,Passenger car leasing,804,4 largest firms,2007,6,3457906,63.6,148753,34024,2277
+0100000US,,United States,532112,Passenger car leasing,808,8 largest firms,2007,22,3995708,73.5,219569,53738,3923
+0100000US,,United States,532112,Passenger car leasing,820,20 largest firms,2007,34,4443871,81.8,256461,63481,4394
+0100000US,,United States,532112,Passenger car leasing,850,50 largest firms,2007,68,4856554,89.4,302180,74134,5271
+0100000US,,United States,53212,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",001,All firms,2007,6301,15760318,100.0,1940757,497712,50337
+0100000US,,United States,53212,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",804,4 largest firms,2007,3592,10193175,64.7,1137690,299136,31106
+0100000US,,United States,53212,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",808,8 largest firms,2007,3688,11062950,70.2,1183969,315913,31849
+0100000US,,United States,53212,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",820,20 largest firms,2007,3803,12021809,76.3,1298484,345286,34505
+0100000US,,United States,53212,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",850,50 largest firms,2007,4035,13005709,82.5,1433333,379451,37467
+0100000US,,United States,532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",001,All firms,2007,6301,15760318,100.0,1940757,497712,50337
+0100000US,,United States,532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",804,4 largest firms,2007,3592,10193175,64.7,1137690,299136,31106
+0100000US,,United States,532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",808,8 largest firms,2007,3688,11062950,70.2,1183969,315913,31849
+0100000US,,United States,532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",820,20 largest firms,2007,3803,12021809,76.3,1298484,345286,34505
+0100000US,,United States,532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing",850,50 largest firms,2007,4035,13005709,82.5,1433333,379451,37467
+0100000US,,United States,5321201,Truck rental without drivers,001,All firms,2007,2956,2850180,100.0,370696,88120,16102
+0100000US,,United States,5321201,Truck rental without drivers,804,4 largest firms,2007,2117,D,75.6,D,D,j
+0100000US,,United States,5321201,Truck rental without drivers,808,8 largest firms,2007,2142,2226285,78.1,230956,58265,12229
+0100000US,,United States,5321201,Truck rental without drivers,820,20 largest firms,2007,2157,2359222,82.8,258206,62890,12621
+0100000US,,United States,5321201,Truck rental without drivers,850,50 largest firms,2007,2194,2507538,88.0,289657,69325,13340
+0100000US,,United States,5321202,Truck leasing,001,All firms,2007,3005,12650873,100.0,1519073,398196,32736
+0100000US,,United States,5321202,Truck leasing,804,4 largest firms,2007,1548,8451288,66.8,949517,254804,19777
+0100000US,,United States,5321202,Truck leasing,808,8 largest firms,2007,1554,9043330,71.5,970813,262046,20000
+0100000US,,United States,5321202,Truck leasing,820,20 largest firms,2007,1682,9932815,78.5,1091469,292999,22888
+0100000US,,United States,5321202,Truck leasing,850,50 largest firms,2007,1853,10855600,85.8,1210975,323358,25447
+0100000US,,United States,5321209,Utility trailer and recreational vehicle rental and leasing,001,All firms,2007,340,259265,100.0,50988,11396,1499
+0100000US,,United States,5321209,Utility trailer and recreational vehicle rental and leasing,804,4 largest firms,2007,26,74462,28.7,14329,2461,322
+0100000US,,United States,5321209,Utility trailer and recreational vehicle rental and leasing,808,8 largest firms,2007,36,100041,38.6,17630,3124,378
+0100000US,,United States,5321209,Utility trailer and recreational vehicle rental and leasing,820,20 largest firms,2007,49,142395,54.9,26207,5748,530
+0100000US,,United States,5321209,Utility trailer and recreational vehicle rental and leasing,850,50 largest firms,2007,81,184989,71.4,33308,7290,755
+0100000US,,United States,5322,Consumer goods rental,001,All firms,2007,32956,24750699,100.0,5485765,1300408,248464
+0100000US,,United States,5322,Consumer goods rental,804,4 largest firms,2007,13582,10332658,41.7,2120608,525187,108349
+0100000US,,United States,5322,Consumer goods rental,808,8 largest firms,2007,15710,13944369,56.3,2646917,646100,122179
+0100000US,,United States,5322,Consumer goods rental,820,20 largest firms,2007,17128,15956519,64.5,3094307,751143,136655
+0100000US,,United States,5322,Consumer goods rental,850,50 largest firms,2007,17844,17037809,68.8,3335058,809333,144637
+0100000US,,United States,53221,Consumer electronics and appliances rental,001,All firms,2007,5376,4205836,100.0,927582,231350,28075
+0100000US,,United States,53221,Consumer electronics and appliances rental,804,4 largest firms,2007,3948,D,75.9,D,D,j
+0100000US,,United States,53221,Consumer electronics and appliances rental,808,8 largest firms,2007,4060,3297842,78.4,717433,181673,20587
+0100000US,,United States,53221,Consumer electronics and appliances rental,820,20 largest firms,2007,4222,3474371,82.6,748312,188612,21571
+0100000US,,United States,53221,Consumer electronics and appliances rental,850,50 largest firms,2007,4448,3689849,87.7,797342,200197,23210
+0100000US,,United States,532210,Consumer electronics and appliances rental,001,All firms,2007,5376,4205836,100.0,927582,231350,28075
+0100000US,,United States,532210,Consumer electronics and appliances rental,804,4 largest firms,2007,3948,D,75.9,D,D,j
+0100000US,,United States,532210,Consumer electronics and appliances rental,808,8 largest firms,2007,4060,3297842,78.4,717433,181673,20587
+0100000US,,United States,532210,Consumer electronics and appliances rental,820,20 largest firms,2007,4222,3474371,82.6,748312,188612,21571
+0100000US,,United States,532210,Consumer electronics and appliances rental,850,50 largest firms,2007,4448,3689849,87.7,797342,200197,23210
+0100000US,,United States,53222,Formal wear and costume rental,001,All firms,2007,1997,975859,100.0,188004,41681,10535
+0100000US,,United States,53222,Formal wear and costume rental,804,4 largest firms,2007,627,536064,54.9,58969,12822,3202
+0100000US,,United States,53222,Formal wear and costume rental,808,8 largest firms,2007,729,580019,59.4,71713,15733,3872
+0100000US,,United States,53222,Formal wear and costume rental,820,20 largest firms,2007,845,655019,67.1,99171,21697,5008
+0100000US,,United States,53222,Formal wear and costume rental,850,50 largest firms,2007,951,729233,74.7,123251,26790,6210
+0100000US,,United States,532220,Formal wear and costume rental,001,All firms,2007,1997,975859,100.0,188004,41681,10535
+0100000US,,United States,532220,Formal wear and costume rental,804,4 largest firms,2007,627,536064,54.9,58969,12822,3202
+0100000US,,United States,532220,Formal wear and costume rental,808,8 largest firms,2007,729,580019,59.4,71713,15733,3872
+0100000US,,United States,532220,Formal wear and costume rental,820,20 largest firms,2007,845,655019,67.1,99171,21697,5008
+0100000US,,United States,532220,Formal wear and costume rental,850,50 largest firms,2007,951,729233,74.7,123251,26790,6210
+0100000US,,United States,53223,Video tape and disc rental,001,All firms,2007,16237,9262214,100.0,1732671,423365,128103
+0100000US,,United States,53223,Video tape and disc rental,804,4 largest firms,2007,9893,7165612,77.4,1314241,317485,88902
+0100000US,,United States,53223,Video tape and disc rental,808,8 largest firms,2007,9897,7515803,81.1,1348972,324245,89415
+0100000US,,United States,53223,Video tape and disc rental,820,20 largest firms,2007,10211,7755844,83.7,1388476,334134,93406
+0100000US,,United States,53223,Video tape and disc rental,850,50 largest firms,2007,10559,7953032,85.9,1428972,344983,97463
+0100000US,,United States,532230,Video tape and disc rental,001,All firms,2007,16237,9262214,100.0,1732671,423365,128103
+0100000US,,United States,532230,Video tape and disc rental,804,4 largest firms,2007,9893,7165612,77.4,1314241,317485,88902
+0100000US,,United States,532230,Video tape and disc rental,808,8 largest firms,2007,9897,7515803,81.1,1348972,324245,89415
+0100000US,,United States,532230,Video tape and disc rental,820,20 largest firms,2007,10211,7755844,83.7,1388476,334134,93406
+0100000US,,United States,532230,Video tape and disc rental,850,50 largest firms,2007,10559,7953032,85.9,1428972,344983,97463
+0100000US,,United States,53229,Other consumer goods rental,001,All firms,2007,9346,10306790,100.0,2637508,604012,81751
+0100000US,,United States,53229,Other consumer goods rental,804,4 largest firms,2007,2325,3919270,38.0,748175,181076,18761
+0100000US,,United States,53229,Other consumer goods rental,808,8 largest firms,2007,2696,4771856,46.3,975961,235769,24182
+0100000US,,United States,53229,Other consumer goods rental,820,20 largest firms,2007,3119,5413054,52.5,1145002,275284,28457
+0100000US,,United States,53229,Other consumer goods rental,850,50 largest firms,2007,3271,5920366,57.4,1299142,310002,32613
+0100000US,,United States,532291,Home health equipment rental,001,All firms,2007,3762,5876846,100.0,1275757,307532,33001
+0100000US,,United States,532291,Home health equipment rental,804,4 largest firms,2007,2322,3912368,66.6,747261,180847,18742
+0100000US,,United States,532291,Home health equipment rental,808,8 largest firms,2007,2606,4430575,75.4,865155,210227,21586
+0100000US,,United States,532291,Home health equipment rental,820,20 largest firms,2007,2755,4705034,80.1,929163,226454,23227
+0100000US,,United States,532291,Home health equipment rental,850,50 largest firms,2007,2897,4995495,85.0,1006774,243980,25285
+0100000US,,United States,532292,Recreational goods rental,001,All firms,2007,1722,683457,100.0,165803,37055,9268
+0100000US,,United States,532292,Recreational goods rental,804,4 largest firms,2007,33,48052,7.0,11074,3791,932
+0100000US,,United States,532292,Recreational goods rental,808,8 largest firms,2007,41,79046,11.6,16586,5034,1314
+0100000US,,United States,532292,Recreational goods rental,820,20 largest firms,2007,58,136822,20.0,29781,8068,1746
+0100000US,,United States,532292,Recreational goods rental,850,50 largest firms,2007,93,213883,31.3,48189,11677,2347
+0100000US,,United States,532299,All other consumer goods rental,001,All firms,2007,3862,3746487,100.0,1195948,259425,39482
+0100000US,,United States,532299,All other consumer goods rental,804,4 largest firms,2007,315,619910,16.5,190317,43382,4413
+0100000US,,United States,532299,All other consumer goods rental,808,8 largest firms,2007,409,836557,22.3,236491,54585,5789
+0100000US,,United States,532299,All other consumer goods rental,820,20 largest firms,2007,465,1074178,28.7,326951,74479,8273
+0100000US,,United States,532299,All other consumer goods rental,850,50 largest firms,2007,565,1406157,37.5,444359,99486,11536
+0100000US,,United States,5323,General rental centers,001,All firms,2007,4730,4248965,100.0,870125,203587,29810
+0100000US,,United States,5323,General rental centers,804,4 largest firms,2007,1059,1562687,36.8,181472,46752,7211
+0100000US,,United States,5323,General rental centers,808,8 largest firms,2007,1127,1675153,39.4,206151,53095,7825
+0100000US,,United States,5323,General rental centers,820,20 largest firms,2007,1189,1825097,43.0,236706,60318,8548
+0100000US,,United States,5323,General rental centers,850,50 largest firms,2007,1300,2039754,48.0,291065,72841,9878
+0100000US,,United States,53231,General rental centers,001,All firms,2007,4730,4248965,100.0,870125,203587,29810
+0100000US,,United States,53231,General rental centers,804,4 largest firms,2007,1059,1562687,36.8,181472,46752,7211
+0100000US,,United States,53231,General rental centers,808,8 largest firms,2007,1127,1675153,39.4,206151,53095,7825
+0100000US,,United States,53231,General rental centers,820,20 largest firms,2007,1189,1825097,43.0,236706,60318,8548
+0100000US,,United States,53231,General rental centers,850,50 largest firms,2007,1300,2039754,48.0,291065,72841,9878
+0100000US,,United States,532310,General rental centers,001,All firms,2007,4730,4248965,100.0,870125,203587,29810
+0100000US,,United States,532310,General rental centers,804,4 largest firms,2007,1059,1562687,36.8,181472,46752,7211
+0100000US,,United States,532310,General rental centers,808,8 largest firms,2007,1127,1675153,39.4,206151,53095,7825
+0100000US,,United States,532310,General rental centers,820,20 largest firms,2007,1189,1825097,43.0,236706,60318,8548
+0100000US,,United States,532310,General rental centers,850,50 largest firms,2007,1300,2039754,48.0,291065,72841,9878
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,001,All firms,2007,14245,47703110,100.0,8558309,2065202,161590
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,804,4 largest firms,2007,1494,10896734,22.8,1330323,332669,22082
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,808,8 largest firms,2007,2032,15768904,33.1,2022085,509846,33276
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,820,20 largest firms,2007,2894,20663626,43.3,2678799,671763,45095
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,850,50 largest firms,2007,4113,26018461,54.5,3709840,921237,61878
+0100000US,,United States,53241,"Construction, transportation, mining, and forestry machinery and equipment rental and leasing",001,All firms,2007,5476,26129435,100.0,3847156,960517,63783
+0100000US,,United States,53241,"Construction, transportation, mining, and forestry machinery and equipment rental and leasing",804,4 largest firms,2007,1152,10529114,40.3,1152205,290973,17810
+0100000US,,United States,53241,"Construction, transportation, mining, and forestry machinery and equipment rental and leasing",808,8 largest firms,2007,1494,13468236,51.5,1494206,383940,23376
+0100000US,,United States,53241,"Construction, transportation, mining, and forestry machinery and equipment rental and leasing",820,20 largest firms,2007,1734,16047540,61.4,1882836,491429,28440
+0100000US,,United States,53241,"Construction, transportation, mining, and forestry machinery and equipment rental and leasing",850,50 largest firms,2007,1887,18548720,71.0,2228897,579921,33351
+0100000US,,United States,532411,"Commercial air, rail, and water transportation equipment rental and leasing",001,All firms,2007,750,9063582,100.0,463149,137713,5123
+0100000US,,United States,532411,"Commercial air, rail, and water transportation equipment rental and leasing",804,4 largest firms,2007,8,6270002,69.2,104246,33278,545
+0100000US,,United States,532411,"Commercial air, rail, and water transportation equipment rental and leasing",808,8 largest firms,2007,62,7049576,77.8,168874,58456,1185
+0100000US,,United States,532411,"Commercial air, rail, and water transportation equipment rental and leasing",820,20 largest firms,2007,83,7995664,88.2,279445,92386,2262
+0100000US,,United States,532411,"Commercial air, rail, and water transportation equipment rental and leasing",850,50 largest firms,2007,151,8535303,94.2,353869,110937,2927
+0100000US,,United States,5324111,Commercial vessel rental and leasing without crew,001,All firms,2007,139,468895,100.0,72132,17457,1024
+0100000US,,United States,5324111,Commercial vessel rental and leasing without crew,804,4 largest firms,2007,7,257921,55.0,29743,8563,444
+0100000US,,United States,5324111,Commercial vessel rental and leasing without crew,808,8 largest firms,2007,11,320688,68.4,41574,9526,490
+0100000US,,United States,5324111,Commercial vessel rental and leasing without crew,820,20 largest firms,2007,25,388055,82.8,52458,11957,597
+0100000US,,United States,5324111,Commercial vessel rental and leasing without crew,850,50 largest firms,2007,55,442076,94.3,64523,15705,835
+0100000US,,United States,5324112,Railroad car rental and leasing,001,All firms,2007,128,2306767,100.0,184791,60703,1878
+0100000US,,United States,5324112,Railroad car rental and leasing,804,4 largest firms,2007,10,1632198,70.8,91216,35222,784
+0100000US,,United States,5324112,Railroad car rental and leasing,808,8 largest firms,2007,21,1914726,83.0,145269,50501,1313
+0100000US,,United States,5324112,Railroad car rental and leasing,820,20 largest firms,2007,63,2200720,95.4,168704,57248,1600
+0100000US,,United States,5324112,Railroad car rental and leasing,850,50 largest firms,2007,93,2298138,99.6,181393,59871,1790
+0100000US,,United States,5324119,Aircraft rental and leasing,001,All firms,2007,483,6287920,100.0,206226,59553,2221
+0100000US,,United States,5324119,Aircraft rental and leasing,804,4 largest firms,2007,49,5350980,85.1,77420,23136,390
+0100000US,,United States,5324119,Aircraft rental and leasing,808,8 largest firms,2007,53,5761492,91.6,106035,33774,555
+0100000US,,United States,5324119,Aircraft rental and leasing,820,20 largest firms,2007,71,5983691,95.2,143143,44188,848
+0100000US,,United States,5324119,Aircraft rental and leasing,850,50 largest firms,2007,101,6101445,97.0,168764,51146,1214
+0100000US,,United States,532412,"Construction, mining, and forestry machinery and equipment rental and leasing",001,All firms,2007,4726,17065853,100.0,3384007,822804,58660
+0100000US,,United States,532412,"Construction, mining, and forestry machinery and equipment rental and leasing",804,4 largest firms,2007,1409,7128346,41.8,1334755,339264,21663
+0100000US,,United States,532412,"Construction, mining, and forestry machinery and equipment rental and leasing",808,8 largest firms,2007,1595,8254406,48.4,1573303,399131,25588
+0100000US,,United States,532412,"Construction, mining, and forestry machinery and equipment rental and leasing",820,20 largest firms,2007,1731,9841044,57.7,1869834,471579,29700
+0100000US,,United States,532412,"Construction, mining, and forestry machinery and equipment rental and leasing",850,50 largest firms,2007,1886,11397884,66.8,2125347,532719,33711
+0100000US,,United States,5324121,Rental and leasing of heavy construction equipment without operators,001,All firms,2007,3847,12448531,100.0,2409174,590532,42840
+0100000US,,United States,5324121,Rental and leasing of heavy construction equipment without operators,804,4 largest firms,2007,1383,6277766,50.4,1239226,312848,20208
+0100000US,,United States,5324121,Rental and leasing of heavy construction equipment without operators,808,8 largest firms,2007,1494,7145291,57.4,1398707,354641,22956
+0100000US,,United States,5324121,Rental and leasing of heavy construction equipment without operators,820,20 largest firms,2007,1573,8045364,64.6,1505626,379785,24748
+0100000US,,United States,5324121,Rental and leasing of heavy construction equipment without operators,850,50 largest firms,2007,1689,9086494,73.0,1706361,427764,27773
+0100000US,,United States,5324129,Oilfield and well drilling equipment rental and leasing,001,All firms,2007,879,4617322,100.0,974833,232272,15820
+0100000US,,United States,5324129,Oilfield and well drilling equipment rental and leasing,804,4 largest firms,2007,167,1849513,40.1,299647,75492,4103
+0100000US,,United States,5324129,Oilfield and well drilling equipment rental and leasing,808,8 largest firms,2007,192,2293006,49.7,399258,97335,5748
+0100000US,,United States,5324129,Oilfield and well drilling equipment rental and leasing,820,20 largest firms,2007,259,2902831,62.9,553558,135381,7974
+0100000US,,United States,5324129,Oilfield and well drilling equipment rental and leasing,850,50 largest firms,2007,329,3516771,76.2,710398,172890,10536
+0100000US,,United States,53242,Office machinery and equipment rental and leasing,001,All firms,2007,826,2137619,100.0,369012,87871,6041
+0100000US,,United States,53242,Office machinery and equipment rental and leasing,804,4 largest firms,2007,72,654507,30.6,80412,14032,629
+0100000US,,United States,53242,Office machinery and equipment rental and leasing,808,8 largest firms,2007,115,889410,41.6,113109,23585,1322
+0100000US,,United States,53242,Office machinery and equipment rental and leasing,820,20 largest firms,2007,154,1198451,56.1,153650,33685,2003
+0100000US,,United States,53242,Office machinery and equipment rental and leasing,850,50 largest firms,2007,203,1572984,73.6,226599,54129,2998
+0100000US,,United States,532420,Office machinery and equipment rental and leasing,001,All firms,2007,826,2137619,100.0,369012,87871,6041
+0100000US,,United States,532420,Office machinery and equipment rental and leasing,804,4 largest firms,2007,72,654507,30.6,80412,14032,629
+0100000US,,United States,532420,Office machinery and equipment rental and leasing,808,8 largest firms,2007,115,889410,41.6,113109,23585,1322
+0100000US,,United States,532420,Office machinery and equipment rental and leasing,820,20 largest firms,2007,154,1198451,56.1,153650,33685,2003
+0100000US,,United States,532420,Office machinery and equipment rental and leasing,850,50 largest firms,2007,203,1572984,73.6,226599,54129,2998
+0100000US,,United States,5324201,Office machine rental and leasing,001,All firms,2007,378,546112,100.0,116478,30842,2640
+0100000US,,United States,5324201,Office machine rental and leasing,804,4 largest firms,2007,32,138188,25.3,28986,7592,679
+0100000US,,United States,5324201,Office machine rental and leasing,808,8 largest firms,2007,44,207707,38.0,37135,9555,873
+0100000US,,United States,5324201,Office machine rental and leasing,820,20 largest firms,2007,93,329600,60.4,64214,17762,1265
+0100000US,,United States,5324201,Office machine rental and leasing,850,50 largest firms,2007,126,443123,81.1,89266,23977,1840
+0100000US,,United States,5324209,Computer rental and leasing,001,All firms,2007,448,1591507,100.0,252534,57029,3401
+0100000US,,United States,5324209,Computer rental and leasing,804,4 largest firms,2007,72,654507,41.1,80412,14032,629
+0100000US,,United States,5324209,Computer rental and leasing,808,8 largest firms,2007,104,873950,54.9,98761,19824,905
+0100000US,,United States,5324209,Computer rental and leasing,820,20 largest firms,2007,121,1113527,70.0,137783,30321,1440
+0100000US,,United States,5324209,Computer rental and leasing,850,50 largest firms,2007,161,1370344,86.1,188633,42824,2175
+0100000US,,United States,53249,Other commercial and industrial machinery and equipment rental and leasing,001,All firms,2007,7943,19436056,100.0,4342141,1016814,91766
+0100000US,,United States,53249,Other commercial and industrial machinery and equipment rental and leasing,804,4 largest firms,2007,1118,4406250,22.7,743156,180700,13721
+0100000US,,United States,53249,Other commercial and industrial machinery and equipment rental and leasing,808,8 largest firms,2007,1346,5784421,29.8,953957,232750,18157
+0100000US,,United States,53249,Other commercial and industrial machinery and equipment rental and leasing,820,20 largest firms,2007,1997,7957353,40.9,1522413,362250,27953
+0100000US,,United States,53249,Other commercial and industrial machinery and equipment rental and leasing,850,50 largest firms,2007,2566,10385683,53.4,2005601,473664,39698
+0100000US,,United States,532490,Other commercial and industrial machinery and equipment rental and leasing,001,All firms,2007,7943,19436056,100.0,4342141,1016814,91766
+0100000US,,United States,532490,Other commercial and industrial machinery and equipment rental and leasing,804,4 largest firms,2007,1118,4406250,22.7,743156,180700,13721
+0100000US,,United States,532490,Other commercial and industrial machinery and equipment rental and leasing,808,8 largest firms,2007,1346,5784421,29.8,953957,232750,18157
+0100000US,,United States,532490,Other commercial and industrial machinery and equipment rental and leasing,820,20 largest firms,2007,1997,7957353,40.9,1522413,362250,27953
+0100000US,,United States,532490,Other commercial and industrial machinery and equipment rental and leasing,850,50 largest firms,2007,2566,10385683,53.4,2005601,473664,39698
+0100000US,,United States,5324901,"Medical equipment rental and leasing, except home health equipment",001,All firms,2007,1507,3544395,100.0,810306,193817,16456
+0100000US,,United States,5324901,"Medical equipment rental and leasing, except home health equipment",804,4 largest firms,2007,337,1867247,52.7,343292,82183,5614
+0100000US,,United States,5324901,"Medical equipment rental and leasing, except home health equipment",808,8 largest firms,2007,465,2203304,62.2,425001,102956,7462
+0100000US,,United States,5324901,"Medical equipment rental and leasing, except home health equipment",820,20 largest firms,2007,515,2512842,70.9,512187,122818,8884
+0100000US,,United States,5324901,"Medical equipment rental and leasing, except home health equipment",850,50 largest firms,2007,581,2759138,77.8,571404,137167,10222
+0100000US,,United States,5324902,Industrial equipment rental and leasing,001,All firms,2007,5807,14590609,100.0,3188308,745995,67999
+0100000US,,United States,5324902,Industrial equipment rental and leasing,804,4 largest firms,2007,1041,3629583,24.9,608641,144824,11888
+0100000US,,United States,5324902,Industrial equipment rental and leasing,808,8 largest firms,2007,1191,4764372,32.7,843352,200712,16499
+0100000US,,United States,5324902,Industrial equipment rental and leasing,820,20 largest firms,2007,1793,6543420,44.8,1257064,300473,26025
+0100000US,,United States,5324902,Industrial equipment rental and leasing,850,50 largest firms,2007,2181,8417176,57.7,1617932,380818,33713
+0100000US,,United States,5324903,Motion picture equipment rental,001,All firms,2007,348,677342,100.0,181796,40626,3684
+0100000US,,United States,5324903,Motion picture equipment rental,804,4 largest firms,2007,13,137818,20.3,30768,7364,556
+0100000US,,United States,5324903,Motion picture equipment rental,808,8 largest firms,2007,19,207883,30.7,46337,11220,880
+0100000US,,United States,5324903,Motion picture equipment rental,820,20 largest firms,2007,33,348405,51.4,94351,21264,1638
+0100000US,,United States,5324903,Motion picture equipment rental,850,50 largest firms,2007,65,487752,72.0,129432,28817,2278
+0100000US,,United States,5324909,Theatrical equipment rental,001,All firms,2007,281,623710,100.0,161731,36376,3627
+0100000US,,United States,5324909,Theatrical equipment rental,804,4 largest firms,2007,13,192891,30.9,34022,7271,536
+0100000US,,United States,5324909,Theatrical equipment rental,808,8 largest firms,2007,17,245895,39.4,48243,10242,788
+0100000US,,United States,5324909,Theatrical equipment rental,820,20 largest firms,2007,33,335325,53.8,71734,15957,1354
+0100000US,,United States,5324909,Theatrical equipment rental,850,50 largest firms,2007,66,456551,73.2,109843,24866,2195
+0100000US,,United States,533,Lessors of nonfinancial intangible assets (except copyrighted works),001,All firms,2007,2447,32936173,100.0,2294365,599888,29379
+0100000US,,United States,533,Lessors of nonfinancial intangible assets (except copyrighted works),804,4 largest firms,2007,7,11028925,33.5,9287,2740,85
+0100000US,,United States,533,Lessors of nonfinancial intangible assets (except copyrighted works),808,8 largest firms,2007,18,14726129,44.7,308495,75766,2730
+0100000US,,United States,533,Lessors of nonfinancial intangible assets (except copyrighted works),820,20 largest firms,2007,36,20042101,60.9,421565,103043,4040
+0100000US,,United States,533,Lessors of nonfinancial intangible assets (except copyrighted works),850,50 largest firms,2007,76,25151178,76.4,861362,247165,7442
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),001,All firms,2007,2447,32936173,100.0,2294365,599888,29379
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),804,4 largest firms,2007,7,11028925,33.5,9287,2740,85
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),808,8 largest firms,2007,18,14726129,44.7,308495,75766,2730
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),820,20 largest firms,2007,36,20042101,60.9,421565,103043,4040
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),850,50 largest firms,2007,76,25151178,76.4,861362,247165,7442
+0100000US,,United States,53311,Lessors of nonfinancial intangible assets (except copyrighted works),001,All firms,2007,2447,32936173,100.0,2294365,599888,29379
+0100000US,,United States,53311,Lessors of nonfinancial intangible assets (except copyrighted works),804,4 largest firms,2007,7,11028925,33.5,9287,2740,85
+0100000US,,United States,53311,Lessors of nonfinancial intangible assets (except copyrighted works),808,8 largest firms,2007,18,14726129,44.7,308495,75766,2730
+0100000US,,United States,53311,Lessors of nonfinancial intangible assets (except copyrighted works),820,20 largest firms,2007,36,20042101,60.9,421565,103043,4040
+0100000US,,United States,53311,Lessors of nonfinancial intangible assets (except copyrighted works),850,50 largest firms,2007,76,25151178,76.4,861362,247165,7442
+0100000US,,United States,533110,Lessors of nonfinancial intangible assets (except copyrighted works),001,All firms,2007,2447,32936173,100.0,2294365,599888,29379
+0100000US,,United States,533110,Lessors of nonfinancial intangible assets (except copyrighted works),804,4 largest firms,2007,7,11028925,33.5,9287,2740,85
+0100000US,,United States,533110,Lessors of nonfinancial intangible assets (except copyrighted works),808,8 largest firms,2007,18,14726129,44.7,308495,75766,2730
+0100000US,,United States,533110,Lessors of nonfinancial intangible assets (except copyrighted works),820,20 largest firms,2007,36,20042101,60.9,421565,103043,4040
+0100000US,,United States,533110,Lessors of nonfinancial intangible assets (except copyrighted works),850,50 largest firms,2007,76,25151178,76.4,861362,247165,7442
+0100000US,,United States,5331101,Oil royalty trading companies,001,All firms,2007,531,1260055,100.0,92634,21260,1485
+0100000US,,United States,5331101,Oil royalty trading companies,804,4 largest firms,2007,11,509947,40.5,9262,1798,66
+0100000US,,United States,5331101,Oil royalty trading companies,808,8 largest firms,2007,18,666016,52.9,15016,2769,113
+0100000US,,United States,5331101,Oil royalty trading companies,820,20 largest firms,2007,30,833053,66.1,21115,4432,200
+0100000US,,United States,5331101,Oil royalty trading companies,850,50 largest firms,2007,62,994797,78.9,40343,9427,405
+0100000US,,United States,5331109,Patent owners and lessors,001,All firms,2007,1916,31676118,100.0,2201731,578628,27894
+0100000US,,United States,5331109,Patent owners and lessors,804,4 largest firms,2007,7,11028925,34.8,9287,2740,85
+0100000US,,United States,5331109,Patent owners and lessors,808,8 largest firms,2007,18,14726129,46.5,308495,75766,2730
+0100000US,,United States,5331109,Patent owners and lessors,820,20 largest firms,2007,36,20041579,63.3,419559,103142,4046
+0100000US,,United States,5331109,Patent owners and lessors,850,50 largest firms,2007,76,24938010,78.7,889733,253961,7937

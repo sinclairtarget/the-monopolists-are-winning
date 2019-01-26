@@ -1,0 +1,1032 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,CONCENFI.id,CONCENFI.display-label,YEAR.id,ESTAB,RCPTOT,VAL_PCT,PAYANN,PAYQTR1,EMP
+Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Firm concentration code,Meaning of Firm concentration code,Year,Number of establishments,"Sales ($1,000)","Sales, receipts, or revenue from concentration of largest firms as percent of total sales, receipts, or revenue (%)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12
+0100000US,,United States,44-45,Retail trade,001,All firms,2007,1128112,3917663456,100.0,362818687,88563001,15515396
+0100000US,,United States,44-45,Retail trade,804,4 largest firms,2007,11408,483225852,12.3,44392960,10995276,2120770
+0100000US,,United States,44-45,Retail trade,808,8 largest firms,2007,25843,686575474,17.5,63725584,15699914,2847709
+0100000US,,United States,44-45,Retail trade,820,20 largest firms,2007,44685,994163153,25.4,94345260,23315098,4249766
+0100000US,,United States,44-45,Retail trade,850,50 largest firms,2007,77048,1306218324,33.3,115280388,28586848,5302438
+0100000US,,United States,441,Motor vehicle and parts dealers,001,All firms,2007,126779,891036746,100.0,72804722,17438361,1914466
+0100000US,,United States,441,Motor vehicle and parts dealers,804,4 largest firms,2007,580,42852858,4.8,2924661,710969,59631
+0100000US,,United States,441,Motor vehicle and parts dealers,808,8 largest firms,2007,7841,65133399,7.3,5208991,1267472,159220
+0100000US,,United States,441,Motor vehicle and parts dealers,820,20 largest firms,2007,16181,94095847,10.6,8665107,2126615,270992
+0100000US,,United States,441,Motor vehicle and parts dealers,850,50 largest firms,2007,20182,125126633,14.0,11379863,2786829,342677
+0100000US,,United States,4411,Automobile dealers,001,All firms,2007,51181,753736841,100.0,54271140,13030902,1268015
+0100000US,,United States,4411,Automobile dealers,804,4 largest firms,2007,580,42852858,5.7,2924661,710969,59631
+0100000US,,United States,4411,Automobile dealers,808,8 largest firms,2007,915,62017084,8.2,4288459,1042897,89239
+0100000US,,United States,4411,Automobile dealers,820,20 largest firms,2007,1071,78850030,10.5,5287149,1283909,108003
+0100000US,,United States,4411,Automobile dealers,850,50 largest firms,2007,1426,99651661,13.2,6520122,1582848,133981
+0100000US,,United States,44111,New car dealers,001,All firms,2007,24888,687707428,100.0,50148097,12022451,1138370
+0100000US,,United States,44111,New car dealers,804,4 largest firms,2007,597,41187829,6.0,2873385,697667,54953
+0100000US,,United States,44111,New car dealers,808,8 largest firms,2007,839,55903349,8.1,3949449,960036,78395
+0100000US,,United States,44111,New car dealers,820,20 largest firms,2007,998,71656455,10.4,4810613,1166925,94943
+0100000US,,United States,44111,New car dealers,850,50 largest firms,2007,1231,91627306,13.3,5989616,1453984,119618
+0100000US,,United States,441110,New car dealers,001,All firms,2007,24888,687707428,100.0,50148097,12022451,1138370
+0100000US,,United States,441110,New car dealers,804,4 largest firms,2007,597,41187829,6.0,2873385,697667,54953
+0100000US,,United States,441110,New car dealers,808,8 largest firms,2007,839,55903349,8.1,3949449,960036,78395
+0100000US,,United States,441110,New car dealers,820,20 largest firms,2007,998,71656455,10.4,4810613,1166925,94943
+0100000US,,United States,441110,New car dealers,850,50 largest firms,2007,1231,91627306,13.3,5989616,1453984,119618
+0100000US,,United States,44112,Used car dealers,001,All firms,2007,26293,66029413,100.0,4123043,1008451,129645
+0100000US,,United States,44112,Used car dealers,804,4 largest firms,2007,271,8804459,13.3,551756,134175,15363
+0100000US,,United States,44112,Used car dealers,808,8 largest firms,2007,312,9467601,14.3,595987,143924,16389
+0100000US,,United States,44112,Used car dealers,820,20 largest firms,2007,343,10696239,16.2,658690,158807,17687
+0100000US,,United States,44112,Used car dealers,850,50 largest firms,2007,392,12420621,18.8,735349,175934,19105
+0100000US,,United States,441120,Used car dealers,001,All firms,2007,26293,66029413,100.0,4123043,1008451,129645
+0100000US,,United States,441120,Used car dealers,804,4 largest firms,2007,271,8804459,13.3,551756,134175,15363
+0100000US,,United States,441120,Used car dealers,808,8 largest firms,2007,312,9467601,14.3,595987,143924,16389
+0100000US,,United States,441120,Used car dealers,820,20 largest firms,2007,343,10696239,16.2,658690,158807,17687
+0100000US,,United States,441120,Used car dealers,850,50 largest firms,2007,392,12420621,18.8,735349,175934,19105
+0100000US,,United States,4412,Other motor vehicle dealers,001,All firms,2007,17238,64881628,100.0,6017608,1349040,170902
+0100000US,,United States,4412,Other motor vehicle dealers,804,4 largest firms,2007,132,4332718,6.7,249946,59175,4983
+0100000US,,United States,4412,Other motor vehicle dealers,808,8 largest firms,2007,601,6543116,10.1,425620,101461,12206
+0100000US,,United States,4412,Other motor vehicle dealers,820,20 largest firms,2007,867,9243755,14.2,661683,160133,18339
+0100000US,,United States,4412,Other motor vehicle dealers,850,50 largest firms,2007,1070,11994111,18.5,903804,217527,24241
+0100000US,,United States,44121,Recreational vehicle dealers,001,All firms,2007,3100,19057106,100.0,1671075,380632,42669
+0100000US,,United States,44121,Recreational vehicle dealers,804,4 largest firms,2007,123,2789402,14.6,233562,55551,5328
+0100000US,,United States,44121,Recreational vehicle dealers,808,8 largest firms,2007,142,3649300,19.1,315025,75631,6904
+0100000US,,United States,44121,Recreational vehicle dealers,820,20 largest firms,2007,195,5156413,27.1,431057,105338,9561
+0100000US,,United States,44121,Recreational vehicle dealers,850,50 largest firms,2007,269,6904090,36.2,562358,135558,12514
+0100000US,,United States,441210,Recreational vehicle dealers,001,All firms,2007,3100,19057106,100.0,1671075,380632,42669
+0100000US,,United States,441210,Recreational vehicle dealers,804,4 largest firms,2007,123,2789402,14.6,233562,55551,5328
+0100000US,,United States,441210,Recreational vehicle dealers,808,8 largest firms,2007,142,3649300,19.1,315025,75631,6904
+0100000US,,United States,441210,Recreational vehicle dealers,820,20 largest firms,2007,195,5156413,27.1,431057,105338,9561
+0100000US,,United States,441210,Recreational vehicle dealers,850,50 largest firms,2007,269,6904090,36.2,562358,135558,12514
+0100000US,,United States,44122,"Motorcycle, boat, and other motor vehicle dealers",001,All firms,2007,14138,45824522,100.0,4346533,968408,128233
+0100000US,,United States,44122,"Motorcycle, boat, and other motor vehicle dealers",804,4 largest firms,2007,452,3678761,8.0,188130,45402,6641
+0100000US,,United States,44122,"Motorcycle, boat, and other motor vehicle dealers",808,8 largest firms,2007,577,4911963,10.7,299900,71450,9788
+0100000US,,United States,44122,"Motorcycle, boat, and other motor vehicle dealers",820,20 largest firms,2007,852,6128010,13.4,423525,100847,13518
+0100000US,,United States,44122,"Motorcycle, boat, and other motor vehicle dealers",850,50 largest firms,2007,945,7670611,16.7,543547,129701,16421
+0100000US,,United States,441221,"Motorcycle, ATV, and personal watercraft dealers",001,All firms,2007,6137,23215350,100.0,2362545,524607,70561
+0100000US,,United States,441221,"Motorcycle, ATV, and personal watercraft dealers",804,4 largest firms,2007,143,849017,3.7,105720,22499,3021
+0100000US,,United States,441221,"Motorcycle, ATV, and personal watercraft dealers",808,8 largest firms,2007,155,1140981,4.9,142093,30712,4014
+0100000US,,United States,441221,"Motorcycle, ATV, and personal watercraft dealers",820,20 largest firms,2007,191,1767126,7.6,199860,45308,5725
+0100000US,,United States,441221,"Motorcycle, ATV, and personal watercraft dealers",850,50 largest firms,2007,242,2860882,12.3,308354,69593,8500
+0100000US,,United States,441222,Boat dealers,001,All firms,2007,5735,15999504,100.0,1526639,334345,44258
+0100000US,,United States,441222,Boat dealers,804,4 largest firms,2007,650,2478987,15.5,215602,52167,8311
+0100000US,,United States,441222,Boat dealers,808,8 largest firms,2007,684,2893857,18.1,239158,57935,8854
+0100000US,,United States,441222,Boat dealers,820,20 largest firms,2007,724,3499022,21.9,282453,67713,9723
+0100000US,,United States,441222,Boat dealers,850,50 largest firms,2007,799,4447712,27.8,355814,83961,11336
+0100000US,,United States,441229,All other motor vehicle dealers,001,All firms,2007,2266,6609668,100.0,457349,109456,13414
+0100000US,,United States,441229,All other motor vehicle dealers,804,4 largest firms,2007,17,2071764,31.3,36567,9422,621
+0100000US,,United States,441229,All other motor vehicle dealers,808,8 largest firms,2007,29,2315128,35.0,54500,14950,881
+0100000US,,United States,441229,All other motor vehicle dealers,820,20 largest firms,2007,42,2703836,40.9,77721,21080,1390
+0100000US,,United States,441229,All other motor vehicle dealers,850,50 largest firms,2007,82,3196551,48.4,120812,31351,2392
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",001,All firms,2007,58360,72418277,100.0,12515974,3058419,475549
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",804,4 largest firms,2007,11164,16669373,23.0,2687220,652043,123141
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",808,8 largest firms,2007,15204,24481120,33.8,3932318,976971,172851
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",820,20 largest firms,2007,19169,32310222,44.6,5444305,1343736,223193
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",850,50 largest firms,2007,20957,34980993,48.3,5900588,1460577,238942
+0100000US,,United States,44131,Automotive parts and accessories stores,001,All firms,2007,38233,42916881,100.0,6933476,1725289,301642
+0100000US,,United States,44131,Automotive parts and accessories stores,804,4 largest firms,2007,9496,14924225,34.8,2238434,560007,117704
+0100000US,,United States,44131,Automotive parts and accessories stores,808,8 largest firms,2007,13317,19820543,46.2,2988590,761057,150703
+0100000US,,United States,44131,Automotive parts and accessories stores,820,20 largest firms,2007,14188,21307578,49.6,3219012,819707,159346
+0100000US,,United States,44131,Automotive parts and accessories stores,850,50 largest firms,2007,14898,22437987,52.3,3387767,862115,165753
+0100000US,,United States,441310,Automotive parts and accessories stores,001,All firms,2007,38233,42916881,100.0,6933476,1725289,301642
+0100000US,,United States,441310,Automotive parts and accessories stores,804,4 largest firms,2007,9496,14924225,34.8,2238434,560007,117704
+0100000US,,United States,441310,Automotive parts and accessories stores,808,8 largest firms,2007,13317,19820543,46.2,2988590,761057,150703
+0100000US,,United States,441310,Automotive parts and accessories stores,820,20 largest firms,2007,14188,21307578,49.6,3219012,819707,159346
+0100000US,,United States,441310,Automotive parts and accessories stores,850,50 largest firms,2007,14898,22437987,52.3,3387767,862115,165753
+0100000US,,United States,4413104,"Automotive parts and accessories stores, except used",001,All firms,2007,34561,39441035,100.0,6262790,1563628,276832
+0100000US,,United States,4413104,"Automotive parts and accessories stores, except used",804,4 largest firms,2007,9496,14924225,37.8,2238434,560007,117704
+0100000US,,United States,4413104,"Automotive parts and accessories stores, except used",808,8 largest firms,2007,13315,19816504,50.2,2988094,760934,150682
+0100000US,,United States,4413104,"Automotive parts and accessories stores, except used",820,20 largest firms,2007,14151,20983817,53.2,3186202,812304,158448
+0100000US,,United States,4413104,"Automotive parts and accessories stores, except used",850,50 largest firms,2007,14711,21981315,55.7,3331372,848505,163275
+0100000US,,United States,4413105,Used automotive parts and accessories stores,001,All firms,2007,3672,3475846,100.0,670686,161661,24810
+0100000US,,United States,4413105,Used automotive parts and accessories stores,804,4 largest firms,2007,202,489168,14.1,61429,14899,2546
+0100000US,,United States,4413105,Used automotive parts and accessories stores,808,8 largest firms,2007,226,592557,17.0,78806,19270,2992
+0100000US,,United States,4413105,Used automotive parts and accessories stores,820,20 largest firms,2007,242,780819,22.5,110114,26572,3770
+0100000US,,United States,4413105,Used automotive parts and accessories stores,850,50 largest firms,2007,301,1055346,30.4,162382,38833,5235
+0100000US,,United States,44132,Tire dealers,001,All firms,2007,20127,29501396,100.0,5582498,1333130,173907
+0100000US,,United States,44132,Tire dealers,804,4 largest firms,2007,4103,9129625,30.9,1735818,406323,52646
+0100000US,,United States,44132,Tire dealers,808,8 largest firms,2007,5721,11872231,40.2,2357938,558203,70180
+0100000US,,United States,44132,Tire dealers,820,20 largest firms,2007,6409,13070372,44.3,2582135,616143,76316
+0100000US,,United States,44132,Tire dealers,850,50 largest firms,2007,7110,14454257,49.0,2819001,673716,82697
+0100000US,,United States,441320,Tire dealers,001,All firms,2007,20127,29501396,100.0,5582498,1333130,173907
+0100000US,,United States,441320,Tire dealers,804,4 largest firms,2007,4103,9129625,30.9,1735818,406323,52646
+0100000US,,United States,441320,Tire dealers,808,8 largest firms,2007,5721,11872231,40.2,2357938,558203,70180
+0100000US,,United States,441320,Tire dealers,820,20 largest firms,2007,6409,13070372,44.3,2582135,616143,76316
+0100000US,,United States,441320,Tire dealers,850,50 largest firms,2007,7110,14454257,49.0,2819001,673716,82697
+0100000US,,United States,442,Furniture and home furnishings stores,001,All firms,2007,65144,108220081,100.0,14882633,3693751,557477
+0100000US,,United States,442,Furniture and home furnishings stores,804,4 largest firms,2007,2115,15080554,13.9,1506197,375212,77190
+0100000US,,United States,442,Furniture and home furnishings stores,808,8 largest firms,2007,3755,21611584,20.0,2166930,542553,107710
+0100000US,,United States,442,Furniture and home furnishings stores,820,20 largest firms,2007,6697,30531961,28.2,3238776,814178,147592
+0100000US,,United States,442,Furniture and home furnishings stores,850,50 largest firms,2007,9797,39076316,36.1,4309917,1080304,192682
+0100000US,,United States,4421,Furniture stores,001,All firms,2007,28834,58172947,100.0,7975034,1996812,266374
+0100000US,,United States,4421,Furniture stores,804,4 largest firms,2007,351,7951893,13.7,769565,184771,24686
+0100000US,,United States,4421,Furniture stores,808,8 largest firms,2007,1404,11054832,19.0,1121839,272589,33784
+0100000US,,United States,4421,Furniture stores,820,20 largest firms,2007,2759,16340995,28.1,1785908,434317,50886
+0100000US,,United States,4421,Furniture stores,850,50 largest firms,2007,4508,21602310,37.1,2463506,608945,74582
+0100000US,,United States,44211,Furniture stores,001,All firms,2007,28834,58172947,100.0,7975034,1996812,266374
+0100000US,,United States,44211,Furniture stores,804,4 largest firms,2007,351,7951893,13.7,769565,184771,24686
+0100000US,,United States,44211,Furniture stores,808,8 largest firms,2007,1404,11054832,19.0,1121839,272589,33784
+0100000US,,United States,44211,Furniture stores,820,20 largest firms,2007,2759,16340995,28.1,1785908,434317,50886
+0100000US,,United States,44211,Furniture stores,850,50 largest firms,2007,4508,21602310,37.1,2463506,608945,74582
+0100000US,,United States,442110,Furniture stores,001,All firms,2007,28834,58172947,100.0,7975034,1996812,266374
+0100000US,,United States,442110,Furniture stores,804,4 largest firms,2007,351,7951893,13.7,769565,184771,24686
+0100000US,,United States,442110,Furniture stores,808,8 largest firms,2007,1404,11054832,19.0,1121839,272589,33784
+0100000US,,United States,442110,Furniture stores,820,20 largest firms,2007,2759,16340995,28.1,1785908,434317,50886
+0100000US,,United States,442110,Furniture stores,850,50 largest firms,2007,4508,21602310,37.1,2463506,608945,74582
+0100000US,,United States,4422,Home furnishings stores,001,All firms,2007,36310,50047134,100.0,6907599,1696939,291103
+0100000US,,United States,4422,Home furnishings stores,804,4 largest firms,2007,2378,13343843,26.7,1375791,351591,75418
+0100000US,,United States,4422,Home furnishings stores,808,8 largest firms,2007,4529,16631042,33.2,1766970,457179,105290
+0100000US,,United States,4422,Home furnishings stores,820,20 largest firms,2007,6170,19913569,39.8,2157881,554070,129361
+0100000US,,United States,4422,Home furnishings stores,850,50 largest firms,2007,7120,22049507,44.1,2429690,620192,138583
+0100000US,,United States,44221,Floor covering stores,001,All firms,2007,14534,21174151,100.0,3219963,771969,89420
+0100000US,,United States,44221,Floor covering stores,804,4 largest firms,2007,83,608258,2.9,75667,18457,1423
+0100000US,,United States,44221,Floor covering stores,808,8 largest firms,2007,151,926147,4.4,110442,27182,2205
+0100000US,,United States,44221,Floor covering stores,820,20 largest firms,2007,278,1523892,7.2,190398,47042,4086
+0100000US,,United States,44221,Floor covering stores,850,50 largest firms,2007,417,2390704,11.3,312850,77932,6647
+0100000US,,United States,442210,Floor covering stores,001,All firms,2007,14534,21174151,100.0,3219963,771969,89420
+0100000US,,United States,442210,Floor covering stores,804,4 largest firms,2007,83,608258,2.9,75667,18457,1423
+0100000US,,United States,442210,Floor covering stores,808,8 largest firms,2007,151,926147,4.4,110442,27182,2205
+0100000US,,United States,442210,Floor covering stores,820,20 largest firms,2007,278,1523892,7.2,190398,47042,4086
+0100000US,,United States,442210,Floor covering stores,850,50 largest firms,2007,417,2390704,11.3,312850,77932,6647
+0100000US,,United States,44229,Other home furnishings stores,001,All firms,2007,21776,28872983,100.0,3687636,924970,201683
+0100000US,,United States,44229,Other home furnishings stores,804,4 largest firms,2007,2378,13343843,46.2,1375791,351591,75418
+0100000US,,United States,44229,Other home furnishings stores,808,8 largest firms,2007,4529,16631042,57.6,1766970,457179,105290
+0100000US,,United States,44229,Other home furnishings stores,820,20 largest firms,2007,6230,19822415,68.7,2144442,550611,129810
+0100000US,,United States,44229,Other home furnishings stores,850,50 largest firms,2007,7138,21071243,73.0,2319746,593770,137728
+0100000US,,United States,442291,Window treatment stores,001,All firms,2007,2652,1546007,100.0,259954,62416,9626
+0100000US,,United States,442291,Window treatment stores,804,4 largest firms,2007,290,258324,16.7,37091,9271,1156
+0100000US,,United States,442291,Window treatment stores,808,8 largest firms,2007,303,319048,20.6,47261,11362,1485
+0100000US,,United States,442291,Window treatment stores,820,20 largest firms,2007,324,391357,25.3,59593,14055,1816
+0100000US,,United States,442291,Window treatment stores,850,50 largest firms,2007,379,511616,33.1,83540,19499,2401
+0100000US,,United States,442299,All other home furnishings stores,001,All firms,2007,19124,27326976,100.0,3427682,862554,192057
+0100000US,,United States,442299,All other home furnishings stores,804,4 largest firms,2007,2378,13343843,48.8,1375791,351591,75418
+0100000US,,United States,442299,All other home furnishings stores,808,8 largest firms,2007,4529,16631042,60.9,1766970,457179,105290
+0100000US,,United States,442299,All other home furnishings stores,820,20 largest firms,2007,6230,19822415,72.5,2144442,550611,129810
+0100000US,,United States,442299,All other home furnishings stores,850,50 largest firms,2007,6931,20859571,76.3,2289584,586367,136967
+0100000US,,United States,443,Electronics and appliance stores,001,All firms,2007,50803,109014992,100.0,11219666,2820303,486483
+0100000US,,United States,443,Electronics and appliance stores,804,4 largest firms,2007,5959,50511752,46.3,3557666,894031,185422
+0100000US,,United States,443,Electronics and appliance stores,808,8 largest firms,2007,11978,62058084,56.9,4673570,1219213,256836
+0100000US,,United States,443,Electronics and appliance stores,820,20 largest firms,2007,14493,72257159,66.3,5659021,1455983,290812
+0100000US,,United States,443,Electronics and appliance stores,850,50 largest firms,2007,16381,77347923,71.0,6205657,1593769,308613
+0100000US,,United States,4431,Electronics and appliance stores,001,All firms,2007,50803,109014992,100.0,11219666,2820303,486483
+0100000US,,United States,4431,Electronics and appliance stores,804,4 largest firms,2007,5959,50511752,46.3,3557666,894031,185422
+0100000US,,United States,4431,Electronics and appliance stores,808,8 largest firms,2007,11978,62058084,56.9,4673570,1219213,256836
+0100000US,,United States,4431,Electronics and appliance stores,820,20 largest firms,2007,14493,72257159,66.3,5659021,1455983,290812
+0100000US,,United States,4431,Electronics and appliance stores,850,50 largest firms,2007,16381,77347923,71.0,6205657,1593769,308613
+0100000US,,United States,44311,"Appliance, television, and other electronics stores",001,All firms,2007,38387,85145069,100.0,8647513,2197551,379419
+0100000US,,United States,44311,"Appliance, television, and other electronics stores",804,4 largest firms,2007,7392,47453155,55.7,3324601,892863,191339
+0100000US,,United States,44311,"Appliance, television, and other electronics stores",808,8 largest firms,2007,8548,51750318,60.8,3802793,999202,207486
+0100000US,,United States,44311,"Appliance, television, and other electronics stores",820,20 largest firms,2007,10013,56687772,66.6,4321043,1136676,225892
+0100000US,,United States,44311,"Appliance, television, and other electronics stores",850,50 largest firms,2007,10841,60058894,70.5,4629987,1217313,234272
+0100000US,,United States,443111,Household appliance stores,001,All firms,2007,9336,17501247,100.0,2091185,504856,70045
+0100000US,,United States,443111,Household appliance stores,804,4 largest firms,2007,240,3722972,21.3,272357,65856,9086
+0100000US,,United States,443111,Household appliance stores,808,8 largest firms,2007,315,4836468,27.6,404927,93235,12335
+0100000US,,United States,443111,Household appliance stores,820,20 largest firms,2007,398,5760467,32.9,494006,116675,14355
+0100000US,,United States,443111,Household appliance stores,850,50 largest firms,2007,710,6985145,39.9,632419,151578,18115
+0100000US,,United States,443112,"Radio, television, and other electronics stores",001,All firms,2007,29051,67643822,100.0,6556328,1692695,309374
+0100000US,,United States,443112,"Radio, television, and other electronics stores",804,4 largest firms,2007,7388,47345651,70.0,3318091,890420,191223
+0100000US,,United States,443112,"Radio, television, and other electronics stores",808,8 largest firms,2007,8691,50160107,74.2,3683496,982793,204476
+0100000US,,United States,443112,"Radio, television, and other electronics stores",820,20 largest firms,2007,9930,53201565,78.6,4020690,1069267,216752
+0100000US,,United States,443112,"Radio, television, and other electronics stores",850,50 largest firms,2007,11061,54956502,81.2,4223161,1122445,222789
+0100000US,,United States,44312,Computer and software stores,001,All firms,2007,10428,19972963,100.0,2158114,525055,92777
+0100000US,,United States,44312,Computer and software stores,804,4 largest firms,2007,4584,14600963,73.1,1348587,326239,65475
+0100000US,,United States,44312,Computer and software stores,808,8 largest firms,2007,4709,15417827,77.2,1405739,341265,68214
+0100000US,,United States,44312,Computer and software stores,820,20 largest firms,2007,4769,15791672,79.1,1443332,350093,69266
+0100000US,,United States,44312,Computer and software stores,850,50 largest firms,2007,4823,16261943,81.4,1500201,361885,70202
+0100000US,,United States,443120,Computer and software stores,001,All firms,2007,10428,19972963,100.0,2158114,525055,92777
+0100000US,,United States,443120,Computer and software stores,804,4 largest firms,2007,4584,14600963,73.1,1348587,326239,65475
+0100000US,,United States,443120,Computer and software stores,808,8 largest firms,2007,4709,15417827,77.2,1405739,341265,68214
+0100000US,,United States,443120,Computer and software stores,820,20 largest firms,2007,4769,15791672,79.1,1443332,350093,69266
+0100000US,,United States,443120,Computer and software stores,850,50 largest firms,2007,4823,16261943,81.4,1500201,361885,70202
+0100000US,,United States,44313,Camera and photographic supplies stores,001,All firms,2007,1988,3896960,100.0,414039,97697,14287
+0100000US,,United States,44313,Camera and photographic supplies stores,804,4 largest firms,2007,1042,2569980,65.9,243684,55393,8079
+0100000US,,United States,44313,Camera and photographic supplies stores,808,8 largest firms,2007,1069,2734442,70.2,262089,59903,8570
+0100000US,,United States,44313,Camera and photographic supplies stores,820,20 largest firms,2007,1111,2938150,75.4,281520,64664,9118
+0100000US,,United States,44313,Camera and photographic supplies stores,850,50 largest firms,2007,1160,3192057,81.9,312138,72438,10058
+0100000US,,United States,443130,Camera and photographic supplies stores,001,All firms,2007,1988,3896960,100.0,414039,97697,14287
+0100000US,,United States,443130,Camera and photographic supplies stores,804,4 largest firms,2007,1042,2569980,65.9,243684,55393,8079
+0100000US,,United States,443130,Camera and photographic supplies stores,808,8 largest firms,2007,1069,2734442,70.2,262089,59903,8570
+0100000US,,United States,443130,Camera and photographic supplies stores,820,20 largest firms,2007,1111,2938150,75.4,281520,64664,9118
+0100000US,,United States,443130,Camera and photographic supplies stores,850,50 largest firms,2007,1160,3192057,81.9,312138,72438,10058
+0100000US,,United States,444,Building material and garden equipment and supplies dealers,001,All firms,2007,91070,318320271,100.0,37709991,9227156,1331322
+0100000US,,United States,444,Building material and garden equipment and supplies dealers,804,4 largest firms,2007,6837,129266416,40.6,12678677,3280289,540861
+0100000US,,United States,444,Building material and garden equipment and supplies dealers,808,8 largest firms,2007,8757,141842570,44.6,13670786,3536310,570570
+0100000US,,United States,444,Building material and garden equipment and supplies dealers,820,20 largest firms,2007,12273,153350477,48.2,14928438,3844354,607566
+0100000US,,United States,444,Building material and garden equipment and supplies dealers,850,50 largest firms,2007,15064,163227199,51.3,15895103,4090803,638295
+0100000US,,United States,4441,Building material and supplies dealers,001,All firms,2007,70818,281870986,100.0,33571408,8337187,1164426
+0100000US,,United States,4441,Building material and supplies dealers,804,4 largest firms,2007,6837,129266416,45.9,12678677,3280289,540861
+0100000US,,United States,4441,Building material and supplies dealers,808,8 largest firms,2007,10106,141091910,50.1,13783884,3556564,567611
+0100000US,,United States,4441,Building material and supplies dealers,820,20 largest firms,2007,11850,150863880,53.5,14795526,3808441,597985
+0100000US,,United States,4441,Building material and supplies dealers,850,50 largest firms,2007,14000,159302894,56.5,15690937,4040855,624395
+0100000US,,United States,44411,Home centers,001,All firms,2007,6953,134821247,100.0,13507517,3475071,579442
+0100000US,,United States,44411,Home centers,804,4 largest firms,2007,3789,124933207,92.7,12230609,3169543,531319
+0100000US,,United States,44411,Home centers,808,8 largest firms,2007,3811,125444018,93.0,12280035,3182308,533023
+0100000US,,United States,44411,Home centers,820,20 largest firms,2007,3984,126309204,93.7,12376064,3205551,537453
+0100000US,,United States,44411,Home centers,850,50 largest firms,2007,4091,127393973,94.5,12512536,3240068,541854
+0100000US,,United States,444110,Home centers,001,All firms,2007,6953,134821247,100.0,13507517,3475071,579442
+0100000US,,United States,444110,Home centers,804,4 largest firms,2007,3789,124933207,92.7,12230609,3169543,531319
+0100000US,,United States,444110,Home centers,808,8 largest firms,2007,3811,125444018,93.0,12280035,3182308,533023
+0100000US,,United States,444110,Home centers,820,20 largest firms,2007,3984,126309204,93.7,12376064,3205551,537453
+0100000US,,United States,444110,Home centers,850,50 largest firms,2007,4091,127393973,94.5,12512536,3240068,541854
+0100000US,,United States,44412,Paint and wallpaper stores,001,All firms,2007,7860,10052960,100.0,1262492,312255,35491
+0100000US,,United States,44412,Paint and wallpaper stores,804,4 largest firms,2007,4199,6004310,59.7,645320,160439,15090
+0100000US,,United States,44412,Paint and wallpaper stores,808,8 largest firms,2007,4624,6937753,69.0,769640,192846,18709
+0100000US,,United States,44412,Paint and wallpaper stores,820,20 largest firms,2007,4909,7405433,73.7,831086,207632,20635
+0100000US,,United States,44412,Paint and wallpaper stores,850,50 largest firms,2007,5142,7751554,77.1,881201,220101,22054
+0100000US,,United States,444120,Paint and wallpaper stores,001,All firms,2007,7860,10052960,100.0,1262492,312255,35491
+0100000US,,United States,444120,Paint and wallpaper stores,804,4 largest firms,2007,4199,6004310,59.7,645320,160439,15090
+0100000US,,United States,444120,Paint and wallpaper stores,808,8 largest firms,2007,4624,6937753,69.0,769640,192846,18709
+0100000US,,United States,444120,Paint and wallpaper stores,820,20 largest firms,2007,4909,7405433,73.7,831086,207632,20635
+0100000US,,United States,444120,Paint and wallpaper stores,850,50 largest firms,2007,5142,7751554,77.1,881201,220101,22054
+0100000US,,United States,44413,Hardware stores,001,All firms,2007,16454,20130557,100.0,3160537,746689,143738
+0100000US,,United States,44413,Hardware stores,804,4 largest firms,2007,2602,3935371,19.5,500171,118091,20395
+0100000US,,United States,44413,Hardware stores,808,8 largest firms,2007,2958,4566235,22.7,595149,140468,24339
+0100000US,,United States,44413,Hardware stores,820,20 largest firms,2007,3318,5353023,26.6,707679,167985,28497
+0100000US,,United States,44413,Hardware stores,850,50 largest firms,2007,3461,6107674,30.3,819220,194785,32550
+0100000US,,United States,444130,Hardware stores,001,All firms,2007,16454,20130557,100.0,3160537,746689,143738
+0100000US,,United States,444130,Hardware stores,804,4 largest firms,2007,2602,3935371,19.5,500171,118091,20395
+0100000US,,United States,444130,Hardware stores,808,8 largest firms,2007,2958,4566235,22.7,595149,140468,24339
+0100000US,,United States,444130,Hardware stores,820,20 largest firms,2007,3318,5353023,26.6,707679,167985,28497
+0100000US,,United States,444130,Hardware stores,850,50 largest firms,2007,3461,6107674,30.3,819220,194785,32550
+0100000US,,United States,44419,Other building material dealers,001,All firms,2007,39551,116866222,100.0,15640862,3803172,405755
+0100000US,,United States,44419,Other building material dealers,804,4 largest firms,2007,1201,11153627,9.5,979565,256538,23759
+0100000US,,United States,44419,Other building material dealers,808,8 largest firms,2007,1533,14721249,12.6,1318808,340660,31117
+0100000US,,United States,44419,Other building material dealers,820,20 largest firms,2007,2476,19875165,17.0,1820388,456680,44165
+0100000US,,United States,44419,Other building material dealers,850,50 largest firms,2007,3170,25094065,21.5,2383204,608966,56621
+0100000US,,United States,444190,Other building material dealers,001,All firms,2007,39551,116866222,100.0,15640862,3803172,405755
+0100000US,,United States,444190,Other building material dealers,804,4 largest firms,2007,1201,11153627,9.5,979565,256538,23759
+0100000US,,United States,444190,Other building material dealers,808,8 largest firms,2007,1533,14721249,12.6,1318808,340660,31117
+0100000US,,United States,444190,Other building material dealers,820,20 largest firms,2007,2476,19875165,17.0,1820388,456680,44165
+0100000US,,United States,444190,Other building material dealers,850,50 largest firms,2007,3170,25094065,21.5,2383204,608966,56621
+0100000US,,United States,4441901,Retail lumber yards,001,All firms,2007,10015,42451784,100.0,4982611,1232430,140358
+0100000US,,United States,4441901,Retail lumber yards,804,4 largest firms,2007,738,7758803,18.3,699544,190029,19656
+0100000US,,United States,4441901,Retail lumber yards,808,8 largest firms,2007,1050,9592902,22.6,879123,235949,25976
+0100000US,,United States,4441901,Retail lumber yards,820,20 largest firms,2007,1286,12011709,28.3,1145791,305071,32179
+0100000US,,United States,4441901,Retail lumber yards,850,50 largest firms,2007,1580,14737112,34.7,1467025,387452,40386
+0100000US,,United States,4441902,All other building material dealers,001,All firms,2007,29536,74414438,100.0,10658251,2570742,265397
+0100000US,,United States,4441902,All other building material dealers,804,4 largest firms,2007,746,6199090,8.3,580798,141934,10462
+0100000US,,United States,4441902,All other building material dealers,808,8 largest firms,2007,1028,8539136,11.5,764357,181050,13912
+0100000US,,United States,4441902,All other building material dealers,820,20 largest firms,2007,1621,11265925,15.1,1015953,246981,19913
+0100000US,,United States,4441902,All other building material dealers,850,50 largest firms,2007,2077,14737127,19.8,1416050,346882,28296
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,001,All firms,2007,20252,36449285,100.0,4138583,889969,166896
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,804,4 largest firms,2007,1110,4461823,12.2,268470,67831,14037
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,808,8 largest firms,2007,1344,5375368,14.7,334774,83078,17142
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,820,20 largest firms,2007,1596,6624855,18.2,447999,108252,21165
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,850,50 largest firms,2007,1902,8337801,22.9,615162,146635,27590
+0100000US,,United States,44421,Outdoor power equipment stores,001,All firms,2007,4357,5740482,100.0,739473,167897,25882
+0100000US,,United States,44421,Outdoor power equipment stores,804,4 largest firms,2007,36,271229,4.7,35050,9528,745
+0100000US,,United States,44421,Outdoor power equipment stores,808,8 largest firms,2007,45,409334,7.1,48677,12649,1192
+0100000US,,United States,44421,Outdoor power equipment stores,820,20 largest firms,2007,85,667559,11.6,71487,17744,1735
+0100000US,,United States,44421,Outdoor power equipment stores,850,50 largest firms,2007,154,1030386,17.9,108978,26227,2762
+0100000US,,United States,444210,Outdoor power equipment stores,001,All firms,2007,4357,5740482,100.0,739473,167897,25882
+0100000US,,United States,444210,Outdoor power equipment stores,804,4 largest firms,2007,36,271229,4.7,35050,9528,745
+0100000US,,United States,444210,Outdoor power equipment stores,808,8 largest firms,2007,45,409334,7.1,48677,12649,1192
+0100000US,,United States,444210,Outdoor power equipment stores,820,20 largest firms,2007,85,667559,11.6,71487,17744,1735
+0100000US,,United States,444210,Outdoor power equipment stores,850,50 largest firms,2007,154,1030386,17.9,108978,26227,2762
+0100000US,,United States,44422,"Nursery, garden center, and farm supply stores",001,All firms,2007,15895,30708803,100.0,3399110,722072,141014
+0100000US,,United States,44422,"Nursery, garden center, and farm supply stores",804,4 largest firms,2007,1110,4461823,14.5,268470,67831,14037
+0100000US,,United States,44422,"Nursery, garden center, and farm supply stores",808,8 largest firms,2007,1344,5375368,17.5,334774,83078,17142
+0100000US,,United States,44422,"Nursery, garden center, and farm supply stores",820,20 largest firms,2007,1619,6591139,21.5,443956,107014,21243
+0100000US,,United States,44422,"Nursery, garden center, and farm supply stores",850,50 largest firms,2007,1875,8227799,26.8,590575,139229,27252
+0100000US,,United States,444220,"Nursery, garden center, and farm supply stores",001,All firms,2007,15895,30708803,100.0,3399110,722072,141014
+0100000US,,United States,444220,"Nursery, garden center, and farm supply stores",804,4 largest firms,2007,1110,4461823,14.5,268470,67831,14037
+0100000US,,United States,444220,"Nursery, garden center, and farm supply stores",808,8 largest firms,2007,1344,5375368,17.5,334774,83078,17142
+0100000US,,United States,444220,"Nursery, garden center, and farm supply stores",820,20 largest firms,2007,1619,6591139,21.5,443956,107014,21243
+0100000US,,United States,444220,"Nursery, garden center, and farm supply stores",850,50 largest firms,2007,1875,8227799,26.8,590575,139229,27252
+0100000US,,United States,445,Food and beverage stores,001,All firms,2007,146084,539207574,100.0,54655594,13412802,2827162
+0100000US,,United States,445,Food and beverage stores,804,4 largest firms,2007,6480,149430225,27.7,15029697,3715527,672346
+0100000US,,United States,445,Food and beverage stores,808,8 largest firms,2007,9693,212580836,39.4,21128378,5201968,972146
+0100000US,,United States,445,Food and beverage stores,820,20 largest firms,2007,13388,274072041,50.8,27640980,6847866,1284267
+0100000US,,United States,445,Food and beverage stores,850,50 largest firms,2007,17443,329134259,61.0,33073426,8208931,1554911
+0100000US,,United States,4451,Grocery stores,001,All firms,2007,90391,487107416,100.0,49896890,12287693,2551212
+0100000US,,United States,4451,Grocery stores,804,4 largest firms,2007,6476,149422970,30.7,15029337,3715420,672327
+0100000US,,United States,4451,Grocery stores,808,8 largest firms,2007,9667,212518000,43.6,21123718,5200892,971940
+0100000US,,United States,4451,Grocery stores,820,20 largest firms,2007,13360,273993300,56.2,27634947,6846446,1284004
+0100000US,,United States,4451,Grocery stores,850,50 largest firms,2007,16826,328593489,67.5,33058331,8204578,1556091
+0100000US,,United States,44511,Supermarkets and other grocery (except convenience) stores,001,All firms,2007,64881,466225948,100.0,48088532,11847100,2432425
+0100000US,,United States,44511,Supermarkets and other grocery (except convenience) stores,804,4 largest firms,2007,6420,149363618,32.0,15021909,3713561,671934
+0100000US,,United States,44511,Supermarkets and other grocery (except convenience) stores,808,8 largest firms,2007,9611,212458648,45.6,21116290,5199033,971547
+0100000US,,United States,44511,Supermarkets and other grocery (except convenience) stores,820,20 largest firms,2007,13304,273933948,58.8,27627519,6844587,1283611
+0100000US,,United States,44511,Supermarkets and other grocery (except convenience) stores,850,50 largest firms,2007,16411,327382921,70.2,32976866,8186824,1552932
+0100000US,,United States,445110,Supermarkets and other grocery (except convenience) stores,001,All firms,2007,64881,466225948,100.0,48088532,11847100,2432425
+0100000US,,United States,445110,Supermarkets and other grocery (except convenience) stores,804,4 largest firms,2007,6420,149363618,32.0,15021909,3713561,671934
+0100000US,,United States,445110,Supermarkets and other grocery (except convenience) stores,808,8 largest firms,2007,9611,212458648,45.6,21116290,5199033,971547
+0100000US,,United States,445110,Supermarkets and other grocery (except convenience) stores,820,20 largest firms,2007,13304,273933948,58.8,27627519,6844587,1283611
+0100000US,,United States,445110,Supermarkets and other grocery (except convenience) stores,850,50 largest firms,2007,16411,327382921,70.2,32976866,8186824,1552932
+0100000US,,United States,44512,Convenience stores,001,All firms,2007,25510,20881468,100.0,1808358,440593,118787
+0100000US,,United States,44512,Convenience stores,804,4 largest firms,2007,1414,3338738,16.0,342341,82751,17880
+0100000US,,United States,44512,Convenience stores,808,8 largest firms,2007,1733,4093867,19.6,412862,100839,21573
+0100000US,,United States,44512,Convenience stores,820,20 largest firms,2007,2301,4876456,23.4,488642,119155,26065
+0100000US,,United States,44512,Convenience stores,850,50 largest firms,2007,2845,5483907,26.3,558620,136261,30769
+0100000US,,United States,445120,Convenience stores,001,All firms,2007,25510,20881468,100.0,1808358,440593,118787
+0100000US,,United States,445120,Convenience stores,804,4 largest firms,2007,1414,3338738,16.0,342341,82751,17880
+0100000US,,United States,445120,Convenience stores,808,8 largest firms,2007,1733,4093867,19.6,412862,100839,21573
+0100000US,,United States,445120,Convenience stores,820,20 largest firms,2007,2301,4876456,23.4,488642,119155,26065
+0100000US,,United States,445120,Convenience stores,850,50 largest firms,2007,2845,5483907,26.3,558620,136261,30769
+0100000US,,United States,4452,Specialty food stores,001,All firms,2007,24208,15786499,100.0,2166623,508696,134695
+0100000US,,United States,4452,Specialty food stores,804,4 largest firms,2007,1324,890861,5.6,124608,30733,6567
+0100000US,,United States,4452,Specialty food stores,808,8 largest firms,2007,1521,1241514,7.9,162762,40242,8471
+0100000US,,United States,4452,Specialty food stores,820,20 largest firms,2007,2578,1808172,11.5,249131,64933,12732
+0100000US,,United States,4452,Specialty food stores,850,50 largest firms,2007,3152,2500567,15.8,340097,86228,18230
+0100000US,,United States,44521,Meat markets,001,All firms,2007,6009,5705273,100.0,723323,170874,38703
+0100000US,,United States,44521,Meat markets,804,4 largest firms,2007,261,374481,6.6,41299,10177,2201
+0100000US,,United States,44521,Meat markets,808,8 largest firms,2007,292,492026,8.6,56285,12883,2745
+0100000US,,United States,44521,Meat markets,820,20 largest firms,2007,346,739384,13.0,76459,17660,3502
+0100000US,,United States,44521,Meat markets,850,50 largest firms,2007,433,1062163,18.6,113997,26550,5095
+0100000US,,United States,445210,Meat markets,001,All firms,2007,6009,5705273,100.0,723323,170874,38703
+0100000US,,United States,445210,Meat markets,804,4 largest firms,2007,261,374481,6.6,41299,10177,2201
+0100000US,,United States,445210,Meat markets,808,8 largest firms,2007,292,492026,8.6,56285,12883,2745
+0100000US,,United States,445210,Meat markets,820,20 largest firms,2007,346,739384,13.0,76459,17660,3502
+0100000US,,United States,445210,Meat markets,850,50 largest firms,2007,433,1062163,18.6,113997,26550,5095
+0100000US,,United States,44522,Fish and seafood markets,001,All firms,2007,2063,1800369,100.0,196921,44768,10012
+0100000US,,United States,44522,Fish and seafood markets,804,4 largest firms,2007,4,74180,4.1,4486,934,124
+0100000US,,United States,44522,Fish and seafood markets,808,8 largest firms,2007,8,126090,7.0,13128,2914,430
+0100000US,,United States,44522,Fish and seafood markets,820,20 largest firms,2007,25,256889,14.3,22584,5047,757
+0100000US,,United States,44522,Fish and seafood markets,850,50 largest firms,2007,63,460159,25.6,37829,8482,1310
+0100000US,,United States,445220,Fish and seafood markets,001,All firms,2007,2063,1800369,100.0,196921,44768,10012
+0100000US,,United States,445220,Fish and seafood markets,804,4 largest firms,2007,4,74180,4.1,4486,934,124
+0100000US,,United States,445220,Fish and seafood markets,808,8 largest firms,2007,8,126090,7.0,13128,2914,430
+0100000US,,United States,445220,Fish and seafood markets,820,20 largest firms,2007,25,256889,14.3,22584,5047,757
+0100000US,,United States,445220,Fish and seafood markets,850,50 largest firms,2007,63,460159,25.6,37829,8482,1310
+0100000US,,United States,44523,Fruit and vegetable markets,001,All firms,2007,2938,3368405,100.0,374732,81177,19444
+0100000US,,United States,44523,Fruit and vegetable markets,804,4 largest firms,2007,21,232561,6.9,22818,4839,681
+0100000US,,United States,44523,Fruit and vegetable markets,808,8 largest firms,2007,27,333011,9.9,38768,8359,1357
+0100000US,,United States,44523,Fruit and vegetable markets,820,20 largest firms,2007,39,533908,15.9,57089,12487,2090
+0100000US,,United States,44523,Fruit and vegetable markets,850,50 largest firms,2007,87,884328,26.3,102312,22691,4017
+0100000US,,United States,445230,Fruit and vegetable markets,001,All firms,2007,2938,3368405,100.0,374732,81177,19444
+0100000US,,United States,445230,Fruit and vegetable markets,804,4 largest firms,2007,21,232561,6.9,22818,4839,681
+0100000US,,United States,445230,Fruit and vegetable markets,808,8 largest firms,2007,27,333011,9.9,38768,8359,1357
+0100000US,,United States,445230,Fruit and vegetable markets,820,20 largest firms,2007,39,533908,15.9,57089,12487,2090
+0100000US,,United States,445230,Fruit and vegetable markets,850,50 largest firms,2007,87,884328,26.3,102312,22691,4017
+0100000US,,United States,44529,Other specialty food stores,001,All firms,2007,13198,4912452,100.0,871647,211877,66536
+0100000US,,United States,44529,Other specialty food stores,804,4 largest firms,2007,1275,831381,16.9,116182,28997,6557
+0100000US,,United States,44529,Other specialty food stores,808,8 largest firms,2007,2177,1046294,21.3,161926,44483,8902
+0100000US,,United States,44529,Other specialty food stores,820,20 largest firms,2007,2834,1371453,27.9,218684,58731,13491
+0100000US,,United States,44529,Other specialty food stores,850,50 largest firms,2007,3027,1615534,32.9,258475,67845,15817
+0100000US,,United States,445291,Baked goods stores,001,All firms,2007,4290,1377518,100.0,275927,67016,18250
+0100000US,,United States,445291,Baked goods stores,804,4 largest firms,2007,795,444378,32.3,72796,19165,3149
+0100000US,,United States,445291,Baked goods stores,808,8 largest firms,2007,1032,522851,38.0,88156,22999,4198
+0100000US,,United States,445291,Baked goods stores,820,20 largest firms,2007,1072,573516,41.6,97148,25163,4743
+0100000US,,United States,445291,Baked goods stores,850,50 largest firms,2007,1114,637809,46.3,114080,29330,5641
+0100000US,,United States,445292,Confectionery and nut stores,001,All firms,2007,3404,1454332,100.0,233252,55870,18030
+0100000US,,United States,445292,Confectionery and nut stores,804,4 largest firms,2007,699,536138,36.9,77256,19203,4753
+0100000US,,United States,445292,Confectionery and nut stores,808,8 largest firms,2007,960,634587,43.6,95069,23730,6821
+0100000US,,United States,445292,Confectionery and nut stores,820,20 largest firms,2007,1056,742662,51.1,111083,27580,7689
+0100000US,,United States,445292,Confectionery and nut stores,850,50 largest firms,2007,1158,850234,58.5,129603,32043,8824
+0100000US,,United States,445299,All other specialty food stores,001,All firms,2007,5504,2080602,100.0,362468,88991,30256
+0100000US,,United States,445299,All other specialty food stores,804,4 largest firms,2007,797,178521,8.6,31620,11091,2098
+0100000US,,United States,445299,All other specialty food stores,808,8 largest firms,2007,867,241033,11.6,41248,13349,2800
+0100000US,,United States,445299,All other specialty food stores,820,20 largest firms,2007,916,332922,16.0,55598,16460,3610
+0100000US,,United States,445299,All other specialty food stores,850,50 largest firms,2007,1032,461041,22.2,80015,22353,5365
+0100000US,,United States,4453,"Beer, wine, and liquor stores",001,All firms,2007,31485,36313659,100.0,2592081,616413,141255
+0100000US,,United States,4453,"Beer, wine, and liquor stores",804,4 largest firms,2007,1350,3182736,8.8,199427,47856,6050
+0100000US,,United States,4453,"Beer, wine, and liquor stores",808,8 largest firms,2007,1903,4846691,13.3,279885,67835,9555
+0100000US,,United States,4453,"Beer, wine, and liquor stores",820,20 largest firms,2007,2477,6766455,18.6,376780,90963,13667
+0100000US,,United States,4453,"Beer, wine, and liquor stores",850,50 largest firms,2007,2828,8095249,22.3,474562,112459,16708
+0100000US,,United States,44531,"Beer, wine, and liquor stores",001,All firms,2007,31485,36313659,100.0,2592081,616413,141255
+0100000US,,United States,44531,"Beer, wine, and liquor stores",804,4 largest firms,2007,1350,3182736,8.8,199427,47856,6050
+0100000US,,United States,44531,"Beer, wine, and liquor stores",808,8 largest firms,2007,1903,4846691,13.3,279885,67835,9555
+0100000US,,United States,44531,"Beer, wine, and liquor stores",820,20 largest firms,2007,2477,6766455,18.6,376780,90963,13667
+0100000US,,United States,44531,"Beer, wine, and liquor stores",850,50 largest firms,2007,2828,8095249,22.3,474562,112459,16708
+0100000US,,United States,445310,"Beer, wine, and liquor stores",001,All firms,2007,31485,36313659,100.0,2592081,616413,141255
+0100000US,,United States,445310,"Beer, wine, and liquor stores",804,4 largest firms,2007,1350,3182736,8.8,199427,47856,6050
+0100000US,,United States,445310,"Beer, wine, and liquor stores",808,8 largest firms,2007,1903,4846691,13.3,279885,67835,9555
+0100000US,,United States,445310,"Beer, wine, and liquor stores",820,20 largest firms,2007,2477,6766455,18.6,376780,90963,13667
+0100000US,,United States,445310,"Beer, wine, and liquor stores",850,50 largest firms,2007,2828,8095249,22.3,474562,112459,16708
+0100000US,,United States,446,Health and personal care stores,001,All firms,2007,88452,234026783,100.0,28414937,6894176,1068186
+0100000US,,United States,446,Health and personal care stores,804,4 largest firms,2007,18156,127249115,54.4,14224896,3447673,551650
+0100000US,,United States,446,Health and personal care stores,808,8 largest firms,2007,24345,136210595,58.2,15533581,3788929,612978
+0100000US,,United States,446,Health and personal care stores,820,20 largest firms,2007,31371,146210290,62.5,16996562,4153364,673246
+0100000US,,United States,446,Health and personal care stores,850,50 largest firms,2007,36308,154867386,66.2,18113791,4441203,718040
+0100000US,,United States,4461,Health and personal care stores,001,All firms,2007,88452,234026783,100.0,28414937,6894176,1068186
+0100000US,,United States,4461,Health and personal care stores,804,4 largest firms,2007,18156,127249115,54.4,14224896,3447673,551650
+0100000US,,United States,4461,Health and personal care stores,808,8 largest firms,2007,24345,136210595,58.2,15533581,3788929,612978
+0100000US,,United States,4461,Health and personal care stores,820,20 largest firms,2007,31371,146210290,62.5,16996562,4153364,673246
+0100000US,,United States,4461,Health and personal care stores,850,50 largest firms,2007,36308,154867386,66.2,18113791,4441203,718040
+0100000US,,United States,44611,Pharmacies and drug stores,001,All firms,2007,42045,202042128,100.0,22385345,5408814,814836
+0100000US,,United States,44611,Pharmacies and drug stores,804,4 largest firms,2007,18156,127249115,63.0,14224896,3447673,551650
+0100000US,,United States,44611,Pharmacies and drug stores,808,8 largest firms,2007,18770,132915132,65.8,14811233,3586454,571635
+0100000US,,United States,44611,Pharmacies and drug stores,820,20 largest firms,2007,20110,138905640,68.8,15667608,3801235,597314
+0100000US,,United States,44611,Pharmacies and drug stores,850,50 largest firms,2007,20918,142703342,70.6,16062535,3911638,612123
+0100000US,,United States,446110,Pharmacies and drug stores,001,All firms,2007,42045,202042128,100.0,22385345,5408814,814836
+0100000US,,United States,446110,Pharmacies and drug stores,804,4 largest firms,2007,18156,127249115,63.0,14224896,3447673,551650
+0100000US,,United States,446110,Pharmacies and drug stores,808,8 largest firms,2007,18770,132915132,65.8,14811233,3586454,571635
+0100000US,,United States,446110,Pharmacies and drug stores,820,20 largest firms,2007,20110,138905640,68.8,15667608,3801235,597314
+0100000US,,United States,446110,Pharmacies and drug stores,850,50 largest firms,2007,20918,142703342,70.6,16062535,3911638,612123
+0100000US,,United States,44612,"Cosmetics, beauty supplies, and perfume stores",001,All firms,2007,13584,10310542,100.0,1392792,352845,86278
+0100000US,,United States,44612,"Cosmetics, beauty supplies, and perfume stores",804,4 largest firms,2007,4301,5586436,54.2,674241,175557,44431
+0100000US,,United States,44612,"Cosmetics, beauty supplies, and perfume stores",808,8 largest firms,2007,5756,6626390,64.3,843496,222016,55160
+0100000US,,United States,44612,"Cosmetics, beauty supplies, and perfume stores",820,20 largest firms,2007,6438,7308399,70.9,972535,252459,61594
+0100000US,,United States,44612,"Cosmetics, beauty supplies, and perfume stores",850,50 largest firms,2007,6532,7598489,73.7,1003900,259445,62706
+0100000US,,United States,446120,"Cosmetics, beauty supplies, and perfume stores",001,All firms,2007,13584,10310542,100.0,1392792,352845,86278
+0100000US,,United States,446120,"Cosmetics, beauty supplies, and perfume stores",804,4 largest firms,2007,4301,5586436,54.2,674241,175557,44431
+0100000US,,United States,446120,"Cosmetics, beauty supplies, and perfume stores",808,8 largest firms,2007,5756,6626390,64.3,843496,222016,55160
+0100000US,,United States,446120,"Cosmetics, beauty supplies, and perfume stores",820,20 largest firms,2007,6438,7308399,70.9,972535,252459,61594
+0100000US,,United States,446120,"Cosmetics, beauty supplies, and perfume stores",850,50 largest firms,2007,6532,7598489,73.7,1003900,259445,62706
+0100000US,,United States,44613,Optical goods stores,001,All firms,2007,13149,8031923,100.0,1841751,456511,70038
+0100000US,,United States,44613,Optical goods stores,804,4 largest firms,2007,5369,4080997,50.8,860952,216737,36369
+0100000US,,United States,44613,Optical goods stores,808,8 largest firms,2007,6171,4546575,56.6,963004,243195,39883
+0100000US,,United States,44613,Optical goods stores,820,20 largest firms,2007,6703,4955830,61.7,1074491,270120,43094
+0100000US,,United States,44613,Optical goods stores,850,50 largest firms,2007,7037,5232236,65.1,1136270,285126,45070
+0100000US,,United States,446130,Optical goods stores,001,All firms,2007,13149,8031923,100.0,1841751,456511,70038
+0100000US,,United States,446130,Optical goods stores,804,4 largest firms,2007,5369,4080997,50.8,860952,216737,36369
+0100000US,,United States,446130,Optical goods stores,808,8 largest firms,2007,6171,4546575,56.6,963004,243195,39883
+0100000US,,United States,446130,Optical goods stores,820,20 largest firms,2007,6703,4955830,61.7,1074491,270120,43094
+0100000US,,United States,446130,Optical goods stores,850,50 largest firms,2007,7037,5232236,65.1,1136270,285126,45070
+0100000US,,United States,44619,Other health and personal care stores,001,All firms,2007,19674,13642190,100.0,2795049,676006,97034
+0100000US,,United States,44619,Other health and personal care stores,804,4 largest firms,2007,3574,2308150,16.9,380464,99339,14984
+0100000US,,United States,44619,Other health and personal care stores,808,8 largest firms,2007,4128,2916876,21.4,492719,127460,19066
+0100000US,,United States,44619,Other health and personal care stores,820,20 largest firms,2007,4642,3450985,25.3,608592,156074,22156
+0100000US,,United States,44619,Other health and personal care stores,850,50 largest firms,2007,4977,4051189,29.7,744972,189013,25402
+0100000US,,United States,446191,Food (health) supplement stores,001,All firms,2007,8999,4850470,100.0,706753,178130,40067
+0100000US,,United States,446191,Food (health) supplement stores,804,4 largest firms,2007,3430,1852244,38.2,257361,68637,14326
+0100000US,,United States,446191,Food (health) supplement stores,808,8 largest firms,2007,3521,1991647,41.1,274676,72915,15168
+0100000US,,United States,446191,Food (health) supplement stores,820,20 largest firms,2007,3584,2137479,44.1,294264,77725,15971
+0100000US,,United States,446191,Food (health) supplement stores,850,50 largest firms,2007,3641,2342569,48.3,327253,85522,17565
+0100000US,,United States,446199,All other health and personal care stores,001,All firms,2007,10675,8791720,100.0,2088296,497876,56967
+0100000US,,United States,446199,All other health and personal care stores,804,4 largest firms,2007,698,1064632,12.1,235358,58823,4740
+0100000US,,United States,446199,All other health and personal care stores,808,8 largest firms,2007,1089,1316526,15.0,293489,73378,6084
+0100000US,,United States,446199,All other health and personal care stores,820,20 largest firms,2007,1187,1663196,18.9,380313,94531,7996
+0100000US,,United States,446199,All other health and personal care stores,850,50 largest firms,2007,1512,2167202,24.7,499243,123332,10814
+0100000US,,United States,447,Gasoline stations,001,All firms,2007,118756,450413061,100.0,14670825,3582405,890829
+0100000US,,United States,447,Gasoline stations,804,4 largest firms,2007,4591,45481319,10.1,1063159,251736,58562
+0100000US,,United States,447,Gasoline stations,808,8 largest firms,2007,8679,77204321,17.1,1709065,408326,93073
+0100000US,,United States,447,Gasoline stations,820,20 largest firms,2007,16876,137317226,30.5,3470855,843558,191017
+0100000US,,United States,447,Gasoline stations,850,50 largest firms,2007,25021,182425301,40.5,4759346,1166134,266361
+0100000US,,United States,4471,Gasoline stations,001,All firms,2007,118756,450413061,100.0,14670825,3582405,890829
+0100000US,,United States,4471,Gasoline stations,804,4 largest firms,2007,4591,45481319,10.1,1063159,251736,58562
+0100000US,,United States,4471,Gasoline stations,808,8 largest firms,2007,8679,77204321,17.1,1709065,408326,93073
+0100000US,,United States,4471,Gasoline stations,820,20 largest firms,2007,16876,137317226,30.5,3470855,843558,191017
+0100000US,,United States,4471,Gasoline stations,850,50 largest firms,2007,25021,182425301,40.5,4759346,1166134,266361
+0100000US,,United States,44711,Gasoline stations with convenience stores,001,All firms,2007,97508,336275435,100.0,11292510,2753601,719108
+0100000US,,United States,44711,Gasoline stations with convenience stores,804,4 largest firms,2007,5484,38272601,11.4,893004,208852,47649
+0100000US,,United States,44711,Gasoline stations with convenience stores,808,8 largest firms,2007,9845,62280355,18.5,1566453,382469,83184
+0100000US,,United States,44711,Gasoline stations with convenience stores,820,20 largest firms,2007,16843,105907603,31.5,2968372,716671,163552
+0100000US,,United States,44711,Gasoline stations with convenience stores,850,50 largest firms,2007,23225,136806456,40.7,3902802,957789,219911
+0100000US,,United States,447110,Gasoline stations with convenience stores,001,All firms,2007,97508,336275435,100.0,11292510,2753601,719108
+0100000US,,United States,447110,Gasoline stations with convenience stores,804,4 largest firms,2007,5484,38272601,11.4,893004,208852,47649
+0100000US,,United States,447110,Gasoline stations with convenience stores,808,8 largest firms,2007,9845,62280355,18.5,1566453,382469,83184
+0100000US,,United States,447110,Gasoline stations with convenience stores,820,20 largest firms,2007,16843,105907603,31.5,2968372,716671,163552
+0100000US,,United States,447110,Gasoline stations with convenience stores,850,50 largest firms,2007,23225,136806456,40.7,3902802,957789,219911
+0100000US,,United States,44719,Other gasoline stations,001,All firms,2007,21248,114137626,100.0,3378315,828804,171721
+0100000US,,United States,44719,Other gasoline stations,804,4 largest firms,2007,922,34857122,30.5,770056,188324,42228
+0100000US,,United States,44719,Other gasoline stations,808,8 largest firms,2007,1517,41124653,36.0,801500,196474,43771
+0100000US,,United States,44719,Other gasoline stations,820,20 largest firms,2007,2544,47639898,41.7,895929,219546,48520
+0100000US,,United States,44719,Other gasoline stations,850,50 largest firms,2007,3338,54338131,47.6,1039554,254597,56128
+0100000US,,United States,447190,Other gasoline stations,001,All firms,2007,21248,114137626,100.0,3378315,828804,171721
+0100000US,,United States,447190,Other gasoline stations,804,4 largest firms,2007,922,34857122,30.5,770056,188324,42228
+0100000US,,United States,447190,Other gasoline stations,808,8 largest firms,2007,1517,41124653,36.0,801500,196474,43771
+0100000US,,United States,447190,Other gasoline stations,820,20 largest firms,2007,2544,47639898,41.7,895929,219546,48520
+0100000US,,United States,447190,Other gasoline stations,850,50 largest firms,2007,3338,54338131,47.6,1039554,254597,56128
+0100000US,,United States,448,Clothing and clothing accessories stores,001,All firms,2007,156468,215647177,100.0,26855281,6577616,1644025
+0100000US,,United States,448,Clothing and clothing accessories stores,804,4 largest firms,2007,6862,40212927,18.6,4652395,1170358,284156
+0100000US,,United States,448,Clothing and clothing accessories stores,808,8 largest firms,2007,12279,56494804,26.2,6241717,1540315,428507
+0100000US,,United States,448,Clothing and clothing accessories stores,820,20 largest firms,2007,26363,83885333,38.9,9454489,2348849,625013
+0100000US,,United States,448,Clothing and clothing accessories stores,850,50 largest firms,2007,47533,120010038,55.7,13443639,3340287,922711
+0100000US,,United States,4481,Clothing stores,001,All firms,2007,99425,158048258,100.0,19266582,4672749,1273140
+0100000US,,United States,4481,Clothing stores,804,4 largest firms,2007,6860,40194985,25.4,4649537,1169539,284102
+0100000US,,United States,4481,Clothing stores,808,8 largest firms,2007,9370,56050204,35.5,6344399,1561144,414936
+0100000US,,United States,4481,Clothing stores,820,20 largest firms,2007,19094,79336906,50.2,8837955,2190102,596077
+0100000US,,United States,4481,Clothing stores,850,50 largest firms,2007,36007,106472949,67.4,11986327,2941394,852786
+0100000US,,United States,44811,Men's clothing stores,001,All firms,2007,8321,8538393,100.0,1364692,332939,57340
+0100000US,,United States,44811,Men's clothing stores,804,4 largest firms,2007,1634,2819673,33.0,464780,115602,15669
+0100000US,,United States,44811,Men's clothing stores,808,8 largest firms,2007,2101,3460522,40.5,546597,136091,20722
+0100000US,,United States,44811,Men's clothing stores,820,20 largest firms,2007,2496,4235150,49.6,643547,157112,24550
+0100000US,,United States,44811,Men's clothing stores,850,50 largest firms,2007,2905,4791224,56.1,728862,179887,28856
+0100000US,,United States,448110,Men's clothing stores,001,All firms,2007,8321,8538393,100.0,1364692,332939,57340
+0100000US,,United States,448110,Men's clothing stores,804,4 largest firms,2007,1634,2819673,33.0,464780,115602,15669
+0100000US,,United States,448110,Men's clothing stores,808,8 largest firms,2007,2101,3460522,40.5,546597,136091,20722
+0100000US,,United States,448110,Men's clothing stores,820,20 largest firms,2007,2496,4235150,49.6,643547,157112,24550
+0100000US,,United States,448110,Men's clothing stores,850,50 largest firms,2007,2905,4791224,56.1,728862,179887,28856
+0100000US,,United States,44812,Women's clothing stores,001,All firms,2007,36220,39463349,100.0,5100737,1217607,339798
+0100000US,,United States,44812,Women's clothing stores,804,4 largest firms,2007,4455,9369937,23.7,1243717,302180,70484
+0100000US,,United States,44812,Women's clothing stores,808,8 largest firms,2007,7529,14923673,37.8,1871465,454438,115680
+0100000US,,United States,44812,Women's clothing stores,820,20 largest firms,2007,13854,23300745,59.0,2862386,696113,197892
+0100000US,,United States,44812,Women's clothing stores,850,50 largest firms,2007,20080,29553157,74.9,3662793,876511,254197
+0100000US,,United States,448120,Women's clothing stores,001,All firms,2007,36220,39463349,100.0,5100737,1217607,339798
+0100000US,,United States,448120,Women's clothing stores,804,4 largest firms,2007,4455,9369937,23.7,1243717,302180,70484
+0100000US,,United States,448120,Women's clothing stores,808,8 largest firms,2007,7529,14923673,37.8,1871465,454438,115680
+0100000US,,United States,448120,Women's clothing stores,820,20 largest firms,2007,13854,23300745,59.0,2862386,696113,197892
+0100000US,,United States,448120,Women's clothing stores,850,50 largest firms,2007,20080,29553157,74.9,3662793,876511,254197
+0100000US,,United States,44813,Children's and infants' clothing stores,001,All firms,2007,7102,9338186,100.0,1049016,245795,98729
+0100000US,,United States,44813,Children's and infants' clothing stores,804,4 largest firms,2007,2256,5806305,62.2,585362,140853,58060
+0100000US,,United States,44813,Children's and infants' clothing stores,808,8 largest firms,2007,3655,7537075,80.7,779854,183859,79322
+0100000US,,United States,44813,Children's and infants' clothing stores,820,20 largest firms,2007,4161,7976949,85.4,842106,198208,84329
+0100000US,,United States,44813,Children's and infants' clothing stores,850,50 largest firms,2007,4334,8297417,88.9,893830,209824,86956
+0100000US,,United States,448130,Children's and infants' clothing stores,001,All firms,2007,7102,9338186,100.0,1049016,245795,98729
+0100000US,,United States,448130,Children's and infants' clothing stores,804,4 largest firms,2007,2256,5806305,62.2,585362,140853,58060
+0100000US,,United States,448130,Children's and infants' clothing stores,808,8 largest firms,2007,3655,7537075,80.7,779854,183859,79322
+0100000US,,United States,448130,Children's and infants' clothing stores,820,20 largest firms,2007,4161,7976949,85.4,842106,198208,84329
+0100000US,,United States,448130,Children's and infants' clothing stores,850,50 largest firms,2007,4334,8297417,88.9,893830,209824,86956
+0100000US,,United States,44814,Family clothing stores,001,All firms,2007,28254,84052604,100.0,9444412,2310174,642117
+0100000US,,United States,44814,Family clothing stores,804,4 largest firms,2007,5445,38166245,45.4,4230726,1039668,256090
+0100000US,,United States,44814,Family clothing stores,808,8 largest firms,2007,8101,48789563,58.0,5346347,1305308,360685
+0100000US,,United States,44814,Family clothing stores,820,20 largest firms,2007,13468,63376057,75.4,6845698,1675918,484232
+0100000US,,United States,44814,Family clothing stores,850,50 largest firms,2007,17543,74266630,88.4,8069915,1985601,564003
+0100000US,,United States,448140,Family clothing stores,001,All firms,2007,28254,84052604,100.0,9444412,2310174,642117
+0100000US,,United States,448140,Family clothing stores,804,4 largest firms,2007,5445,38166245,45.4,4230726,1039668,256090
+0100000US,,United States,448140,Family clothing stores,808,8 largest firms,2007,8101,48789563,58.0,5346347,1305308,360685
+0100000US,,United States,448140,Family clothing stores,820,20 largest firms,2007,13468,63376057,75.4,6845698,1675918,484232
+0100000US,,United States,448140,Family clothing stores,850,50 largest firms,2007,17543,74266630,88.4,8069915,1985601,564003
+0100000US,,United States,44815,Clothing accessories stores,001,All firms,2007,7494,5704796,100.0,716830,172117,37575
+0100000US,,United States,44815,Clothing accessories stores,804,4 largest firms,2007,3137,3512912,61.6,384385,95577,20518
+0100000US,,United States,44815,Clothing accessories stores,808,8 largest firms,2007,3274,4099593,71.9,465622,111324,22657
+0100000US,,United States,44815,Clothing accessories stores,820,20 largest firms,2007,3616,4365021,76.5,507182,122001,24606
+0100000US,,United States,44815,Clothing accessories stores,850,50 largest firms,2007,3788,4528390,79.4,533049,127300,25764
+0100000US,,United States,448150,Clothing accessories stores,001,All firms,2007,7494,5704796,100.0,716830,172117,37575
+0100000US,,United States,448150,Clothing accessories stores,804,4 largest firms,2007,3137,3512912,61.6,384385,95577,20518
+0100000US,,United States,448150,Clothing accessories stores,808,8 largest firms,2007,3274,4099593,71.9,465622,111324,22657
+0100000US,,United States,448150,Clothing accessories stores,820,20 largest firms,2007,3616,4365021,76.5,507182,122001,24606
+0100000US,,United States,448150,Clothing accessories stores,850,50 largest firms,2007,3788,4528390,79.4,533049,127300,25764
+0100000US,,United States,44819,Other clothing stores,001,All firms,2007,12034,10950930,100.0,1590895,394117,97581
+0100000US,,United States,44819,Other clothing stores,804,4 largest firms,2007,1995,4832245,44.1,572163,154516,40480
+0100000US,,United States,44819,Other clothing stores,808,8 largest firms,2007,2427,5357204,48.9,653555,172866,43399
+0100000US,,United States,44819,Other clothing stores,820,20 largest firms,2007,3118,6022442,55.0,751066,194806,48758
+0100000US,,United States,44819,Other clothing stores,850,50 largest firms,2007,3377,6589080,60.2,838032,214728,52572
+0100000US,,United States,448190,Other clothing stores,001,All firms,2007,12034,10950930,100.0,1590895,394117,97581
+0100000US,,United States,448190,Other clothing stores,804,4 largest firms,2007,1995,4832245,44.1,572163,154516,40480
+0100000US,,United States,448190,Other clothing stores,808,8 largest firms,2007,2427,5357204,48.9,653555,172866,43399
+0100000US,,United States,448190,Other clothing stores,820,20 largest firms,2007,3118,6022442,55.0,751066,194806,48758
+0100000US,,United States,448190,Other clothing stores,850,50 largest firms,2007,3377,6589080,60.2,838032,214728,52572
+0100000US,,United States,4482,Shoe stores,001,All firms,2007,28076,26509421,100.0,3233039,795792,207945
+0100000US,,United States,4482,Shoe stores,804,4 largest firms,2007,8637,8502415,32.1,953072,233585,65806
+0100000US,,United States,4482,Shoe stores,808,8 largest firms,2007,12020,12575885,47.4,1391393,344848,102064
+0100000US,,United States,4482,Shoe stores,820,20 largest firms,2007,17076,17266258,65.1,1897232,470982,136827
+0100000US,,United States,4482,Shoe stores,850,50 largest firms,2007,19277,20055822,75.7,2242708,555370,156324
+0100000US,,United States,44821,Shoe stores,001,All firms,2007,28076,26509421,100.0,3233039,795792,207945
+0100000US,,United States,44821,Shoe stores,804,4 largest firms,2007,8637,8502415,32.1,953072,233585,65806
+0100000US,,United States,44821,Shoe stores,808,8 largest firms,2007,12020,12575885,47.4,1391393,344848,102064
+0100000US,,United States,44821,Shoe stores,820,20 largest firms,2007,17076,17266258,65.1,1897232,470982,136827
+0100000US,,United States,44821,Shoe stores,850,50 largest firms,2007,19277,20055822,75.7,2242708,555370,156324
+0100000US,,United States,448210,Shoe stores,001,All firms,2007,28076,26509421,100.0,3233039,795792,207945
+0100000US,,United States,448210,Shoe stores,804,4 largest firms,2007,8637,8502415,32.1,953072,233585,65806
+0100000US,,United States,448210,Shoe stores,808,8 largest firms,2007,12020,12575885,47.4,1391393,344848,102064
+0100000US,,United States,448210,Shoe stores,820,20 largest firms,2007,17076,17266258,65.1,1897232,470982,136827
+0100000US,,United States,448210,Shoe stores,850,50 largest firms,2007,19277,20055822,75.7,2242708,555370,156324
+0100000US,,United States,4482101,Men's shoe stores,001,All firms,2007,1126,781155,100.0,112198,27908,4608
+0100000US,,United States,4482101,Men's shoe stores,804,4 largest firms,2007,391,280230,35.9,37108,9484,1338
+0100000US,,United States,4482101,Men's shoe stores,808,8 largest firms,2007,450,348407,44.6,48005,12158,1771
+0100000US,,United States,4482101,Men's shoe stores,820,20 largest firms,2007,509,421548,54.0,57914,14552,2165
+0100000US,,United States,4482101,Men's shoe stores,850,50 largest firms,2007,570,501265,64.2,70495,17777,2585
+0100000US,,United States,4482102,Women's shoe stores,001,All firms,2007,3445,2561825,100.0,386916,96950,22276
+0100000US,,United States,4482102,Women's shoe stores,804,4 largest firms,2007,1327,973925,38.0,136330,37295,9980
+0100000US,,United States,4482102,Women's shoe stores,808,8 largest firms,2007,1513,1239387,48.4,176548,45505,11523
+0100000US,,United States,4482102,Women's shoe stores,820,20 largest firms,2007,1794,1513350,59.1,222928,57181,13691
+0100000US,,United States,4482102,Women's shoe stores,850,50 largest firms,2007,1964,1721692,67.2,255123,64816,14958
+0100000US,,United States,4482103,Children's and juveniles' shoe stores,001,All firms,2007,1088,710780,100.0,91374,22858,6874
+0100000US,,United States,4482103,Children's and juveniles' shoe stores,804,4 largest firms,2007,748,556185,78.2,62997,15781,5120
+0100000US,,United States,4482103,Children's and juveniles' shoe stores,808,8 largest firms,2007,777,577181,81.2,67560,16974,5395
+0100000US,,United States,4482103,Children's and juveniles' shoe stores,820,20 largest firms,2007,807,604535,85.1,72246,18125,5610
+0100000US,,United States,4482103,Children's and juveniles' shoe stores,850,50 largest firms,2007,847,636662,89.6,77836,19547,5888
+0100000US,,United States,4482104,Family shoe stores,001,All firms,2007,15889,14001535,100.0,1698139,414144,106388
+0100000US,,United States,4482104,Family shoe stores,804,4 largest firms,2007,6459,5767912,41.2,649032,155741,47030
+0100000US,,United States,4482104,Family shoe stores,808,8 largest firms,2007,9501,8171983,58.4,886646,216868,63823
+0100000US,,United States,4482104,Family shoe stores,820,20 largest firms,2007,11088,10463433,74.7,1159836,281935,78361
+0100000US,,United States,4482104,Family shoe stores,850,50 largest firms,2007,12034,11468876,81.9,1296510,317553,86195
+0100000US,,United States,4482105,Athletic footwear stores,001,All firms,2007,6528,8454126,100.0,944412,233932,67799
+0100000US,,United States,4482105,Athletic footwear stores,804,4 largest firms,2007,4214,5780022,68.4,607314,153350,46242
+0100000US,,United States,4482105,Athletic footwear stores,808,8 largest firms,2007,4638,6536060,77.3,685765,172440,51815
+0100000US,,United States,4482105,Athletic footwear stores,820,20 largest firms,2007,4931,7006395,82.9,738191,185099,55684
+0100000US,,United States,4482105,Athletic footwear stores,850,50 largest firms,2007,5085,7265333,85.9,776822,194052,57596
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",001,All firms,2007,28967,31089498,100.0,4355660,1109075,162940
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",804,4 largest firms,2007,3567,7337875,23.6,882910,247172,37848
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",808,8 largest firms,2007,5114,9601405,30.9,1181787,324644,51118
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",820,20 largest firms,2007,6909,11786501,37.9,1511658,406664,64420
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",850,50 largest firms,2007,7876,13676808,44.0,1768931,470926,71894
+0100000US,,United States,44831,Jewelry stores,001,All firms,2007,27745,29231749,100.0,4167145,1063234,155492
+0100000US,,United States,44831,Jewelry stores,804,4 largest firms,2007,3817,7152281,24.5,924742,257937,40095
+0100000US,,United States,44831,Jewelry stores,808,8 largest firms,2007,5738,9021568,30.9,1221106,335513,54366
+0100000US,,United States,44831,Jewelry stores,820,20 largest firms,2007,6846,10970619,37.5,1472342,397060,64030
+0100000US,,United States,44831,Jewelry stores,850,50 largest firms,2007,7537,12704729,43.5,1706924,455426,69713
+0100000US,,United States,448310,Jewelry stores,001,All firms,2007,27745,29231749,100.0,4167145,1063234,155492
+0100000US,,United States,448310,Jewelry stores,804,4 largest firms,2007,3817,7152281,24.5,924742,257937,40095
+0100000US,,United States,448310,Jewelry stores,808,8 largest firms,2007,5738,9021568,30.9,1221106,335513,54366
+0100000US,,United States,448310,Jewelry stores,820,20 largest firms,2007,6846,10970619,37.5,1472342,397060,64030
+0100000US,,United States,448310,Jewelry stores,850,50 largest firms,2007,7537,12704729,43.5,1706924,455426,69713
+0100000US,,United States,44832,Luggage and leather goods stores,001,All firms,2007,1222,1857749,100.0,188515,45841,7448
+0100000US,,United States,44832,Luggage and leather goods stores,804,4 largest firms,2007,359,1134632,61.1,83097,19138,2549
+0100000US,,United States,44832,Luggage and leather goods stores,808,8 largest firms,2007,431,1226914,66.0,96488,22390,3155
+0100000US,,United States,44832,Luggage and leather goods stores,820,20 largest firms,2007,500,1364977,73.5,113401,27552,3840
+0100000US,,United States,44832,Luggage and leather goods stores,850,50 largest firms,2007,591,1515218,81.6,136226,32986,4745
+0100000US,,United States,448320,Luggage and leather goods stores,001,All firms,2007,1222,1857749,100.0,188515,45841,7448
+0100000US,,United States,448320,Luggage and leather goods stores,804,4 largest firms,2007,359,1134632,61.1,83097,19138,2549
+0100000US,,United States,448320,Luggage and leather goods stores,808,8 largest firms,2007,431,1226914,66.0,96488,22390,3155
+0100000US,,United States,448320,Luggage and leather goods stores,820,20 largest firms,2007,500,1364977,73.5,113401,27552,3840
+0100000US,,United States,448320,Luggage and leather goods stores,850,50 largest firms,2007,591,1515218,81.6,136226,32986,4745
+0100000US,,United States,451,"Sporting goods, hobby, musical instrument, and book stores",001,All firms,2007,57415,81084315,100.0,9465919,2303751,619075
+0100000US,,United States,451,"Sporting goods, hobby, musical instrument, and book stores",804,4 largest firms,2007,3417,19303196,23.8,1825097,431368,145351
+0100000US,,United States,451,"Sporting goods, hobby, musical instrument, and book stores",808,8 largest firms,2007,5882,29220215,36.0,2757295,661599,216219
+0100000US,,United States,451,"Sporting goods, hobby, musical instrument, and book stores",820,20 largest firms,2007,9387,43042783,53.1,4060362,981041,296234
+0100000US,,United States,451,"Sporting goods, hobby, musical instrument, and book stores",850,50 largest firms,2007,13190,50732248,62.6,4928161,1196806,358627
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",001,All firms,2007,41784,59762462,100.0,7073446,1692526,440573
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",804,4 largest firms,2007,2377,15606252,26.1,1450440,322583,103725
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",808,8 largest firms,2007,4022,23079407,38.6,2129357,485400,156048
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",820,20 largest firms,2007,5920,32071152,53.7,3067625,715284,218549
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",850,50 largest firms,2007,7913,35996672,60.2,3510947,833871,245658
+0100000US,,United States,45111,Sporting goods stores,001,All firms,2007,22254,34490779,100.0,3928257,938416,221439
+0100000US,,United States,45111,Sporting goods stores,804,4 largest firms,2007,1022,10121938,29.3,857030,191820,53598
+0100000US,,United States,45111,Sporting goods stores,808,8 largest firms,2007,1629,14139377,41.0,1234255,287037,78618
+0100000US,,United States,45111,Sporting goods stores,820,20 largest firms,2007,2604,17958086,52.1,1632351,382139,103020
+0100000US,,United States,45111,Sporting goods stores,850,50 largest firms,2007,3311,19412909,56.3,1787453,428150,110962
+0100000US,,United States,451110,Sporting goods stores,001,All firms,2007,22254,34490779,100.0,3928257,938416,221439
+0100000US,,United States,451110,Sporting goods stores,804,4 largest firms,2007,1022,10121938,29.3,857030,191820,53598
+0100000US,,United States,451110,Sporting goods stores,808,8 largest firms,2007,1629,14139377,41.0,1234255,287037,78618
+0100000US,,United States,451110,Sporting goods stores,820,20 largest firms,2007,2604,17958086,52.1,1632351,382139,103020
+0100000US,,United States,451110,Sporting goods stores,850,50 largest firms,2007,3311,19412909,56.3,1787453,428150,110962
+0100000US,,United States,4511101,General-line sporting goods stores,001,All firms,2007,6441,18659086,100.0,1922898,453347,116443
+0100000US,,United States,4511101,General-line sporting goods stores,804,4 largest firms,2007,940,9816130,52.6,830363,185114,51573
+0100000US,,United States,4511101,General-line sporting goods stores,808,8 largest firms,2007,1552,12780240,68.5,1130147,262115,73262
+0100000US,,United States,4511101,General-line sporting goods stores,820,20 largest firms,2007,2117,14505040,77.7,1304015,306217,85579
+0100000US,,United States,4511101,General-line sporting goods stores,850,50 largest firms,2007,2248,14957185,80.2,1370768,322335,88485
+0100000US,,United States,4511102,Specialty-line sporting goods stores,001,All firms,2007,15813,15831693,100.0,2005359,485069,104996
+0100000US,,United States,4511102,Specialty-line sporting goods stores,804,4 largest firms,2007,286,3007100,19.0,279642,69437,15876
+0100000US,,United States,4511102,Specialty-line sporting goods stores,808,8 largest firms,2007,532,3735876,23.6,350788,85133,19538
+0100000US,,United States,4511102,Specialty-line sporting goods stores,820,20 largest firms,2007,1067,4522379,28.6,440943,111471,22793
+0100000US,,United States,4511102,Specialty-line sporting goods stores,850,50 largest firms,2007,1254,5180317,32.7,512524,128847,26134
+0100000US,,United States,45112,"Hobby, toy, and game stores",001,All firms,2007,9357,15633187,100.0,1802386,422850,135688
+0100000US,,United States,45112,"Hobby, toy, and game stores",804,4 largest firms,2007,2018,11237472,71.9,1153714,263615,86203
+0100000US,,United States,45112,"Hobby, toy, and game stores",808,8 largest firms,2007,2896,12301215,78.7,1307210,301829,98853
+0100000US,,United States,45112,"Hobby, toy, and game stores",820,20 largest firms,2007,3176,12777401,81.7,1370316,318241,103490
+0100000US,,United States,45112,"Hobby, toy, and game stores",850,50 largest firms,2007,3359,13043489,83.4,1407135,327079,105554
+0100000US,,United States,451120,"Hobby, toy, and game stores",001,All firms,2007,9357,15633187,100.0,1802386,422850,135688
+0100000US,,United States,451120,"Hobby, toy, and game stores",804,4 largest firms,2007,2018,11237472,71.9,1153714,263615,86203
+0100000US,,United States,451120,"Hobby, toy, and game stores",808,8 largest firms,2007,2896,12301215,78.7,1307210,301829,98853
+0100000US,,United States,451120,"Hobby, toy, and game stores",820,20 largest firms,2007,3176,12777401,81.7,1370316,318241,103490
+0100000US,,United States,451120,"Hobby, toy, and game stores",850,50 largest firms,2007,3359,13043489,83.4,1407135,327079,105554
+0100000US,,United States,45113,"Sewing, needlework, and piece goods stores",001,All firms,2007,5663,4017787,100.0,546437,132977,49450
+0100000US,,United States,45113,"Sewing, needlework, and piece goods stores",804,4 largest firms,2007,1362,2386992,59.4,262173,63515,28019
+0100000US,,United States,45113,"Sewing, needlework, and piece goods stores",808,8 largest firms,2007,1386,2456076,61.1,274134,66547,28611
+0100000US,,United States,45113,"Sewing, needlework, and piece goods stores",820,20 largest firms,2007,1430,2568312,63.9,294704,71019,29635
+0100000US,,United States,45113,"Sewing, needlework, and piece goods stores",850,50 largest firms,2007,1485,2695680,67.1,321146,77219,30597
+0100000US,,United States,451130,"Sewing, needlework, and piece goods stores",001,All firms,2007,5663,4017787,100.0,546437,132977,49450
+0100000US,,United States,451130,"Sewing, needlework, and piece goods stores",804,4 largest firms,2007,1362,2386992,59.4,262173,63515,28019
+0100000US,,United States,451130,"Sewing, needlework, and piece goods stores",808,8 largest firms,2007,1386,2456076,61.1,274134,66547,28611
+0100000US,,United States,451130,"Sewing, needlework, and piece goods stores",820,20 largest firms,2007,1430,2568312,63.9,294704,71019,29635
+0100000US,,United States,451130,"Sewing, needlework, and piece goods stores",850,50 largest firms,2007,1485,2695680,67.1,321146,77219,30597
+0100000US,,United States,45114,Musical instrument and supplies stores,001,All firms,2007,4510,5620709,100.0,796366,198283,33996
+0100000US,,United States,45114,Musical instrument and supplies stores,804,4 largest firms,2007,402,2244614,39.9,189892,48636,8916
+0100000US,,United States,45114,Musical instrument and supplies stores,808,8 largest firms,2007,468,2389140,42.5,218956,56358,9859
+0100000US,,United States,45114,Musical instrument and supplies stores,820,20 largest firms,2007,539,2625335,46.7,268059,67837,11033
+0100000US,,United States,45114,Musical instrument and supplies stores,850,50 largest firms,2007,637,2904920,51.7,318329,79703,12495
+0100000US,,United States,451140,Musical instrument and supplies stores,001,All firms,2007,4510,5620709,100.0,796366,198283,33996
+0100000US,,United States,451140,Musical instrument and supplies stores,804,4 largest firms,2007,402,2244614,39.9,189892,48636,8916
+0100000US,,United States,451140,Musical instrument and supplies stores,808,8 largest firms,2007,468,2389140,42.5,218956,56358,9859
+0100000US,,United States,451140,Musical instrument and supplies stores,820,20 largest firms,2007,539,2625335,46.7,268059,67837,11033
+0100000US,,United States,451140,Musical instrument and supplies stores,850,50 largest firms,2007,637,2904920,51.7,318329,79703,12495
+0100000US,,United States,4512,Book stores and news dealers,001,All firms,2007,15631,21321853,100.0,2392473,611225,178502
+0100000US,,United States,4512,Book stores and news dealers,804,4 largest firms,2007,4393,12678537,59.5,1218186,321378,95520
+0100000US,,United States,4512,Book stores and news dealers,808,8 largest firms,2007,5054,14577408,68.4,1427563,370692,110891
+0100000US,,United States,4512,Book stores and news dealers,820,20 largest firms,2007,5851,15849782,74.3,1543322,398933,120544
+0100000US,,United States,4512,Book stores and news dealers,850,50 largest firms,2007,6234,16613191,77.9,1650156,425835,127471
+0100000US,,United States,45121,Book stores and news dealers,001,All firms,2007,11478,17778598,100.0,1957687,502503,149486
+0100000US,,United States,45121,Book stores and news dealers,804,4 largest firms,2007,3499,11919243,67.0,1157899,306492,92799
+0100000US,,United States,45121,Book stores and news dealers,808,8 largest firms,2007,4255,13335892,75.0,1301826,339995,103857
+0100000US,,United States,45121,Book stores and news dealers,820,20 largest firms,2007,4522,13881912,78.1,1369007,357328,108391
+0100000US,,United States,45121,Book stores and news dealers,850,50 largest firms,2007,4825,14473181,81.4,1445023,375848,113142
+0100000US,,United States,451211,Book stores,001,All firms,2007,9955,16775474,100.0,1818814,469475,141185
+0100000US,,United States,451211,Book stores,804,4 largest firms,2007,3496,11917977,71.0,1157527,306380,92759
+0100000US,,United States,451211,Book stores,808,8 largest firms,2007,4259,13001668,77.5,1251531,328721,101491
+0100000US,,United States,451211,Book stores,820,20 largest firms,2007,4519,13462108,80.2,1312082,344137,105485
+0100000US,,United States,451211,Book stores,850,50 largest firms,2007,4704,14006537,83.5,1379635,360641,109762
+0100000US,,United States,4512111,"Book stores, general",001,All firms,2007,5347,10214937,100.0,1183776,316304,96517
+0100000US,,United States,4512111,"Book stores, general",804,4 largest firms,2007,2145,8635132,84.5,919731,251691,78030
+0100000US,,United States,4512111,"Book stores, general",808,8 largest firms,2007,2270,8751877,85.7,935901,255512,78905
+0100000US,,United States,4512111,"Book stores, general",820,20 largest firms,2007,2373,8933194,87.5,958063,261055,80442
+0100000US,,United States,4512111,"Book stores, general",850,50 largest firms,2007,2565,9106485,89.1,987551,269004,82320
+0100000US,,United States,4512112,Specialty book stores,001,All firms,2007,2428,1524567,100.0,193419,48412,16763
+0100000US,,United States,4512112,Specialty book stores,804,4 largest firms,2007,601,729062,47.8,63792,15992,7029
+0100000US,,United States,4512112,Specialty book stores,808,8 largest firms,2007,637,777865,51.0,70897,17790,7518
+0100000US,,United States,4512112,Specialty book stores,820,20 largest firms,2007,708,844448,55.4,81799,20501,8069
+0100000US,,United States,4512112,Specialty book stores,850,50 largest firms,2007,777,942118,61.8,98192,24589,9085
+0100000US,,United States,4512113,College book stores,001,All firms,2007,2180,5035970,100.0,441619,104759,27905
+0100000US,,United States,4512113,College book stores,804,4 largest firms,2007,1586,3771092,74.9,285519,65015,17319
+0100000US,,United States,4512113,College book stores,808,8 largest firms,2007,1617,3927751,78.0,301529,69707,18751
+0100000US,,United States,4512113,College book stores,820,20 largest firms,2007,1674,4207820,83.6,341444,79405,21474
+0100000US,,United States,4512113,College book stores,850,50 largest firms,2007,1731,4542407,90.2,380602,89253,24127
+0100000US,,United States,451212,News dealers and newsstands,001,All firms,2007,1523,1003124,100.0,138873,33028,8301
+0100000US,,United States,451212,News dealers and newsstands,804,4 largest firms,2007,135,503220,50.2,70058,16300,3631
+0100000US,,United States,451212,News dealers and newsstands,808,8 largest firms,2007,139,530652,52.9,74869,17262,3841
+0100000US,,United States,451212,News dealers and newsstands,820,20 largest firms,2007,183,571392,57.0,79073,18347,4106
+0100000US,,United States,451212,News dealers and newsstands,850,50 largest firms,2007,228,628014,62.6,85408,19915,4443
+0100000US,,United States,45122,"Prerecorded tape, compact disc, and record stores",001,All firms,2007,4153,3543255,100.0,434786,108722,29016
+0100000US,,United States,45122,"Prerecorded tape, compact disc, and record stores",804,4 largest firms,2007,1301,2066299,58.3,191019,46587,13649
+0100000US,,United States,45122,"Prerecorded tape, compact disc, and record stores",808,8 largest firms,2007,1427,2227102,62.9,214003,52336,14835
+0100000US,,United States,45122,"Prerecorded tape, compact disc, and record stores",820,20 largest firms,2007,1570,2399336,67.7,236533,57883,16223
+0100000US,,United States,45122,"Prerecorded tape, compact disc, and record stores",850,50 largest firms,2007,1676,2591011,73.1,265420,64888,17877
+0100000US,,United States,451220,"Prerecorded tape, compact disc, and record stores",001,All firms,2007,4153,3543255,100.0,434786,108722,29016
+0100000US,,United States,451220,"Prerecorded tape, compact disc, and record stores",804,4 largest firms,2007,1301,2066299,58.3,191019,46587,13649
+0100000US,,United States,451220,"Prerecorded tape, compact disc, and record stores",808,8 largest firms,2007,1427,2227102,62.9,214003,52336,14835
+0100000US,,United States,451220,"Prerecorded tape, compact disc, and record stores",820,20 largest firms,2007,1570,2399336,67.7,236533,57883,16223
+0100000US,,United States,451220,"Prerecorded tape, compact disc, and record stores",850,50 largest firms,2007,1676,2591011,73.1,265420,64888,17877
+0100000US,,United States,452,General merchandise stores,001,All firms,2007,45855,577098195,100.0,54413555,13419717,2763474
+0100000US,,United States,452,General merchandise stores,804,4 largest firms,2007,8306,422163861,73.2,38086736,9303314,1793730
+0100000US,,United States,452,General merchandise stores,808,8 largest firms,2007,10948,490459453,85.0,45529558,11232192,2215269
+0100000US,,United States,452,General merchandise stores,820,20 largest firms,2007,32604,554538063,96.1,51878329,12813107,2610814
+0100000US,,United States,452,General merchandise stores,850,50 largest firms,2007,36011,569022516,98.6,53396579,13171119,2698146
+0100000US,,United States,4521,Department stores,001,All firms,2007,8534,209391428,100.0,22212882,5540701,1224454
+0100000US,,United States,4521,Department stores,804,4 largest firms,2007,5362,153173089,73.2,15726023,3877052,828951
+0100000US,,United States,4521,Department stores,808,8 largest firms,2007,7614,194334388,92.8,20364193,5077721,1116910
+0100000US,,United States,4521,Department stores,820,20 largest firms,2007,8519,209328782,100.0,22203245,5538266,1223937
+0100000US,,United States,4521,Department stores,850,50 largest firms,2007,8534,209391428,100.0,22212882,5540701,1224454
+0100000US,,United States,45211,Department stores,001,All firms,2007,8534,209391428,100.0,22212882,5540701,1224454
+0100000US,,United States,45211,Department stores,804,4 largest firms,2007,5362,153173089,73.2,15726023,3877052,828951
+0100000US,,United States,45211,Department stores,808,8 largest firms,2007,7614,194334388,92.8,20364193,5077721,1116910
+0100000US,,United States,45211,Department stores,820,20 largest firms,2007,8519,209328782,100.0,22203245,5538266,1223937
+0100000US,,United States,45211,Department stores,850,50 largest firms,2007,8534,209391428,100.0,22212882,5540701,1224454
+0100000US,,United States,452111,Department stores (except discount department stores),001,All firms,2007,3533,76886578,100.0,9502596,2438185,534189
+0100000US,,United States,452111,Department stores (except discount department stores),804,4 largest firms,2007,2695,62566077,81.4,7630491,1963872,429210
+0100000US,,United States,452111,Department stores (except discount department stores),808,8 largest firms,2007,3421,74520486,96.9,9160992,2362871,518020
+0100000US,,United States,452111,Department stores (except discount department stores),820,20 largest firms,2007,3532,D,D,D,D,m
+0100000US,,United States,452111,Department stores (except discount department stores),850,50 largest firms,2007,3533,76886578,100.0,9502596,2438185,534189
+0100000US,,United States,452112,Discount department stores,001,All firms,2007,5001,132504850,100.0,12710286,3102516,690265
+0100000US,,United States,452112,Discount department stores,804,4 largest firms,2007,4688,128415699,96.9,12320210,3003040,665374
+0100000US,,United States,452112,Discount department stores,808,8 largest firms,2007,4992,132424214,99.9,12699272,3099863,689652
+0100000US,,United States,452112,Discount department stores,820,20 largest firms,2007,5001,132504850,100.0,12710286,3102516,690265
+0100000US,,United States,452112,Discount department stores,850,50 largest firms,2007,5001,132504850,100.0,12710286,3102516,690265
+0100000US,,United States,4529,Other general merchandise stores,001,All firms,2007,37321,367706767,100.0,32200673,7879016,1539020
+0100000US,,United States,4529,Other general merchandise stores,804,4 largest firms,2007,3800,305156474,83.0,26442335,6494127,1169068
+0100000US,,United States,4529,Other general merchandise stores,808,8 largest firms,2007,19394,339017036,92.2,28990039,7108536,1330635
+0100000US,,United States,4529,Other general merchandise stores,820,20 largest firms,2007,26638,356092341,96.8,30830545,7547678,1453983
+0100000US,,United States,4529,Other general merchandise stores,850,50 largest firms,2007,27627,360572504,98.1,31279484,7653127,1478488
+0100000US,,United States,45291,Warehouse clubs and supercenters,001,All firms,2007,4260,324963224,100.0,27855313,6837847,1244237
+0100000US,,United States,45291,Warehouse clubs and supercenters,804,4 largest firms,2007,3800,305156474,93.9,26442335,6494127,1169068
+0100000US,,United States,45291,Warehouse clubs and supercenters,808,8 largest firms,2007,4250,324688370,99.9,27835379,6833045,1243056
+0100000US,,United States,45291,Warehouse clubs and supercenters,820,20 largest firms,2007,4260,324963224,100.0,27855313,6837847,1244237
+0100000US,,United States,45291,Warehouse clubs and supercenters,850,50 largest firms,2007,4260,324963224,100.0,27855313,6837847,1244237
+0100000US,,United States,452910,Warehouse clubs and supercenters,001,All firms,2007,4260,324963224,100.0,27855313,6837847,1244237
+0100000US,,United States,452910,Warehouse clubs and supercenters,804,4 largest firms,2007,3800,305156474,93.9,26442335,6494127,1169068
+0100000US,,United States,452910,Warehouse clubs and supercenters,808,8 largest firms,2007,4250,324688370,99.9,27835379,6833045,1243056
+0100000US,,United States,452910,Warehouse clubs and supercenters,820,20 largest firms,2007,4260,324963224,100.0,27855313,6837847,1244237
+0100000US,,United States,452910,Warehouse clubs and supercenters,850,50 largest firms,2007,4260,324963224,100.0,27855313,6837847,1244237
+0100000US,,United States,45299,All other general merchandise stores,001,All firms,2007,33061,42743543,100.0,4345360,1041169,294783
+0100000US,,United States,45299,All other general merchandise stores,804,4 largest firms,2007,20136,25295135,59.2,2406234,572976,172460
+0100000US,,United States,45299,All other general merchandise stores,808,8 largest firms,2007,21553,29332714,68.6,2795377,666649,198350
+0100000US,,United States,45299,All other general merchandise stores,820,20 largest firms,2007,23077,33956161,79.4,3256010,775746,224284
+0100000US,,United States,45299,All other general merchandise stores,850,50 largest firms,2007,23457,36049467,84.3,3467283,824986,236876
+0100000US,,United States,452990,All other general merchandise stores,001,All firms,2007,33061,42743543,100.0,4345360,1041169,294783
+0100000US,,United States,452990,All other general merchandise stores,804,4 largest firms,2007,20136,25295135,59.2,2406234,572976,172460
+0100000US,,United States,452990,All other general merchandise stores,808,8 largest firms,2007,21553,29332714,68.6,2795377,666649,198350
+0100000US,,United States,452990,All other general merchandise stores,820,20 largest firms,2007,23077,33956161,79.4,3256010,775746,224284
+0100000US,,United States,452990,All other general merchandise stores,850,50 largest firms,2007,23457,36049467,84.3,3467283,824986,236876
+0100000US,,United States,4529901,Variety stores,001,All firms,2007,24434,25962548,100.0,2498958,589310,184766
+0100000US,,United States,4529901,Variety stores,804,4 largest firms,2007,18961,21758880,83.8,2026158,474382,148262
+0100000US,,United States,4529901,Variety stores,808,8 largest firms,2007,20148,23941059,92.2,2230394,523793,163393
+0100000US,,United States,4529901,Variety stores,820,20 largest firms,2007,20404,24273796,93.5,2276099,534246,166645
+0100000US,,United States,4529901,Variety stores,850,50 largest firms,2007,20540,24476009,94.3,2307107,541501,168515
+0100000US,,United States,4529904,Miscellaneous general merchandise stores,001,All firms,2007,8627,16780995,100.0,1846402,451859,110017
+0100000US,,United States,4529904,Miscellaneous general merchandise stores,804,4 largest firms,2007,1909,6851649,40.8,705592,176307,43217
+0100000US,,United States,4529904,Miscellaneous general merchandise stores,808,8 largest firms,2007,2310,8451224,50.4,863970,212407,50929
+0100000US,,United States,4529904,Miscellaneous general merchandise stores,820,20 largest firms,2007,3045,10745292,64.0,1102222,269966,65797
+0100000US,,United States,4529904,Miscellaneous general merchandise stores,850,50 largest firms,2007,3226,12238698,72.9,1247051,304831,73433
+0100000US,,United States,453,Miscellaneous store retailers,001,All firms,2007,121911,104068221,100.0,14397730,3461386,792105
+0100000US,,United States,453,Miscellaneous store retailers,804,4 largest firms,2007,4420,22730447,21.8,2229089,576745,118635
+0100000US,,United States,453,Miscellaneous store retailers,808,8 largest firms,2007,6466,27770752,26.7,2826955,724867,155553
+0100000US,,United States,453,Miscellaneous store retailers,820,20 largest firms,2007,10382,32229078,31.0,3636345,933647,196655
+0100000US,,United States,453,Miscellaneous store retailers,850,50 largest firms,2007,12301,35975712,34.6,4041610,1021079,218391
+0100000US,,United States,4531,Florists,001,All firms,2007,19822,6285503,100.0,1400307,348113,93967
+0100000US,,United States,4531,Florists,804,4 largest firms,2007,67,133743,2.1,20885,5945,1241
+0100000US,,United States,4531,Florists,808,8 largest firms,2007,104,181670,2.9,30729,8382,1741
+0100000US,,United States,4531,Florists,820,20 largest firms,2007,211,280255,4.5,55775,14720,3058
+0100000US,,United States,4531,Florists,850,50 largest firms,2007,333,447480,7.1,102917,25592,4849
+0100000US,,United States,45311,Florists,001,All firms,2007,19822,6285503,100.0,1400307,348113,93967
+0100000US,,United States,45311,Florists,804,4 largest firms,2007,67,133743,2.1,20885,5945,1241
+0100000US,,United States,45311,Florists,808,8 largest firms,2007,104,181670,2.9,30729,8382,1741
+0100000US,,United States,45311,Florists,820,20 largest firms,2007,211,280255,4.5,55775,14720,3058
+0100000US,,United States,45311,Florists,850,50 largest firms,2007,333,447480,7.1,102917,25592,4849
+0100000US,,United States,453110,Florists,001,All firms,2007,19822,6285503,100.0,1400307,348113,93967
+0100000US,,United States,453110,Florists,804,4 largest firms,2007,67,133743,2.1,20885,5945,1241
+0100000US,,United States,453110,Florists,808,8 largest firms,2007,104,181670,2.9,30729,8382,1741
+0100000US,,United States,453110,Florists,820,20 largest firms,2007,211,280255,4.5,55775,14720,3058
+0100000US,,United States,453110,Florists,850,50 largest firms,2007,333,447480,7.1,102917,25592,4849
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",001,All firms,2007,40949,38995623,100.0,4900535,1215302,306051
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",804,4 largest firms,2007,3798,18840639,48.3,1646562,445334,89882
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",808,8 largest firms,2007,5062,20626472,52.9,1900614,507475,107355
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",820,20 largest firms,2007,7236,22399478,57.4,2171853,572878,127584
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",850,50 largest firms,2007,8335,23787088,61.0,2376882,623765,139874
+0100000US,,United States,45321,Office supplies and stationery stores,001,All firms,2007,9558,22833467,100.0,2356843,620897,112734
+0100000US,,United States,45321,Office supplies and stationery stores,804,4 largest firms,2007,3497,18337835,80.3,1589492,432431,79237
+0100000US,,United States,45321,Office supplies and stationery stores,808,8 largest firms,2007,3635,18542221,81.2,1625870,441929,80521
+0100000US,,United States,45321,Office supplies and stationery stores,820,20 largest firms,2007,3825,18815899,82.4,1668537,451698,82139
+0100000US,,United States,45321,Office supplies and stationery stores,850,50 largest firms,2007,3969,19178214,84.0,1722954,465765,83898
+0100000US,,United States,453210,Office supplies and stationery stores,001,All firms,2007,9558,22833467,100.0,2356843,620897,112734
+0100000US,,United States,453210,Office supplies and stationery stores,804,4 largest firms,2007,3497,18337835,80.3,1589492,432431,79237
+0100000US,,United States,453210,Office supplies and stationery stores,808,8 largest firms,2007,3635,18542221,81.2,1625870,441929,80521
+0100000US,,United States,453210,Office supplies and stationery stores,820,20 largest firms,2007,3825,18815899,82.4,1668537,451698,82139
+0100000US,,United States,453210,Office supplies and stationery stores,850,50 largest firms,2007,3969,19178214,84.0,1722954,465765,83898
+0100000US,,United States,45322,"Gift, novelty, and souvenir stores",001,All firms,2007,31391,16162156,100.0,2543692,594405,193317
+0100000US,,United States,45322,"Gift, novelty, and souvenir stores",804,4 largest firms,2007,1548,1997964,12.4,262329,64032,25824
+0100000US,,United States,45322,"Gift, novelty, and souvenir stores",808,8 largest firms,2007,2884,3207409,19.8,462509,113877,41361
+0100000US,,United States,45322,"Gift, novelty, and souvenir stores",820,20 largest firms,2007,3949,4344016,26.9,621248,152408,51439
+0100000US,,United States,45322,"Gift, novelty, and souvenir stores",850,50 largest firms,2007,4795,5383062,33.3,782240,189343,61497
+0100000US,,United States,453220,"Gift, novelty, and souvenir stores",001,All firms,2007,31391,16162156,100.0,2543692,594405,193317
+0100000US,,United States,453220,"Gift, novelty, and souvenir stores",804,4 largest firms,2007,1548,1997964,12.4,262329,64032,25824
+0100000US,,United States,453220,"Gift, novelty, and souvenir stores",808,8 largest firms,2007,2884,3207409,19.8,462509,113877,41361
+0100000US,,United States,453220,"Gift, novelty, and souvenir stores",820,20 largest firms,2007,3949,4344016,26.9,621248,152408,51439
+0100000US,,United States,453220,"Gift, novelty, and souvenir stores",850,50 largest firms,2007,4795,5383062,33.3,782240,189343,61497
+0100000US,,United States,4533,Used merchandise stores,001,All firms,2007,17994,9379697,100.0,2159158,516777,131901
+0100000US,,United States,4533,Used merchandise stores,804,4 largest firms,2007,1401,956922,10.2,347559,79467,19327
+0100000US,,United States,4533,Used merchandise stores,808,8 largest firms,2007,1582,1165930,12.4,403751,92314,23053
+0100000US,,United States,4533,Used merchandise stores,820,20 largest firms,2007,1762,1615599,17.2,498839,115278,29028
+0100000US,,United States,4533,Used merchandise stores,850,50 largest firms,2007,2290,2344777,25.0,697477,162438,39557
+0100000US,,United States,45331,Used merchandise stores,001,All firms,2007,17994,9379697,100.0,2159158,516777,131901
+0100000US,,United States,45331,Used merchandise stores,804,4 largest firms,2007,1401,956922,10.2,347559,79467,19327
+0100000US,,United States,45331,Used merchandise stores,808,8 largest firms,2007,1582,1165930,12.4,403751,92314,23053
+0100000US,,United States,45331,Used merchandise stores,820,20 largest firms,2007,1762,1615599,17.2,498839,115278,29028
+0100000US,,United States,45331,Used merchandise stores,850,50 largest firms,2007,2290,2344777,25.0,697477,162438,39557
+0100000US,,United States,453310,Used merchandise stores,001,All firms,2007,17994,9379697,100.0,2159158,516777,131901
+0100000US,,United States,453310,Used merchandise stores,804,4 largest firms,2007,1401,956922,10.2,347559,79467,19327
+0100000US,,United States,453310,Used merchandise stores,808,8 largest firms,2007,1582,1165930,12.4,403751,92314,23053
+0100000US,,United States,453310,Used merchandise stores,820,20 largest firms,2007,1762,1615599,17.2,498839,115278,29028
+0100000US,,United States,453310,Used merchandise stores,850,50 largest firms,2007,2290,2344777,25.0,697477,162438,39557
+0100000US,,United States,4539,Other miscellaneous store retailers,001,All firms,2007,43146,49407398,100.0,5937730,1381194,260186
+0100000US,,United States,4539,Other miscellaneous store retailers,804,4 largest firms,2007,2962,8790942,17.8,1136602,266568,61834
+0100000US,,United States,4539,Other miscellaneous store retailers,808,8 largest firms,2007,3539,10215289,20.7,1416549,349763,69404
+0100000US,,United States,4539,Other miscellaneous store retailers,820,20 largest firms,2007,3856,11982049,24.3,1530270,373321,72994
+0100000US,,United States,4539,Other miscellaneous store retailers,850,50 largest firms,2007,4343,14298168,28.9,1646319,399187,77526
+0100000US,,United States,45391,Pet and pet supplies stores,001,All firms,2007,8782,11410952,100.0,1597465,378845,101538
+0100000US,,United States,45391,Pet and pet supplies stores,804,4 largest firms,2007,2039,7088066,62.1,968508,226508,59303
+0100000US,,United States,45391,Pet and pet supplies stores,808,8 largest firms,2007,2237,7289311,63.9,993710,232648,61056
+0100000US,,United States,45391,Pet and pet supplies stores,820,20 largest firms,2007,2418,7568291,66.3,1024218,240159,62909
+0100000US,,United States,45391,Pet and pet supplies stores,850,50 largest firms,2007,2580,7887432,69.1,1067160,250783,65270
+0100000US,,United States,453910,Pet and pet supplies stores,001,All firms,2007,8782,11410952,100.0,1597465,378845,101538
+0100000US,,United States,453910,Pet and pet supplies stores,804,4 largest firms,2007,2039,7088066,62.1,968508,226508,59303
+0100000US,,United States,453910,Pet and pet supplies stores,808,8 largest firms,2007,2237,7289311,63.9,993710,232648,61056
+0100000US,,United States,453910,Pet and pet supplies stores,820,20 largest firms,2007,2418,7568291,66.3,1024218,240159,62909
+0100000US,,United States,453910,Pet and pet supplies stores,850,50 largest firms,2007,2580,7887432,69.1,1067160,250783,65270
+0100000US,,United States,45392,Art dealers,001,All firms,2007,6677,8564335,100.0,984855,234515,23126
+0100000US,,United States,45392,Art dealers,804,4 largest firms,2007,5,1148611,13.4,219291,66485,1530
+0100000US,,United States,45392,Art dealers,808,8 largest firms,2007,9,1611166,18.8,256405,71058,1596
+0100000US,,United States,45392,Art dealers,820,20 largest firms,2007,24,2453253,28.6,296373,80109,1922
+0100000US,,United States,45392,Art dealers,850,50 largest firms,2007,76,3410796,39.8,361335,91722,2570
+0100000US,,United States,453920,Art dealers,001,All firms,2007,6677,8564335,100.0,984855,234515,23126
+0100000US,,United States,453920,Art dealers,804,4 largest firms,2007,5,1148611,13.4,219291,66485,1530
+0100000US,,United States,453920,Art dealers,808,8 largest firms,2007,9,1611166,18.8,256405,71058,1596
+0100000US,,United States,453920,Art dealers,820,20 largest firms,2007,24,2453253,28.6,296373,80109,1922
+0100000US,,United States,453920,Art dealers,850,50 largest firms,2007,76,3410796,39.8,361335,91722,2570
+0100000US,,United States,45393,Manufactured (mobile) home dealers,001,All firms,2007,3878,8121994,100.0,743954,182402,21068
+0100000US,,United States,45393,Manufactured (mobile) home dealers,804,4 largest firms,2007,629,2123511,26.1,192753,48335,3820
+0100000US,,United States,45393,Manufactured (mobile) home dealers,808,8 largest firms,2007,695,2368862,29.2,211415,52800,4274
+0100000US,,United States,45393,Manufactured (mobile) home dealers,820,20 largest firms,2007,770,2685184,33.1,234237,58746,4816
+0100000US,,United States,45393,Manufactured (mobile) home dealers,850,50 largest firms,2007,864,3180892,39.2,274213,68005,5720
+0100000US,,United States,453930,Manufactured (mobile) home dealers,001,All firms,2007,3878,8121994,100.0,743954,182402,21068
+0100000US,,United States,453930,Manufactured (mobile) home dealers,804,4 largest firms,2007,629,2123511,26.1,192753,48335,3820
+0100000US,,United States,453930,Manufactured (mobile) home dealers,808,8 largest firms,2007,695,2368862,29.2,211415,52800,4274
+0100000US,,United States,453930,Manufactured (mobile) home dealers,820,20 largest firms,2007,770,2685184,33.1,234237,58746,4816
+0100000US,,United States,453930,Manufactured (mobile) home dealers,850,50 largest firms,2007,864,3180892,39.2,274213,68005,5720
+0100000US,,United States,45399,All other miscellaneous store retailers,001,All firms,2007,23809,21310117,100.0,2611456,585432,114454
+0100000US,,United States,45399,All other miscellaneous store retailers,804,4 largest firms,2007,1070,1101512,5.2,103020,23457,7397
+0100000US,,United States,45399,All other miscellaneous store retailers,808,8 largest firms,2007,1203,1555177,7.3,123753,28170,8317
+0100000US,,United States,45399,All other miscellaneous store retailers,820,20 largest firms,2007,1486,2452166,11.5,172122,39416,11145
+0100000US,,United States,45399,All other miscellaneous store retailers,850,50 largest firms,2007,1870,3581200,16.8,261812,60975,14765
+0100000US,,United States,453991,Tobacco stores,001,All firms,2007,6539,7073689,100.0,416796,101309,26158
+0100000US,,United States,453991,Tobacco stores,804,4 largest firms,2007,213,478909,6.8,22563,5495,1554
+0100000US,,United States,453991,Tobacco stores,808,8 largest firms,2007,309,729199,10.3,30242,7407,2113
+0100000US,,United States,453991,Tobacco stores,820,20 largest firms,2007,531,1179616,16.7,46284,11196,3209
+0100000US,,United States,453991,Tobacco stores,850,50 largest firms,2007,779,1744775,24.7,74613,17872,4658
+0100000US,,United States,453998,All other miscellaneous store retailers (except tobacco stores),001,All firms,2007,17270,14236428,100.0,2194660,484123,88296
+0100000US,,United States,453998,All other miscellaneous store retailers (except tobacco stores),804,4 largest firms,2007,1077,1036626,7.3,112319,25412,7677
+0100000US,,United States,453998,All other miscellaneous store retailers (except tobacco stores),808,8 largest firms,2007,1106,1440128,10.1,125276,28570,8442
+0100000US,,United States,453998,All other miscellaneous store retailers (except tobacco stores),820,20 largest firms,2007,1247,2101861,14.8,184016,42942,10772
+0100000US,,United States,453998,All other miscellaneous store retailers (except tobacco stores),850,50 largest firms,2007,1430,2886986,20.3,243596,56803,12553
+0100000US,,United States,454,Nonstore retailers,001,All firms,2007,59375,289526040,100.0,23327834,5731577,620792
+0100000US,,United States,454,Nonstore retailers,804,4 largest firms,2007,222,46560074,16.1,2259142,536453,36331
+0100000US,,United States,454,Nonstore retailers,808,8 largest firms,2007,550,71382741,24.7,3453062,870505,61717
+0100000US,,United States,454,Nonstore retailers,820,20 largest firms,2007,2247,103069862,35.6,5177722,1277291,90984
+0100000US,,United States,454,Nonstore retailers,850,50 largest firms,2007,3990,135167074,46.7,6862934,1692371,133974
+0100000US,,United States,4541,Electronic shopping and mail-order houses,001,All firms,2007,21877,220656247,100.0,14652223,3582347,352187
+0100000US,,United States,4541,Electronic shopping and mail-order houses,804,4 largest firms,2007,222,46560074,21.1,2259142,536453,36331
+0100000US,,United States,4541,Electronic shopping and mail-order houses,808,8 largest firms,2007,550,71382741,32.4,3453062,870505,61717
+0100000US,,United States,4541,Electronic shopping and mail-order houses,820,20 largest firms,2007,615,102010786,46.2,4924637,1212722,82972
+0100000US,,United States,4541,Electronic shopping and mail-order houses,850,50 largest firms,2007,703,130465125,59.1,6069544,1492834,110288
+0100000US,,United States,45411,Electronic shopping and mail-order houses,001,All firms,2007,21877,220656247,100.0,14652223,3582347,352187
+0100000US,,United States,45411,Electronic shopping and mail-order houses,804,4 largest firms,2007,222,46560074,21.1,2259142,536453,36331
+0100000US,,United States,45411,Electronic shopping and mail-order houses,808,8 largest firms,2007,550,71382741,32.4,3453062,870505,61717
+0100000US,,United States,45411,Electronic shopping and mail-order houses,820,20 largest firms,2007,615,102010786,46.2,4924637,1212722,82972
+0100000US,,United States,45411,Electronic shopping and mail-order houses,850,50 largest firms,2007,703,130465125,59.1,6069544,1492834,110288
+0100000US,,United States,454111,Electronic shopping,001,All firms,2007,14185,D,D,D,D,m
+0100000US,,United States,454111,Electronic shopping,804,4 largest firms,2007,31,D,D,D,D,i
+0100000US,,United States,454111,Electronic shopping,808,8 largest firms,2007,37,D,D,D,D,i
+0100000US,,United States,454111,Electronic shopping,820,20 largest firms,2007,85,D,D,D,D,j
+0100000US,,United States,454111,Electronic shopping,850,50 largest firms,2007,152,D,D,D,D,k
+0100000US,,United States,4541111,"Electronic shopping, general merchandise",001,All firms,2007,733,D,D,D,D,i
+0100000US,,United States,4541111,"Electronic shopping, general merchandise",804,4 largest firms,2007,7,D,D,D,D,g
+0100000US,,United States,4541111,"Electronic shopping, general merchandise",808,8 largest firms,2007,11,D,D,D,D,h
+0100000US,,United States,4541111,"Electronic shopping, general merchandise",820,20 largest firms,2007,23,D,D,D,D,h
+0100000US,,United States,4541111,"Electronic shopping, general merchandise",850,50 largest firms,2007,54,D,D,D,D,i
+0100000US,,United States,4541112,"Electronic shopping, specialized merchandise",001,All firms,2007,13452,72659461,100.0,4449631,1077437,117543
+0100000US,,United States,4541112,"Electronic shopping, specialized merchandise",804,4 largest firms,2007,30,18972728,26.1,239146,58687,5976
+0100000US,,United States,4541112,"Electronic shopping, specialized merchandise",808,8 largest firms,2007,36,24450669,33.7,307806,74755,6933
+0100000US,,United States,4541112,"Electronic shopping, specialized merchandise",820,20 largest firms,2007,84,32526427,44.8,646408,165031,15486
+0100000US,,United States,4541112,"Electronic shopping, specialized merchandise",850,50 largest firms,2007,151,41419526,57.0,1185392,298958,27619
+0100000US,,United States,45411121,"Electronic shopping, computer hardware and software",001,All firms,2007,1080,11190947,100.0,474540,113106,10493
+0100000US,,United States,45411121,"Electronic shopping, computer hardware and software",804,4 largest firms,2007,7,6472949,57.8,65362,16096,1440
+0100000US,,United States,45411121,"Electronic shopping, computer hardware and software",808,8 largest firms,2007,12,7616766,68.1,102067,24839,2150
+0100000US,,United States,45411121,"Electronic shopping, computer hardware and software",820,20 largest firms,2007,24,8581215,76.7,173363,42540,3525
+0100000US,,United States,45411121,"Electronic shopping, computer hardware and software",850,50 largest firms,2007,58,9578089,85.6,246876,60311,4948
+0100000US,,United States,45411122,"Electronic shopping, pharmacy",001,All firms,2007,144,1673123,100.0,148141,35425,3721
+0100000US,,United States,45411122,"Electronic shopping, pharmacy",804,4 largest firms,2007,32,1039007,62.1,86201,21370,2274
+0100000US,,United States,45411122,"Electronic shopping, pharmacy",808,8 largest firms,2007,36,1270016,75.9,103109,25510,2615
+0100000US,,United States,45411122,"Electronic shopping, pharmacy",820,20 largest firms,2007,51,1453670,86.9,122827,29836,3066
+0100000US,,United States,45411122,"Electronic shopping, pharmacy",850,50 largest firms,2007,83,1607852,96.1,139920,33568,3471
+0100000US,,United States,45411123,"Electronic shopping, other specialized merchandise",001,All firms,2007,12228,59795391,100.0,3826950,928906,103329
+0100000US,,United States,45411123,"Electronic shopping, other specialized merchandise",804,4 largest firms,2007,28,17299258,28.9,217133,52447,5122
+0100000US,,United States,45411123,"Electronic shopping, other specialized merchandise",808,8 largest firms,2007,33,21071691,35.2,349266,87239,8270
+0100000US,,United States,45411123,"Electronic shopping, other specialized merchandise",820,20 largest firms,2007,54,26832338,44.9,588082,148825,15190
+0100000US,,United States,45411123,"Electronic shopping, other specialized merchandise",850,50 largest firms,2007,120,34290478,57.3,1113048,281412,25581
+0100000US,,United States,454112,Electronic auctions,001,All firms,2007,368,D,D,D,D,i
+0100000US,,United States,454112,Electronic auctions,804,4 largest firms,2007,10,D,D,D,D,h
+0100000US,,United States,454112,Electronic auctions,808,8 largest firms,2007,14,D,D,D,D,h
+0100000US,,United States,454112,Electronic auctions,820,20 largest firms,2007,26,D,D,D,D,h
+0100000US,,United States,454112,Electronic auctions,850,50 largest firms,2007,56,D,D,D,D,h
+0100000US,,United States,454113,Mail-order houses,001,All firms,2007,7324,137355909,100.0,9033008,2236770,220516
+0100000US,,United States,454113,Mail-order houses,804,4 largest firms,2007,222,46560074,33.9,2259142,536453,36331
+0100000US,,United States,454113,Mail-order houses,808,8 largest firms,2007,378,64089753,46.7,3133465,790351,56295
+0100000US,,United States,454113,Mail-order houses,820,20 largest firms,2007,547,81587932,59.4,3968450,981569,75475
+0100000US,,United States,454113,Mail-order houses,850,50 largest firms,2007,659,98535571,71.7,4990934,1245415,101404
+0100000US,,United States,4541131,"Mail-order houses, general merchandise",001,All firms,2007,701,7997199,100.0,532168,135282,15898
+0100000US,,United States,4541131,"Mail-order houses, general merchandise",804,4 largest firms,2007,10,3176124,39.7,99805,32664,1576
+0100000US,,United States,4541131,"Mail-order houses, general merchandise",808,8 largest firms,2007,17,4597202,57.5,176613,51223,4492
+0100000US,,United States,4541131,"Mail-order houses, general merchandise",820,20 largest firms,2007,31,6081370,76.0,296533,78716,8320
+0100000US,,United States,4541131,"Mail-order houses, general merchandise",850,50 largest firms,2007,66,6960259,87.0,386358,100823,10729
+0100000US,,United States,4541132,"Mail-order houses, specialized merchandise",001,All firms,2007,6575,119671435,100.0,7956738,1930597,192697
+0100000US,,United States,4541132,"Mail-order houses, specialized merchandise",804,4 largest firms,2007,222,46560074,38.9,2259142,536453,36331
+0100000US,,United States,4541132,"Mail-order houses, specialized merchandise",808,8 largest firms,2007,493,60614517,50.7,2972142,713412,52055
+0100000US,,United States,4541132,"Mail-order houses, specialized merchandise",820,20 largest firms,2007,537,73985534,61.8,3583777,852402,68208
+0100000US,,United States,4541132,"Mail-order houses, specialized merchandise",850,50 largest firms,2007,648,88379582,73.9,4487357,1074888,91621
+0100000US,,United States,45411321,"Mail-order houses, computer hardware and software",001,All firms,2007,118,16665228,100.0,535853,105916,7009
+0100000US,,United States,45411321,"Mail-order houses, computer hardware and software",804,4 largest firms,2007,10,15142375,90.9,451206,83454,5244
+0100000US,,United States,45411321,"Mail-order houses, computer hardware and software",808,8 largest firms,2007,19,16352759,98.1,496538,96446,5998
+0100000US,,United States,45411321,"Mail-order houses, computer hardware and software",820,20 largest firms,2007,32,16583345,99.5,519781,101954,6636
+0100000US,,United States,45411321,"Mail-order houses, computer hardware and software",850,50 largest firms,2007,62,16649437,99.9,531632,104895,6873
+0100000US,,United States,45411322,Mail-order pharmacies,001,All firms,2007,631,56823842,100.0,3063145,768981,61712
+0100000US,,United States,45411322,Mail-order pharmacies,804,4 largest firms,2007,357,42907344,75.5,2326774,582804,42721
+0100000US,,United States,45411322,Mail-order pharmacies,808,8 largest firms,2007,372,49299563,86.8,2458761,614329,46937
+0100000US,,United States,45411322,Mail-order pharmacies,820,20 largest firms,2007,418,53321653,93.8,2667638,669624,52304
+0100000US,,United States,45411322,Mail-order pharmacies,850,50 largest firms,2007,456,55315676,97.3,2849044,718921,56870
+0100000US,,United States,45411323,"Mail-order houses, other specialized merchandise",001,All firms,2007,5826,46182365,100.0,4357740,1055700,123976
+0100000US,,United States,45411323,"Mail-order houses, other specialized merchandise",804,4 largest firms,2007,131,5704558,12.4,438923,95145,8952
+0100000US,,United States,45411323,"Mail-order houses, other specialized merchandise",808,8 largest firms,2007,146,9369325,20.3,638036,144478,15432
+0100000US,,United States,45411323,"Mail-order houses, other specialized merchandise",820,20 largest firms,2007,180,16025494,34.7,1046089,240386,26456
+0100000US,,United States,45411323,"Mail-order houses, other specialized merchandise",850,50 largest firms,2007,283,24656226,53.4,1776586,428542,46595
+0100000US,,United States,4541133,"Television order, home shopping",001,All firms,2007,48,9687275,100.0,544102,170891,11921
+0100000US,,United States,4541133,"Television order, home shopping",804,4 largest firms,2007,11,8280603,85.5,424266,143447,8133
+0100000US,,United States,4541133,"Television order, home shopping",808,8 largest firms,2007,15,9199546,95.0,514032,164172,10981
+0100000US,,United States,4541133,"Television order, home shopping",820,20 largest firms,2007,27,9610383,99.2,536746,169119,11695
+0100000US,,United States,4541133,"Television order, home shopping",850,50 largest firms,2007,48,9687275,100.0,544102,170891,11921
+0100000US,,United States,4542,Vending machine operators,001,All firms,2007,5194,6993135,100.0,1361975,338052,50811
+0100000US,,United States,4542,Vending machine operators,804,4 largest firms,2007,258,1557513,22.3,323471,80361,11431
+0100000US,,United States,4542,Vending machine operators,808,8 largest firms,2007,311,1878993,26.9,392067,97999,13652
+0100000US,,United States,4542,Vending machine operators,820,20 largest firms,2007,393,2402987,34.4,490685,123562,17518
+0100000US,,United States,4542,Vending machine operators,850,50 largest firms,2007,475,3060537,43.8,616307,154921,22183
+0100000US,,United States,45421,Vending machine operators,001,All firms,2007,5194,6993135,100.0,1361975,338052,50811
+0100000US,,United States,45421,Vending machine operators,804,4 largest firms,2007,258,1557513,22.3,323471,80361,11431
+0100000US,,United States,45421,Vending machine operators,808,8 largest firms,2007,311,1878993,26.9,392067,97999,13652
+0100000US,,United States,45421,Vending machine operators,820,20 largest firms,2007,393,2402987,34.4,490685,123562,17518
+0100000US,,United States,45421,Vending machine operators,850,50 largest firms,2007,475,3060537,43.8,616307,154921,22183
+0100000US,,United States,454210,Vending machine operators,001,All firms,2007,5194,6993135,100.0,1361975,338052,50811
+0100000US,,United States,454210,Vending machine operators,804,4 largest firms,2007,258,1557513,22.3,323471,80361,11431
+0100000US,,United States,454210,Vending machine operators,808,8 largest firms,2007,311,1878993,26.9,392067,97999,13652
+0100000US,,United States,454210,Vending machine operators,820,20 largest firms,2007,393,2402987,34.4,490685,123562,17518
+0100000US,,United States,454210,Vending machine operators,850,50 largest firms,2007,475,3060537,43.8,616307,154921,22183
+0100000US,,United States,4543,Direct selling establishments,001,All firms,2007,32304,61876658,100.0,7313636,1811178,217794
+0100000US,,United States,4543,Direct selling establishments,804,4 largest firms,2007,2492,6324210,10.2,714446,180581,19823
+0100000US,,United States,4543,Direct selling establishments,808,8 largest firms,2007,3173,9911997,16.0,1006481,257081,27529
+0100000US,,United States,4543,Direct selling establishments,820,20 largest firms,2007,3640,15664259,25.3,1614002,413357,41381
+0100000US,,United States,4543,Direct selling establishments,850,50 largest firms,2007,4159,20480885,33.1,2097882,536878,54049
+0100000US,,United States,45431,Fuel dealers,001,All firms,2007,10227,36988108,100.0,3198424,832913,86781
+0100000US,,United States,45431,Fuel dealers,804,4 largest firms,2007,2037,6060472,16.4,499345,130057,13142
+0100000US,,United States,45431,Fuel dealers,808,8 largest firms,2007,2833,9094537,24.6,746150,192489,20565
+0100000US,,United States,45431,Fuel dealers,820,20 largest firms,2007,3081,12122591,32.8,988513,257890,26515
+0100000US,,United States,45431,Fuel dealers,850,50 largest firms,2007,3451,14921260,40.3,1208869,316693,31517
+0100000US,,United States,454311,Heating oil dealers,001,All firms,2007,4055,21639628,100.0,1698522,452828,42663
+0100000US,,United States,454311,Heating oil dealers,804,4 largest firms,2007,88,2572093,11.9,173391,49168,3547
+0100000US,,United States,454311,Heating oil dealers,808,8 largest firms,2007,322,3969447,18.3,300999,84643,6835
+0100000US,,United States,454311,Heating oil dealers,820,20 largest firms,2007,399,5605881,25.9,441251,122286,9800
+0100000US,,United States,454311,Heating oil dealers,850,50 largest firms,2007,491,7650189,35.4,551527,152601,12131
+0100000US,,United States,454312,Liquefied petroleum gas (bottled gas) dealers,001,All firms,2007,5980,15242359,100.0,1486582,376781,43525
+0100000US,,United States,454312,Liquefied petroleum gas (bottled gas) dealers,804,4 largest firms,2007,2264,5622408,36.9,486733,119822,14170
+0100000US,,United States,454312,Liquefied petroleum gas (bottled gas) dealers,808,8 largest firms,2007,2692,7234458,47.5,627540,156696,18147
+0100000US,,United States,454312,Liquefied petroleum gas (bottled gas) dealers,820,20 largest firms,2007,3017,8183199,53.7,702727,176438,20368
+0100000US,,United States,454312,Liquefied petroleum gas (bottled gas) dealers,850,50 largest firms,2007,3212,9228800,60.5,799392,200953,22836
+0100000US,,United States,454319,Other fuel dealers,001,All firms,2007,192,106121,100.0,13320,3304,593
+0100000US,,United States,454319,Other fuel dealers,804,4 largest firms,2007,4,21145,19.9,1361,412,44
+0100000US,,United States,454319,Other fuel dealers,808,8 largest firms,2007,8,33810,31.9,2370,696,77
+0100000US,,United States,454319,Other fuel dealers,820,20 largest firms,2007,20,54589,51.4,4447,1130,135
+0100000US,,United States,454319,Other fuel dealers,850,50 largest firms,2007,50,78986,74.4,8217,2068,286
+0100000US,,United States,45439,Other direct selling establishments,001,All firms,2007,22077,24888550,100.0,4115212,978265,131013
+0100000US,,United States,45439,Other direct selling establishments,804,4 largest firms,2007,603,3312457,13.3,552273,139108,14088
+0100000US,,United States,45439,Other direct selling establishments,808,8 largest firms,2007,704,5002407,20.1,757491,191221,18067
+0100000US,,United States,45439,Other direct selling establishments,820,20 largest firms,2007,898,7171292,28.8,996573,248972,25271
+0100000US,,United States,45439,Other direct selling establishments,850,50 largest firms,2007,957,8621712,34.6,1185025,294865,28668
+0100000US,,United States,454390,Other direct selling establishments,001,All firms,2007,22077,24888550,100.0,4115212,978265,131013
+0100000US,,United States,454390,Other direct selling establishments,804,4 largest firms,2007,603,3312457,13.3,552273,139108,14088
+0100000US,,United States,454390,Other direct selling establishments,808,8 largest firms,2007,704,5002407,20.1,757491,191221,18067
+0100000US,,United States,454390,Other direct selling establishments,820,20 largest firms,2007,898,7171292,28.8,996573,248972,25271
+0100000US,,United States,454390,Other direct selling establishments,850,50 largest firms,2007,957,8621712,34.6,1185025,294865,28668
+0100000US,,United States,4543901,"Direct selling, furniture, home furnishings, electronics, and appliances",001,All firms,2007,5545,6078982,100.0,935438,223536,27691
+0100000US,,United States,4543901,"Direct selling, furniture, home furnishings, electronics, and appliances",804,4 largest firms,2007,51,1514123,24.9,101334,25786,2411
+0100000US,,United States,4543901,"Direct selling, furniture, home furnishings, electronics, and appliances",808,8 largest firms,2007,55,1731884,28.5,140739,36630,3155
+0100000US,,United States,4543901,"Direct selling, furniture, home furnishings, electronics, and appliances",820,20 largest firms,2007,71,2075298,34.1,183519,46698,3965
+0100000US,,United States,4543901,"Direct selling, furniture, home furnishings, electronics, and appliances",850,50 largest firms,2007,141,2497171,41.1,247040,61433,5387
+0100000US,,United States,4543902,"Direct selling, books, periodicals, videos, and compact discs",001,All firms,2007,1155,1039488,100.0,150401,38383,6744
+0100000US,,United States,4543902,"Direct selling, books, periodicals, videos, and compact discs",804,4 largest firms,2007,7,429444,41.3,35304,10859,581
+0100000US,,United States,4543902,"Direct selling, books, periodicals, videos, and compact discs",808,8 largest firms,2007,16,481613,46.3,45081,13240,975
+0100000US,,United States,4543902,"Direct selling, books, periodicals, videos, and compact discs",820,20 largest firms,2007,32,552153,53.1,60668,16995,1557
+0100000US,,United States,4543902,"Direct selling, books, periodicals, videos, and compact discs",850,50 largest firms,2007,63,647449,62.3,76253,20576,2278
+0100000US,,United States,4543903,"Direct selling, other merchandise",001,All firms,2007,15377,17770080,100.0,3029373,716346,96578
+0100000US,,United States,4543903,"Direct selling, other merchandise",804,4 largest firms,2007,650,3098420,17.4,627660,159029,15330
+0100000US,,United States,4543903,"Direct selling, other merchandise",808,8 largest firms,2007,694,4165231,23.4,753694,185456,17749
+0100000US,,United States,4543903,"Direct selling, other merchandise",820,20 largest firms,2007,854,5735764,32.3,915255,226949,23311
+0100000US,,United States,4543903,"Direct selling, other merchandise",850,50 largest firms,2007,940,6695217,37.7,1057515,259854,26235
