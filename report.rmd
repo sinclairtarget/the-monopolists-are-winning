@@ -1,0 +1,113 @@
+---
+title: Market Concentration in The United States
+output:
+    html_document:
+        toc: true
+        toc_float: true
+        code_folding: show
+---
+
+```{r echo=FALSE}
+library('knitr')
+opts_chunk$set(fig.width = 9, fig.height = 9, fig.align = 'center',
+               warning=FALSE)
+```
+
+# Concentration Is Growing
+In recent years, the United States has seen a wave of big mergers and
+acquisitions. Few of these deals have been challenged by the Federal Trade
+Commision. As a result, many sectors of the economy have grown more
+concentrated---the top firms in each sector have increased their market share.
+
+```{r include=FALSE}
+source('plots/concentration-growth.r')
+read_chunk('plots/concentration-growth.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.concentration}
+```
+
+The US Census Bureau measures concentration by calculating the percentage of
+total revenue within an industry captured by the top firms. The Census Bureau
+publishes four different concentration percentages for each industry: one for
+the top four firms, one for the top eight, one for the top 20, and one for the
+top 50.
+
+Between 2007 and 2012, the median industry saw concentration increase across
+all four of these measures.
+
+```{r include=FALSE}
+source('plots/concenfi.r')
+read_chunk('plots/concenfi.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.concenfi}
+```
+
+# Information and Media Are the Most Concentrated
+The US Census Bureau categorizes firms according to the North American Industry
+Classification System (NAICS), which assigns each firm an industry, industry
+group, subsector, and sector. Of all the NAICS sectors, the Information sector,
+which includes technology and media companies, has become the most concentrated
+sector. The Utilities sector and the Finance and Insurance sector are also
+highly concentrated.
+
+```{r include=FALSE}
+source('plots/sectors.r')
+read_chunk('plots/sectors.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.sectors}
+```
+
+# Business Formation Is Falling
+As industries grow more concentrated, the major firms can use their market
+power to erect barriers to entry. It can become more difficult for existing
+firms to enter the market or for new firms to form in the first place. As
+industries concentrate in the United States, we would therefore expect it to
+become harder to form new businesses.
+
+The US Census Bureau also tracks the formation of new businesses. Business
+formation has indeed been falling in every state, even those states known as
+hotbeds for startup technology ventures.
+
+```{r include=FALSE}
+source('plots/business-formation.r')
+read_chunk('plots/business-formation.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.formation}
+```
+
+# Consumer Complaints Are Rising
+The Consumer Financial Protection Bureau (CFPB) was created in the wake of the
+2008 financial crisis. The CFPB is meant to provide information to consumers in
+the financial sector and address complaints that consumers have about specific
+financial companies.
+
+The CFPB keeps a record of every complaint the agency receives. These
+complaints are specific only to the financial sector. But they provide some
+measure of the market power that financial firms have over consumers---the
+fewer competitors a firm has, the more it can afford to adopt consumer-hostile
+practices.
+
+Complaints have been rising in every state of the nation since the CFPB was
+created in 2011.
+
+```{r include=FALSE}
+source('plots/sa-complaints.r')
+read_chunk('plots/sa-complaints.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.complaints}
+```
