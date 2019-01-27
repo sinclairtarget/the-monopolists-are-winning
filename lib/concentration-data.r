@@ -23,18 +23,30 @@ read_concentration_data <- function(filename) {
                  VAL_PCT,
                  EMP,
                  PAYANN,
-                 ESTAB) %>%
+                 ESTAB,
+                 YEAR.id) %>%
           rename('NAICS.label' = 'NAICS.display-label',
                  'CONCENFI.label' = 'CONCENFI.display-label',
-                 'OPTAX.label' = 'OPTAX.display-label') %>%
+                 'OPTAX.label' = 'OPTAX.display-label',
+                 YEAR = YEAR.id) %>%
           mutate(NAICS.id = as.character(NAICS.id),
                  NAICS.label = as.factor(NAICS.label),
+                 SECTOR.id = as.factor(substr(NAICS.id, 0, 2)),
                  VAL_PCT = as.double(VAL_PCT),
                  EMP = as.double(EMP),
-                 RCPTOT = as.double(RCPTOT))
+                 RCPTOT = as.double(RCPTOT),
+                 YEAR = as.integer(YEAR))
 
     # Ignore rows that are specific to certain tax statuses
     df <- filter(df, is.na(OPTAX.id) | (OPTAX.id != 'T' & OPTAX.id != 'Y'))
+
+    # Add sector labels
+    sectors <- df %>%
+               filter(nchar(NAICS.id) == 2) %>%
+               select(NAICS.id, NAICS.label, CONCENFI.id) %>%
+               rename(SECTOR.id = NAICS.id,
+                      SECTOR.label = NAICS.label)
+    df <- inner_join(df, sectors, by = c('SECTOR.id', 'CONCENFI.id'))
 
     df
 }
