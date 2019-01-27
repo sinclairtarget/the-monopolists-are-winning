@@ -13,6 +13,7 @@ df <- by_top4(df)
 # Add highlight column
 df <- mutate(df, is_information = ifelse(NAICS.id == '51', 'yes', 'no'))
 
+# ---- plot.sectors ----
 ggplot(df, aes(x = reorder(NAICS.label, VAL_PCT), y = VAL_PCT)) +
     geom_bar(aes(fill = is_information), stat = 'identity') +
     geom_text(aes(label = NAICS.label),
@@ -23,12 +24,14 @@ ggplot(df, aes(x = reorder(NAICS.label, VAL_PCT), y = VAL_PCT)) +
               hjust = 'right',
               size = 3,
               nudge_y = -2) +
-    scale_y_continuous(limits = c(0, 100), breaks=seq(0, 100, 10)) +
+    scale_y_continuous(limits = c(0, 50), breaks=seq(0, 50, 10)) +
     scale_fill_manual(values = c('no' = 'slategray3', 'yes' = 'orange2')) +
     coord_flip() +
-    labs(title = 'Market Concentration by NAICS Sector',
+    labs(title = 'Technology and Media Lead in Concentration',
+         subtitle = 'Market Concentration by NAICS Sector',
          x = 'NAICS Sector',
-         y = '% of Total Revenue Captured by Top Four Firms') +
+         y = '% of Total Revenue Captured by Top Four Firms',
+         caption = 'Source: US Census Bureau Economic Census') +
     theme(axis.text.y = element_blank(),
           legend.position = 'none',
           panel.grid.major.y = element_blank())

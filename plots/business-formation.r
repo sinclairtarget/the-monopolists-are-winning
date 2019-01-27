@@ -19,6 +19,7 @@ df
 to_label <- df %>%
             filter(!is.na(highlight) & time == 2015)
 
+# ---- plot.formation ----
 ggplot(df, aes(x = time, y = n, color = highlight)) +
     geom_line(data=filter(df, is.na(highlight)), aes(group = state)) +
     geom_line(data=filter(df, !is.na(highlight)), aes(group = state), size = 1) +
@@ -27,6 +28,8 @@ ggplot(df, aes(x = time, y = n, color = highlight)) +
                        breaks=seq(0, 15000, 2500),
                        labels = comma) +
     guides(color = FALSE) +
-    labs(title = 'Q4 Business Formations by Year',
+    labs(title = 'Americans Are Starting Fewer Businesses, Even in California',
+         subtitle = 'Q4 Business Formations by Year',
+         captions = 'Source: US Census Bureau Business Formation Statistics',
          x = 'Year',
          y = 'Number of Businesses')
