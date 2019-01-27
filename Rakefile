@@ -19,7 +19,7 @@ task :report => 'report.html'
 
 directory GRAPH_OUTPUT_DIR
 
-file 'report.html' do
+file 'report.html' => ['report.rmd'] + GRAPH_SOURCE_FILES do
   sh %{ Rscript -e "rmarkdown::render('report.rmd')" }
 end
 CLOBBER.include('report.html')
