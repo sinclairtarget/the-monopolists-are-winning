@@ -1,3 +1,6 @@
 Rplots.pdf
 static-graphs/raw/*.png
 report.html
+
+# Too big :(
+consumer-complaints.csv
