@@ -17,6 +17,11 @@ CLEAN.include('Rplots.pdf')
 desc 'Generate PDF report from rmarkdown file.'
 task :report => 'report.html'
 
+desc 'Deploy report to sinclairtarget.com'
+task :deploy => 'report.html' do
+  sh 'scp report.html sinclair@sinclairtarget.com:/srv/www/sinclairtarget.com'
+end
+
 directory GRAPH_OUTPUT_DIR
 
 file 'report.html' => ['report.rmd'] + GRAPH_SOURCE_FILES do
