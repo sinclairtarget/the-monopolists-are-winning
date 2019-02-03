@@ -1,6 +1,8 @@
 library('tidyverse')
 library('scales')
 
+source('lib/complaints-data.r')
+
 df.business <- read_csv('business-formation-data/BF4Q_ST.csv')
 df.business <- df.business %>%
       gather(state, n, -Time) %>%
@@ -9,42 +11,7 @@ df.business <- df.business %>%
       rename(year = Time) %>%
       mutate(state = as.factor(state))
 
-df.complaints <- read_csv('consumer-complaints.csv')
-df.complaints <- df.complaints %>%
-      rename(date.received = 'Date received',
-             product = Product,
-             subproduct = 'Sub-product',
-             issue = Issue,
-             subissue = 'Sub-issue',
-             complaint.narrative = 'Consumer complaint narrative',
-             company.response = 'Company public response',
-             company = Company,
-             state = State,
-             tags = Tags) %>%
-      select(date.received,
-             product,
-             subproduct,
-             issue,
-             subissue,
-             complaint.narrative,
-             company.response,
-             company,
-             state,
-             tags) %>%
-      mutate(state = as.factor(state),
-             date.received = as.Date(date.received, '%m/%d/%Y'),
-             year = as.integer(format(date.received, '%Y')))
-
-# Let's get rid of anything that isn't one of the 50 states
-states <- c('AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'HI',
-            'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD', 'MA', 'MI',
-            'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC',
-            'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT',
-            'VT', 'VA', 'WA', 'WV', 'WI', 'WY')
-df.complaints <- filter(df.complaints, state %in% states)
-
-# Let's also get rid of anything later than 2018
-df.complaints <- filter(df.complaints, year < 2019)
+df.complaints <- read_complaints('consumer-complaints.csv')
 
 # We want to graph complaints in each state separately by year
 df.complaints <- count(df.complaints, state, year)
