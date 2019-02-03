@@ -1,33 +1,34 @@
 library('tidyverse')
+library('treemapify')
 
-df <- read_csv('consumer-complaints.csv')
-df <- df %>%
-      rename(date.received = 'Date received',
-             product = Product,
-             subproduct = 'Sub-product',
-             issue = Issue,
-             subissue = 'Sub-issue',
-             complaint.narrative = 'Consumer complaint narrative',
-             company.response = 'Company public response',
-             company = Company,
-             state = State,
-             tags = Tags) %>%
-      select(date.received,
-             product,
-             subproduct,
-             issue,
-             subissue,
-             complaint.narrative,
-             company.response,
-             company,
-             state,
-             tags) %>%
-      mutate(product = as.factor(product))
+source('lib/complaints-data.r')
 
-# Strip down to top 9 product categories
-counts <- df %>% count(product) %>% top_n(9)
+df <- read_complaints('consumer-complaints.csv') %>%
+      filter(!is.na(product) & !is.na(subproduct))
 
-ggplot(counts, aes(x = product, fill = product, y = n)) +
-    geom_col() +
-    coord_polar() +
-    theme(legend.position = 'none')
+
+# Get top five products
+df.products <- df %>%
+               count(product) %>%
+               top_n(5) %>%
+               select(product)
+
+# We are interested in counts of product/subproduct combinations
+df.subproducts <- df %>%
+                  count(product, subproduct)
+
+# Strip down to top five products
+df<- inner_join(df.subproducts, df.products, by='product')
+
+ggplot(df, aes(area = n,
+               fill = product,
+               label = subproduct,
+               subgroup = product)) +
+    geom_treemap() +
+    geom_treemap_subgroup_border() +
+    geom_treemap_text(reflow = TRUE) +
+    guides(fill = guide_legend(title = 'Product Category')) +
+    labs(title = 'Most Complaints Against Debt Collectors and Mortage Providers',
+         subtitle = 'Top Five CFPB Complaint Product Categories',
+         caption = 'Source: CFPB Complaints Database') +
+    theme(legend.position = 'bottom', legend.direction = 'vertical')
