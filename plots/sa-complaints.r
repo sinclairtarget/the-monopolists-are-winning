@@ -31,8 +31,8 @@ df <- inner_join(df.complaints, df.business, by=c('state', 'year'),
                  suffix=c('.complaints', '.business'))
 
 # ---- plot.complaints ----
-ggplot(df.complaints, aes(x = year, y = n.change, color = state)) +
-    geom_line() +
+ggplot(df.complaints, aes(x = year, y = n.change)) +
+    geom_line(color = teal) +
     scale_x_discrete(limits = c(2011, 2018)) +
     facet_wrap(~ state) +
     labs(title = 'CFPB Complaints Have Risen Across the Country',

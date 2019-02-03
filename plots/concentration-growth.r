@@ -32,13 +32,17 @@ color_guide <- guide_legend(title = 'NAICS Sector',
                             ncol = 3,
                             title.position = 'top')
 
+red <- '#bc2f2f'
+yellow <- '#c1ab00'
+orange <- '#dd7200'
+
 # ---- plot.concentration ----
 ggplot(df, aes(x = YEAR.2007, y = YEAR.2012)) +
     stat_function(fun = function(x) x, color='gray40', linetype='dashed') +
-    geom_point(aes(size = RCPTOT.tot.2012,
-                   color = str_wrap(SECTOR.label, 40),
-                   fill = str_wrap(SECTOR.label, 40)),
-               shape = 21, alpha = 0.5) +
+    geom_point(aes(size = RCPTOT.tot.2012), shape = 21,
+                                            alpha = 0.5,
+                                            color = teal,
+                                            fill = teal) +
     scale_x_continuous(labels = add_percent_sym, limits = c(0, 100)) +
     scale_y_continuous(labels = add_percent_sym, limits = c(0, 100)) +
     scale_size_continuous(labels = comma) +
@@ -47,21 +51,24 @@ ggplot(df, aes(x = YEAR.2007, y = YEAR.2012)) +
          x = 'Industry Revenue Captured by Top Four Firms (2007)',
          y = 'Industry Revenue Captured by Top Four Firms (2012)',
          caption = 'Source: US Census Bureau Economic Census') +
-    guides(fill = color_guide,
-           color = color_guide,
-           size = guide_legend(title = 'Industry Revenue ($bn)',
+    guides(size = guide_legend(title = 'Industry Revenue ($bn)',
                                title.position = 'top')) +
-    theme(legend.position = 'bottom',
-          legend.text = element_text(size = 7, lineheight = 1.1),
+    theme(legend.text = element_text(size = 7, lineheight = 1.1),
           legend.box = 'vertical',
           legend.key.height = unit(20, 'pt')) +
-    annotate('text', x = 10,
-                     y = 95,
-                     label = 'More Concentrated',
-                     size = 3,
-                     color = 'gray40') +
-    annotate('text', x = 90,
-                     y = 6,
-                     label = 'Less Concentrated',
-                     size = 3,
-                     color = 'gray40')
+    geom_label(aes(label = 'More Concentrated'),
+               x = 13,
+               y = 94,
+               size = 3,
+               color = annotation_color,
+               label.size = NA,
+               label.r = unit(0, 'lines'),
+               fill = light_gray) +
+    geom_label(aes(label = 'Less Concentrated'),
+               x = 88,
+               y = 6,
+               size = 3,
+               color = annotation_color,
+               label.size = NA,
+               label.r = unit(0, 'lines'),
+               fill = light_gray)

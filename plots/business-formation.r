@@ -21,14 +21,18 @@ df <- df %>%
                                     state,
                                     NA)))
 
- to_label <- df %>%
-             filter(!is.na(highlight) & year == 2015)
+to_label <- df %>%
+            filter(!is.na(highlight) & year == 2015)
 
 # ---- plot.formation ----
 ggplot(df, aes(x = year, y = n, color = highlight)) +
-    geom_line(data=filter(df, is.na(highlight)), aes(group = state)) +
-    geom_line(data=filter(df, !is.na(highlight)), aes(group = state), size = 1) +
-    geom_label(data=to_label, aes(label = state)) +
+    geom_line(data=filter(df, is.na(highlight)), aes(group = state),
+              size = 0.2, alpha = 0.8) +
+    geom_line(data=filter(df, !is.na(highlight)), aes(group = state),
+              size = 1, alpha = 0.8) +
+    geom_label(data=to_label, aes(label = state), label.r = unit(0, 'lines')) +
+    scale_color_manual(values = c(teal, red, green, purple),
+                       na.value = gray) +
     scale_y_continuous(limits = c(0, 70000),
                        breaks = seq(0, 70000, 10000),
                        labels = comma) +

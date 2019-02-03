@@ -14,6 +14,9 @@ task :graphs => GRAPH_OUTPUT_FILES
 CLOBBER.include(GRAPH_OUTPUT_FILES)
 CLEAN.include('Rplots.pdf')
 
+desc 'Generate just one test graph.'
+task :test => "#{GRAPH_OUTPUT_DIR}/concentration-growth.png"
+
 desc 'Generate PDF report from rmarkdown file.'
 task :report => 'report.html'
 
@@ -24,12 +27,12 @@ end
 
 directory GRAPH_OUTPUT_DIR
 
-file 'report.html' => ['report.rmd'] + GRAPH_SOURCE_FILES do
+file 'report.html' => ['report.rmd', 'theme.r'] + GRAPH_SOURCE_FILES do
   sh %{ Rscript -e "rmarkdown::render('report.rmd')" }
 end
 CLOBBER.include('report.html')
 
-rule '.png' => [-> (name) { source_for_png(name) }, GRAPH_OUTPUT_DIR] do |t|
+rule '.png' => [-> (name) { source_for_png(name) }, GRAPH_OUTPUT_DIR, 'theme.r'] do |t|
   sh "Rscript graph.r '#{t.source}'"
 end
 

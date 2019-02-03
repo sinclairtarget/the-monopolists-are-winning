@@ -15,17 +15,20 @@ df <- mutate(df, is_information = ifelse(NAICS.id == '51', 'yes', 'no'))
 
 # ---- plot.sectors ----
 ggplot(df, aes(x = reorder(NAICS.label, VAL_PCT), y = VAL_PCT)) +
-    geom_bar(aes(fill = is_information), stat = 'identity') +
-    geom_text(aes(label = NAICS.label),
-              hjust = 'left',
-              size = 3,
-              nudge_y = 2) +
+    geom_bar(aes(fill = is_information), stat = 'identity', alpha = 0.8) +
+    geom_label(aes(label = NAICS.label),
+               hjust = 'left',
+               size = 3,
+               nudge_y = 2,
+               label.size = 0,
+               fill = light_gray,
+               label.r = unit(0, 'lines')) +
     geom_text(aes(label = ifelse(is_information == 'yes', VAL_PCT, '')),
               hjust = 'right',
               size = 3,
               nudge_y = -2) +
     scale_y_continuous(limits = c(0, 50), breaks=seq(0, 50, 10)) +
-    scale_fill_manual(values = c('no' = 'slategray3', 'yes' = 'orange2')) +
+    scale_fill_manual(values = c('no' = gray, 'yes' = teal)) +
     coord_flip() +
     labs(title = 'Technology and Media Lead in Concentration',
          subtitle = 'Market Concentration by NAICS Sector',

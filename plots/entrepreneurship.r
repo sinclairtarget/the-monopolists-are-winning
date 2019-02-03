@@ -97,33 +97,54 @@ df <- df %>%
 df <- mutate(df, state =
         factor(state, levels = df$state[order(df$rate.diff, decreasing=TRUE)]))
 
-rate_label <- function(rate, highlight) {
-    ifelse(is.na(highlight), '', sprintf("%0.2f", round(rate, digits = 2)))
+df.labels <- df %>% filter(!is.na(highlight))
+
+rate_label <- function(rate) {
+    sprintf("%0.2f", round(rate, digits = 2))
 }
+
+label_padding <- unit(1.8, 'pt')
 
 # ---- plot.entrepreneurship ----
 ggplot(df, aes(x = rate.2005, xend = rate.2015, y = state)) +
-    geom_dumbbell() +
-    geom_text(aes(label = rate_label(rate.diff, highlight)),
-              hjust = 'left',
-              size = 3,
-              x = 3.1) +
+    geom_dumbbell(aes(color = ifelse(is.na(highlight), NA, 'yes')),
+                  colour_x = gray,
+                  size_x = 1, size_xend = 1.5, alpha = 0.8) +
+    geom_label(data = df.labels, aes(label = rate_label(rate.diff)),
+               hjust = 'left',
+               size = 3,
+               x = 3.18,
+               color = red,
+               label.size = NA,
+               fill = light_gray,
+               label.padding = label_padding,
+               label.r = unit(0, 'lines')) +
     scale_x_continuous(limits = c(0.5, 3.25),
                        breaks = seq(0, 3.25, 0.25)) +
-    labs(title = 'Business Formation Rate Fell Furthest in Western States',
+    scale_color_manual(values = c(red), na.value = gray) +
+    labs(title = 'Business Formation Rate Fell Furthest in Western/Mountain States',
          subtitle = 'Per Capita Business Formation by State, 2005 vs 2015',
          caption = 'Source: US Census Bureau Business Formation Statistics',
          x = 'Businesses Formed Per 1000 Residents') +
-    annotate('text', x = 1.11,
-                     y = 50,
-                     size = 3,
-                     label = '2015',
-                     color = 'gray40') +
-    annotate('text', x = 2.98,
-                     y = 50,
-                     size = 3,
-                     label = '2005',
-                     color = 'gray40') +
+    geom_label(aes(x = 1.1,
+                   y = 50,
+                   label = '2015'),
+                   label.size = NA,
+                   label.r = unit(0, 'lines'),
+                   label.padding = label_padding,
+                   size = 3,
+                   color = annotation_color,
+                   fill = light_gray) +
+    geom_label(aes(x = 3.02,
+                   y = 50,
+                   label = '2005'),
+                   label.size = NA,
+                   label.r = unit(0, 'lines'),
+                   label.padding = label_padding,
+                   size = 3,
+                   color = annotation_color,
+                   fill = light_gray) +
     theme(axis.title.y = element_blank(),
           panel.grid.minor = element_blank(),
-          panel.grid.major.y = element_blank())
+          panel.grid.major.y = element_blank(),
+          legend.position = 'none')

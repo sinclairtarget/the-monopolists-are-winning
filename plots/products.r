@@ -20,15 +20,19 @@ df.subproducts <- df %>%
 # Strip down to top five products
 df<- inner_join(df.subproducts, df.products, by='product')
 
+# ---- plot.products ----
 ggplot(df, aes(area = n,
                fill = product,
                label = subproduct,
                subgroup = product)) +
-    geom_treemap() +
-    geom_treemap_subgroup_border() +
-    geom_treemap_text(reflow = TRUE) +
-    guides(fill = guide_legend(title = 'Product Category')) +
+    geom_treemap(alpha = 0.8) +
+    geom_treemap_subgroup_border(aes(color = product), size = 1.5) +
+    geom_treemap_text(color = 'gray20', reflow = TRUE) +
+    scale_color_manual(values = c(teal, red, green, purple, blue)) +
+    scale_fill_manual(values = c(teal, red, green, purple, blue)) +
+    guides(fill = guide_legend(title = 'Product Category'),
+           color = 'none') +
     labs(title = 'Most Complaints Against Debt Collectors and Mortage Providers',
-         subtitle = 'Top Five CFPB Complaint Product Categories',
+         subtitle = 'Top Five CFPB Complaint Product Categories and Subproducts',
          caption = 'Source: CFPB Complaints Database') +
     theme(legend.position = 'bottom', legend.direction = 'vertical')
