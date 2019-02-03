@@ -7,10 +7,13 @@ output:
         code_folding: show
 ---
 
-```{r echo=FALSE}
+```{r include=FALSE}
 library('knitr')
+source('theme.r')
+
 opts_chunk$set(fig.width = 9, fig.height = 9, fig.align = 'center',
                warning=FALSE)
+theme_set(my_theme())
 ```
 
 # Concentration Is Growing
@@ -30,13 +33,27 @@ glimpse(df)
 ```
 
 The US Census Bureau measures concentration by calculating the percentage of
-total revenue within an industry captured by the top firms. The Census Bureau
-publishes four different concentration percentages for each industry: one for
-the top four firms, one for the top eight, one for the top 20, and one for the
-top 50.
+total revenue within an industry captured by the top firms ("top" being
+determined by absolute firm revenue). The Census Bureau publishes four
+different concentration percentages for each industry: one for the top four
+firms, one for the top eight, one for the top 20, and one for the top 50.
 
-Between 2007 and 2012, the median industry saw concentration increase across
-all four of these measures.
+We can use these measures to explore how each "class" of firms has increased
+its share of total industry revenue over time. A firm is either one of the top
+four firms, one of the next four firms, one of the next 12 firms after that, or
+one of the remaining 30 firms in the top 50.
+
+Between 2007 and 2012, the median industry saw concentration increase among all
+of these firm classes except the "Next Four Firms" class (where it held
+steady). Since concentration did not decrease in any of these classes, in the
+median industry, the top 50 firms increased their share of revenue overall.
+
+What is especially interesting here is the variability of concentration change
+in the "Top Four Firms" class. It looks like in some industries the top four
+"win," while in other industries the top four "lose." While concentration
+nudged upward in most industries, this suggests that major shifts in
+concentration may be due primarily to whether or not the top four firms were
+able to consolidate their position.
 
 ```{r include=FALSE}
 source('plots/concenfi.r')
@@ -87,6 +104,23 @@ glimpse(df)
 ```{r plot.formation}
 ```
 
+More new business formation happens in large, populous states than in small
+states, obviously. But if we look at per capita business formation, we can see
+that western states, especially those western states not on the coast, have
+historically had what we might call a high rate of entrepreneuship. But these
+states have seen the most drastic declines in per capita business formation
+over the decade between 2005 and 2015.
+
+```{r include=FALSE}
+source('plots/entrepreneurship.r')
+read_chunk('plots/entrepreneurship.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.entrepreneurship}
+```
+
 # Consumer Complaints Are Rising
 The Consumer Financial Protection Bureau (CFPB) was created in the wake of the
 2008 financial crisis. The CFPB is meant to provide information to consumers in
@@ -110,4 +144,19 @@ read_chunk('plots/sa-complaints.r')
 glimpse(df)
 ```
 ```{r plot.complaints}
+```
+
+The CFPB categorizes the complaints it receives according to a product and a
+subproduct. The vast majority of complaints received by the CFPB are against
+debt collection agencies or mortage providers. Other major sources of
+complaints are credit score companies and student loan companies.
+
+```{r include=FALSE}
+source('plots/products.r')
+read_chunk('plots/products.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.products}
 ```
