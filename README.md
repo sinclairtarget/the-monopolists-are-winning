@@ -8,6 +8,6 @@ Use `rake report` to generate an RMarkdown report describing what the static
 graphs tell you about market concentration in the US.
 
 ## A Selection of Static Graphs
+![](./static-graphs/final/concentration-growth.png)
 ![](./static-graphs/final/sectors.png)
-![](./static-graphs/final/sizes.png)
-![](./static-graphs/final/business-formation.png)
+![](./static-graphs/final/entrepreneurship.png)
