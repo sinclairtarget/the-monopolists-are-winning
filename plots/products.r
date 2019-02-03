@@ -25,7 +25,7 @@ ggplot(df, aes(area = n,
                fill = product,
                label = subproduct,
                subgroup = product)) +
-    geom_treemap(alpha = 0.8) +
+    geom_treemap(alpha = 0.5) +
     geom_treemap_subgroup_border(aes(color = product), size = 1.5) +
     geom_treemap_text(color = 'gray20', reflow = TRUE) +
     scale_color_manual(values = c(teal, red, green, purple, blue)) +
