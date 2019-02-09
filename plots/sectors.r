@@ -29,7 +29,8 @@ ggplot(df, aes(x = reorder(NAICS.label, VAL_PCT), y = VAL_PCT)) +
     geom_text(aes(label = ifelse(is_information == 'yes', VAL_PCT, '')),
               hjust = 'right',
               size = 3,
-              nudge_y = -2) +
+              nudge_y = -2,
+              color = 'white') +
     scale_y_continuous(limits = c(0, 50), breaks=seq(0, 50, 10)) +
     scale_fill_manual(values = c('no' = gray, 'yes' = teal)) +
     coord_flip() +
