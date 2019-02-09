@@ -27,7 +27,8 @@ my_theme <- function(for_map = FALSE) {
 
     if (for_map) {
         # Map-specific theme tweaks
-        t <- t + theme(axis.title = element_blank())
+        t <- t + theme(axis.title = element_blank(),
+                       aspect.ratio = 0.77)
     }
 
     t

@@ -121,13 +121,12 @@ ggplot(df) +
     annotate(geom = 'segment', x = scl(-14), xend = scl(-14), y = scl(10),
              yend = scl(-0.25), color = 'gray20', size = 0.4,
              linetype = 'dotted') +
-    scale_fill_continuous(low = red, high = gray) +
+    scale_fill_continuous(low = red, high = 'white') +
     guides(fill = guide_colorbar(
                      title = 'Change in Business Formation per 1000 Residents',
                      title.position = 'top',
                      barwidth = 10)) +
     labs(title = 'Business Formation Fell Furthest in Western/Mountain States',
          subtitle = 'Per Capita Business Formation by State, 2005 vs 2015',
-         caption = 'Source: US Census Bureau Business Formation Statistics') +
-    theme(aspect.ratio = 0.77)
+         caption = 'Source: US Census Bureau Business Formation Statistics')
 

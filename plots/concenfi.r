@@ -52,10 +52,17 @@ df <- df %>%
                                   labels = concenfi.labels))
 
 # ---- plot.concenfi ----
-ggplot(df, aes(x = CONCENFI.id, fill = CONCENFI.id, y = CHANGE)) +
+ggplot(df, aes(x = CONCENFI.id, y = CHANGE)) +
     stat_function(fun = function(x) 0, color = gray, linetype='dashed') +
-    geom_violin(draw_quantiles = c(0.5), alpha = 0.7, size = 0.2) +
+    geom_violin(aes(fill = CONCENFI.id),
+                color = 'transparent',
+                alpha = 0.4) +
+    geom_violin(aes(color = CONCENFI.id),
+                fill = NA,
+                draw_quantiles = c(0.5),
+                size = 0.3) +
     scale_y_continuous(breaks = seq(-10, 10, 2), limits = c(-10, 10)) +
+    scale_color_manual(values = c(teal, red, green, purple)) +
     scale_fill_manual(values = c(teal, red, green, purple)) +
     theme(legend.position = 'none') +
     labs(title = 'Concentration Growth Driven by Top Four, When They Succeed',
