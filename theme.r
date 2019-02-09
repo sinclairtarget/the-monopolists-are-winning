@@ -10,6 +10,7 @@ red <- '#d34d43'
 purple <- '#a55197'
 gray <- '#919599'
 light_gray <- '#eff1f2'
+dark_gray <- 'gray20'
 annotation_color <- 'gray40'
 highlight_color <- '#e2a106'
 

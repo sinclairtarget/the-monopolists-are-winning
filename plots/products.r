@@ -25,12 +25,13 @@ df<- inner_join(df.subproducts, df.products, by='product')
 
 # ---- plot.products ----
 ggplot(df, aes(area = n,
+               color = product,
                fill = product,
                label = subproduct,
                subgroup = product)) +
-    geom_treemap(alpha = 0.5) +
-    geom_treemap_subgroup_border(aes(color = product), size = 1.5) +
-    geom_treemap_text(color = 'gray20', reflow = TRUE) +
+    geom_treemap(alpha = 0.4) +
+    geom_treemap_subgroup_border(size = 1.5) +
+    geom_treemap_text(color = dark_gray, reflow = TRUE, size = 12) +
     scale_color_manual(values = c(teal, red, green, purple, blue)) +
     scale_fill_manual(values = c(teal, red, green, purple, blue)) +
     guides(fill = guide_legend(title = 'Product Category'),
@@ -38,4 +39,4 @@ ggplot(df, aes(area = n,
     labs(title = 'Most Complaints Against Debt Collectors and Mortage Providers',
          subtitle = 'Top Five CFPB Complaint Product Categories and Subproducts',
          caption = 'Source: CFPB Complaints Database') +
-    theme(legend.position = 'bottom', legend.direction = 'vertical')
+    theme(legend.direction = 'vertical')

@@ -116,10 +116,10 @@ ggplot(df) +
              label.padding = unit(0.5, 'lines'),
              fill = light_gray) +
     annotate(geom = 'segment', x = scl(-14), xend = scl(-10), y = scl(10),
-             yend = scl(10), color = 'gray20', size = 0.4,
+             yend = scl(10), color = dark_gray, size = 0.4,
              linetype = 'dotted') +
     annotate(geom = 'segment', x = scl(-14), xend = scl(-14), y = scl(10),
-             yend = scl(-0.25), color = 'gray20', size = 0.4,
+             yend = scl(-0.25), color = dark_gray, size = 0.4,
              linetype = 'dotted') +
     scale_fill_continuous(low = red, high = 'white') +
     guides(fill = guide_colorbar(

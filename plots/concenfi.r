@@ -81,7 +81,7 @@ ggplot(df, aes(x = CONCENFI.id, y = CHANGE)) +
              label.r = unit(0, 'lines'),
              fill = light_gray) +
     annotate(geom = 'segment', x = 3.66, xend = 3.82, y = 2.5, yend = 2.5,
-             color = 'gray20', size = 0.4, linetype = 'dotted') +
+             color = dark_gray, size = 0.4, linetype = 'dotted') +
     annotate(geom = 'segment', x = 3.82, xend = 3.82, y = 2.5, yend = 0.46,
-             color = 'gray20', size = 0.4, linetype = 'dotted')
+             color = dark_gray, size = 0.4, linetype = 'dotted')
 
