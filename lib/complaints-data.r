@@ -12,7 +12,8 @@ read_complaints <- function(filename) {
                  company.response = 'Company public response',
                  company = Company,
                  state = State,
-                 tags = Tags) %>%
+                 tags = Tags,
+                 zip = 'ZIP code') %>%
           select(date.received,
                  product,
                  subproduct,
@@ -22,19 +23,20 @@ read_complaints <- function(filename) {
                  company.response,
                  company,
                  state,
-                 tags) %>%
+                 tags,
+                 zip) %>%
           mutate(state = as.factor(state),
                  product = as.factor(product),
                  subproduct = as.factor(subproduct),
                  date.received = as.Date(date.received, '%m/%d/%Y'),
                  year = as.integer(format(date.received, '%Y')))
 
-    # Let's get rid of anything that isn't one of the 50 states
+    # Let's get rid of anything that isn't one of the 50 states (and DC)
     states <- c('AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'HI',
                 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD', 'MA', 'MI',
                 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC',
                 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT',
-                'VT', 'VA', 'WA', 'WV', 'WI', 'WY')
+                'VT', 'VA', 'WA', 'WV', 'WI', 'WY', 'DC')
     df <- filter(df, state %in% states)
 
     # Let's also get rid of anything later than 2018

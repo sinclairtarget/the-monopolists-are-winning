@@ -1,5 +1,6 @@
 library('tidyverse')
 library('scales')
+library('geofacet')
 
 source('lib/complaints-data.r')
 source('theme.r')
@@ -35,14 +36,16 @@ df <- inner_join(df.complaints, df.business, by=c('state', 'year'),
 
 # ---- plot.complaints ----
 ggplot(df.complaints, aes(x = year, y = n.change)) +
+    geom_area(fill = teal, alpha = 0.4) +
     geom_line(color = teal) +
     scale_x_discrete(limits = c(2011, 2018)) +
-    facet_wrap(~ state) +
+    facet_geo(~ state) +
     labs(title = 'CFPB Complaints Have Risen Across the Country',
          subtitle = 'CFPB Complaints By State (2011-2018)',
          x = 'Year',
          y = 'Proportional Rise in Complaints Since 2011 Baseline',
          caption = 'Source: CFPB Complaints Database') +
     theme(legend.position = 'none',
-          axis.text.x = element_text(angle=60, hjust=1),
+          axis.text.x = element_text(hjust=c(0, 0.8), size=6),
+          axis.text.y = element_text(size=6),
           panel.spacing.x = unit(3, 'mm'))
