@@ -1,4 +1,7 @@
 source('lib/concentration-data.r')
+source('theme.r')
+
+theme_set(my_theme())
 
 # Shape each dataframe down to what we need for this plot
 shape <- function(df) {

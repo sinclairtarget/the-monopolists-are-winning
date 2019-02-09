@@ -2,6 +2,9 @@ library('tidyverse')
 library('scales')
 
 source('lib/complaints-data.r')
+source('theme.r')
+
+theme_set(my_theme())
 
 df.business <- read_csv('business-formation-data/BF4Q_ST.csv')
 df.business <- df.business %>%

@@ -1,5 +1,8 @@
 library('tidyverse')
 library('sf')
+source('theme.r')
+
+theme_set(my_theme(for_map = TRUE))
 
 states <- c('Alabama' ='AL',
             'Alaska' = 'AK',
@@ -93,6 +96,7 @@ df <- inner_join(df.geo, df, by='Code') %>%
 
 scl <- function(x) { x * 100000 }
 
+# ---- plot.map.entrepreneurship ----
 ggplot(df) +
     geom_sf(aes(fill = rate.diff)) +
     coord_sf(datum = NA) +                        # No grid lines/graticules
@@ -119,12 +123,11 @@ ggplot(df) +
              linetype = 'dotted') +
     scale_fill_continuous(low = red, high = gray) +
     guides(fill = guide_colorbar(
-             title = 'Change in Business Formation per 1000 Residents',
-             title.position = 'top',
-             barwidth = 10)) +
+                     title = 'Change in Business Formation per 1000 Residents',
+                     title.position = 'top',
+                     barwidth = 10)) +
     labs(title = 'Business Formation Fell Furthest in Western/Mountain States',
          subtitle = 'Per Capita Business Formation by State, 2005 vs 2015',
          caption = 'Source: US Census Bureau Business Formation Statistics') +
-    theme(axis.title = element_blank(),
-          aspect.ratio = 0.77)
+    theme(aspect.ratio = 0.77)
 

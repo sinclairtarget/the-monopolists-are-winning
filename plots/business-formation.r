@@ -1,5 +1,8 @@
 library('tidyverse')
 library('scales')
+source('theme.r')
+
+theme_set(my_theme())
 
 df <- read_csv('business-formation-data/BF4Q_ST.csv')
 df <- df %>%

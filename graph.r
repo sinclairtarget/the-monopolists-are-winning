@@ -1,7 +1,4 @@
 # Helper script to graph plots stored under /plots
-source('theme.r')
-theme_set(my_theme())
-
 args = commandArgs(trailingOnly = TRUE)
 
 for (filename in args) {

@@ -2,6 +2,9 @@ library('scales')
 library('stringr')
 
 source('lib/concentration-data.r')
+source('theme.r')
+
+theme_set(my_theme())
 
 # Cut dataframes down to what we need for this plot
 subset <- function(df) {

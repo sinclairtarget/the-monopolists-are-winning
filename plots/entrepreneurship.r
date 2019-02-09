@@ -1,6 +1,9 @@
 library('tidyverse')
 library('scales')
 library('ggalt')
+source('theme.r')
+
+theme_set(my_theme())
 
 states <- c('Alabama' ='AL',
             'Alaska' = 'AK',

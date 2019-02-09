@@ -2,6 +2,9 @@ library('tidyverse')
 library('treemapify')
 
 source('lib/complaints-data.r')
+source('theme.r')
+
+theme_set(my_theme())
 
 df <- read_complaints('consumer-complaints.csv') %>%
       filter(!is.na(product) & !is.na(subproduct))

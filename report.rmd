@@ -9,11 +9,9 @@ output:
 
 ```{r include=FALSE}
 library('knitr')
-source('theme.r')
 
 opts_chunk$set(fig.width = 9, fig.height = 9, fig.align = 'center',
                warning=FALSE)
-theme_set(my_theme())
 ```
 
 # Concentration Is Growing
@@ -119,6 +117,17 @@ read_chunk('plots/entrepreneurship.r')
 glimpse(df)
 ```
 ```{r plot.entrepreneurship}
+```
+
+The geographic pattern here is particularly easy to see on a map:
+```{r include=FALSE}
+source('plots/map-entrepreneurship.r')
+read_chunk('plots/map-entrepreneurship.r')
+```
+```{r}
+glimpse(df)
+```
+```{r plot.map.entrepreneurship}
 ```
 
 # Consumer Complaints Are Rising

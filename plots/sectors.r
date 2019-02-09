@@ -1,4 +1,7 @@
 source('lib/concentration-data.r')
+source('theme.r')
+
+theme_set(my_theme())
 
 df <- read_all_concentration_data('concentration-data/2012', '*Z6.csv')
 
