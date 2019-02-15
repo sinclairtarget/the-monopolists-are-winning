@@ -35,8 +35,8 @@ df.highlight <- df %>%
                 filter(NAICS.id == '5242')
 
 highlight_label <- paste('The "Agencies, Brokerages, and other Insurance"',
-                         '\nindustry became 34 percentage points\nmore',
-                         'concentrated.')
+                         '\nindustry became 34 percentage points more',
+                         '\nconcentrated between 2007 and 2012.')
 
 # ---- plot.concentration ----
 ggplot(df, aes(x = YEAR.2007, y = YEAR.2012)) +
@@ -63,5 +63,5 @@ ggplot(df, aes(x = YEAR.2007, y = YEAR.2012)) +
           legend.key.height = unit(20, 'pt')) +
     thematic_label(highlight_label, x = 2, y = 64) +
     thematic_segment(x = 8.4, xend = 8.4, y = 44.5, yend = 59.5) +
-    thematic_label('Became More Concentrated', x = 2, y = 94) +
-    thematic_label('Became Less Concentrated', x = 98, y = 6, hjust = 1)
+    thematic_label('Became More Concentrated', x = 12.5, y = 94, hjust = 0.5) +
+    thematic_label('Became Less Concentrated', x = 87.5, y = 6, hjust = 0.5)
