@@ -1,10 +1,10 @@
 ---
-title: Market Concentration in The United States
+title: The Monopolists Are Winning
 output:
     html_document:
         toc: true
         toc_float: true
-        code_folding: show
+        code_folding: hide
 ---
 
 ```{r include=FALSE}
@@ -14,7 +14,7 @@ opts_chunk$set(fig.width = 9, fig.height = 9, fig.align = 'center',
                warning=FALSE)
 ```
 
-# Concentration Is Growing
+# Concentration Is Growing in The United States
 In recent years, the United States has seen a wave of big mergers and
 acquisitions. Few of these deals have been challenged by the Federal Trade
 Commision. As a result, many sectors of the economy have grown more
@@ -23,9 +23,6 @@ concentrated---the top firms in each sector have increased their market share.
 ```{r include=FALSE}
 source('plots/concentration-growth.r')
 read_chunk('plots/concentration-growth.r')
-```
-```{r}
-glimpse(df)
 ```
 ```{r plot.concentration}
 ```
@@ -57,9 +54,6 @@ able to consolidate their position.
 source('plots/concenfi.r')
 read_chunk('plots/concenfi.r')
 ```
-```{r}
-glimpse(df)
-```
 ```{r plot.concenfi}
 ```
 
@@ -74,9 +68,6 @@ highly concentrated.
 ```{r include=FALSE}
 source('plots/sectors.r')
 read_chunk('plots/sectors.r')
-```
-```{r}
-glimpse(df)
 ```
 ```{r plot.sectors}
 ```
@@ -96,9 +87,6 @@ hotbeds for startup technology ventures.
 source('plots/business-formation.r')
 read_chunk('plots/business-formation.r')
 ```
-```{r}
-glimpse(df)
-```
 ```{r plot.formation}
 ```
 
@@ -113,9 +101,6 @@ over the decade between 2005 and 2015.
 source('plots/entrepreneurship.r')
 read_chunk('plots/entrepreneurship.r')
 ```
-```{r}
-glimpse(df)
-```
 ```{r plot.entrepreneurship}
 ```
 
@@ -123,9 +108,6 @@ The geographic pattern here is particularly easy to see on a map:
 ```{r include=FALSE}
 source('plots/map-entrepreneurship.r')
 read_chunk('plots/map-entrepreneurship.r')
-```
-```{r}
-glimpse(df)
 ```
 ```{r plot.map.entrepreneurship}
 ```
@@ -149,9 +131,6 @@ created in 2011.
 source('plots/sa-complaints.r')
 read_chunk('plots/sa-complaints.r')
 ```
-```{r}
-glimpse(df)
-```
 ```{r plot.complaints}
 ```
 
@@ -163,9 +142,6 @@ complaints are credit score companies and student loan companies.
 ```{r include=FALSE}
 source('plots/products.r')
 read_chunk('plots/products.r')
-```
-```{r}
-glimpse(df)
 ```
 ```{r plot.products}
 ```
