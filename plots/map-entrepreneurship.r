@@ -121,7 +121,7 @@ ggplot(df) +
     annotate(geom = 'segment', x = scl(-14), xend = scl(-14), y = scl(10),
              yend = scl(-0.25), color = dark_gray, size = 0.4,
              linetype = 'dotted') +
-    scale_fill_continuous(low = red, high = 'white') +
+    scale_fill_continuous(low = red, high = '#f9d5cc') +
     guides(fill = guide_colorbar(
                      title = 'Change in Business Formation per 1000 Residents',
                      title.position = 'top',
