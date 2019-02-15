@@ -111,7 +111,11 @@ label_padding <- unit(1.8, 'pt')
 # ---- plot.entrepreneurship ----
 ggplot(df, aes(x = rate.2005, xend = rate.2015, y = state)) +
     geom_dumbbell(aes(color = ifelse(is.na(highlight), NA, 'yes')),
-                  size_x = 1, size_xend = 1.5, alpha = 0.8) +
+                  size_x = 1, size_xend = 0, alpha = 0.8) +
+    geom_point(aes(x = rate.2015 + 0.008,
+                   color = ifelse(is.na(highlight), NA, 'yes')),
+               shape = 60,
+               size = 4) +
     geom_label(data = df.labels, aes(label = rate_label(rate.diff)),
                hjust = 'left',
                size = 3,
