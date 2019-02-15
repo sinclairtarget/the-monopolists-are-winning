@@ -36,12 +36,13 @@ my_theme <- function(for_map = FALSE) {
     t
 }
 
-thematic_label <- function(text, x, y, hjust = 0, size = 3) {
+thematic_label <- function(text, x, y, hjust = 0, vjust = 0.5, size = 3) {
     annotate(geom = 'label',
              label = text,
              x = x,
              y = y,
              hjust = hjust,
+             vjust = vjust,
              size = size,
              color = annotation_color,
              label.size = NA,

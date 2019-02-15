@@ -34,9 +34,18 @@ ggplot(df, aes(area = n,
     geom_treemap_text(color = dark_gray, reflow = TRUE, size = 12) +
     scale_color_manual(values = c(teal, red, green, purple, blue)) +
     scale_fill_manual(values = c(teal, red, green, purple, blue)) +
-    guides(fill = guide_legend(title = 'Product Category'),
-           color = 'none') +
     labs(title = 'Most Complaints Against Debt Collectors and Mortage Providers',
          subtitle = 'Top Five CFPB Complaint Product Categories and Subproducts',
          caption = 'Source: CFPB Complaints Database') +
-    theme(legend.direction = 'vertical')
+    theme(legend.position = 'none',
+          panel.grid = element_blank(),
+          axis.title = element_blank(),
+          axis.text = element_blank()) +
+    # https://github.com/wilkox/treemapify/issues/33#issuecomment-463726364
+    thematic_label('Debt Collection', x = 0.27, y = 0.597, hjust = 0.5, vjust = 1) +
+    thematic_label('Mortage', x = 0.27, y = 0, hjust = 0.5, vjust = 1) +
+    thematic_label('Credit Reporting or Repair Service', x = 0.85, y = 0, hjust = 0.5, vjust = 1) +
+    thematic_label('Bank Account or Service', x = 0.85, y = 0.635, hjust = 0.5, vjust = 1) +
+    thematic_label('Student Loan', x = 0.85, y = 0.926, hjust = 0.5, vjust = 1) +
+    scale_x_continuous(limits = c(0, 1)) +
+    scale_y_continuous(limits = c(0, 1))
