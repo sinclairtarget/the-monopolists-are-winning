@@ -17,14 +17,15 @@ highlight_color <- '#e2a106'
 my_theme <- function(for_map = FALSE) {
    t <- theme_minimal() +
         theme(text = element_text(family = 'Ubuntu Light'),
-              axis.title = element_text(family = 'FreeSans', size = 9),
+              axis.title = element_text(family = 'FreeSans', size = 11),
               axis.text = element_text(family = 'FreeSans'),
               plot.caption = element_text(size = 8, color = annotation_color),
               panel.grid = element_line(color = annotation_color, size = 0.1),
               legend.position = 'bottom',
               legend.box.spacing = unit(0, 'pt'),
               legend.title.align = 0,
-              legend.justification = 'left')
+              legend.justification = 'left',
+              legend.text = element_text(family = 'FreeSans', size = 11))
 
     if (for_map) {
         # Map-specific theme tweaks
@@ -33,4 +34,24 @@ my_theme <- function(for_map = FALSE) {
     }
 
     t
+}
+
+thematic_label <- function(text, x, y, hjust = 0, size = 3) {
+    annotate(geom = 'label',
+             label = text,
+             x = x,
+             y = y,
+             hjust = hjust,
+             size = size,
+             color = annotation_color,
+             label.size = NA,
+             label.r = unit(0, 'lines'),
+             label.padding = unit(0.3, 'lines'),
+             fill = light_gray)
+
+}
+
+thematic_segment <- function(x, xend, y, yend) {
+    annotate(geom = 'segment', x = x, xend = xend, y = y, yend = yend,
+             color = dark_gray, size = 0.4, linetype = 'dotted')
 }

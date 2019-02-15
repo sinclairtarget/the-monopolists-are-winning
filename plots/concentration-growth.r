@@ -31,13 +31,12 @@ add_percent_sym <- function(lab) {
     paste0(lab, '%')
 }
 
-color_guide <- guide_legend(title = 'NAICS Sector',
-                            ncol = 3,
-                            title.position = 'top')
+df.highlight <- df %>%
+                filter(NAICS.id == '5242')
 
-red <- '#bc2f2f'
-yellow <- '#c1ab00'
-orange <- '#dd7200'
+highlight_label <- paste('The "Agencies, Brokerages, and other Insurance"',
+                         '\nindustry became 34 percentage points\nmore',
+                         'concentrated.')
 
 # ---- plot.concentration ----
 ggplot(df, aes(x = YEAR.2007, y = YEAR.2012)) +
@@ -46,32 +45,23 @@ ggplot(df, aes(x = YEAR.2007, y = YEAR.2012)) +
                                             alpha = 0.5,
                                             color = teal,
                                             fill = teal) +
+    geom_point(data = df.highlight,
+               size = 7,
+               shape = 1,
+               color = annotation_color) +
     scale_x_continuous(labels = add_percent_sym, limits = c(0, 100)) +
     scale_y_continuous(labels = add_percent_sym, limits = c(0, 100)) +
     scale_size_continuous(labels = comma) +
     labs(title = 'Many Industries Have Become More Concentrated',
-         subtitle = 'Change in Concentration Among NAICS Industries',
+         subtitle = 'Change in Concentration Among NAICS Industries (2007-2012)',
          x = 'Industry Revenue Captured by Top Four Firms (2007)',
          y = 'Industry Revenue Captured by Top Four Firms (2012)',
          caption = 'Source: US Census Bureau Economic Census') +
     guides(size = guide_legend(title = 'Industry Revenue ($bn)',
                                title.position = 'top')) +
-    theme(legend.text = element_text(size = 7, lineheight = 1.1),
-          legend.box = 'vertical',
+    theme(legend.box = 'vertical',
           legend.key.height = unit(20, 'pt')) +
-    geom_label(aes(label = 'More Concentrated'),
-               x = 13,
-               y = 94,
-               size = 3,
-               color = annotation_color,
-               label.size = NA,
-               label.r = unit(0, 'lines'),
-               fill = light_gray) +
-    geom_label(aes(label = 'Less Concentrated'),
-               x = 88,
-               y = 6,
-               size = 3,
-               color = annotation_color,
-               label.size = NA,
-               label.r = unit(0, 'lines'),
-               fill = light_gray)
+    thematic_label(highlight_label, x = 2, y = 64) +
+    thematic_segment(x = 8.4, xend = 8.4, y = 44.5, yend = 59.5) +
+    thematic_label('Became More Concentrated', x = 2, y = 94) +
+    thematic_label('Became Less Concentrated', x = 98, y = 6, hjust = 1)
