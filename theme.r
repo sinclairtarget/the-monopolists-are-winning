@@ -18,8 +18,8 @@ my_theme <- function(for_map = FALSE) {
    t <- theme_minimal() +
         theme(text = element_text(family = 'Ubuntu Light'),
               axis.title = element_text(family = 'FreeSans', size = 11),
-              axis.text = element_text(family = 'FreeSans'),
-              plot.caption = element_text(size = 8, color = annotation_color),
+              axis.text = element_text(family = 'FreeSans', size = 10),
+              plot.caption = element_text(size = 9, color = annotation_color),
               panel.grid = element_line(color = annotation_color, size = 0.1),
               legend.position = 'bottom',
               legend.box.spacing = unit(0, 'pt'),
@@ -36,7 +36,7 @@ my_theme <- function(for_map = FALSE) {
     t
 }
 
-thematic_label <- function(text, x, y, hjust = 0, vjust = 0.5, size = 3) {
+thematic_label <- function(text, x, y, hjust = 0, vjust = 0.5, size = 3.25) {
     annotate(geom = 'label',
              label = text,
              x = x,

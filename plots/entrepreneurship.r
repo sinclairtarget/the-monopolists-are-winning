@@ -132,24 +132,8 @@ ggplot(df, aes(x = rate.2005, xend = rate.2015, y = state)) +
          subtitle = 'Per Capita Business Formation by State, 2005 vs 2015',
          caption = 'Source: US Census Bureau Business Formation Statistics',
          x = 'Businesses Formed Per 1000 Residents') +
-    geom_label(aes(x = 1.1,
-                   y = 50,
-                   label = '2015'),
-                   label.size = NA,
-                   label.r = unit(0, 'lines'),
-                   label.padding = label_padding,
-                   size = 3,
-                   color = annotation_color,
-                   fill = light_gray) +
-    geom_label(aes(x = 3.02,
-                   y = 50,
-                   label = '2005'),
-                   label.size = NA,
-                   label.r = unit(0, 'lines'),
-                   label.padding = label_padding,
-                   size = 3,
-                   color = annotation_color,
-                   fill = light_gray) +
+    thematic_label('2015', x = 1.1, y = 50, hjust = 0.5) +
+    thematic_label('2005', x = 3.02, y = 50, hjust = 0.5) +
     theme(axis.title.y = element_blank(),
           panel.grid.minor = element_blank(),
           panel.grid.major.y = element_blank(),

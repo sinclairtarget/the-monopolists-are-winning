@@ -96,31 +96,19 @@ df <- inner_join(df.geo, df, by='Code') %>%
 
 scl <- function(x) { x * 100000 }
 
+highlight_label <- paste('In 2015, there were 1.6 fewer',
+                         'businesses formed\nin Idaho (per 1000 residents)',
+                         'than in 2005.',
+                         separator = '')
+
 # ---- plot.map.entrepreneurship ----
 ggplot(df) +
     geom_sf(aes(fill = rate.diff)) +
     coord_sf(datum = NA) +                        # No grid lines/graticules
     geom_sf_text(aes(label = Code), alpha = 0.7) +
-    annotate(geom = 'label',
-             x = scl(-10),
-             y = scl(10),
-             hjust = 0,
-             label = paste('In 2015, there were 1.6 fewer',
-                           'businesses formed\nin Idaho (per 1000 residents)',
-                           'than in 2005.',
-                           separator = ''),
-             color = annotation_color,
-             size = 3,
-             label.size = NA,
-             label.r = unit(0, 'lines'),
-             label.padding = unit(0.5, 'lines'),
-             fill = light_gray) +
-    annotate(geom = 'segment', x = scl(-14), xend = scl(-10), y = scl(10),
-             yend = scl(10), color = dark_gray, size = 0.4,
-             linetype = 'dotted') +
-    annotate(geom = 'segment', x = scl(-14), xend = scl(-14), y = scl(10),
-             yend = scl(-0.25), color = dark_gray, size = 0.4,
-             linetype = 'dotted') +
+    thematic_label(highlight_label, x = scl(-10), y = scl(10)) +
+    thematic_segment(x = scl(-14), xend = scl(-10), y = scl(10), yend = scl(10)) +
+    thematic_segment(x = scl(-14), xend = scl(-14), y = scl(10), yend = scl(-0.25)) +
     scale_fill_continuous(low = red, high = '#f9d5cc') +
     guides(fill = guide_colorbar(
                      title = 'Change in Business Formation per 1000 Residents',
