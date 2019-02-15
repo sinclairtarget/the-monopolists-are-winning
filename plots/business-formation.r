@@ -27,6 +27,11 @@ df <- df %>%
 to_label <- df %>%
             filter(!is.na(highlight) & year == 2015)
 
+note_label <- paste('The Bay Area, Seattle, New York, and Austin are often\n',
+                    'thought to be the biggest American tech hubs. But new\n',
+                    'business formation is down even in California,\n',
+                    'Washington, New York, and Texas.', sep = '')
+
 # ---- plot.formation ----
 ggplot(df, aes(x = year, y = n, color = highlight)) +
     geom_line(data=filter(df, is.na(highlight)), aes(group = state),
@@ -41,7 +46,10 @@ ggplot(df, aes(x = year, y = n, color = highlight)) +
                        labels = comma) +
     guides(color = FALSE) +
     labs(title = 'Americans Are Starting Fewer Businesses Than a Decade Ago',
-         subtitle = 'Business Formations by Year',
+         subtitle = 'New Business Formations by Year',
          captions = 'Source: US Census Bureau Business Formation Statistics',
          x = 'Year',
-         y = 'Number of Businesses')
+         y = 'Number of Businesses') +
+    thematic_label(note_label, x = 6.25, y = 60000)
+
+
