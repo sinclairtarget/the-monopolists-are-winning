@@ -51,6 +51,10 @@ df <- df %>%
       mutate(CONCENFI.id = factor(gsub('CHANGE.', '', CONCENFI.id),
                                   labels = concenfi.labels))
 
+highlight_label <- paste('The median top-four firm was not especially successful,\n',
+                         'but there is a long tail of top-four firms that have\n',
+                         'been very successful indeed.', sep = '')
+
 # ---- plot.concenfi ----
 ggplot(df, aes(x = CONCENFI.id, y = CHANGE)) +
     stat_function(fun = function(x) 0, color = gray, linetype='dashed') +
@@ -67,21 +71,12 @@ ggplot(df, aes(x = CONCENFI.id, y = CHANGE)) +
     theme(legend.position = 'none') +
     labs(title = 'Concentration Growth Driven by Top Four, When They Succeed',
          subtitle =
-             'Change in Concentration by Firm Class, All NAICS Industries (2007-2012)',
+             'Distribution of Change in Concentration by Firm Class, All NAICS Industries (2007-2012)',
          x = 'Firm Class (by Total Revenue)',
          y = 'Percentage Point Change in Revenue Captured (2007-2012)',
          caption = 'Source: US Census Bureau Economic Census') +
-    annotate(geom = 'label',
-             label = 'Median',
-             x = 3.5,
-             y = 2.5,
-             color = annotation_color,
-             size = 3,
-             label.size = NA,
-             label.r = unit(0, 'lines'),
-             fill = light_gray) +
-    annotate(geom = 'segment', x = 3.66, xend = 3.82, y = 2.5, yend = 2.5,
-             color = dark_gray, size = 0.4, linetype = 'dotted') +
-    annotate(geom = 'segment', x = 3.82, xend = 3.82, y = 2.5, yend = 0.46,
-             color = dark_gray, size = 0.4, linetype = 'dotted')
-
+    thematic_label('Median', x = 3.48, y = 2.5) +
+    thematic_segment(x = 3.74, xend = 3.82, y = 2.5, yend = 2.5) +
+    thematic_segment(x = 3.82, xend = 3.82, y = 2.5, yend = 0.45) +
+    thematic_label(highlight_label, x = 1.25, y = 9) +
+    thematic_segment(x = 1, xend = 1.25, y = 7, yend = 9)
