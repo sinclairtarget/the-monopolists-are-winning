@@ -51,9 +51,9 @@ df <- df %>%
       mutate(CONCENFI.id = factor(gsub('CHANGE.', '', CONCENFI.id),
                                   labels = concenfi.labels))
 
-highlight_label <- paste('The median top-four firm was not especially successful,\n',
-                         'but there is a long tail of top-four firms that have\n',
-                         'been very successful indeed.', sep = '')
+highlight_label <- paste('In the median industry, the top four firms did not grow their\n',
+                         'revenue share by much. But there is a long tail of industries\n',
+                         'where the top four grew their share significantly.', sep = '')
 
 # ---- plot.concenfi ----
 ggplot(df, aes(x = CONCENFI.id, y = CHANGE)) +
@@ -71,8 +71,8 @@ ggplot(df, aes(x = CONCENFI.id, y = CHANGE)) +
     theme(legend.position = 'none') +
     labs(title = 'Concentration Growth Driven by Top Four, When They Succeed',
          subtitle =
-             'Distribution of Change in Concentration by Firm Class, All NAICS Industries (2007-2012)',
-         x = 'Firm Class (by Total Revenue)',
+             'Distribution of Change in Industry Concentration by Firm Class, All NAICS Industries (2007-2012)',
+         x = 'Firm Class (Determined by Total Firm Revenue)',
          y = 'Percentage Point Change in Revenue Captured (2007-2012)',
          caption = 'Source: US Census Bureau Economic Census') +
     thematic_label('Median', x = 3.48, y = 2.5) +
